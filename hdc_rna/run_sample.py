@@ -143,7 +143,7 @@ def main():
     
     # Load a small sample of data
     print("Loading sample data...")
-    data_loader = RNADataLoader('../stanford-rna-3d-folding')
+    data_loader = RNADataLoader('./stanford-rna-3d-folding')
     sequences_df, coordinates_df = data_loader.get_sample_data(max_sequences=2)
     
     # Initialize model with smaller dimensions for faster demo
