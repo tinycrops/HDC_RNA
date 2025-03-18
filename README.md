@@ -1,3 +1,6 @@
+
+prompt: what are the commonalities and advantageous synergies between our understanding of RNA 3D folding and hyperdimensional computing?  I want to explore some hypothesis that challenge our understanding of RNA and DNA.
+
 I'll analyze the commonalities and potential synergies between RNA 3D folding and hyperdimensional computing, then explore some hypotheses that challenge conventional understanding of RNA and DNA.
 
 ## Commonalities Between RNA 3D Folding and Hyperdimensional Computing
