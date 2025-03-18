@@ -1,0 +1,118 @@
+>query
+CUGCUCUACCUUCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGGCAG
+>URS0000D35BED/137-192 [subseq from] sRNA from 1 species
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGG----
+>URS0000CF3BE6/1106-1161 [subseq from] sRNA from 1 species
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGUAGAAGGAGG----
+>JN559380.1/43-100 [subseq from] Capra hircus vascular endothelial growth factor A (VEGFA) mRNA, complete cds, alternatively spliced
+CUGCUCUACCUUCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGGC--
+>JX524271.1/32-90 [subseq from] Bubalus bubalis vascular endothelial growth factor 120 (VEGF120) mRNA, partial cds
+-UGCUCUACCUUCACCAUUCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGGCAG
+>XM_004267537.3/1111-1169 [subseq from] PREDICTED: Orcinus orca vascular endothelial growth factor A (LOC101279969), transcript variant X5, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGAGC--a
+>AY047581.1/59-115 [subseq from] Homo sapiens vascular endothelial growth factor (VEGF) mRNA, complete cds
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGG---
+>JF923782.1/320-267 [subseq from] Antilope cervicapra VEGF165 isoform-like mRNA, partial sequence
+CUGCUCUACCUUCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGA------
+>XM_012565115.1/1162-1220 [subseq from] PREDICTED: Odobenus rosmarus divergens vascular endothelial growth factor A (VEGFA), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCUCAGGCUGCACCCAUGGCAGAAGGAGAGC--a
+>XM_024121779.2/1089-1147 [subseq from] PREDICTED: Physeter catodon vascular endothelial growth factor A (VEGFA), transcript variant X6, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGA----aca
+>XM_022582006.2/1099-1157 [subseq from] PREDICTED: Delphinapterus leucas vascular endothelial growth factor A (VEGFA), transcript variant X1, mRNA
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGAGC--a
+>XM_005318626.3/1223-1281 [subseq from] PREDICTED: Ictidomys tridecemlineatus vascular endothelial growth factor A (Vegfa), transcript variant X1, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCGAUGGCAGAAGGAGAGC--a
+>KJ729036.1/1-57 [subseq from] Sus scrofa domesticus VEGF (VEGF) mRNA, partial cds
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAG-----ac
+>XM_016212746.1/53-111 [subseq from] PREDICTED: Miniopterus natalensis vascular endothelial growth factor A (VEGFA), transcript variant X4, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCCAUGGCAGAAGGAGAGC--a
+>JF923784.1/38-95 [subseq from] Paradoxurus hermaphroditus VEGF165 isoform-like mRNA, partial sequence
+-UGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAUGGAGAGC--a
+>XM_006100591.3/202-260 [subseq from] PREDICTED: Myotis lucifugus vascular endothelial growth factor A (VEGFA), transcript variant X1, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCUAUGGCAGAAGGAGAGC--a
+>GQ507799.1/514-569 [subseq from] Papio anubis vascular endothelial growth factor mRNA, partial cds
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGG----
+>AF186236.1/43-101 [subseq from] Spalax ehrenbergi vascular endothelial growth factor (vegf) mRNA, complete cds
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACGGCAGAAGGAGAGC--a
+>XM_020157197.1/1099-1156 [subseq from] PREDICTED: Castor canadensis vascular endothelial growth factor A (Vegfa), transcript variant X3, mRNA
+-UGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCUAUGGCAGAAGGAGAGC--a
+>XM_014782668.1/1110-1168 [subseq from] PREDICTED: Ceratotherium simum simum vascular endothelial growth factor A (LOC101397997), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGGAGGAGAGC--a
+>AY196796.1/5-60 [subseq from] Oryctolagus cuniculus vascular endothelial growth factor (VEGF) mRNA, partial cds
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGAAGG----
+>XM_025990984.1/871-929 [subseq from] PREDICTED: Vulpes vulpes vascular endothelial growth factor A (VEGFA), partial mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCUAUGGCAGGAGGAGAGC--a
+>XM_016128740.2/1108-1166 [subseq from] PREDICTED: Rousettus aegyptiacus vascular endothelial growth factor A (VEGFA), transcript variant X4, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCCAUGGCAGAAGGAGA----aca
+>JF923788.1/12-67 [subseq from] Canis lupus familiaris VEGF165 isoform-like mRNA, partial sequence
+CUGCUCCACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGG----
+>XM_012728691.1/844-899 [subseq from] PREDICTED: Condylura cristata vascular endothelial growth factor A (VEGFA), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCUAUGACAGAAGGAGG----
+>XM_006926503.3/1106-1164 [subseq from] PREDICTED: Pteropus alecto vascular endothelial growth factor A (VEGFA), transcript variant X3, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCUCAGGCUGCGCCCAUGGCAGAAGGAGA----aca
+>AF339737.1/23-78 [subseq from] Macaca mulatta vascular endothelial growth factor mRNA, partial cds
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACACAUGGCAGAAGGAGG----
+>XM_013516949.1/1013-1071 [subseq from] PREDICTED: Chinchilla lanigera vascular endothelial growth factor A (Vegfa), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCAGCGCCCAUGGCAGAAGGAGAGC--a
+>XM_032463522.1/1306-1365 [subseq from] PREDICTED: Camelus ferus vascular endothelial growth factor A (VEGFA), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGACAGCAGGAGAGCAG
+>XM_036248350.1/1067-1125 [subseq from] PREDICTED: Molossus molossus vascular endothelial growth factor A (VEGFA), transcript variant X3, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCCACGGCAGAAGGAGAGC--a
+>JF923786.1/26-80 [subseq from] Geochelone elegans VEGF165 isoform-like mRNA, partial sequence
+u--GCUGCACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGG----
+>XM_037519794.1/1096-1152 [subseq from] PREDICTED: Talpa occidentalis vascular endothelial growth factor A (VEGFA), transcript variant X2, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCUAUGACAGAAGAAGG----a
+>XM_008153240.2/1090-1148 [subseq from] PREDICTED: Eptesicus fuscus vascular endothelial growth factor A (VEGFA), transcript variant X1, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCUACGGCAGAAGGAGAGC--a
+>XM_024557727.2/1114-1172 [subseq from] PREDICTED: Desmodus rotundus vascular endothelial growth factor A (VEGFA), transcript variant X2, mRNA
+CUGCUCUACCUCCAUCAUGCCAAGUGGUCCCAGGCUGCGCCCACGGCAGAAGGAGAGC--a
+>XM_013072755.2/766-824 [subseq from] PREDICTED: Heterocephalus glaber vascular endothelial growth factor A (Vegfa), partial mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCGGCACCCAUGGUGGAAGGAGAGC--a
+>AF133249.1/43-101 [subseq from] Canis familiaris vascular endothelial growth factor 182 (VEGF) mRNA, complete cds
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCUAUGGCAGGAGGAGAGC--a
+>JF923794.1/22-80 [subseq from] Capra hircus VEGF165 isoform-like mRNA, partial sequence
+u--GCACAACCCCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGGCAG
+>XM_037844682.1/844-900 [subseq from] PREDICTED: Choloepus didactylus vascular endothelial growth factor A (VEGFA), partial mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACCGCAGAAGGAGG----a
+>AY263146.1/43-101 [subseq from] Mus musculus FVB/N vascular endothelial growth factor A splice variant VEGF 102 (Vegfa) mRNA, complete cds; alternatively spliced
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACGACAGAAGGAGAGC--a
+>XM_012640911.1/1074-1130 [subseq from] PREDICTED: Propithecus coquereli vascular endothelial growth factor A (VEGFA), mRNA
+CUGCUCUACUUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACGACAGAAGGAGA----g
+>XM_008566821.1/842-900 [subseq from] PREDICTED: Galeopterus variegatus vascular endothelial growth factor A (VEGFA), partial mRNA
+-UGCUCUCCCUCCACCACGCUAAGUGGUCCCAGGCUGCGCCCAUGGCAGAAGGAGGGCAG
+>XM_023719552.1/135-193 [subseq from] PREDICTED: Octodon degus vascular endothelial growth factor A (Vegfa), transcript variant X1, mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCAGCGCCCAUGGCGGAAGGAGAGC--a
+>XM_053601544.1/618-675 [subseq from] PREDICTED: Nycticebus coucang vascular endothelial growth factor A (LOC128593501), transcript variant X2, mRNA
+CUGCUCUACCUCCAUCAUGCCAAGUGGUCCCAGGCUGCGCCCAUGACAGAAGGCGAG---c
+>XM_012773277.1/850-908 [subseq from] PREDICTED: Microcebus murinus vascular endothelial growth factor A (VEGFA), partial mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCCACGACAGAAGGAGAGC--a
+>AF461807.1/2-52 [subseq from] Sus scrofa vascular endothelial growth factor mRNA, partial cds
+------UACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAG-----ac
+>JF923785.1/35-83 [subseq from] Gallus gallus VEGF165 isoform-like mRNA, partial sequence
+c--------CCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGG----
+>AY033506.1/54-112 [subseq from] Rattus norvegicus clone 5 vascular endothelial growth factor (VEGF) mRNA, complete cds, alternatively spliced
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACGACAGAAGGGGAGC--a
+>XR_004112254.1/767-825 [subseq from] PREDICTED: Mastomys coucha vascular endothelial growth factor A-like (LOC116074719), misc_RNA
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACGACAGAGGGAGAGC--a
+>XM_034521164.1/1059-1117 [subseq from] PREDICTED: Arvicanthis niloticus vascular endothelial growth factor A (Vegfa), transcript variant X2, mRNA
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACAACAGAAGGAGAGC--a
+>XM_004473109.3/859-915 [subseq from] PREDICTED: Dasypus novemcinctus vascular endothelial growth factor A (VEGFA), partial mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCCACCGCAGAAGGAGG----a
+>XM_021150146.2/1067-1124 [subseq from] PREDICTED: Mus caroli vascular endothelial growth factor A (Vegfa), transcript variant X3, mRNA
+-UGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACGACAGAAGGCGAGC--a
+>XM_021217604.2/1070-1127 [subseq from] PREDICTED: Mus pahari vascular endothelial growth factor A (Vegfa), transcript variant X1, mRNA
+CUGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACAACAGAAGGAGAG---c
+>XM_028766745.1/1058-1115 [subseq from] PREDICTED: Grammomys surdaster vascular endothelial growth factor A (Vegfa), transcript variant X2, mRNA
+-UGCUGUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACCACAGAAGGAGAGC--a
+>XM_035455362.1/497-555 [subseq from] PREDICTED: Cricetulus griseus vascular endothelial growth factor A (Vegfa), transcript variant X1, mRNA
+CUGCUGUACCUCCACCACGCCAAGUGGUCCCAGGCUGCACCUACGACAGAAGGAGAGC--a
+>XM_042780332.1/667-721 [subseq from] PREDICTED: Orycteropus afer afer vascular endothelial growth factor A (VEGFA), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACCGCAGGAGGAG-----
+>JF923790.1/2-48 [subseq from] Crotalus horridus VEGF165 isoform-like mRNA, partial sequence
+c----------UCCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGG----
+>XM_006881948.1/43-99 [subseq from] PREDICTED: Elephantulus edwardii vascular endothelial growth factor A (VEGFA), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCACCCACCACAGGAGGAGG----a
+>XM_006860503.1/1030-1086 [subseq from] PREDICTED: Chrysochloris asiatica vascular endothelial growth factor A (VEGFA), transcript variant X1, mRNA
+CUGCUCUACCUCCACCACGCCAAGUGGUCACAGGCUGCACCCACCGCAGAAGGAGG----a
+>XM_023734117.1/1381-1437 [subseq from] PREDICTED: Trichechus manatus latirostris vascular endothelial growth factor A (LOC101341920), mRNA
+CUGCUCUACCUCCACCAUGCCAAGUGGUCCCAGGCUGCGCCCACCGCAGGAGGAGG----a

@@ -1,0 +1,264 @@
+>query
+GGCCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUGUAAAUCAGCAGUUCCCCUGCAUAAGGCU
+>URS00008FED30_32630/1-92/1-91 [subseq from] synthetic construct U4 spliceosomal RNA
+GGCCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUGUAAAUCAGCAGUUCCCCUGCAUAAGGC-
+>CU928179.1/321336-321526/3-75 [subseq from] Zygosaccharomyces rouxii strain CBS732 chromosome G complete sequence.
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAAUU----------------------uacau
+>LT598447.1/1821724-1821569/3-76 [subseq from] Lachancea nothofagi CBS 11611 genome assembly, chromosome: H
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUAUUGCUGGUUGAAAUUAA--------------------uauu
+>HG316466.1/221123-220953/3-83 [subseq from] Zygosaccharomyces bailii CLIB 213 genomic, scaffold13
+--CCUUAUGCAUGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAAUUUACAUUUAACCU----------g
+>HE650831.1/224738-224905/3-69 [subseq from] Kazachstania africana CBS 2517 chromosome 11, complete genome
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAA------------------------u
+>LT598465.1/506216-506065/3-71 [subseq from] Lachancea mirantina genome assembly, chromosome: E
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUAUUGCUGGUUGAAAU-----------------------ua
+>LT598486.1/964813-964659/3-69 [subseq from] Lachancea fermentati genome assembly, chromosome: G
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUAUUGCUGGUUGAAA------------------------u
+>HE978318.1/708227-708404/3-69 [subseq from] Kazachstania naganishii CBS 8797 chromosome 5, complete genome
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUCCGUCCGAGAUUGUGUUUUUGCUGGUUGAAA------------------------u
+>CP002500.1/965420-965573/3-70 [subseq from] Eremothecium cymbalariae DBVPG#7215 chromosome 4, complete sequence.
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUCCGUCCGAGAUUGUGUUAUUGCUGGUUGAAA------------------------ac
+>FXLY01000002.1/151775-151936/3-69 [subseq from] Kazachstania saulgeensis genome assembly, contig: scaffold_01
+--CCUUAUGCAAGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAA------------------------u
+>URS00008FED2F_4932/1-67/3-64 [subseq from] U4 snRNA, 5' region, nucleotides 1-67 from Saccharomyces cerevisiae (PDB 5GAP, chain V)
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGU-----------------------------u
+>HE612867.1/149493-149323/3-77 [subseq from] Tetrapisispora phaffii CBS 4417 chromosome 12, complete genome
+--CCUUAUGCAUGGGAAAUACGCAAAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAAUU----------------------uacuuuu
+>AE016817.6/721964-721809/4-66 [subseq from] Ashbya gossypii ATCC 10895 chromosome IV, complete sequence.
+---CUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUAUUGCUGGU-----------------------------aaa
+>KV454209.1/377730-377873/3-70 [subseq from] Wickerhamomyces anomalus NRRL Y-366-8 unplaced genomic scaffold WICANscaffold_2, whole genome shotgun sequence.
+--CCUUAUGCAAGGGAAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAA------------------------ac
+>HE580267.1/1902129-1901963/3-69 [subseq from] Naumovozyma dairenensis CBS 421 chromosome 1, complete genome
+--CCUUAUGCAAGGGAAAUACACAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAA------------------------u
+>MPUK01000006.1/124615-124749/3-75 [subseq from] Cyberlindnera fabianii strain 65 BON22_Sc06, whole genome shotgun sequence.
+--CCUUAUGCUCGGGAAUUACGCAUAUCAGUGAGGACUCGUCCGAGAUUGUGUAUUUGCUGGUUGAAAAC----------------------uucaa
+>AAZN01000370.1/73687-73536/3-69 [subseq from] Vanderwaltozyma polyspora DSM 70294 KpolContig499, whole genome shotgun sequence.
+--CCUUAUGCAUGGGAAAUACACAUUUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAAA------------------------u
+>CR380956.2/200171-200383/3-70 [subseq from] Candida glabrata strain CBS138 chromosome J complete sequence.
+--CCUUAUGCUCGGGAAAUACGCAUAUCAGUGAGGAUUCGUuCCGAGAUUGUGUUUUUGCUGGUUGAAA------------------------u
+>KV453842.1/2272218-2272364/3-70 [subseq from] Tortispora caseinolytica NRRL Y-17796 unplaced genomic scaffold CANCAscaffold_2, whole genome shotgun sequence.
+--CCUUAUGCUCGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUAUUUGCUGGUUGAAA------------------------ac
+>CR382130.1/2966271-2966119/4-70 [subseq from] Yarrowia lipolytica strain CLIB122 chromosome D complete sequence.
+u----UUAUGCUCGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUAUUUGCUGGUUGAAA------------------------ac
+>JH767561.1/423072-422935/6-75 [subseq from] Coniosporium apollinis CBS 100218 chromosome Unknown supercont1.8, whole genome shotgun sequence.
+ag-------UGCACGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAAAC----------------------uacaa
+>KV454298.1/420963-421093/3-70 [subseq from] Lipomyces starkeyi NRRL Y-11557 unplaced genomic scaffold LIPSTscaffold_10, whole genome shotgun sequence.
+--CCUUAUGCUAGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUAUUUGCUGGUUGAAA------------------------ac
+>AACU03000146.1/753634-753781/5-74 [subseq from] Magnaporthe oryzae 70-15 cont8.146, whole genome shotgun sequence.
+uag-------UGCACGGGUUUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAAAC----------------------uaca
+>KV454431.1/354096-354252/4-70 [subseq from] Babjeviella inositovora NRRL Y-12698 unplaced genomic scaffold BABINscaffold_6, whole genome shotgun sequence.
+u----UUAUGCAUGGGCAUUACGUAUAUCAGUGAGGAUUCGUCCGAGAUUAUGUUUUUGCUGGUUGAAA------------------------ac
+>KV407463.1/168288-168439/5-70 [subseq from] Xylona heveae TC161 unplaced genomic scaffold L228scaffold_10, whole genome shotgun sequence.
+cag-------UGCACGGGCAUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>FN392319.1/665097-665226/3-70 [subseq from] Pichia pastoris GS115 chromosome 1, complete sequence
+--CCUUAUGCAAGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUGGUUGAAA------------------------ac
+>CAUH01007477.1/375-241/7-70 [subseq from] Blumeria graminis f. sp. hordei DH14, WGS project CAUH01000000 data, contig: 007477
+g-------UGCAUGGGUAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>KB456260.1/84861-84990/8-70 [subseq from] Sphaerulina musiva SO2202 unplaced genomic scaffold SEPMUscaffold_1, whole genome shotgun sequence.
+u--------GCAAGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>JNVN01000101.1/5467-5602/3-70 [subseq from] Erysiphe necator strain c c-strain-scaffold_149, whole genome shotgun sequence.
+c---CUAGUGCAUGGGUAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUAUUUGCUAGUUGAAA------------------------ac
+>KB446535.1/2601399-2601319/8-74 [subseq from] Dothistroma septosporum NZE10 unplaced genomic scaffold DOTSEscaffold_1, whole genome shotgun sequence.
+u--------GCAAGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAAA-----------------------cuauc
+>KV454011.1/710663-710512/3-70 [subseq from] Pachysolen tannophilus NRRL Y-2460 unplaced genomic scaffold PACTA_scaffold_1, whole genome shotgun sequence.
+--CCUUAUGCUCGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUGGUUGAAA------------------------ac
+>CM002306.1/1460115-1459966/3-70 [subseq from] Ogataea parapolymorpha DL-1 chromosome VII, whole genome shotgun sequence.
+--CCUUAUGCAAGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUAGUUGAAA------------------------ac
+>KB445552.1/1633540-1633411/8-68 [subseq from] Baudoinia panamericana UAMH 10762 unplaced genomic scaffold BAUCOscaffold_3, whole genome shotgun sequence.
+--------GCACGGGCAUUACGCAUAUCAAUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAA-------------------------aa
+>LGST01000019.1/233535-233683/4-71 [subseq from] Candida auris strain 6684 Scaffold19, whole genome shotgun sequence.
+u----UUAUGCAGGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUGGUUGAAA------------------------acu
+>KV453861.1/54739-54881/5-78 [subseq from] Candida arabinofermentans NRRL YB-2248 unplaced genomic scaffold CANARscaffold_15, whole genome shotgun sequence.
+----UUAUGCAAGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUGGUUGAAAA-----------------------cuuucaacu
+>KL584750.1/584154-584014/6-70 [subseq from] Aureobasidium subglaciale EXF-2481 unplaced genomic scaffold scaffold_1, whole genome shotgun sequence.
+ag-------UGCACGGGCUUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>JPDO01000797.1/905-771/6-70 [subseq from] Acidomyces richmondensis BFW scaffold_797, whole genome shotgun sequence.
+uua--------GCACGGGCAGUACGCAUACCAGUGAGGAUUCGUCCGAGGUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>AAID01000631.1/14812-14946/7-70 [subseq from] Botryotinia fuckeliana B05.10 cont1.631, whole genome shotgun sequence.
+g-------UGCAUGGGUUUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>GG692399.1/803624-803769/3-70 [subseq from] Candida tropicalis MYA-3404 genomic scaffold supercont3.5, whole genome shotgun sequence.
+c---UUUAUGCAGGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUGGUUGAAA------------------------ac
+>KI912112.1/2206662-2206793/6-70 [subseq from] Pestalotiopsis fici W106-1 unplaced genomic scaffold PFICI_Scf_4, whole genome shotgun sequence.
+ag-------UGCACGGGCGUUACGCAUGUCAGUGAGGAUUCGUCCGAGACUGCGUUUUUGCUAGUUGAAA------------------------ac
+>KB446541.1/1955229-1955357/8-70 [subseq from] Dothistroma septosporum NZE10 unplaced genomic scaffold DOTSEscaffold_7, whole genome shotgun sequence.
+u--------GCAAGGGCUUUACACAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUAGUUGAAA------------------------ac
+>LFZN01000036.1/131003-131132/12-69 [subseq from] Mycosphaerella eumusae strain CBS 114824 scaffold36, whole genome shotgun sequence.
+g-------------GGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>BDGI01000052.1/10780-10644/3-74 [subseq from] Pichia membranifaciens DNA, contig: CON052, strain: KS47-1.
+--CCUUAUGCUAGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUAGUUGAAAAC----------------------uuca
+>BAUL01000016.1/30322-30456/4-70 [subseq from] Byssochlamys spectabilis No. 5 DNA, contig: PVAR5_00002_11.
+cua------GUGCACGGGC-AUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGCGUUUUUGCUAGUUGAAA------------------------acu
+>KB020429.1/167438-167580/7-70 [subseq from] Colletotrichum gloeosporioides Nara gc5 unplaced genomic scaffold scaffold120, whole genome shotgun sequence.
+g-------UGCAAGGGCUUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>KV454480.1/573707-573846/3-67 [subseq from] Ascoidea rubescens DSM 1968 unplaced genomic scaffold ASCRUscaffold_6, whole genome shotgun sequence.
+c---CUUGUGCAAGGGCAUUACGCAU-UCAAUGAGGAUUCGUCCGAGAUUGUGUUUUUGCUGGUUGAA-------------------------a
+>GL996528.1/264240-264099/4-70 [subseq from] Candida tenuis ATCC 10573 unplaced genomic scaffold CANTEscaffold_00022, whole genome shotgun sequence.
+u----UUAUGCAGGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUAGUUGAAA------------------------ac
+>KN847522.1/971947-971745/10-69 [subseq from] Exophiala mesophila strain CBS 40295 unplaced genomic scaffold supercont1.3, whole genome shotgun sequence.
+caag--------------GGCAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUAUUGCUAGUUGAAA------------------------ac
+>BA000050.1/4453349-4453204/3-70 [subseq from] Aspergillus oryzae RIB40 DNA, chromosome 2.
+c---CUAGUGCACGGGCAAUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>AZHD01000001.1/3295149-3294999/4-71 [subseq from] Sporothrix insectorum RCEF 264 scaffold_1, whole genome shotgun sequence.
+cua------GUGCAAGGGCAGUACGCAU-UCAGUGAGGAUUCGUCCGAGAGUGUGUUUUUGCUGGUUGAAAA-----------------------cua
+>CACQ02003094.1/411-261/7-70 [subseq from] Colletotrichum higginsianum, IMI 349063, WGS project CACQ02000000 data, contig: cont1.3573
+g-------UGCAAGGGCWYUACGCGUAUCAGUGARGAUUCGUYCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>GL629771.1/367234-367372/4-69 [subseq from] Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC_146, whole genome shotgun sequence.
+cua------GUGCAAGGGCAGUACGCAU-UCAGUGAGGAUUCGUCCGAGAGUGUGUUUUUGCUGGUUGAAA------------------------ac
+>LT635759.1/310605-310741/4-71 [subseq from] [Candida] intermedia strain CBS 141442 genome assembly, chromosome: IV
+u----UUAUGCAGGGGCAUUACGUGUUUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUGGUUGAAA------------------------acu
+>CM002240.1/4619079-4618933/7-74 [subseq from] Neurospora crassa OR74A linkage group V, whole genome shotgun sequence.
+g-------UGCAGGGGUUUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGCGUUUUUGCUAGUUGAAAAC----------------------uaca
+>JQFK01000002.1/359938-359802/3-75 [subseq from] Pichia kudriavzevii strain SD108 scaffold00002, whole genome shotgun sequence.
+--CCUUAUGCUAGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUGUUUGCUAGUUGAAAAC----------------------uucaa
+>KL584983.1/323435-323576/8-70 [subseq from] Aureobasidium pullulans var. pullulans EXF-150 unplaced genomic scaffold scaffold_10, whole genome shotgun sequence.
+u--------GCAAGGGCUUUACGCGCAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>GL988041.1/2969379-2969241/6-68 [subseq from] Chaetomium thermophilum var. thermophilum DSM 1495 unplaced genomic scaffold scf7180000011816, whole genome shotgun sequence.
+ag-------UGCAGGGGUAUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGCGUUUUUGCUA-------------------------------auugcaa
+>DF938590.1/687095-686962/8-70 [subseq from] Fungal sp. No.11243 DNA, scaffold: sccafold0011.
+u--------GCAUGGGCUUAACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>KV878892.1/596741-596880/4-71 [subseq from] Aspergillus glaucus CBS 516.65 unplaced genomic scaffold ASPGLscaffold_5, whole genome shotgun sequence.
+cua------GUGCAAGGGUUUUACACAUGUCAGUGAGGAUUCGUCCGAGACUGUGUUUUUGCUAGUUGAAA------------------------acu
+>AAFM01000021.1/757822-757672/4-75 [subseq from] Pichia guilliermondii ATCC 6260 cont1.5, whole genome shotgun sequence.
+u----UUAUGCAGGGAUAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUAGUUGAAAAC----------------------uacaa
+>KB644410.1/2476585-2476716/4-71 [subseq from] Penicillium oxalicum 114-2 unplaced genomic scaffold scaffold_3, whole genome shotgun sequence.
+cu-----AGUGCACGGGCUUUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUGGUUGAAA------------------------acu
+>KL585004.1/105709-105573/6-70 [subseq from] Aureobasidium pullulans var. pullulans EXF-150 unplaced genomic scaffold scaffold_31, whole genome shotgun sequence.
+ag-------UGCACGGGCUUAACGUAUACCAGUGAGGAUUCGUCCGAGGUUAUGUUUUUGCUAGUUGAAA------------------------ac
+>AHIQ01000121.1/26500-26647/9-76 [subseq from] Brettanomyces bruxellensis AWRI1499 AWRI1499_contig1486_scaffold18, whole genome shotgun sequence.
+u--------GCUAGGGCAUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUAGUUGAAAAC----------------------uucaa
+>HG793143.1/453441-453294/3-70 [subseq from] Penicillium camemberti str. FM013
+c---CUAGUGCACGGGUUUUACACGCAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUGGUUGAAA------------------------ac
+>MDYP01000042.1/151298-151166/4-71 [subseq from] Penicillium vulpinum strain IBT 29486 PENVUL_contig042, whole genome shotgun sequence.
+cu-----CGUGCAAGGGCUUUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUGGUUGAAA------------------------acu
+>GL385398.1/1339848-1339981/7-72 [subseq from] Gaeumannomyces graminis var. tritici R3-111a-1 unplaced genomic scaffold supercont2.4, whole genome shotgun sequence.
+g-------UGCAUGGGCUUUACGCAUGCCAGUGAGGAUUCGUCCGAGGCUGUGUUUUUGCUAGUUGAAA------------------------acua
+>JPDO01000341.1/9232-9363/6-69 [subseq from] Acidomyces richmondensis BFW scaffold_341, whole genome shotgun sequence.
+ag-------UGCAUGGGCAGUACGCAUACCAGUGAGGAUUCGUCCGAGGUUGCUUUUUUGCUAUUU----------------------------gaaaa
+>DS231619.1/2299248-2299383/7-75 [subseq from] Pyrenophora tritici-repentis Pt-1C-BFP supercont1.5 genomic scaffold, whole genome shotgun sequence.
+g-------UGCUCGGGCUUUACGCUUACCAGUGAGGAUUCGUCCGAGGUAGCGUUUUUGCUAGUUGAAAAC----------------------uacaa
+>LHQR01000014.1/1911667-1911518/3-70 [subseq from] Penicillium griseofulvum strain PG3 contig_79, whole genome shotgun sequence.
+c---CUAGUGCACGGGUUUUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>MLKD01000007.1/143214-143082/4-70 [subseq from] Penicillium steckii strain IBT 24891 PENSTE_contig007, whole genome shotgun sequence.
+cu-----AGUGCACGGGUUUUACGCGUAUCAGUGAGGAGAAAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>JXNT01000003.1/2108281-2108127/8-71 [subseq from] Aspergillus cristatus strain GZAAS20.1005 Scaffold_Scf_3, whole genome shotgun sequence.
+-------UGCACGGGCUUUACGCAUGUCAGUGAGGAUUUAUCCAAGACUGUGUUUUUGCUGGUUG---------------------------caaacu
+>KV878340.1/944590-944720/4-70 [subseq from] Aspergillus zonatus CBS 506.65 unplaced genomic scaffold ASPZOscaffold_5, whole genome shotgun sequence.
+cu-----AGUGCACGGGUUUUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>MDYL01000017.1/416033-415901/4-70 [subseq from] Penicillium decumbens strain IBT 11843 PENDEC_contig017, whole genome shotgun sequence.
+cu-----AGUGCACGGGUUUUACACGUAUCAGUGAGGAAUUAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>CM001201.1/2108935-2109071/12-73 [subseq from] Mycosphaerella graminicola IPO323 chromosome 6, whole genome shotgun sequence.
+--------GCACGGGCUUUACGCAUAGCAGUGAAGAUUCGUCUGAGCUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>MPGH01000026.1/276942-277076/7-74 [subseq from] Colletotrichum chlorophyti strain NTL11 CCHL11_scaffold26, whole genome shotgun sequence.
+g-------UGCAGGGGCUUUACGCGCAUCAGUGAGGAUACGUCCGAGAUCGUGUUAUUGCUGUUUGAAAA-----------------------cuacu
+>CDMC01000005.1/2303031-2303177/4-71 [subseq from] Aspergillus calidoustus genome assembly, contig: SCAF5
+cug------GUGCACGGGUUUUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------acu
+>FWEW01000486.1/98459-98590/10-67 [subseq from] Lasallia pustulata genome assembly, contig: scaffold170_size228822
+gg--------------GCUUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGCGUUUUUGCUAGUUGAAA------------------------ac
+>AAFU01001086.1/4264-4401/7-74 [subseq from] Chaetomium globosum CBS 148.51 cont1.543, whole genome shotgun sequence.
+g-------UGCAGGGGUUUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCACGUUUUUGCUAGUUGAAAAC----------------------uaca
+>AOTI011222770.1/253-58/10-74 [subseq from] Triticum urartu cultivar G1812 contig1222771, whole genome shotgun sequence.
+--------GCACGGGCGUUAUGCAUACCAGUGAGGAUUCGUCCGAGGUUGCAUUUUUGCUAGU-----------------------------ugguaagucu
+>KB706191.1/33072-32939/6-70 [subseq from] Eutypa lata UCREL1 unplaced genomic scaffold EL1_03_scaffold_853, whole genome shotgun sequence.
+ag-------UGCACGGGCUUUACGCAUGGCAGUGAGGAUCCGUCCGAGCCUGCGUUUUUGCUAGUUGAAA------------------------ac
+>LASV01000202.1/17284-17132/7-72 [subseq from] Rasamsonia emersonii CBS 393.64 ctg1118621760181, whole genome shotgun sequence.
+g-------UGCAGGGGCGAGACGCUUAUCAGUGAGGGUUCGCCCGAGAUAGCGUUUUUGCUAGUUGAAA------------------------acua
+>MCFI01000014.1/229911-230042/4-70 [subseq from] Protomyces lactucaedebilis strain 12-1054 BCR37scaffold_14, whole genome shotgun sequence.
+cc-----UGUGCCCGGGCUUUACGUUAAUCAGUGAGGAUUCGUCCGAGAUAACGUUUUUGCUAGUUGAAA------------------------ac
+>MCFJ01000001.1/2883525-2883392/3-70 [subseq from] Pseudomassariella vexata strain CBS 129021 BCR38scaffold_1, whole genome shotgun sequence.
+c---CCUAGGCACGGGCUUUACGCAUGUCAGUGAAGGUUCGCCUGAGACUGCGUUUUUGCUAGUUGAAA------------------------ac
+>KV875097.1/1806039-1805905/22-77 [subseq from] Coniochaeta ligniaria NRRL 30616 unplaced genomic scaffold CONLIGscaffold_5, whole genome shotgun sequence.
+ag------------------UACGUAUAUCAGUGAGGAUUCGUCCGAGAUUACGUUUUUGCUAGUUGAAA------------------------acua
+>AATM01000105.1/197284-197424/5-76 [subseq from] Schizosaccharomyces japonicus yFS275 cont1.105, whole genome shotgun sequence.
+u-----UGUGCACGGGUAUUACGCUUAUCAGUGAGGAUCCUuUCCGAGAUGGCGUUAUUGCUAGUUGAAAAC----------------------uacaa
+>KL584712.1/586183-586306/14-66 [subseq from] Aureobasidium namibiae CBS 147.97 unplaced genomic scaffold scaffold_11, whole genome shotgun sequence.
+-----------------AUACGCGUAUCAGUAAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>CM001198.1/2136678-2136753/8-69 [subseq from] Mycosphaerella graminicola IPO323 chromosome 3, whole genome shotgun sequence.
+a--------GCACGGGCUUUACGCAUAGCAGUGAAGAUUCGUCUGAGCUUGCGUUUUUGCUAGUUGAA-------------------------aa
+>MDYN01000013.1/400624-400756/7-70 [subseq from] Penicillium antarcticum strain IBT 31811 PENANT_contig013, whole genome shotgun sequence.
+g-------UGCACGGGUUUUACACGCAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>LHQR01000026.1/900513-900661/6-71 [subseq from] Penicillium griseofulvum strain PG3 contig_11, whole genome shotgun sequence.
+ag-------UGCACGGGCUUUACACGUAUCAGUGAGGAAAUAUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------acu
+>CDQK01000005.1/295984-296177/3-70 [subseq from] Cyberlindnera jadinii strain CBS1600 genome assembly, contig: CJ5
+c---CUUGUGCUCGGGAAUUACGCAUAUCAGUGAAGACUuaUGUCUGAGGUUGUGUAUUUGCUGGUUGAA-------------------------a
+>JPJR01002430.1/1116-1246/3-70 [subseq from] Pseudogymnoascus pannorum VKM F-3808 contig_2430, whole genome shotgun sequence.
+c---CUAGUGCACGGGCUUUAUGUGUAUCAGUGAGGAUUCGUCCGAGAUCACAUUUUUGCUAGUUGAAA------------------------ac
+>LHQR01000046.1/11243-11392/3-70 [subseq from] Penicillium griseofulvum strain PG3 contig_93, whole genome shotgun sequence.
+c---CUAGUGCACGGGUUUUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUACUAGUUGAAA------------------------ac
+>GL890999.1/9279954-9279803/7-77 [subseq from] Neurospora tetrasperma FGSC 2509 unplaced genomic scaffold NEUTE2scaffold_1, whole genome shotgun sequence.
+g-------UGCAGGGGUUUUACGCGUAUCAGUGAGGAcUUUGUCCGAGAUUGCGUUUUUGCUAGUUGAAAAC----------------------uacaua
+>MCFJ01000004.1/2006018-2005874/7-74 [subseq from] Pseudomassariella vexata strain CBS 129021 BCR38scaffold_4, whole genome shotgun sequence.
+g-------UGCACGGGCUUUACGCAUGUCAGUGAAGGUUCGCCUGAGACUGCGUUUUUGCUAGUUGAAAA-----------------------cuaua
+>HE965033.1/93460-93593/4-70 [subseq from] Taphrina deformans PYCC 5710 genomic scaffold, scaffold00002
+c----UUGUGCUCGAGCGUUACAUCUAUCAGUGAGGAUUCGUCCGAGAUGAUGUUUUUGCUAGUUGAAA------------------------ac
+>KN847335.1/3148314-3148448/7-70 [subseq from] Exophiala oligosperma strain CBS 72588 unplaced genomic scaffold supercont1.4, whole genome shotgun sequence.
+g-------UGCACGGGCUUUACGCGUUACAGUGAGGAUUCGUCCGAGUACGUGUUAUUGCUAGUUGAAA------------------------ac
+>MRCH01000130.1/12896-12766/4-70 [subseq from] Aspergillus sydowii CBS 593.65 ASPSYscaffold_2_Cont130, whole genome shotgun sequence.
+cua------GUGCAAGGGUUUUACGCGUAUCAGUGAGGAGCAAUCCGAGAUCGCGUUUUUGCUAGUUGAAA------------------------ac
+>ABDB01000004.1/78964-78804/4-71 [subseq from] Aspergillus fumigatus A1163 ctg_000004, whole genome shotgun sequence.
+cug------GUGCACGGGUUUUACACGUGUCAGUGAGGAGACAUCCGAGACCGUGUUUUUGCUAGUUGAAA------------------------acu
+>KL584753.1/769321-769185/15-61 [subseq from] Aureobasidium subglaciale EXF-2481 unplaced genomic scaffold scaffold_4, whole genome shotgun sequence.
+g------------------------UAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>LHQR01000014.1/868514-868380/3-75 [subseq from] Penicillium griseofulvum strain PG3 contig_79, whole genome shotgun sequence.
+c---CUGGUGCACGGGUUUUACACGUAUCAGUGAGGAGAAAUCCGAGAUCGUGUGUUUGCUAGUUGAAAA-----------------------cuacca
+>KE720721.1/120753-120895/6-75 [subseq from] Endocarpon pusillum Z07020 unplaced genomic scaffold C698727, whole genome shotgun sequence.
+gg-------UGCACGGGCAUUACCAGCAGCAGUGAGGAUUCGUCCGAGCUCUGGUUUUUGCUAGUUGAAAAC----------------------uacaa
+>MDYP01000053.1/103500-103633/8-71 [subseq from] Penicillium vulpinum strain IBT 29486 PENVUL_contig053, whole genome shotgun sequence.
+ug---------GAAGGGCUUUACGCGUAUUAGUGAGGAAACAUCCGAGAUCGUGUUAUUGCUGGUUGAAA------------------------acu
+>LLXE01000082.1/39267-39127/5-71 [subseq from] Penicillium freii strain DAOM 242723 scaffold_82, whole genome shotgun sequence.
+uag-------UGCAAGGGUCUUACACGGAUCAGUGAGGAAAUUUCCGAGAUCGUGUUUUUGCUGGUUGAAA------------------------acu
+>AM920431.1/580122-580276/4-83 [subseq from] Penicillium chrysogenum Wisconsin 54-1255 complete genome, contig Pc00c16
+cua------GUGCAGGAGCUUUACACGUAUCAGUGAGGAGAAAUCCGAGAUCGUGUUUUUGCUGGUUGAAAAC----------------------uaccaaauugacu
+>AAGI01000165.1/170050-170233/8-75 [subseq from] Phaeosphaeria nodorum SN15 cont1.165, whole genome shotgun sequence.
+u--------GCUCGGGCUUUACGCUUACCAGUGAAGAUUCGUCUGAGGUAGCGUUUUUGCUAGUUGAAAAC----------------------uacaa
+>JH226131.1/2444142-2444002/6-70 [subseq from] Exophiala dermatitidis NIH/UT8656 unplaced genomic scaffold supercont1.2, whole genome shotgun sequence.
+ag-------UGCACGGGCAUUAAGCGUAACAGUGAGGCUUCGGCCGAGUUCGCUUUUUUGCUAGUUGAAA------------------------ac
+>AACD01000007.1/178412-178544/4-71 [subseq from] Aspergillus nidulans FGSC A4 chromosome VIII ANcontig1.7, whole genome shotgun sequence.
+cug------GUGCAAGGGUUUUACACGUGUCAGUGAGGAGCCAUCCGAGACCGUGUUUUUGCUAGUUGAAA------------------------acu
+>MDYL01000006.1/730598-730678/4-69 [subseq from] Penicillium decumbens strain IBT 11843 PENDEC_contig006, whole genome shotgun sequence.
+cu-----AGUGCACGGGUUUCACACGUAUCAGUGAGGAAUUAUCCGAGAUCGUGUUU-UGCUAGUUGAA-------------------------aac
+>AHHD01000459.1/101279-101414/3-74 [subseq from] Macrophomina phaseolina MS6 contig00459, whole genome shotgun sequence.
+c---CUAGUGCACGGGCAUUUAGCGUAUCAGUGAGGAGUUAUCCGAGAUCGCUAUUUUGCUAGUUGAAAAC----------------------uaca
+>JARH01000859.1/75223-75072/6-68 [subseq from] Colletotrichum fioriniae PJ7 Scaffold_781.1, whole genome shotgun sequence.
+ag-------UGCAAGGGCAUUUCGCGUAUCGAUGAGGAUUCGUCCUAGAUCGCGUUUUUGCUAGUU----------------------------gaga
+>KN847533.1/881775-881626/5-71 [subseq from] Verruconis gallopava strain CBS 43764 unplaced genomic scaffold supercont1.5, whole genome shotgun sequence.
+uag-------UGCAAGGGCAUUACGCGUGACAGUGAAGAUUCGUCUGAGUCCGUGUUAUUGCUAGUUGAAA------------------------acu
+>FJOG01000002.1/599411-599543/7-71 [subseq from] Phialocephala subalpina strain UAMH 11012 genome assembly, contig: PAC_scaffold_002
+g-------UGCAAGGGUUUUACACAUAGCAGUGAGAGUCCGCUCGAGCUUGUGUUUUUGCUAGUUGAAA------------------------acu
+>FJOG01000032.1/135601-135733/7-74 [subseq from] Phialocephala subalpina strain UAMH 11012 genome assembly, contig: PAC_scaffold_032
+g-------UGCAAGGGUUUUACACAUAGCAGUGAGAGUCCGCUCGAGUUUGUGUUUUUGCUAGUUGAAAAC----------------------uaca
+>KK088417.1/625297-625164/8-69 [subseq from] Aspergillus ruber CBS 135680 unplaced genomic scaffold scaffold00007, whole genome shotgun sequence.
+-------UGCACGGGCUUUGCGUAUAUCAAUGAGGAUUUAUCUGAGAUUGUGUCUUUGCUGGUU----------------------------gcaaa
+>KQ964255.1/400329-400200/4-70 [subseq from] Microdochium bolleyi strain J235TASD1 unplaced genomic scaffold Micbo1qcscaffold_11, whole genome shotgun sequence.
+cua------GUGCUAGGGCUUUACACAUACCAGUGAGGAGAAAUCCGAGGUUGUGUUUUUGCUAGUUGAAA------------------------ac
+>CU329671.1/467615-467481/5-71 [subseq from] Schizosaccharomyces pombe chromosome II, complete replicon
+u-----UGUGCACGGGUAUUACGCUUAUCAGUGAGGAaCUUUUCCUAGAUGGCGUUAUUGCUAGUUGAAA------------------------ac
+>URS0000A0151C/4-70 [subseq from] snRNA from 1 species
+---CUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUAUUGCUGGUUGAAAU-----------------------u
+>URS000255EB94/2-69 [subseq from] snRNA from 1 species
+u--CCUUAUGCAAGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUauUUUGCUGAUUU---------------------------aa
+>URS0002331352/7-70 [subseq from] snRNA from 1 species
+g-------UGCACGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>URS0000C3F6B8/7-70 [subseq from] snRNA from 15 species
+g-------UGCAAGGGCAUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>URS000231FF8F/10-69 [subseq from] snRNA from 1 species
+ca------------GGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>URS0000C33FA5/4-71 [subseq from] snRNA from 20 species
+cu-----AGUGCACGGGCAGUACGCAU-UCAGUGAGGAUUCGUCCGAGAGUGUGUUUUUGCUGGUUGAAAA-----------------------cua
+>URS0000C06165/3-70 [subseq from] snRNA from 1 species
+--CCUUAUGCAUGGGAAAGACGCAUAUCAGUGAGGAUUCGUuCCGAGAUUGUGUuaauUUUUGCUGGU-----------------------------ac
+>URS0000C0820E/12-74 [subseq from] snRNA from 1 species
+g-------------GGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAAA-----------------------cuauca
+>URS00006B47D3/8-70 [subseq from] snRNA from 1 species
+u--------GCAAGGGCUUUACGCGUAUCAGUGAGGAUUCGUCCGAGAUCGUGUUUUUGCUAGUUGAAA------------------------ac
+>URS00025BDD7B/4-70 [subseq from] snRNA from 1 species
+u----UUAUGCAGGGGCUUUACGUGUAUCAGUGAGGAUUCGUCCGAGAUCAUGUUUUUGCUAGUUGAAA------------------------ac
+>URS0002321797/3-84 [subseq from] snRNA from 1 species
+c---CUAGUGCACGGGUUUUACACGUAUCAGUGAGGAGACAUCCGAGAUCGUGUUUUUGCUAGUUGAAAAC----------------------uaccaaauugacug
+>XR_002665938.1/3-75 [subseq from] Lachancea lanzarotensis uncharacterized ncRNA (LALA0_S01e09362r), snRNA
+--CCUUAUGCACGGGAAAUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGUGUUAUUGCUGGUUGAAAUUA---------------------auau
+>XR_002648367.1/11-77 [subseq from] [Candida] glabrata U4 RNA (SNR14), snRNA
+--CCUUAUGCUCGGGAAAUACGCAUAUCAGUGAGGAUUCGUuCCGAGAUUGUGUUUUUGCUGGUUGAA-------------------------a
+>XR_002885764.1/7-70 [subseq from] PREDICTED: Quercus suber U4 spliceosomal RNA (LOC112037790), ncRNA
+g-------UGCUCGGGCAUUACGCAUAUCAGUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac
+>XM_007675432.1/669-608 [subseq from] Baudoinia panamericana UAMH 10762 uncharacterized protein (BAUCODRAFT_31647), mRNA
+--------GCACGGGCAUUACGCAUAUCAAUGAGGAUUCGUCCGAGAUUGCGUUUUUGCUAGUUGAAA------------------------ac

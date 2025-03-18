@@ -1,0 +1,882 @@
+>query
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUUCGAACCAGAAGAUUCCAGGUUCAAGUCCUGGCGGGGAAGCCA
+>HG316456.1/62507-62581/1-75 [subseq from] Zygosaccharomyces bailii CLIB 213 genomic, scaffold03
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAACCAGAAGAUUCCAnnGGUUCGAGUCCUGGCGGGGAAG---
+>KV453930.1/315549-315458/1-92 [subseq from] Cyberlindnera jadinii NRRL Y-1542 unplaced genomic scaffold CYBJAscaffold_6, whole genome shotgun sequence.
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGauucagugguuacuucugaAACCAGAAGAUUCCAGGUUCGACUCCUGGCGGGGAAG---
+>KV454011.1/710045-710138/2-94 [subseq from] Pachysolen tannophilus NRRL Y-2460 unplaced genomic scaffold PACTA_scaffold_1, whole genome shotgun sequence.
+u--CCUCAUGGCCCAAUGGUCACGGCGUCUGGCUACgauuugcguuagucacuucugGAACCAGAAGAUUCCAGGUUCGACUCCUGGUGGGGAAG---
+>CM003294.1/17725080-17725152/3-70 [subseq from] Salmo salar isolate Sally breed double haploid chromosome ssa16, whole genome shotgun sequence.
+--CCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGGGG------
+>CAIF01000051.1/80-180/2-101 [subseq from] Wickerhamomyces ciferrii, NRRL Y-1031 F-60-10, WGS project CAIF01000000 data, contig: 00051
+-UCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAuuuaaucaauuaaguaguuacuucugaaACCAGAAGAUUCCAGGUUCGACUCUUGGCGGGGAAG---
+>CM002891.2/14577325-14577397/3-70 [subseq from] Danio rerio chromosome 7, GRCz11 reference primary assembly.
+--CCUCGUGGCCUAAUGGAUAAAGCGUCUGACUUCGGAUCAGAAGAUUCCAGGUUCGAGUCCUGCCGGGG------
+>CM002909.2/8513746-8513818/3-70 [subseq from] Danio rerio chromosome 25, GRCz11 reference primary assembly.
+--CCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGGGG------
+>KE547002.1/8200-8128/3-70 [subseq from] Schizosaccharomyces cryophilus OY26 unplaced genomic scaffold supercont4.15, whole genome shotgun sequence.
+--CCUCGUGGCCCAAUGGUUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGACUCCUGGCGGGG------
+>CM008307.1/12603352-12603424/3-70 [subseq from] Astyanax mexicanus chromosome 8, whole genome shotgun sequence.
+--CCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>CM002891.2/16572434-16572506/3-70 [subseq from] Danio rerio chromosome 7, GRCz11 reference primary assembly.
+--CCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAUAUUGCAGGUUCGAGUCCUGCCGGGG------
+>FO082051.1/1334727-1334822/1-95 [subseq from] Pichia sorbitophila strain CBS 7064 chromosome I complete sequence.
+UUCCUCAUGGCCCAAUGGUCAAGGCGUCUGACUACGguuagucacuuaagggugauggaAAUCAGAAGAUUCCAGGUUCGAGUCCUGGUGGGGAA----
+>AZAQ01019928.1/20451-20379/2-71 [subseq from] Stegodyphus mimosarum contig19928, whole genome shotgun sequence.
+u--CCGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGUUUCGAAUCCUGUCGCGG------a
+>CM002891.2/14579424-14579496/3-70 [subseq from] Danio rerio chromosome 7, GRCz11 reference primary assembly.
+--CCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGAUUCGAGUCCUGCCGAG-------g
+>HE587301.1/7130164-7130092/3-70 [subseq from] Tetranychus urticae London genomic scaffold, scaffold_1
+--CCUCGUGGCCCAACGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCCGAG-------g
+>KV453859.1/50959-50887/1-73 [subseq from] Candida arabinofermentans NRRL YB-2248 unplaced genomic scaffold CANARscaffold_13, whole genome shotgun sequence.
+u-UCCUCAUAGCGUAAUGGUUAUCGCGUUCGGCUACGAACCGAAAGACUCCAGGUUCGAGUCCUGGUGGGGAAG---
+>LM414211.1/25982-26054/4-70 [subseq from] Enterobius vermicularis genome assembly, scaffold: EVEC_scaffold0000660
+c----CCGUGGCCUAAUGGACAAGGCGUCUGACUUCUAAUCAGAAGAUUGCGGGUUCGAGUCCCGUCGGGG------
+>LFJF01008556.1/12976-13048/3-70 [subseq from] Macrostomum lignano uti_cns_0008582, whole genome shotgun sequence.
+c---CUAGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCUGG-------g
+>CM001646.1/25084587-25084515/4-69 [subseq from] Nomascus leucogenys chromosome 1a, whole genome shotgun sequence.
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCG---------ug
+>X00239.1/111-183/4-69 [subseq from] Fission yeast S.pombe genes for tRNA-Arg and tRNA-Glu
+---CUCGUGGCCCAAUGGUUAAGGCGCUUGACUACGAAUCAAGAGAUUCCAGGUUCGACUCUUGGCGGG-------
+>LFJF01009877.1/8268-8340/4-70 [subseq from] Macrostomum lignano uti_cns_0009909, whole genome shotgun sequence.
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>ABAV01046067.1/1140-1212/3-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_3733_Cont46067, whole genome shotgun sequence.
+c---CUUGUAGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCUGGCAGGG------
+>ABAV01053098.1/1311-1239/3-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_7400_Cont53098, whole genome shotgun sequence.
+c---CUUGUGACCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCUGGCAGGG------
+>JARO02001707.1/11552-11624/4-64 [subseq from] Scleropages formosus scaffold1707, whole genome shotgun sequence.
+ca-----UGUGGCCCAAUGGAUAAGGCGUCUGGCUUCGGACCAGAAGAUUAAGGGUUCAAGUCC--------------cu
+>LFJF01016775.1/9798-9870/4-70 [subseq from] Macrostomum lignano uti_cns_0016818, whole genome shotgun sequence.
+cca------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCUGG-------g
+>KV454478.1/563442-563358/1-84 [subseq from] Ascoidea rubescens DSM 1968 unplaced genomic scaffold ASCRUscaffold_4, whole genome shotgun sequence.
+UUCCUCAUGGCCCAAUGGUUACGGCGUUCGGCUACGAACucaacaaggaacCGAGAGAUUCCAGGCUCGAGUCCUGGUGGAGA-----a
+>KV454489.1/47472-47562/1-91 [subseq from] Ascoidea rubescens DSM 1968 unplaced genomic scaffold ASCRUscaffold_15, whole genome shotgun sequence.
+UUCCUCAUGGCCCAAUGGUUACGGCGUUCGGCUACGAuuuaauaucuaaugaggaACCGAGAGAUUCCAGGUUCGAGUCCUGGUGGGGAAG---
+>ABAV01004526.1/37896-37824/3-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4526, whole genome shotgun sequence.
+c---CUUGUGGCCCCAUGGAUAAGGCGCCUGACUACGGAUCAGUAGAUUCCAGGUUCGAGUCCUGGCAGGG------
+>AACT01000496.1/34585-34657/6-69 [subseq from] Ciona savignyi cont_496, whole genome shotgun sequence.
+u------GUGGCCCAAUGGAUAAGGCGCCUGACUACGAAUCAGAAGAUUCCAGGUUAGGGUCCUGGCAG--------g
+>NBLW01000122.1/6486-6414/3-69 [subseq from] Anaerolineaceae bacterium 4572_32.2 ex4572_32.2_scaffold_9685, whole genome shotgun sequence.
+--CCUCGUGGCUCAAUGGAUAGAGCGUCUGGUUGCGGACCAGAAGGUUACAGGUUCAACUCCUGUCG---------ag
+>CBXT010009049.1/3688-3616/4-70 [subseq from] Globodera pallida, Lindley, WGS project CBXT01000000 data, contig: pathogens_Gpal_scaffold_429_contig_19
+cc-----UGUGGCCUAAUGGAUAAGGCGUUUGACUUCGAAUCAAAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>LGKD01135179.1/735-663/4-67 [subseq from] Octopus bimaculoides Scaffold12085_contig_4, whole genome shotgun sequence.
+c----UUGUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCAAAUCCUGGC----------a
+>ABAV01058908.1/457-385/3-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_17785_Cont58908, whole genome shotgun sequence.
+c---CUUGUGGCCCGAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCUGGCAGGG------
+>ABJB010513841.1/13-85/2-71 [subseq from] Ixodes scapularis strain Wikel colony gcontig_1108378285104, whole genome shotgun sequence.
+u--CCGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGUUCAGAAGACUGCAGGUUCGAGUCCUGUCGCGG------a
+>DF143208.1/101421-101349/4-70 [subseq from] Clonorchis sinensis DNA, scaffold: 381, strain: Henan.
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUACCAGG-------g
+>LL907507.1/12892-12964/4-70 [subseq from] Schistocephalus solidus strain NST_G2 genome assembly, scaffold: SSLN_scaffold0007125
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCCAGG-------g
+>ABAV01004529.1/3305-3233/3-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4529, whole genome shotgun sequence.
+c---CUUGUGGCCCAAUGGAUAAGGCGCCUUACUACGGAUCAGGAGAUUCCAAGUUCGAGUCCUGGCAGGG------
+>AACT01000496.1/33749-33821/5-69 [subseq from] Ciona savignyi cont_496, whole genome shotgun sequence.
+cu------GUGGCCAAAUGGAUAAGGCGGCUGACUACGAAACAGGAGAUUCCAGGUUCGAGUCCUGGCAG--------g
+>AACT01002810.1/5000-5072/6-69 [subseq from] Ciona savignyi cont_2810, whole genome shotgun sequence.
+u------GUGUUCCAAUGGAUAAGGCGCCUGGCUACGAAUAAGGAGAUUCCAGGUUCGAGUCCUGGCAG--------g
+>ABAV01004530.1/3219-3146/3-64 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4530, whole genome shotgun sequence.
+c---CUUGUGGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCUG------------
+>AAGJ05132564.1/49106-49178/4-68 [subseq from] Strongylocentrotus purpuratus Contig132564_fixed, whole genome shotgun sequence.
+cg-----CGUGGCCUAAUGGACAAGGCGUCUGACUUCGAAUCAGAAGAUUGAGGGUUCGAGUCCC-------------uucgu
+>ABAV01004536.1/5775-5703/5-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4536, whole genome shotgun sequence.
+uuc-------UGGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCUUGGCAGGG------
+>DF142877.1/12930-12858/4-70 [subseq from] Clonorchis sinensis DNA, scaffold: 50, strain: Henan.
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCGGAAGAUUGCAGGUUCGAGUCCUGUCAGG-------g
+>GL883255.1/1979-2051/5-66 [subseq from] Melampsora larici-populina 98AG31 unplaced genomic scaffold MELLAscaffold_167, whole genome shotgun sequence.
+uuc-------UGGCCCAAUGGUCAAGGCGCUUGCCUACGAAGCAAGAGAUUCCAGGUUCGAGUCCUGG-----------g
+>FN653050.1/2655-2727/4-67 [subseq from] Oikopleura dioica, whole genome shotgun assembly, reference scaffold set, scaffold scaffold_36
+c----UUGUGGCGCAAUGGAUAACGCGUCUGCCUACGGAGCAGAAGAUUCCAGGUUCGAGUCCUGGC----------a
+>CM002303.1/996682-996754/3-71 [subseq from] Ogataea parapolymorpha DL-1 chromosome IV, whole genome shotgun sequence.
+cc----UUAUAGCGUAAUGGUUAUCGCGUUCGGCUACGAACCGGAAGGCUCCAGGUUCAAGUCCUGGUGAGG------g
+>MGAS01000028.1/15235-15306/2-69 [subseq from] Candidatus Roizmanbacteria bacterium RIFCSPLOWO2_01_FULL_42_14 rifcsplowo2_01_scaffold_5988, whole genome shotgun sequence.
+u--CCCCGUAGCUCAAUG-UAAGAGCGUCUGGUUCGGAGCCAGAAGGUUCCAGGUUCAAGUCCUGGCGGGG------
+>HE587301.1/861219-861147/6-68 [subseq from] Tetranychus urticae London genomic scaffold, scaffold_1
+u------GUGGCCCAACGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCC----------ag
+>JARO02001308.1/39332-39404/4-67 [subseq from] Scleropages formosus scaffold1308, whole genome shotgun sequence.
+ca-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUG------------cca
+>AACT01059034.1/879-807/6-69 [subseq from] Ciona savignyi cont_59034, whole genome shotgun sequence.
+u------GCGGCCCAAUGGAUAAGGCGCCUGACUACAAAUCAGGAGAUUUCAGGUUCGAGUCCUGGCAG--------g
+>ABJB010307027.1/449-377/4-69 [subseq from] Ixodes scapularis strain Wikel colony gcontig_1108379874150, whole genome shotgun sequence.
+cg-----CGUGGCCUAAUGGACAACGAGUCUGACUUCGAAUCAGGAGACUGCAGGUUCGAGUCCUGUCG---------cg
+>CDMY01000477.1/195179-195251/5-69 [subseq from] Vitrella brassicaformis CCMP3155 genome assembly, contig: scaffold38
+a-----CGUGGCCUAAUGGAUAAGGCGUCCGGCUUCGGACCGGGAGAUUGCAGGUUCGAGUCCUGUCG---------ug
+>FO082050.1/1713791-1713887/2-97 [subseq from] Pichia sorbitophila strain CBS 7064 chromosome J complete sequence.
+uc---CCUAUGGCCCAAUGGUCAAGGCGUCUGACUACGgugcgaucacuaaaagugauuggaAAUCAGAAGAUUCCAGGUUCGACUCCUGGUGGGGAAG---
+>ABAV01015717.1/118-45/3-71 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_149_Cont15717, whole genome shotgun sequence.
+c---CUUGUGGCCCAAUGGaUUAUAGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCUGGCAGGG------
+>CM002891.2/14578953-14579025/4-70 [subseq from] Danio rerio chromosome 7, GRCz11 reference primary assembly.
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGUAGGUUUGAGUCCUGCCAGG-------g
+>LL902984.1/2826-2898/4-70 [subseq from] Schistocephalus solidus strain NST_G2 genome assembly, scaffold: SSLN_scaffold0002764
+c----UUGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGUAUCCUGCCAGG-------g
+>AZAQ01021307.1/34142-34213/4-68 [subseq from] Stegodyphus mimosarum contig21307, whole genome shotgun sequence.
+cg-----CGUGGCCUAGUGGACAAAGCGUCUGCCUUCGAAUCAGAAGAUUGCAGUUUCAAAUCCCG------------uugc
+>LFJF01028872.1/9395-9466/8-69 [subseq from] Macrostomum lignano unitig_28927, whole genome shotgun sequence.
+u---------GCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCUGG-------g
+>AHIQ01000314.1/10509-10581/5-71 [subseq from] Brettanomyces bruxellensis AWRI1499 AWRI1499_contig3256_scaffold94, whole genome shotgun sequence.
+ucu-------UAGCGUAAUGGUCAUCGCGUUUGGCUACGAACCAAAAGGUUGCAGGUUCGAGUCCUGCAGGGG------g
+>ADBV01001246.1/9912-9984/4-70 [subseq from] Wuchereria bancrofti cont1.1246, whole genome shotgun sequence.
+cc-----UGUGGCCUAAUGGACAAGGCAUCUGACUUCUAAUCAGGGGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>GL010135.1/2579124-2579052/6-69 [subseq from] Loxodonta africana unplaced genomic scaffold scaffold_108, whole genome shotgun sequence.
+a------GUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAAUCCAGGUUCAAAUCCUGGCUG--------g
+>ABAV01004537.1/2792-2720/3-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4537, whole genome shotgun sequence.
+c---CUUGUCGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCUACGUUCGAGUCCUGGCAGGG------
+>MHMW01000021.1/79707-79779/8-68 [subseq from] Candidatus Portnoybacteria bacterium RBG_19FT_COMBO_36_7 RBG_13_scaffold_59, whole genome shotgun sequence.
+ua---------GCUCAAUGGACAGAGCGACUGGCUUCGGACCAGUAGGUUCCAGGUUCGAGUCCUGGU----------ag
+>LSSL01007451.1/2104-2032/5-69 [subseq from] Smittium mucronatum strain ALG-7-W6 scaffold-23874, whole genome shotgun sequence.
+cu------GUGGCCCAAUGGACGUAGCGCAUGACUACGAAUCAAGAGAUUCCAGGUUCGAGUCCUGGCUG--------g
+>KE696001.1/657236-657164/4-70 [subseq from] Alligator sinensis unplaced genomic scaffold scaffold542_1, whole genome shotgun sequence
+ca-----UGUGGCCUAAUGGAUAAGGUGUCUGACUUCAGAUCAGAAGACUACAGGUUCAAAUCCUGCCGUG-------g
+>ABAV01004526.1/42348-42276/5-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4526, whole genome shotgun sequence.
+uuc-------UGGCCCAAUGGAUAAGGCGCCUAACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCAGGCAGGG------
+>MCFI01000007.1/375175-375103/3-69 [subseq from] Protomyces lactucaedebilis strain 12-1054 BCR37scaffold_7, whole genome shotgun sequence.
+--CCUCGUGGCCCAAUGGUCAAGGCGUCCGUCUACGAAACGGGAAAUUCCGGGUUCGAUCCCCGGCG---------ag
+>MCFL01000003.1/332701-332629/5-69 [subseq from] Catenaria anguillulae PL171 BCR44scaffold_3, whole genome shotgun sequence.
+c-----CGUGGCCCAGCGGCUAAGGCGCCUGACUACGGAUCAGGAGAUCCCAGGUUCAAAUCCUGGCGGG-------
+>CCAG010000657.1/56803-56731/6-69 [subseq from] Glossina morsitans morsitans, isolate Yale, WGS project CCAG01000000 data, contig: ctg10000657
+u------GUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGACUCCAGGUUCGAGUCUUGGCAG--------g
+>LBQA01000009.1/150287-150359/6-69 [subseq from] Parcubacteria (Moranbacteria) bacterium GW2011_GWE1_35_17 UR66_C0009, whole genome shotgun sequence.
+ca-------UAGCUCAAUGGAUAGAGUGUCUGGCUUCGGACCAGAAGGUUCUAGGUUCGAGUCCUAGUGG--------g
+>LK958513.1/1319-1391/5-68 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0008576
+u-----UGUGGCCUAAUGGAUAAGGUGUCGGACUUCGGACCCGAAGAUUACAGGUUCGAGUCCUGCC----------ag
+>LBSR01000012.1/813-886/2-72 [subseq from] Parcubacteria (Wolfebacteria) bacterium GW2011_GWC1_37_10 US36_C0012, whole genome shotgun sequence.
+u--CCUCGUAGCUCAAUuGGAUAGAGCGCUUGGCUUCGAACCAAGAGGUUCCGGGUUCAAUUCCUGGCGAGG------a
+>LL039257.1/131-203/3-70 [subseq from] Trichobilharzia regenti genome assembly, scaffold: TRE_scaffold0038969
+cu----CCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUAAGAAGAUUGCGGCUUCCAGUCCCGUCGGGG------
+>LFEI01000086.1/138001-138073/4-69 [subseq from] Lingula anatina scaffold86, whole genome shotgun sequence.
+ccg------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGAGUUCGAGUCUCGUC----------cgg
+>MCFI01000023.1/156690-156617/4-66 [subseq from] Protomyces lactucaedebilis strain 12-1054 BCR37scaffold_23, whole genome shotgun sequence.
+cuga-------UGGCCCAAuUGGUUAAGGCGUCCGGCUUCGAACCGGAAGAUUGUGGGUUCAAGUCCC-------------gc
+>AACT01017356.1/1189-1117/5-69 [subseq from] Ciona savignyi cont_17356, whole genome shotgun sequence.
+cu------GUGGCCCAUUGGAUAAGGCGCCUGACUACGAAUUAAGAGAUUCCAGGUUCGAGUCCUAGCAG--------g
+>CBXK010001292.1/421-493/4-70 [subseq from] Trichuris trichiura, WGS project CBXK01000000 data, contig: TTRE_1292
+cg-----CGUAGCGUAAUGGAUAACGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGCG-------g
+>LGKD01590690.1/397-467/4-68 [subseq from] Octopus bimaculoides Scaffold191392_contig_1, whole genome shotgun sequence.
+c----UUGUGGCGCAAUGGAUGACGCGUCUGAUUUCGGAUCAGAAGAUUCCAGGUUCGACUCCUGGCG---------a
+>AFVO01002641.1/16442-16371/3-68 [subseq from] Auricularia subglabra TFB-10046 SS5 AURDEscaffold_118_Cont2641, whole genome shotgun sequence.
+--CCUCGUGGCGUAAUGGCAAC-GCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAUCCCUGCCG---------ug
+>AZHB01000034.1/71365-71293/3-70 [subseq from] Isaria fumosorosea ARSEF 2679 scaffold_34, whole genome shotgun sequence.
+--CCUCGUGGCCUAAUGGCCAAGGCAUCGGUUUCCGGUACCGGAGAUUCCAGGUUCGAGUCCUGGCGGGG------
+>AFSB01168489.1/661-589/6-69 [subseq from] Heterocephalus glaber contig168489, whole genome shotgun sequence.
+u------GUGGUGCAAUGGAUAACGCGUCUGACUACGGACCAGAAAAUUCCAGGUUCGACUCCUGGCUG--------g
+>ANKR01274894.1/2555-2483/6-69 [subseq from] Myotis brandtii contig274894, whole genome shotgun sequence.
+a------GUGGCUCAAUGGAUAACCCUUCUGACUAUGAAUCAGAAGAUUCCAGGUUCAACUCCUGGCUG--------g
+>LK959983.1/263-335/3-70 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0009990
+c---CUUGUAACCUAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUUCAGGUUCGAGUCCUGCCAGG-------g
+>ATCN01000322.1/977-905/7-68 [subseq from] Spraguea lophii 42_110 Contig_3551, whole genome shotgun sequence.
+------GUGGCGUAAUGGCUAACGCGUCUGACUUCUAAUCAGAAGAUUCCGGGUUCGAGUCCCGGC----------ug
+>CAIF01000203.1/23021-23093/3-67 [subseq from] Wickerhamomyces ciferrii, NRRL Y-1031 F-60-10, WGS project CAIF01000000 data, contig: 00203
+ccg-----GGUGGCGAAAUGGUUAUCGCGUCUGACUACGAAUCAGGAGAUUGCAGGUUCAAAUCCUGU-----------cc
+>ACJG01004798.1/416-344/6-66 [subseq from] Daphnia pulex DAPPUscaffold_113_Cont4798, whole genome shotgun sequence.
+u------GUGGCCCAAUGGAUAAGGCGCCUGCCUACGGAGCAGGAGAUUCCAGGUUCAAUCCCUGGC----------
+>AACT01017357.1/8092-8020/5-69 [subseq from] Ciona savignyi cont_17357, whole genome shotgun sequence.
+cu------GUGGCCCAUUGGAUAAGGCGCCUGACUACGAAUCAAGAGAUUCCAGGUUCGUGUCCUAGCAG--------g
+>KV454001.1/1650080-1650008/2-71 [subseq from] Pichia membranifaciens NRRL Y-2026 unplaced genomic scaffold PICMEscaffold_1, whole genome shotgun sequence.
+u--CCACAUAGCGUAAUGGUGAUCGCGUCUGACUACGGAUCAGAAGAUUCUAGGUUCGAGUCCUAGUGUGG------a
+>LL192199.1/13981-13909/4-70 [subseq from] Heligmosomoides polygyrus genome assembly, scaffold: HPBE_scaffold0003806
+cc-----UGUGGCCUAAUGGAUAAGGCGUCGGUCUCCUAAACCGAAGAUUCAAGGUUCGAGUCCUUGCUGG-------g
+>JOWA01000085.1/252416-252488/2-73 [subseq from] Pseudallescheria apiosperma strain IHEM 14462 SEQ_SAPIO_0085, whole genome shotgun sequence.
+ucu----CCAUGGCCAAAUGGUUAAGGCGUCCGACUGUUAAUCGGAAGAUUCCAAGUUCGACCCUUGGUGGGGAAG---
+>MHST01000008.1/16166-16238/5-69 [subseq from] Candidatus Terrybacteria bacterium RIFCSPHIGHO2_01_FULL_58_15 rifcsphigho2_01_scaffold_1941, whole genome shotgun sequence.
+c-----CGUAGCUCAAUGGAUAGAGCGCCUGGCUUCGGACCAGGAGGUUCCGGGUUCGAGUCCUGGCGGG-------
+>LFEI01000231.1/356322-356250/4-68 [subseq from] Lingula anatina scaffold231, whole genome shotgun sequence.
+---CUCGUGGCGCAAUGGAUAACGCGUCCGCCUACGGAGCGGAAGAUUCCAGGUUCGAGUCCUGGCG---------a
+>JMHZ01000482.1/9838-9766/6-69 [subseq from] Trichuris suis scaffold137.5, whole genome shotgun sequence.
+c------GUAGCGUAAUGGAUAACGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCG---------cg
+>MKPU01000007.1/2798-2726/8-64 [subseq from] Amphiamblys sp. WSBS2006 Amphi_8, whole genome shotgun sequence.
+-------UGGCCAAAUGGUUAAGGCGCCUGACUACGAAUCAGGAGAUUACAGGUUCGAGUCCUG------------
+>LQBI01000015.1/20313-20386/6-70 [subseq from] Candidatus Aegiribacteria bacterium MLS_C scaffold_21, whole genome shotgun sequence.
+cgua---------GCUCAAuUGGAUAGAGCGUCUGGCUACGGACCAGAAGGCUCCGGGUUCAAGUCCUGGCGGG-------
+>AYCK01007231.1/28936-28864/4-64 [subseq from] Poecilia formosa, whole genome shotgun sequence.
+ca-----UGUGGCCUAAUGGACAAGGCAUCUGACUUCGGAUCAGAAGAUUGAGGGUUCAAGUCC--------------cu
+>FN649728.1/6886096-6886024/3-70 [subseq from] Ectocarpus siliculosus strain Ec 32, whole genome shotgun sequence assembly, chromosome LG03
+cc----GUGUGGCCCAAUGGAUAAGGCGUCCGCCUACGAAGCGGAAGAUUCCGGGUUCGAGCCCCGGCA---------ugg
+>AACT01060874.1/561-490/5-68 [subseq from] Ciona savignyi cont_60874, whole genome shotgun sequence.
+cu------GUGGCCCAAUAGAUACGGCGCCUGACUACGAAUCAGGAGAU-CUAGGUUCGAGUCCUGGCAG--------g
+>LM410186.1/1043-971/4-70 [subseq from] Hymenolepis nana genome assembly, scaffold: HNAJ_contig0008703
+ca-----UGUGGCCUAAUGGAAAAGGCGUCUGACUUCGGAUUAGAAGAUUGCAGGUUUGAGUCUUGCCAGG-------g
+>LL736419.1/293-365/6-65 [subseq from] Hydatigera taeniaeformis genome assembly, scaffold: TTAC_contig0011449
+u------GUGGCGUAAUGGAUAACGCGUCUGACUUCGGAUCAGAAGAUUCCGGGUUCCAGUCCUGG-----------
+>KV875093.1/1039159-1039087/4-64 [subseq from] Coniochaeta ligniaria NRRL 30616 unplaced genomic scaffold CONLIGscaffold_1, whole genome shotgun sequence.
+cua------CUGGCCCAAUGGCUAAGGCGUUCGGCUUCGAACCGAAAGAUUGCAGGUUCGAUCCCU-------------g
+>AACT01017356.1/3109-3038/7-68 [subseq from] Ciona savignyi cont_17356, whole genome shotgun sequence.
+g-------UUGCCCAAUGGUUAA-GCGCCUGACUACGAAUCAGGAGAUUCCAGGUUCGAGUCCUAGCAG--------g
+>MHQR01000032.1/16136-16063/9-70 [subseq from] Candidatus Sungbacteria bacterium RIFCSPLOWO2_01_FULL_54_21 rifcsplowo2_01_scaffold_8470, whole genome shotgun sequence.
+agcuc------------AAUUGGAUAGAGCGUCUGCCUUCGAAGCAGAAGGUUCCAGGUUCGAGUCCUGGUGGG-------
+>ABAV01004527.1/2242-2170/5-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4527, whole genome shotgun sequence.
+uuc-------UGACCCAACGGAUAAGGCGCCUGACCACGGAUCAGGAGAUUCCAGGUUCGAGUCCUGGCAGGG------
+>CP001576.1/266632-266560/4-69 [subseq from] Micromonas sp. RCC299 chromosome 10, complete sequence.
+---CUCGUGGCCUAAUGGAUAAGGCGUCGGUCUUCGGAACCGAAGAUUGCAGGUUCGACCCCUGCCGGG-------
+>CM003279.1/28604972-28605044/5-69 [subseq from] Salmo salar isolate Sally breed double haploid chromosome ssa01, whole genome shotgun sequence.
+g-----CGUGACCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGAGGGUUCGAGUCCCU------------ucgug
+>ABAV01005834.1/5966-6038/5-68 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_34_Cont5834, whole genome shotgun sequence.
+g-----CGUGGCCUAAUGGAUAAGCCGUCUGACUUCGGAUCAGAAGAUUGAAGGUUCGAGUCCC-------------uucgu
+>LSSN01003343.1/4606-4534/3-70 [subseq from] Smittium culicis strain GSMNP scaffold-3905, whole genome shotgun sequence.
+c---CCCGUGGCCAAGUGGAUAAGGUGUCUGCCUCCUAAGCAGAAGAUCCCGGGUUCAAAUCCCGGCUGG-------g
+>AACT01017355.1/11429-11501/6-69 [subseq from] Ciona savignyi cont_17355, whole genome shotgun sequence.
+u------GUUGCGCAAUGGAUAAGGCGUCAGACUUCGAAUCAGGAGAUGCCUGAUUCGAGUCCUGGCAG--------g
+>ANCG01000339.1/3573-3501/6-70 [subseq from] Necator americanus N_americanus-1.0_Cont257.7, whole genome shotgun sequence.
+-----CGUGGCGCAAUAGAUAACGCGUCCGCCUACGAACCAGAAGAUUACAGGUUCGAAUCCUGCCGUG-------g
+>AZAQ01088739.1/1563-1635/1-71 [subseq from] Stegodyphus mimosarum contig88739, whole genome shotgun sequence.
+u-UCCACGUGGCCUAACGGAUAAGGCGUCUGAUUUCGAAGUAGAAGACUGCAUGUUCGAAUACUGUCGCGG------a
+>CM003286.1/19715058-19714986/5-68 [subseq from] Salmo salar isolate Sally breed double haploid chromosome ssa08, whole genome shotgun sequence.
+g-----CGUGGCCUAAUGCAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGAGGGUUCGAGUCCC-------------uucgu
+>MCGR01000133.1/25459-25372/4-81 [subseq from] Leucosporidium creatinivorum strain 62-1032 BCR35scaffold_133, whole genome shotgun sequence.
+cug------CUGGCCCAAUGGUCAAGGCGUCUGACUACGAuugaaucaucagcgcAUCAGGAGAUUCCAGGUUCGAGUCCUGG-----------g
+>LK957213.1/1912-1984/3-70 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0007319
+cc----GCAUGGCGCAAUGGAUAACGCGUCUGCCUACGUAGCAGAAGGUUGCAGGUUCAAGCCCUGGUGUG-------g
+>AACT01002810.1/4856-4927/5-66 [subseq from] Ciona savignyi cont_2810, whole genome shotgun sequence.
+cu------GUGGCCCAAUGGAUAAGGCGCCUGACUACGAAUCAGGAGAUUUCAGGU-CGAGUCCUGGC----------a
+>JPKZ01001905.1/8233-8160/4-71 [subseq from] Toxocara canis scaffold2388, whole genome shotgun sequence.
+cc-----UGUGGCCUAAUGGaUAAAGGCGUCUGACUUCUAAUCAGAAGAUUGCAGGUUCGACCCCUGCCUGG-------g
+>LK949517.1/13901-13828/4-68 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_scaffold0002398
+c----UUGUGGCCUAAUGGAUAAGGCGUCAGACUUGGGACCCGAAGAUUGCAGGUCCGAGUCCUGCC----------ag
+>LL912714.1/904-976/5-67 [subseq from] Schistocephalus solidus strain NST_G2 genome assembly, scaffold: SSLN_contig0000744
+a-----CGUGGCGCAAUGGAUAACACGUCUGACUAUGGAUCAGAAGAUUCCAGGUUCGAAUCCUGGC----------a
+>LK945232.1/169-97/3-70 [subseq from] Angiostrongylus costaricensis strain Costa Rica genome assembly, scaffold: ACOC_contig0003526
+c---CGCGUGGAGCAAUGGAUAACGCGUCUGCCUACGGAGCAGAAGAUUGCAGGUUCGAGUCCUGCCGUG-------g
+>CVQH01011113.1/261718-261647/5-67 [subseq from] Verticillium longisporum isolate VL1 genome assembly, contig: scaffold_20
+gc------AUGGCCCAAUGG-CAAGGCGUCUGACUACGAAUCAGGAGAUUGCAGGUUCGAGCCCUG------------cugu
+>AANH01015344.1/292-365/4-63 [subseq from] Gasterosteus aculeatus cont1.015343, whole genome shotgun sequence.
+c----UAGUGGCGCAAUGGAUAACGCGUCUGACUACGAAUCAGGAGAUUCCAGGUUCGACUC---------------cc
+>CM000290.1/26305419-26305491/3-67 [subseq from] Macaca mulatta chromosome 4, whole genome shotgun sequence.
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGAGGGUUCGAAUCC--------------cuccg
+>JH591770.1/12444-12372/7-68 [subseq from] Lepisosteus oculatus unplaced genomic scaffold UNK398, whole genome shotgun sequence.
+g-------UAGCGCAAUGGAUAACACGUCUGGCUUCGAAUCAGAAGAUUGUAGGUUCGAUUCCUGC-----------cug
+>JH658396.1/247337-247409/7-66 [subseq from] Fusarium oxysporum f. sp. raphani 54005 unplaced genomic scaffold supercont1.38, whole genome shotgun sequence.
+u-------UGGCCUAAUGGUUAAGGCGUCUGACUUCUAAUCAGAAGACUACGGGUUCGACUCCC-------------gua
+>ADAS02000061.1/256716-256634/6-77 [subseq from] Puccinia triticina 1-1 BBBD Race 1 supercont2.61, whole genome shotgun sequence.
+cc-------UGGCCCAAUGGUCAAGGCGCCUGCCUACGAUCCcgacgugagcAGGAGAUUCCAGGUUCGAGUCCUGG-----------gg
+>CH477447.1/375221-375299/6-75 [subseq from] Aedes aegypti strain Liverpool supercont1.262 genomic scaffold, whole genome shotgun sequence.
+u------GUGGCGCAAUGGAUAGAcguuauGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGACUCCUGGCGGG-------
+>BAAF04131698.1/2684-2756/6-63 [subseq from] Oryzias latipes DNA, contig131698 in scaffold6476, strain: Hd-rR.
+u------GUGGCCUAAUGGACAAGGCGUCUGACUUCGGAUCAGAAGACUGAGGGUUCAAAUCC--------------c
+>GL877404.1/23996-23924/4-69 [subseq from] Vavraia culicis subsp. floridensis unplaced genomic scaffold supercont1.1, whole genome shotgun sequence.
+c----UGGUAGCUUAAUGGCUAAAGCGUCUGACUUCUAAUCAGGAGAGUCCGGGUUCGAGUCCUGGCCG--------g
+>JMHZ01001106.1/78510-78438/6-69 [subseq from] Trichuris suis scaffold64.5, whole genome shotgun sequence.
+-----CGUGGUUUAAUGGAUAACGUGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCAAGUCUUGUCG---------ag
+>CM000600.1/1104330-1104259/5-66 [subseq from] Fusarium oxysporum f. sp. lycopersici 4287 chromosome 12, whole genome shotgun sequence.
+g-----CGUGGCCCAAUGG-CAAGGCGUCUGACUACGAAUCAGAAGAUUCUGGGUUCGAUCCCCAG-----------cg
+>BDGG01000002.1/3528354-3528282/6-68 [subseq from] Ramazzottius varieornatus DNA, contig: Scaffold002, strain: YOKOZUNA-1.
+u------GUGGCCCAAUGGUUAAGGCGCCUGACUACGAAUCAGGAGAUUCCGCGUUCGACUCGCGGC----------ag
+>AZAF01006100.1/16023-16095/3-70 [subseq from] Dictyocaulus viviparus strain HannoverDv2000 D_viviparus-1.0_Cont127.27, whole genome shotgun sequence.
+c---CUUUUGGCCUAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGGAGGUUCGAGUCCUGCCAGG-------g
+>LK954509.1/2955-2898/1-57 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_scaffold0004197
+-------UGGCCUAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUCCAGGUUCGAGUCCUG------------
+>LM153014.1/268-196/6-70 [subseq from] Schistosoma mattheei strain Denwood, Zambia genome assembly, scaffold: SMTD_scaffold0003597
+-----CGUGGCUCAAUGGAUAAGGCAUCUGACUUUGAAUCAGAAGUUUGUGGGUUCGAGUCCCGUCGGGG------
+>KE712799.1/15267-15195/5-69 [subseq from] Biomphalaria glabrata isolate BB02 unplaced genomic scaffold LGUN_random_Scaffold3031, whole genome shotgun sequence.
+g-----CGUGGCCUAAUGGAUAAGACGUCUAACUUCGGAUCAGAAGAUUGCGAGUUCAAGUCUCGUCGG--------u
+>JXUM01075012.1/2698-2771/4-68 [subseq from] Aedes albopictus isolate Foshan contig75012, whole genome shotgun sequence.
+cg-----UGUGGCCUAAUGGaUGAAGGCGUCGGACUUCGAAUCCGAAGAUUGCAGGUUCGAGUCCUGU-----------ca
+>GL010135.1/2778533-2778605/4-69 [subseq from] Loxodonta africana unplaced genomic scaffold scaffold_108, whole genome shotgun sequence.
+c----UAGUGGCACAAUGGAUAAAGCAUCUGACUAUGGAUCAGAGGACUCCAGGUUCAACUCCUGGCUG--------g
+>ACJG01001754.1/13309-13237/6-66 [subseq from] Daphnia pulex DAPPUscaffold_30_Cont1754, whole genome shotgun sequence.
+u------GUGGCCCAAUGGAUAAGGCGCCUGCCUACGGAGCAGGAGAUUCCAGGUUCGAUCCCUGGC----------
+>LK962776.1/442-514/3-70 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0012622
+c---CUUGUGGCCUAAUGGAGAAGCCGUCGGACAUCGGAUCUGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>LBQB01000002.1/188956-188883/4-70 [subseq from] Candidate division CPR3 bacterium GW2011_GWF2_35_18 UR67_C0002, whole genome shotgun sequence.
+c----UCGUAGCUCAAcUGGAUAGAGCGUCUGUCUUCGGAACAGAAGGUUACAGGUUCAAAUCCUGUCGGG-------
+>KQ080017.1/550985-551057/6-69 [subseq from] Stomoxys calcitrans breed 8C7A2A5H3J4 unplaced genomic scaffold Scaffold95, whole genome shotgun sequence.
+u------GUUGCACAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGACAUCUGGCAG--------g
+>AZAQ01092676.1/24118-24190/2-66 [subseq from] Stegodyphus mimosarum contig92676, whole genome shotgun sequence.
+u--CCGCGUGGCCUAACGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAAUAUCGAACCCU-------------gcu
+>LFJF01026268.1/5916-5990/4-72 [subseq from] Macrostomum lignano unitig_26323, whole genome shotgun sequence.
+cg-----CGUGGCGCaAAUGGAUAACGCGUCUGACUACGGAUCAGAaAGAUUCCAGGUUCGAGUCCUGGCGUG-------g
+>CBTN010000056.1/209608-209536/8-66 [subseq from] Lichtheimia corymbifera JMRC:FSU:9682, FSU 9682, WGS project CBTN01000000 data, contig: SCAF00056
+-------UGGCCAAAUGGAUAAGGCGCCUGACUACGAAUCAGGAGAUUCCAGGUUCGACCCCUGG-----------u
+>ABAV01005834.1/13059-13131/3-67 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_34_Cont5834, whole genome shotgun sequence.
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGAGGGUUCGAUUCC--------------cuucg
+>JH992973.1/984524-984452/3-68 [subseq from] Guillardia theta CCMP2712 unplaced genomic scaffold GUITHscaffold_9, whole genome shotgun sequence.
+c---CCCGUGGCCCAAUGGACAAGGCGCCUGCCUACGGAGCAGGAGAUUCACGGUUCGAGUCCGUGCG---------g
+>AANH01013989.1/17285-17357/4-63 [subseq from] Gasterosteus aculeatus cont1.013988, whole genome shotgun sequence.
+ca-----UGUGGCCUAAUGGACAAGGCGUCUGACUUCGGAUCAGAAGAUGGACGGUUCGAGUCC--------------c
+>AACT01003726.1/189-120/3-66 [subseq from] Ciona savignyi cont_3726, whole genome shotgun sequence.
+ucc-------UGGAUCAAAGGA-AAGGCGCCUGACUACGAAUCAGGAGAUUCCAGGUUCGAGUCCUGGCAG--------g
+>KQ964490.1/66126-66054/6-70 [subseq from] Conidiobolus coronatus NRRL 28638 unplaced genomic scaffold CONCOscaffold_73, whole genome shotgun sequence.
+ua-------UGGCCCAAUGGAUAAGGCGUCGGACUUCUAAUCCGAAGAUUCCGGGUUCGACCCCCGGUAGG-------g
+>DG000006.5/17002418-17002500/25-80 [subseq from] Oryzias latipes DNA, chromosome6, strain: Hd-rR.
+g---------------UGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGCG-------g
+>CM003279.1/28598881-28598953/7-68 [subseq from] Salmo salar isolate Sally breed double haploid chromosome ssa01, whole genome shotgun sequence.
+------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCACAAGAUUGAGGGUUCGAGUCCC-------------uucgu
+>LL199688.1/11413-11341/4-70 [subseq from] Heligmosomoides polygyrus genome assembly, scaffold: HPBE_scaffold0010641
+a----UCGUGGCCUAAUGGAUAAGGCGUCGGUCUCCUAUACGGAAGAAUCAAGGUUCGAGUCCUUGCUGG-------g
+>AACT01060542.1/8877-8806/5-68 [subseq from] Ciona savignyi cont_60542, whole genome shotgun sequence.
+cu------GUGGCCCAAUGGAUAAGGCGCCUGACUACGAAUCAGGAGAUU-CAGGUUCGAGUCAUCGCAG--------g
+>LK960479.1/629-557/3-70 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0010469
+c---CUUGUGGCCUAAAGGAUCAGGCGUCGGACUUCGGAUACGAAGAUUACAGGUUCGAGUCCUGCCAGG-------g
+>FR853094.2/77295884-77295812/6-69 [subseq from] Gorilla gorilla gorilla genomic chromosome, chr2A, whole genome shotgun sequence
+a------GUGGCUCAAUGGAUAAUGCGUCUGACUAAGAAUCAGAAGGUUCCAGGCUUGACUCCUGGCUG--------g
+>AZAQ01092676.1/23793-23865/2-71 [subseq from] Stegodyphus mimosarum contig92676, whole genome shotgun sequence.
+u--CCGCGUGGCCUACCCGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGAUUCGGAACCUGUCGCGG------a
+>LK955033.1/1250-1322/6-66 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0005240
+cu-------UGGCCUAAUGGAAAAGGCGUCUGACUUCGAACCACAAAAUUGCAGGUCCGACUCC--------------ggcu
+>LK940880.1/225-297/4-70 [subseq from] Angiostrongylus costaricensis strain Costa Rica genome assembly, scaffold: ACOC_scaffold0001188
+cg-----CGUGGCGAAUUGGAUAACGCGUCUGCCUACGGAGCAGAAGAUUUCAGGUUCGAGUCCUGCCGUG-------g
+>ACJG01004798.1/6223-6151/6-66 [subseq from] Daphnia pulex DAPPUscaffold_113_Cont4798, whole genome shotgun sequence.
+u------GUGGCCCAAUGGAUAAGGCGCCUGCCUACGGAGCAGGAGAUUCCAGGUUCGGUUCCUGGC----------
+>LK948143.1/5622-5550/6-70 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_scaffold0001637
+-----CGUGGUCAAAUGGAUAAGGCGUCUGACUUCUAAUCAGAAGAUUGCCGGUUCCACCCCGGCCG---------ugg
+>MFRT01000008.1/35472-35400/2-71 [subseq from] Candidatus Moranbacteria bacterium RBG_13_45_13 RBG_13_scaffold_1463, whole genome shotgun sequence.
+-UCCUCGUGGCUCAACGGAUAGAGCACCUGGCUUCGGACCAGGGGAUUGUAGGUUCGAAUCCUACCGAGG------a
+>CM003279.1/28596722-28596794/5-70 [subseq from] Salmo salar isolate Sally breed double haploid chromosome ssa01, whole genome shotgun sequence.
+g-----CGUGGCCUAAUGGAUAAGGCCUCUGACUUCGAAUCAGAAGAUUGAGGCUUCGAGUCCCUUCG---------ugg
+>GK000012.2/81103980-81103908/6-69 [subseq from] TPA: Bos taurus chromosome 12, whole genome shotgun sequence.
+a------GUGGCACAAUGGGUAAUGCAUCUGACUACCCAUCAGAAGAUUCCAAGUUCAACUCCUGGCUG--------g
+>LRGB01021540.1/251-179/7-66 [subseq from] Daphnia magna strain Xinb3 contig48115, whole genome shotgun sequence.
+------GUGGCCCAAUGGAUAAGGCGCCUGCCUACGGAUCAGGAGAUUCCAGGUUAGAUCCCUGG-----------c
+>LGKD01650450.1/97-25/5-67 [subseq from] Octopus bimaculoides Scaffold282818_contig_1, whole genome shotgun sequence.
+u-----UGUGGCGCAAUGAAUAACGCGUCUGACUACGGAUCAGAAGAGUCCAGGUUCGACUCCUGGC----------a
+>AACT01031142.1/7265-7339/4-60 [subseq from] Ciona savignyi cont_31142, whole genome shotgun sequence.
+cg-----CAUGGCCUAAUGGAUAUGGCGUCUGACUUCGAAUCAGAAGAUUGAGGGUUCGAG-----------------u
+>MLAK01001014.1/33086-33158/7-65 [subseq from] Tritrichomonas foetus strain K scaffold_579, whole genome shotgun sequence.
+a-------UGGCCCAAUGGAUAAGGCGCCUCCCUUCGGAGGAGGAGAUUCCAGGUUCGAGUCCUGG-----------
+>MEXB01000004.1/1870-1799/4-68 [subseq from] Candidatus Adlerbacteria bacterium RIFOXYC1_FULL_48_26 rifoxyc1_full_scaffold_190, whole genome shotgun sequence.
+---CUCGUGGUGAAAUGGAUAUCACGGCUGGCUUCGAACCAGCUG-UUCCAGGUUCGAGUCCUGGCGGG-------
+>ACJG01001722.1/2517-2445/6-66 [subseq from] Daphnia pulex DAPPUscaffold_30_Cont1722, whole genome shotgun sequence.
+u------GUGGCCUAAUGGAUAAGGCGCCUGGCUACGGAGCAGGAGAUUCCUGGUUCGAUCCCUGGC----------
+>LK950436.1/9540-9468/5-70 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0002042
+g-----CGUGGCGCAAUGGAUAAUGCGUCUGAUUACGGAGCAGAAGAUUGCAGGUUCGAAUCCUGCCGUG-------g
+>ABAV01005834.1/6265-6338/3-69 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_34_Cont5834, whole genome shotgun sequence.
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGgAAUCAGAAGAUUGAGGGUUCGAGUCCC-------------uucgu
+>MCFE01000452.1/19065-19137/7-68 [subseq from] Basidiobolus meristosporus CBS 931.73 K493scaffold_452, whole genome shotgun sequence.
+a-------UGGCCAAAUGGAUAAGGUGCCUGACUACAGAUCAGGAGAUUCCAGGUUCAAUCCCUGGCG---------u
+>LBVO01000045.1/9024-9096/3-70 [subseq from] Berkelbacteria bacterium GW2011_GWA2_38_9 UT11_C0045, whole genome shotgun sequence.
+--CCUCGUAGCUCAAUGGAUAGAGUGCUUGGCUUCGGACCAAGAGGUUACAGGUUCGACUCCUGUCGGGG------
+>ABAV01005834.1/3217-3289/3-64 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_34_Cont5834, whole genome shotgun sequence.
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGAUUCCGAAUCAGAAGAUUAAGGGUUCCAGUA---------------ccu
+>ABEG02002706.1/48903-48831/4-70 [subseq from] Caenorhabditis brenneri strain PB2801 C_brenneri-6.0.1_Cont74.23, whole genome shotgun sequence.
+cg-----CGUGGCCUAAUGGAUAAGGCACCAGACUUCGAAUCUGGGGAUUGCAGGUUCGAGUCCUGCCGUG-------g
+>KN173026.1/28090-28162/4-69 [subseq from] Steinernema glaseri strain NC unplaced genomic scaffold GLAS_6904, whole genome shotgun sequence.
+c----CCGUGGCCUAAAGGACAAGGCGUCGGACUUCUAAUCCGAAGACUGCGGGUUCGAGUCCCGUCGGG-------
+>MHNC01000035.1/6181-6253/5-69 [subseq from] Candidatus Portnoybacteria bacterium RIFCSPHIGHO2_12_FULL_40_11 rifcsphigho2_12_scaffold_30847, whole genome shotgun sequence.
+c-----CGUAGCUCAAUGGAUAGAGCGUGUGGCUUCGAACCACAAGGUUGCACGUUCGAGUCGUGCCGGG-------
+>AZAQ01166562.1/1-57/4-55 [subseq from] Stegodyphus mimosarum contig166562, whole genome shotgun sequence.
+ua---------------------AGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAAUCCUGUCGCGG------a
+>LK944545.1/871-799/4-70 [subseq from] Angiostrongylus costaricensis strain Costa Rica genome assembly, scaffold: ACOC_contig0002979
+cc-----UGUGGCCUAAUGGAUAAGGCGUCGGCCUCCUAAUCCGAAGACUCAAGAUUCGAGUCCUUGCUGG-------g
+>GL010135.1/2741750-2741678/3-64 [subseq from] Loxodonta africana unplaced genomic scaffold scaffold_108, whole genome shotgun sequence.
+c---CCCGUGGCCUAAUGGAUAAGGCAUCUGACUUCAGAUCAGAAGACUGAGGGUUCAAGUCC--------------cu
+>ANCG01024657.1/8123-8195/5-70 [subseq from] Necator americanus N_americanus-1.0_Cont259.44, whole genome shotgun sequence.
+u-----UGUGGCUUAAUGGAUAGGGCGUCGGACUACGGAUCUGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>JTDY01004587.1/18565-18637/4-66 [subseq from] Operophtera brumata OBRU01_Sc04587, whole genome shotgun sequence.
+ca-----UGUGGCGCAAUGGAUAGUGCGUCUGACUACGGUUCAGAAGAUUACAGGUUCGAAUCCUGGC----------
+>ABAV01005834.1/9134-9206/3-67 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_34_Cont5834, whole genome shotgun sequence.
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGGUUGAGGGUUCGAGUCCC-------------uucg
+>FR847121.2/1512338-1512281/1-57 [subseq from] Caenorhabditis briggsae complete genome, chrV
+-------UGGCCUAAUGGAUAAAGCGUCUGACUUCUAAUCAGAAGAUUGCAGGUUCAAGCCUU-------------g
+>CAGA01000039.1/73516-73444/3-61 [subseq from] Claviceps purpurea 20.1, WGS project CAGA01000000 data, contig: scaffold00041
+c---CUUGUGGCCUAAUGGCUAAGGCGUCUGACUUCUAAUCAGAAGAUUGGCGGUUCGA------------------ccc
+>ABLG01000109.1/100064-100136/4-70 [subseq from] Meloidogyne hapla strain VW9 Mh10g200708_Contig108, whole genome shotgun sequence.
+cca------GUGGCGCAAUGGAUAGCGCGUCUGUCUUCGGAACAGAAGGUUGUAGGUUCGAGUCCUGCCUGG-------g
+>ABAV01040584.1/433-505/3-63 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_2155_Cont40584, whole genome shotgun sequence.
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGGGGGUUCGAAUCC--------------c
+>KB007805.1/1293960-1293889/5-67 [subseq from] Acanthamoeba castellanii str. Neff unplaced genomic scaffold scf7180000084777, whole genome shotgun sequence.
+----UCGUGGCCUAAUGGA-AAGGCGUCUGACUCCGGAUCAGAAGACUCGGGGUUCAAGUCCCCGCG---------g
+>AMCR01011881.1/6304-6376/6-63 [subseq from] Oxytricha trifallax strain JRB310 Contig15931.0 macronuclear, whole genome shotgun sequence.
+ca-------UGGCCUAAUGGAUAAGGCGUCUGACUACGGAUCAGAAGAUUGAGGGUUCAAGUCC--------------c
+>KV453842.1/1032307-1032388/1-82 [subseq from] Tortispora caseinolytica NRRL Y-17796 unplaced genomic scaffold CANCAscaffold_2, whole genome shotgun sequence.
+UUCCUCGUGGCCCAAUGG-CAAGGCGUUCGCCUACGAuugcgucacuAGCGAAAGAUUCCAGGUUCGACCCCUGGCGGGGAAG---
+>CAVP010028302.1/1581-1652/3-59 [subseq from] Haemonchus contortus, ISE/inbred ISE, WGS project CAVP01000000 data, contig: Hcontortus_28302
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCUAAUCAGAAGAUUGUCGGUUCG-------------------au
+>LGKD01683665.1/800-872/5-69 [subseq from] Octopus bimaculoides Scaffold345250_contig_1, whole genome shotgun sequence.
+g-----CGUGGCCGAAUGGACAAGGGGUCUGACUUCGUAUCAGAAGAUUGCGAGUUCGUGUCCCGUCG---------ug
+>LAZP01000015.1/17060-17142/4-80 [subseq from] Ophiocordyceps unilateralis strain SC16a Contig_15, whole genome shotgun sequence.
+cg-----CGUGGCCAAAUGGUUAUGGCGUCAGAUUUCGGUCcguacauucuCUGAAGAUUCCAGGUUCGACUCCUGGCGUG-------g
+>LKCW01000007.1/217145-217217/4-68 [subseq from] Neonectria ditissima strain R09/05 contig_7, whole genome shotgun sequence.
+c----CCGUGGCCUAAUGGUUAAGGCGCCUGCCUUCUAAGCAGGAGAUUGCCAGUUCAAC-CCUGGC----------cgg
+>KE375181.1/998613-998684/4-63 [subseq from] Blumeria graminis f. sp. tritici 96224 unplaced genomic scaffold Scaffold-7, whole genome shotgun sequence.
+cug------CUGGCCCAAUGG-CAAGGCGUUUGACUUCGAAUCAAAAGAUUACAGGUUCGACCCCU-------------g
+>LL188701.1/83726-83798/4-67 [subseq from] Heligmosomoides polygyrus genome assembly, scaffold: HPBE_scaffold0000332
+cg-----CGUGGCGCAAUGGAUAACGCGUCUGCUUACGGAGCAGAAGAUUCCAGGUUUGGAUCCUGGCG---------
+>AFWA02000006.1/60548-60476/7-69 [subseq from] Pneumocystis murina B123 supercont1.6, whole genome shotgun sequence.
+a-------UGGCCCAAUGGUUAAGGCGCAUGACUACGGAUCAUGAGACUCCAGGUUCGACUCCUGGUU---------gg
+>MEZY01000014.1/2083-2010/3-71 [subseq from] Candidatus Berkelbacteria bacterium RIFOXYA2_FULL_43_10 rifoxya2_full_scaffold_1689, whole genome shotgun sequence.
+c---CCCGUAGCUCAAUUGGAUCGaGCGUCUGACUUCGGAUCAGAAGGUUGCAGGUUCGAGUCCUGCCGGGG------
+>AOMV02001179.1/100-172/6-66 [subseq from] Anncaliia algerae PRA109 cont4.1179, whole genome shotgun sequence.
+u------GUGGCCCAACGGCUAAGGCGUCUGACUACGGAUCAGGAGAUUGCGGGUUCAAAUCCCG------------uc
+>ABAV01007093.1/1378-1450/3-68 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_44_Cont7093, whole genome shotgun sequence.
+c---CGCGUGGCCUAAUUGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGAGGGUUCGAAUCCC-------------uucgu
+>MFGS01000075.1/5620-5693/6-70 [subseq from] Candidatus Firestonebacteria bacterium RIFOXYA2_FULL_40_8 rifoxya2_full_scaffold_2504, whole genome shotgun sequence.
+cguag----------CGCAAuUGGAUAGAGUAUCUGGCUUCGAACCAGAGGGUUGCAGGUUCAAAUCCUGCCGGG-------
+>MCFD01000003.1/1424457-1424384/4-71 [subseq from] Linderina pennispora strain ATCC 12442 DL89scaffold_3, whole genome shotgun sequence.
+cg-----CGUGGCCCAAUGGAUAAGGCGCUUGACUACGGAUCAAGCGAUUCCAGGUuUCGAGUCCUGGCGUG-------g
+>LGKD01549216.1/10-82/3-66 [subseq from] Octopus bimaculoides Scaffold145652_contig_43, whole genome shotgun sequence.
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUGGCGAGAUCGUGUCUUG------------uu
+>AFFK01021431.1/94132-94204/6-68 [subseq from] Strigamia maritima strain Brora ctg7180001231943, whole genome shotgun sequence.
+u------GUGGCGCAACGGAUAACGCGUCUGACUACGAAUCAGGAGAUUGCAGGUUCGAAUCCUGUC----------ag
+>LK939224.1/32998-33070/3-69 [subseq from] Angiostrongylus costaricensis strain Costa Rica genome assembly, scaffold: ACOC_scaffold0000080
+c---CUUGUGGCAUAAUGUAUAAGGCGUCUCACUUUGGAUCCGAAGAUUACAGGUUCGAGUCCUGC-----------caag
+>JMHZ01002226.1/1928-1867/3-59 [subseq from] Trichuris suis C399945.1, whole genome shotgun sequence.
+a--------------AUGGAUAACGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGCG-------g
+>MEVC01000003.1/19365-19437/6-67 [subseq from] Candidate division WWE3 bacterium RIFCSPHIGHO2_01_FULL_48_15 rifcsphigho2_01_scaffold_1389, whole genome shotgun sequence.
+c------GUAGCUCAACGGAUAGAGCGUCUGGCUUCGGACCAGAAGGCUGCAGGUUCGAUUCCUGUC----------g
+>MLAK01000578.1/47743-47671/3-68 [subseq from] Tritrichomonas foetus strain K scaffold_186, whole genome shotgun sequence.
+--CCUCGUGGCCCAAUGGAUAAGGCGUGUGCCUCCUAAGCAUAAGAUUGCGGGUUCGACUCCCGCC----------gu
+>MEUF01000021.1/12162-12235/6-70 [subseq from] Candidate division WOR-1 bacterium RIFOXYB2_FULL_48_7 rifoxyb2_full_scaffold_1623, whole genome shotgun sequence.
+cgua---------GCUCAAuUGGAUAGAGCGUCUGCCUUCGAAGCAGCAGGCUACAGGUUCAAGUCCUGUCGGG-------
+>ABAV01004526.1/36492-36420/4-70 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_25_Cont4526, whole genome shotgun sequence.
+cc-----UGUGGCCCAGUGGAUAAGGCGCCUGAAUACGGAUCAAGAGAUUCCAUGAUCGAGUCCUGGCAGGG------
+>LK948670.1/20527-20599/4-70 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_scaffold0001946
+cau------GUAGCCUAAUGGAUAACGCGUCAUGCUUCGGAUCCGAAGAUUGCAGGUUCGAGUCUUGCCAGG-------g
+>LJIJ01000312.1/32630-32558/4-68 [subseq from] Orchesella cincta Ocin01_Sc0312, whole genome shotgun sequence.
+u----UCGUGGCCCAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGUGGGUUCGAAUCCCA------------ucgg
+>CDHN01000004.1/901968-901896/3-70 [subseq from] Torrubiella hemipterigena genome assembly, contig: SCAF4
+c---CCCGUGGCCUAAUGGCUAAGGCGUGAGACUUCUAAUCUCAAGAUUGCGGGUUCGAGUCCCGCCGGGG------
+>LK995652.1/59497-59425/7-66 [subseq from] Rhabditophanes sp. KR3021 genome assembly, scaffold: RSKR_contig0000035
+u-------UGGCCCAGUGGAUAAGGCGUCUGACUUCUAAUCAGAAGAUCCCCGGUUCGACCCCGG------------ga
+>AANH01006466.1/21615-21554/2-57 [subseq from] Gasterosteus aculeatus cont1.006465, whole genome shotgun sequence.
+------GUGGCCUAAUGGACAAGGCGUCUGACCUUGAAUCAGAAGGUUGAGGGUUCAAGUCC--------------
+>LK947178.1/309-381/3-65 [subseq from] Angiostrongylus cantonensis strain Taiwan genome assembly, scaffold: ACAC_contig0000582
+c---CUUGUGGCCUAAUGCAUAAAGCGUCGGACUUCGGAUCCGAAGAUUCCGGGUUCGAGUCCU-------------cc
+>LL236258.1/5336-5264/5-68 [subseq from] Echinostoma caproni strain Egypt genome assembly, scaffold: ECPE_scaffold0003163
+cua-------UGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUGGCAGGUCUGAGUCAUGC-----------cag
+>KN172817.1/327-398/3-69 [subseq from] Steinernema glaseri strain NC unplaced genomic scaffold GLAS_6687, whole genome shotgun sequence.
+--CCUCGUGGCGCAAUGGAUAACGCGUCGGUCUACGAACC-GAAGAUUGCAGGUUCGAAUCCUGCCGAG-------g
+>KQ257468.1/219143-219215/7-67 [subseq from] Spizellomyces punctatus DAOM BR117 chromosome Unknown supercont1.19, whole genome shotgun sequence.
+a-------UGGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCGAGGUUCGAAUCCUC------------gua
+>JH370152.1/39198-39270/3-71 [subseq from] Vittaforma corneae ATCC 50505 unplaced genomic scaffold supercont1.23, whole genome shotgun sequence.
+u---CUCGUAGCGUAAUGGCUAACGCGUCUGCCUUCUAAGCAGAAGACUGCGGGUUCGAGUCCCGCCGAG-------gg
+>ACJG01007900.1/1215-1287/6-64 [subseq from] Daphnia pulex DAPPUscaffold_256_Cont7900, whole genome shotgun sequence.
+u------GUGGCCUAAUGGAUAAGGCUUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCUG------------
+>CM003282.1/7214761-7214689/5-63 [subseq from] Salmo salar isolate Sally breed double haploid chromosome ssa04, whole genome shotgun sequence.
+g-----CGUGGCCUAAUGGAUAAGGCGUCUGAUUUCAAAUCAGAAGAUUGAGGGUUCGAGUCC--------------c
+>CBXK010000184.1/17218-17290/4-69 [subseq from] Trichuris trichiura, WGS project CBXK01000000 data, contig: TTRE_184
+ca-----UGUGGCCUAAUGGAUAAGGCGUCGGUCUCCUAAACCGAAGACUGCGGGUUCAAGUCCCGCCG---------ug
+>KB454544.1/37834-37906/5-65 [subseq from] Galdieria sulphuraria unplaced genomic scaffold scaf_60, whole genome shotgun sequence.
+uac-------UGGCCUAAUGGAUAAGGCGUCCGCCUCCGGAGCGGGAGAUUCCAGGUUCGAGUCCUGG-----------
+>MKTT01000120.1/57538-57466/3-70 [subseq from] Planctomycetales bacterium 71-10 scnpilot_p_inoc_scaffold_588, whole genome shotgun sequence.
+--CCUCGUAGCUCAACGGAUAGAGUCACUGACUUCGAAUCAGAAGGUUGCAGGUUCGAAUCCUGCCGAG-------g
+>LM435892.1/15349-15421/4-70 [subseq from] Nippostrongylus brasiliensis genome assembly, scaffold: NBR_contig0000091
+cg-----UGUGGCCUAAUGGAUAAGGCAUCGAGCUUCGGAUCCGAAAACUGCAGGUUCGAGUCCUGCCAGG-------g
+>FQVZ01000016.1/27677-27750/9-67 [subseq from] Fibrobacter sp. UWB8 genome assembly, contig: Ga0136280_116
+agc----------CCAACUGGAUAGAGCGUUUGGCUACGAACCAAAAGGCUCCAGGUUCGAGUCCUGGC----------
+>LM413555.1/96194-96266/3-68 [subseq from] Enterobius vermicularis genome assembly, scaffold: EVEC_scaffold0000004
+c---CUUGUGGCCUAAUGGAUAAGGCGUCGCCCUCCGGAGGCGAAGAUUGCAGGUUCAAGUCCUGC-----------caa
+>AAHC01001165.1/7090-7018/4-63 [subseq from] Trichomonas vaginalis G3, whole genome shotgun sequence.
+c----UUGUGGCCCAAUGGAUAAGGCGUCGGCCUUCGAAGCCGAAGAUUGAGGGUUCGAGUCC--------------c
+>MCOG01000069.1/418928-419000/5-66 [subseq from] Neocallimastix californiae strain G1 LY90scaffold_69, whole genome shotgun sequence.
+ca------GUGGCCUAAUGGAUAAGGCGUCAGACUUCGGAUCUGAAGAUUGCGGGUUCGAGUCCCG------------uu
+>FN649746.1/1469518-1469590/4-68 [subseq from] Ectocarpus siliculosus strain Ec 32, whole genome shotgun sequence assembly, chromosome LG21
+---CUCGUGGCCUAAUGGAUAAGGUGUCUGUUUCCGACGCAGAAGAUUCGGGGUUCGAAUCCCCGC----------ga
+>AEUI02000202.1/53585-53657/4-70 [subseq from] Ascaris suum AG00202, whole genome shotgun sequence.
+cc-----UGUGGCCUAAUGGAGAAGGCGUCGGACUUCGGAUCCGAAGCUUGUAGGUUCGAGUCCUGCCAGG-------g
+>ACJG01003109.1/641-569/5-66 [subseq from] Daphnia pulex DAPPUscaffold_58_Cont3109, whole genome shotgun sequence.
+u-----UGUGGCGCAAUGGAUAACGCACCUGACUACGGAUCAGGAGAUUCCAGGUUCAACUCCUG------------ac
+>ACJG01005494.1/4150-4078/6-66 [subseq from] Daphnia pulex DAPPUscaffold_135_Cont5494, whole genome shotgun sequence.
+u------GUGGCCCAAUGGAUAAGGCGCCUGCCUACGGAGCAGGAGAUUCCAGGUUCGUUCCCUGG-----------c
+>MLAK01000692.1/49292-49220/7-68 [subseq from] Tritrichomonas foetus strain K scaffold_289, whole genome shotgun sequence.
+c-------UGGCCCAAUGGAUAAGGCGUGUGCCUACGGAGCAUGAGAUUCUAGGUUCGAGUCCUGG-----------gug
+>ABAV01007093.1/2678-2751/10-69 [subseq from] Nematostella vectensis strain CH2 x CH6 NEMVEscaffold_44_Cont7093, whole genome shotgun sequence.
+--------GGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGAGGGUUCGAGUCCC-------------uucgu
+>HG724688.1/13181-13253/6-65 [subseq from] Eimeria necatrix Houghton genomic scaffold, Enh_scaff291
+-----CGUGGCCCAAUGGAUAGGGCGUCUGACUUCGGAUCAGAAGGUUGUGGGUUCGAGUCC--------------cau
+>LL755409.1/1784-1711/3-71 [subseq from] Gongylonema pulchrum genome assembly, scaffold: GPUH_scaffold0006338
+--CCUCGUGGCGCAAuUGGACAACGCGUCGGUCUACGGAACCGAAGAUUGCAGGUUCGAGUCCUGCCGGGG------
+>MNDC01000007.1/84523-84596/4-71 [subseq from] Acidobacteria bacterium 13_2_20CM_58_27 13_2_20cm_scaffold_59, whole genome shotgun sequence.
+cc-----CGUAGCUCAAuUGGAUAGAGCGAAUGGCUUCGAACCAUUAGGUUCCGAGUUCAAGUCUCGGCGGGG------
+>JPKZ01001884.1/455-527/4-70 [subseq from] Toxocara canis scaffold1623, whole genome shotgun sequence.
+cg-----CGUGGCCCAAUGGACAACGCGUCGGACUACGGAACCGAAGAUAGCAGGUUCGAAUCCUGCCGUG-------g
+>LCCW01000067.1/4978-4906/6-69 [subseq from] Parcubacteria (Kuenenbacteria) bacterium GW2011_GWA2_42_15 UV02_C0067, whole genome shotgun sequence.
+u------GUAGCUCAACGGAUAGAGCGUGUGGCUUCGGACCACAAGGUUGCGGGUUCAAGUCCUGCCAG--------g
+>APAU02000007.1/903637-903709/3-68 [subseq from] Echinococcus granulosus EG_S00007, whole genome shotgun sequence.
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGCCUCCUAAGUAGAAGAUUGUGGGUUCGAGUCCC-------------accgu
+>AAGJ05060718.1/936-1008/4-64 [subseq from] Strongylocentrotus purpuratus Contig60718_fixed, whole genome shotgun sequence.
+cg-----CGUGGCCUAAUGUAUAAGGCGUCCGACUUCGAAUCUGAAGAUUGAGGGUUCGAGUCC--------------cu
+>DS232192.1/392730-392657/5-69 [subseq from] Culex pipiens quinquefasciatus supercont3.380 genomic scaffold, whole genome shotgun sequence.
+c-----CGUGGCUUAAUGGCAACGGCCUCUGCCUUAUAAGCAGAAGGUUCAGGGAUCAAAUCCCGGCCG--------g
+>URS0001BC904E/1-73 [subseq from] ncRNA from 13 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAACCAGAAGAUUCCAGGUUCAAGUCCUGGCGGGGAAG---
+>URS0000688315/1-73 [subseq from] tRNA from 1 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAACCAGAAGAUUCCAGGUUCAAGUCCKGGCGGGGAAG---
+>URS00004841FA/1-73 [subseq from] tRNA from 1 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAAUCAGAAGAUUCCAGGUUCGAGUCCUGGCGGGGAAG---
+>URS0000AD19B8/1-73 [subseq from] tRNA from 1 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACCAACCAGAAGAUUCCAGGUUCGAGUCCUGGCGGGGAAG---
+>URS00021C7A91/1-73 [subseq from] tRNA from 1 species
+UUCCUCGUGGCCCAAUGGUUACGGCGUCUGGCUACGAACCAGAAGACUCCAGGUUCGAGUCCUGGCGGGGAAG---
+>URS0000754F37/1-82 [subseq from] tRNA from 1 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAACCAGAAGAUUCCAGGUUCAAGuccuuucaagUCCUGGCGGGGA-----a
+>URS0000830D5A/1-73 [subseq from] tRNA from 1 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAACCAGGAGAUUCCAGGUUCGAGUCCUGGUGGGGAAG---
+>URS0000561C28/1-73 [subseq from] tRNA from 6 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCCGGCUACGAACCGGAAGAUUCCAGGUUCGAGUCCUGGCGGGGAAG---
+>URS0000810011/1-75 [subseq from] tRNA from 1 species
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUACGAuaACCAGGAGAUUCCAGGUUCGAGUCCUGGCGGGGAAG---
+>URS000055071F/1-73 [subseq from] tRNA from 1 species
+UUCCUCAUGGCCCAAUGGUCAAGGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGAGUCCUGGUGGGGAAG---
+>URS000050D193/1-73 [subseq from] tRNA from 1 species
+UUCCUCAUGGCCCAAUGGUCAAGGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGAAUCCUGGUGGGGAAG---
+>URS00022DDA62/17-75 [subseq from] tRNA from 1 species
+ag---------------CGGUCACGGCGUCUGGCUACGAACCAGAAGAUUCCAGGUUCAAGUCCUGGCGGGGAA----
+>URS000024C8C9/2-73 [subseq from] tRNA from 1 species
+uc---CCUAUGGCCCAAUGGUCAAGGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGACUCCUGGUGGGGAAG---
+>URS000257FA09/1-75 [subseq from] tRNA from 1 species
+UUCCUCAUGGCCCAAUGGUUAAGGCGUGUGGCUACGAuaACCACAAGAUUCCAGGUUCGAGUCCUGGUGGGGAAG---
+>URS00025BBF1B/2-71 [subseq from] tRNA from 1 species
+-UCCUCAUGGCCCAAUGGUUAAGGCGUUCGGCUACGAACCGAAAGAUUCCAGGUUCGAAUCCUGGUGGGGA-----
+>URS0002561E98/2-71 [subseq from] tRNA from 1 species
+u--CCACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGUGG------a
+>URS0000E2CF18/1-92 [subseq from] tRNA from 1 species
+UUCCUCAUGGCCCAAUGGUCAAGGCGUCUGGCUACGAaaguauccaaucuguugaaACCAGAAGAUUCCAGGUUCGACUCCUGGUGGGGAAG---
+>URS00002721FE/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCCAAUGGUCAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAAUCCUGGCGGGG------
+>URS00006F3392/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCAAGUCCUGUCGGGG------
+>URS000036F1A0/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCCAAUGGUCAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGACUCCUGGCGGGG------
+>URS0002605FAF/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCUAAUGGACAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGACGCGG------a
+>URS000069D9A0/3-70 [subseq from] tRNA from 1 species
+c---CCCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCAAGUCCCGUCGGGG------
+>URS0002585CD0/2-71 [subseq from] tRNA from 1 species
+u--CCACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGUUUCCAGUCCUGUCGCGG------a
+>URS00005E7705/4-69 [subseq from] tRNA from 1 species
+---CUCGUGGCCCAAUGGUCAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGACUCCUGGCGGG-------
+>URS0000A60C35/1-72 [subseq from] tRNA from 2 species
+u-UCCACGUGGCCUAAUUGGCAAGGCGUCUGACUACGAAUCAGGAGAUUGCAGGUUCAAGCCCUGUCGUGGA-----a
+>URS00020CBDD0/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCGAAUGGAUAAGGUGUCUGACUUCGGAUCAGAAGAUUCCUGGUUCGAGUCCUGGCGGGG------
+>URS0001DAD0C0/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCAAAUGGAUAAGGUGUCUGUCUACGGAUCAGAAGAUUCCAGGUUCGAGUCCUGGCGAG-------g
+>URS0000E237AA/1-92 [subseq from] tRNA from 1 species
+UUCCUCAUGGCCCAAUGGUCAAGGCGUCUGGCUACGAagguaccacuucuguugaaACCAGAAGAUCCCAGGUUCGACUCCUGGUGGGGAAG---
+>URS000072541B/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCCCAACGGAUAAGGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCAAAUCCUGGCAGGG------
+>URS0000715DCC/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAAGGAUACGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCUGUCGGGG------
+>URS000260A53B/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCCCAAUGGAUAAGGCAUCUGACUUCGAAUCAAGGGAUUCCAGGUUCGAGUCCUGGCGGGG------
+>URS00006A6474/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCUGUCGGGG------
+>URS0002188FDA/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUCUAGGUUCGAGUCCUAGUAGG-------g
+>URS0002600C95/2-71 [subseq from] tRNA from 1 species
+u--CCACCUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUCGCAGGUUCAAGUCCUGUCGCGG------a
+>URS0002521721/1-71 [subseq from] tRNA from 1 species
+UUCCUAGUGGCCAAAUGG-CAAGGCGUCUGACUACGAAUCAGAAGAUUGCAGGUUCGAGUCCUGUCUGGGAA----
+>URS00019801FE/6-70 [subseq from] tRNA from 1 species
+u------GUGGCCCAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAAUCCUGCCAGG-------g
+>URS000260D978/3-70 [subseq from] tRNA from 1 species
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGUGG------a
+>URS0002598879/5-69 [subseq from] tRNA from 1 species
+cu------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCUAGUCCUGCCAG--------g
+>URS00006F3E53/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCUGCCGGGG------
+>URS0000EEA6E8/4-70 [subseq from] tRNA from 1 species
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAAUCCUGCCGUG-------g
+>URS00011ABC87/2-71 [subseq from] tRNA from 13 species
+u--CCAUGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUACAGGCUCGAGUCCUGUCAUG-------ga
+>URS00018A512C/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>URS00020D13AD/5-70 [subseq from] tRNA from 1 species
+----UCGUGGCCAAAUGGAUAAGGUGUCUGACUUCGGAUCAGACGAUUCCAGGUUCGAGUCCUGGCGAG-------g
+>URS00022AF514/15-82 [subseq from] tRNA from 1 species
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGCG-------gu
+>URS00019ACE04/3-70 [subseq from] tRNA from 1 species
+c---CCCGUGGCCCAAUGGAUAAGGCGACUGACUUCUAAUCAGUAGAUUGCAGGUUCGAGUCCUGCCGGGG------
+>URS0000C5A02C/3-69 [subseq from] tRNA from 1 species
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCG---------cg
+>URS0001DCAA9F/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUGGAUAAAGCGUCUGACUUCGGAUCAGAAGAUUGUAGGUUCAAGUCCUGCCGGGG------
+>URS00008532C2/3-70 [subseq from] tRNA from 2 species
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGUG-------g
+>URS00025F9473/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCUAAUGGACAAGGCGUCUGAUUCCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGCGG------a
+>URS00014DD496/3-71 [subseq from] tRNA from 13 species
+cc----GCCUGGCCCAAUGGAUAGGGCGUCGGACUUCGAAUCAGAAGAUUACAGGUUCGAGUCUUGUCGCGG------a
+>URS0002606B93/2-71 [subseq from] tRNA from 1 species
+u--CCACGUGGCCUAAGGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGUGG------a
+>URS00022BD68C/3-68 [subseq from] tRNA from 1 species
+c---CUCCUGGCCCAAUGGUUAGGGCAUCUGGCUUCGAACCAGGGGAUUGCAGGUUCGAGUCCUGC-----------ggg
+>URS0000C8C327/4-68 [subseq from] tRNA from 1 species
+cg-----CAUGGCCUAAUGGUUAAGGCGUCUGACUUCGAAUCAGGAGACUGCAGGUUCAAGUCCUGC-----------ugu
+>URS00021F718D/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCGCAACGUUCAACGCGUCUGAUUUCAAAUCAGAAGAUUCCAGGUUCAAAUCCUGGCAGGG------
+>URS00020491F5/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCAAAUGGAUAAGUUGUCUGACUGCGUAUCAGAAGAUUCCCGGUUCGAGUCCUGGCGGGG------
+>URS00019EFF5E/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCGCAAUGGAUAACGCGUCUGACUUCGAAUCAGAAGAUUCCAGGUUCGAUCCCUGGCAGGG------
+>URS0000922CD0/3-70 [subseq from] tRNA from 2 species
+--CCUCGUGGCCCAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCUGCCGGGG------
+>URS000072789E/3-68 [subseq from] tRNA from 2 species
+c---CUUGUGGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCUGGC----------ag
+>URS000258CBD1/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCUAAUGGCUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAAUCUAGUCGCGG------a
+>URS000067E198/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCAAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCCGUCGGGG------
+>URS00019C60F3/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCUAAUGGAUAAGGUGUCUGACUUCGGAUCAGAUGAUUGCAGGUUCGAGUCCUGCCGGGG------
+>URS000062B195/3-72 [subseq from] tRNA from 1 species
+c---CUUGUGGCCCAAUGGACAAGGCGGCUGACUACGGAUCAGGAGAUUCCAAGUUCGAGUCCUUGCAGGG------ua
+>URS0000EEA036/3-68 [subseq from] tRNA from 1 species
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAAUCCUG------------cugu
+>URS00006A326B/3-70 [subseq from] tRNA from 1 species
+c---CUAGUGGCCUAAUGGAUAAGGCGUCUGACUUCUAAGCAGAAGAUUGCAGGUUCGAGUCCUGCCUGG-------g
+>URS00025D6998/2-68 [subseq from] tRNA from 1 species
+u--CCACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCUGGUUCGAAUCCUGUC----------gc
+>URS000025D574/82-15 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUGGAUAAGGCGUCUGACUUCUAAUCAGAAGAUUGCAGGUUCGAGCCCUGCCUGG-------g
+>URS00025FE403/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUAGCCUAAUGGAUAAGACGUCCGACUUCGAAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGCGG------a
+>URS0000EE96FE/3-67 [subseq from] tRNA from 1 species
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUG------------uug
+>URS0000C1031F/4-70 [subseq from] tRNA from 1 species
+c----CCGUGGCCUAAUGGAUAGGGCGUCUGACUUCGGAUCAGAAGAUUGCGGGUUCAAGUCCCGCCGGGG------
+>URS0002020174/3-75 [subseq from] tRNA from 1 species
+--CCUCGUGGCCAAAUGGACcggauAAGGUGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGAGUCCUGGCGGGG------
+>URS0000724C99/3-67 [subseq from] tRNA from 1 species
+c---CUUGUGGCCCAAUGGAUAAGGCGCCUGAGUACGGAUCAGGAGAUUCCAGGUUCAAGUCCUGGC----------a
+>URS00021E18EA/5-74 [subseq from] tRNA from 1 species
+c-----CGUAGCCCAAUGGCAACGGCGCCUCGCUUCGAACGAGGAGAUUGCAGGUUCGAGUCCUGCCGGGA------gugc
+>URS0000EEABDA/3-69 [subseq from] tRNA from 1 species
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCCG---------ug
+>URS00006B957D/4-67 [subseq from] tRNA from 2 species
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUG------------cca
+>URS0002569298/5-69 [subseq from] tRNA from 1 species
+cu------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAAUCCUGCCA---------gg
+>URS0000C3D0E4/4-70 [subseq from] tRNA from 1 species
+cg-----CGUGGUGCAAUGGAUAACGCGUCUGACUACGAAUCAGAAGAUUCCAGGUUCGAAUCCUGGCGUG-------g
+>URS0001E0CA30/3-70 [subseq from] tRNA from 1 species
+c---CUUAUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUGAGAAGAUUCCAGGUGCGAAUCCUGGUGGGG------
+>URS0000EEA08C/3-69 [subseq from] tRNA from 1 species
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAUUCCUGCCG---------ug
+>URS0002612A66/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCUAAUGGACAAGGCAUCUGAUUCCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGCGG------a
+>URS000067A99C/4-70 [subseq from] tRNA from 1 species
+c----CCGUGGCCCAAUGGCUAAGGCGUCUGACUUCGAAUCAGAAGAUUAGGGGUUCGAGUCCCUUCGGG-------g
+>URS0001CA37A8/3-70 [subseq from] tRNA from 1 species
+c---CUCACGGCCUAAUGGAUAAGGCGUCUAACUUCGGAUUAGAAGAUUCCAGGUUCGAAUCCUGGUGGGG------
+>URS00025F95A9/3-70 [subseq from] tRNA from 1 species
+c---CUCAUGGCCUAAUGGAUAAGGCGUCUCACUUCGGAUGAGAAAAUUCCAGGUUCGAGUCCUGGUGGGG------
+>URS0002614242/7-68 [subseq from] tRNA from 1 species
+a-------UGGCCUAAUGGAUAAGGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCAAGCCCUGGU----------ag
+>URS0000FA6381/3-69 [subseq from] tRNA from 13 species
+c---CGCGUUGCCCAAUGGUUAAGGUGUCUCACUUCGAAUCAGAAGUUUGCAGGUUCGAGUCCUGUCG---------cg
+>URS0000C8BFA1/8-69 [subseq from] tRNA from 1 species
+ua---------GCGCAAUGGUCAACGCGUCUGCCUACGAAGCAGAAGAUUCCAGGUUCGAGUCCUGGGG---------ug
+>URS0000EEA36A/4-70 [subseq from] tRNA from 1 species
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCCGUG-------g
+>URS000253DBAD/2-66 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCUAAUGGAUAAGGCGUCUGAUUUCGAAUCAGAAGAUUGCAGGUUCGAAUCCUG------------uc
+>URS0000699BCE/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAUGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCUAGUCCCGUCGGGG------
+>URS00003F33CE/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCAUAAUGGAUAAGGCGUCUGACUUCUAAUCAGAAGAUUGCAGGUUCGAGUCCUGCCUGG-------g
+>URS0000C776D6/5-68 [subseq from] tRNA from 1 species
+----UCGUGGCCUAAUGGAUAUGGCGUCUGACCUCGAAUCAGAAGAUUACGGGUUCAAAUCCCGCCG---------g
+>URS000062E764/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCCGUAGGG-------g
+>URS0000632CAA/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCUCGUCGGGG------
+>URS0002544D3B/5-66 [subseq from] tRNA from 1 species
+cu------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCGAGUCUUG------------cc
+>URS000253EE9F/4-68 [subseq from] tRNA from 1 species
+-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUCAA-UCCUGUCGCGG------a
+>URS00019F2A79/4-69 [subseq from] tRNA from 1 species
+cg-----CAUGGCCCAAUGGUCAAGGCGCUUGACUACGAAUCAAGAGAUUCCAGGUUCGAAUCCUGGUG---------ug
+>URS0000638364/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUUACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCCGUCGGGG------
+>URS0002187946/3-69 [subseq from] tRNA from 1 species
+c---CUUGUGGCCCAAUGGAUAAGGCAUCUGACUACGAAUCAUGGGAUUCCAGGUUCGAGUCCUGGC----------aag
+>URS00006A2A62/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUCGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCCGUCGGGG------
+>URS00006A4C8C/3-69 [subseq from] tRNA from 1 species
+c---CUUGUGGCCCAAUGGAUAAGGCAUCUGACUACGAAUAAGGGGAUUCCAGGUUCGAGUCCUGGC----------aag
+>URS0002230F91/2-71 [subseq from] tRNA from 1 species
+u--CCCCGUAGCUCAAUGGAUAGAGUGUCUGGCUUCGGACCAGAAGGUUGUAGGUUCGAGUCCUGCCGGGGA-----
+>URS0002605015/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCCAAUGGAUAAGGUAUCUGACUACGAAUUAGGGGAUUCCAGAUUCGAAUCCUGGCGGGG------
+>URS000260836A/3-71 [subseq from] tRNA from 1 species
+cug-----CGUGGCCUAAUGGAUAAGGCGUCUGAUUCCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGCGG------a
+>URS00006903E5/4-70 [subseq from] tRNA from 1 species
+u----UCGUGGUCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCCGUCUGG-------g
+>URS00019A4D7A/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCGCAAUGGAUAACGCGUCUGACUUCGAAUCAGAAGACUCCAGGUUCGACCCCUGGCAGGG------
+>URS00009A4545/4-69 [subseq from] tRNA from 1 species
+cug------CUGGCCCAAUGGUUAAGGCGCUUGACUACGAAUCAAGAGAUUCCAGGUUCGAGUCCUGGG----------ugg
+>URS00022E74ED/6-70 [subseq from] tRNA from 1 species
+u------GUAGCUCAACGGACAGAGCAUCUGGCUACGAACCAGAAGGUUCCAGGUUCAAUCCCUGGCAGGG------
+>URS000221E726/6-69 [subseq from] tRNA from 1 species
+a------GUGGCGCAAUGGAUAACGCGUCUGACUACGAAUCAGAAGAUUCCAGGUUCGACUCCUGGCUG--------g
+>URS0000714500/5-69 [subseq from] tRNA from 1 species
+cu------GUGGCCCAUUGGAUAAGGCGCCUGACUACGAAUCAGAAGAUUCCAGGUUCGAGUGCUAGCAG--------g
+>URS0000C72A74/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCCUAAUGGAUAGGGCGUCUGACUUCGGAUCAGAAGAUUGCGGGUUCAAGUCCCGCCAGG-------g
+>URS0000EE961E/4-70 [subseq from] tRNA from 1 species
+cg-----CAUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCCGUG-------g
+>URS0000DA24A0/6-69 [subseq from] tRNA from 1 species
+u------GUGGCCCAAUGGAUAAGGCGCUUGACUACGAAUCAAGAGAUUCCAGGUUCGAGUCCUGGCUG--------g
+>URS000063FDDF/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGCACUGGCAGGG------
+>URS0000C8D45A/6-65 [subseq from] tRNA from 1 species
+a------GUGGCGUAAUGGUAAC-GCGUCUGGCUUCGAACCAGAAGAUUGCAGGUUCGAGUCCUG------------uc
+>URS0000D8C57C/5-67 [subseq from] tRNA from 1 species
+g-----CGUGGCCUAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCAAGUCCUGUC----------g
+>URS0000EEA466/3-69 [subseq from] tRNA from 1 species
+c---CACGUGACCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAUUCCUGCCG---------ug
+>URS0000C1B034/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAGGGUUGCAGGUUCGAGUCCUGUCAGG-------g
+>URS0000C1182A/3-64 [subseq from] tRNA from 1 species
+c---CACGUGGCCUAAUGGACAAGGCGUCUGACUUCGGAUCAGAAGAUUGAGGGUUCAAGUCC--------------cu
+>URS0000C44CFF/4-70 [subseq from] tRNA from 1 species
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAGGGUUGCAGGUUCGAGUCCUGCCAGG-------g
+>URS0000BF0EAF/6-72 [subseq from] tRNA from 1 species
+u------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAGGGUUGCAGGUUCGAGUCCUGCCAGGG------ua
+>URS00022AE44E/4-69 [subseq from] tRNA from 1 species
+cg-----CGUGGCCCAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCUGUCG---------cg
+>URS0000C2EF7A/5-69 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCUAAUCAGAAGAUUGCGGGUUCGAGUCCCGCCGG--------a
+>URS000068EB58/5-67 [subseq from] tRNA from 1 species
+cu------GUGGCCCAUUAGAUAAGGCGCCUGACUACGAAUCAGAAGAUUCCAGGUUCGAGUCCUAGC----------a
+>URS0000EEA9C6/4-70 [subseq from] tRNA from 1 species
+cg-----CGUGGCCUAAUGGAUAAGGUGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCCGUG-------g
+>URS0002609937/2-71 [subseq from] tRNA from 1 species
+u--CCACGUGGCCUAAUUUAUAAGGCGUCUGACUUUGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGCGG------a
+>URS00006B4601/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGUGGGUUCGAGCCCCGUCGGGG------
+>URS0000686367/3-70 [subseq from] tRNA from 2 species
+c---CUUGUGGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUGCCAGGUUCGAGUCUUGGCAGGG------
+>URS0000C631AE/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUUGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUCCAGGUUCGAGUCCUGCCAGG-------g
+>URS00006B5474/5-69 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGAU-AAGGCGUCUGACUUCGAAUCAGAAGAUUUCGGGUUCGAGUCCCGUCGGGG------
+>URS0000EEA802/3-69 [subseq from] tRNA from 1 species
+c---CACGUGGCCUAAUGGAUAAGGCUUAUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCG---------ug
+>URS000071B9A5/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUUGAGUCCCGUCUGG-------g
+>URS0000E3090F/8636-8701 [subseq from] lncRNA from 1 species
+cu------GUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGACUCCUGGCAGG-------a
+>URS0000C5BFC9/4-68 [subseq from] tRNA from 1 species
+cg-----UGUGGCCUAAUGGAUAAGGCGUCGGACUUCGAAUCCGAAGAUUGCAGGUUCAAAUCCUGU-----------cac
+>URS0000EE994B/4-70 [subseq from] tRNA from 1 species
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAACAUUGCAGGUUCGAAUCCUGCCGUG-------g
+>URS0000FC15BC/7-68 [subseq from] tRNA from 1 species
+--------GGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>URS0000ACC234/3-69 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUGGCUAAGGCGUCUGACUUCUAAUCAGAAGAUUCGUGGUUCGAGUCCGCGCU---------gg
+>URS000022EC46/1-70 [subseq from] tRNA from 1 species
+-UCCUCGUGGCCUAAUGGAUAAGGCGUGUGACUUCUAAUCACAAGAUUACGGGUUCGAGUCCCGUCGAGG------a
+>URS0000D8063E/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCGAGUUCGAGUCUCGUCGGGG------
+>URS00020BCAC6/3-62 [subseq from] tRNA from 1 species
+--CCUCGUGGCCAAAUGGAUAAGGUGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGAGUCC--------------
+>URS0000082541/8-70 [subseq from] tRNA from 1 species
+-----CGUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGAAUCCUGGCG---------c
+>URS00025599B5/7-67 [subseq from] tRNA from 1 species
+------GUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGACGAUUGCAGGUUCGAGUCCU-------------ccca
+>URS0000E3090F/9186-9250 [subseq from] lncRNA from 1 species
+cu------GUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGACUCCUGGCAG--------g
+>URS00025D2293/3-71 [subseq from] tRNA from 1 species
+cug-----CGUGGCCUAAUGGAUAAGGCCUCUAACUUCGAAUCAGAAGAUUGCAGGUUCGAAUCCCGUCGCGG------a
+>URS0000088C89/4-70 [subseq from] tRNA from 11 species
+cc-----UGUGGCCCAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>URS000259703C/4-67 [subseq from] tRNA from 1 species
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAUUCCUG------------cga
+>URS0000644AB6/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUUAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUCCCGUAGGG-------g
+>URS00001B8DF3/71-4 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUGGAUAAGGCGUCGGACUUCGCAUCCGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>URS00019E89FB/1275-1341 [subseq from] lncRNA from 1 species
+c---CACGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGAGGGUUCAAGUCCCU------------ucgug
+>URS000039BF30/12-77 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCAUCUGACUUCGGAUCAGAAGAUUGCGGGUUCGAGUCCCGUCGGGG------
+>URS0000BEF792/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>URS000260B0C7/3-70 [subseq from] tRNA from 1 species
+c---CACGUGGCCCAAUGGAUAAGGCAUCUGACUACGAAUCAGGGUAUUCCAGGUUGGAAUCCUGGCGGGG------
+>URS00025671A3/5-69 [subseq from] tRNA from 1 species
+-------UGGCCUAAUGGAUAAGGCGUCUGACACCGAAUCAGAAGAUUACAGGUUCGAGUCCUGUAGUGGA-----a
+>URS0000F96264/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAACAGAUAAGGUGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCAGG-------g
+>URS0000EF7E8B/3-70 [subseq from] tRNA from 1 species
+c---CUUGUGGCCUAAUGGUUAAGGCGUCCGACUUCGAAUCGGGAGAUUGCAGGUUCGACUCCUGCCAGG-------g
+>URS000260585F/4-71 [subseq from] tRNA from 1 species
+ug-----CGUAGCCUUAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUUAAAUCCUGUCGCGG------a
+>URS0000EEA302/13-73 [subseq from] tRNA from 1 species
+ua---------GCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUACAGGUUCGAGUCCUGU-----------cau
+>URS0000C515D2/3-70 [subseq from] tRNA from 1 species
+--CCUCGUGGCCUAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCGGCCGGGG------
+>URS000058DBE2/4-67 [subseq from] tRNA from 26 species
+cg-----UGUGGCCUAAUGGAUAAGGCGUCGGACUUCGAAUCCGAAGAUUGCAGGUUCGAGUCCUGU-----------ca
+>URS000251960C/2-63 [subseq from] tRNA from 1 species
+cg-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCAGGUUGAA-UCC--------------uguc
+>URS00006B49BA/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAGGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGGGUUCGAGUUCCGUCGGGG------
+>URS000062AE5F/3-71 [subseq from] tRNA from 1 species
+cc----GUGUGGCCUAAUGGAUUAGGCGUCUGACUUCGGCUCAGAAGACUGCAGGUUCGAGUCCUGCCGGGGA-----
+>URS000260D444/6-69 [subseq from] tRNA from 1 species
+a------GUGGCGCAACGGACAACGCGUCUGACUACGAAUCAGAAGAUUCCAGGUUUGAAUCCUGGCUG--------g
+>URS0002259395/6-69 [subseq from] tRNA from 1 species
+a------GUGGCGCAAUGGAUAACGCGUCUGACUACGAAUCAGAAGAUUCUAGGUUCGACUCCUGGCUG--------g
+>URS0000DD782B/5-69 [subseq from] tRNA from 1 species
+c-----CGUGGCCCAAUGGAUAAGGCGCUUGACUACGGAUCAAGAGAUUCCAGGUUCGAGUCCUGGCCG--------g
+>URS0000C8CA4B/6-65 [subseq from] tRNA from 1 species
+gc-------UGGCCCAAUGGUUAAGGCGCUUGACUACGAAUCAAGAGAUUCCAGGUUCGAGUCCUGG-----------
+>URS00025FBC03/3-69 [subseq from] tRNA from 1 species
+cc----GUGUGGCCUAAUGGAUAAGGCGUCUGACUUCAAAUCAGAAGAUUUCAGUUUCGAAUCCUGUU----------gcg
+>URS0002547C04/5-66 [subseq from] tRNA from 1 species
+cu------GUGGCCUAAUGAAUAAGGCGUCUGACUUCGAAUCAAAAGAUUGCAGGUUCGAGUCCUG------------cu
+>URS000068042E/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGCAUAAGGCGUCUGACUUCGAUUCAGAAGAUUGCGGGUUCGAGUCCCGUCGGGG------
+>URS000196A3B5/255-189 [subseq from] lncRNA from 1 species
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGAGGGUUCGAGUCCCU------------ucgug
+>URS00019C083A/5-69 [subseq from] tRNA from 2 species
+c-----CGUGGUGGAAUUGGCAACACGUCUGGCUCUGGACCAGAAGAUUCCAGGUUCGAGUCCUGGCGGG-------
+>URS00006D0130/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCGGAAGAUUGCGGGUUCGAGUCUCGUCGGGG------
+>URS000063A46D/6-69 [subseq from] tRNA from 1 species
+-----CGUGGCCUAAUGGAUAAGGCGACUGGCUUCAGAUCAGAAGAUUGCAGGUUUGAGUCCUGCCG---------ug
+>URS000194CF5B/1518-1455 [subseq from] lncRNA from 12 species
+a------GUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGACUCCUGGCUG--------g
+>URS0002612F56/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCUAGUGGAUAAGGCGUCUUAAUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGCGG------a
+>URS00022AE11D/4-69 [subseq from] tRNA from 1 species
+cg-----CGUGGCCCAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAAUCCUGUCG---------cg
+>URS0000C43303/3-70 [subseq from] tRNA from 1 species
+c---CCCGUGGCCCAAUGGAUAAGGCAUCUGACUUCGGAUCAGAAGAUUGCGGGUUCGAGUCGCGUCGGGG------
+>URS000070A53C/3-70 [subseq from] tRNA from 1 species
+c---CUAGUGGCCUAAUGGAUAAGGCGUCGGACUUCGGAUCCGAAGAUUGCAGGUUCGAGUCCUGUCUGG-------g
+>URS0002604E93/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCUAAUGGAUAAGGCGUCUGAUUCCGGAUUAGAAGAUUGCAAGUUCGAGUCCUGUCGCGG------a
+>URS00002BFF02/6-73 [subseq from] tRNA from 1 species
+a------GUGGCGCAAUGGAUAACGCGUCUGACUGCGGAUCAGAAGAUUCCAGGUUCGACUCCUGGCUGG-------cucg
+>URS0000C8C875/7-66 [subseq from] tRNA from 1 species
+c-------UGGCCCAAUGGUCAAGGCUCCUGCCUACGAAGCAGGAGACUCCAGGUUCGAGUCCUGG-----------g
+>URS000062539D/5-70 [subseq from] tRNA from 1 species
+c-----CGUGGCCUAAUGGAUAAGGCGUCUGACUUCGAAUCAGAAGAUUGCGCGUUCGAGUGCCGUCGGGG------
+>URS0000EE9CD1/3-68 [subseq from] tRNA from 1 species
+c---CGCGUGGCCUAAUGGAUAAGGUGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUG------------cugu
+>URS00021E5F3B/13-80 [subseq from] tRNA from 1 species
+c---CCCGUGGCCUAAUGGACAAGGCGUCUGACUUCUAAUCAGAAGACUGUGGGUUCGAGUCCCACCGGG-------g
+>URS0000C3B040/4-64 [subseq from] tRNA from 1 species
+cc-----UGUGGCCUAAUGGAUAAGGCGUCUGACUUCUAAUCAGAAGAUUGCAGGUUCGAGCCCUG------------
+>URS00026069E7/2-71 [subseq from] tRNA from 1 species
+u--CCGCGUGGCCCAACGGAUAAGGCGUCUGACUCCGGAUCAGAAGAUUGCGGGUUCGAAUCCUGCCGCGG------a
+>K00157.1/1-76 [subseq from] Yeast (S.cerevisiae, Brewer's) Arg-tRNA-II
+UUCCUCGUGGCCCAAUGGUCACGGCGUCUGGCUGCGAACCAGAAGAUUCCAGGUUCAAGUCCUGGCGGGGAAGCCA
+>XM_019128705.1/177-267 [subseq from] Babjeviella inositovora NRRL Y-12698 uncharacterized protein (BABINDRAFT_161227), mRNA
+u--CCUCAUGGCCCAAUGGUCACGGCGUCUGGCUACgauuuguaaccacuucugGAACCAGAAGAUUCCAGGUUCGACUCCUGGUGGGGAAGC--
+>XM_019132681.1/107-198 [subseq from] Babjeviella inositovora NRRL Y-12698 uncharacterized protein (BABINDRAFT_78075), mRNA
+UUCCUCAUGGCCCAAUGGUCACGGCGUCUGGCUACgauuuguaaccacuucugGAACCAGAAGAUUCCAGGUUCGACUCCUGGUGGGGAAGC--
+>XR_002683276.1/196-266 [subseq from] PREDICTED: Varroa jacobsoni uncharacterized LOC111265121 (LOC111265121), transcript variant X1, ncRNA
+-UCCUCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGGGGA-----c
+>XM_022932827.1/1539-1609 [subseq from] PREDICTED: Stylophora pistillata uncharacterized LOC111328402 (LOC111328402), transcript variant X3, mRNA
+c---CCCGUGGCCCAAUGGAUAAGGCAUCUGACUACGAAUCAGGGGAUUCCAGGUUCGAGUCCUGGCGGGG------ucg
+>XR_005651862.1/3534-3601 [subseq from] PREDICTED: Pteropus giganteus uncharacterized LOC120599312 (LOC120599312), ncRNA
+c---CGCGUGGCCUAAUGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGCCGCG-------g
+>XM_048722863.1/2825-2759 [subseq from] PREDICTED: Nematostella vectensis major facilitator superfamily domain-containing protein 6 (LOC5515818), mRNA
+cg-----CGUGGCCCAAUGGAUAAGGCGCCUGACUACGGAUCAGGAGAUUCCAGGUUCGAGUCCUGGCGUG-------g
+>X00240.1/129-195 [subseq from] Fission yeast S.pombe transfer RNA-Arg2 and part of tRNA-Asp genes
+---CUCGUGGCCCAAUGGUUAAGGCGCUUGACUACGGAUCAAGAGAUUCCAGGUUCGACUCCUGGCGGG-------a
+>XM_040167999.1/574-641 [subseq from] PREDICTED: Gasterosteus aculeatus aculeatus Golgi apparatus membrane protein TVP23 homolog A-like (LOC120812193), mRNA
+c---CGCGUGGCCUAAUGGAUAAGGUGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAGUCCUGUCGCG-------g
+>XM_009167862.1/6903-6971 [subseq from] Opisthorchis viverrini hypothetical protein partial mRNA
+cg-----CGUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGAAUCCUGGCGUGG------uc
+>XM_015934181.2/2589-2522 [subseq from] PREDICTED: Tetranychus urticae uncharacterized LOC107366554 (LOC107366554), mRNA
+c---CUUGUGGCCCAACGGAUAAGGCGUCUGACUUCGGAUCAGAAGAUUGCAGGUUCGAAUCCUGCC----------aagg
+>XR_002682939.1/167-230 [subseq from] PREDICTED: Varroa jacobsoni uncharacterized LOC111264587 (LOC111264587), ncRNA
+----UCGUGGCGCAAUGGAUAACGCGUCUGACUACGGAUCAGAAGAUUCCAGGUUCGAAUCCUGGCGG--------
+>XM_038202907.1/2374-2444 [subseq from] PREDICTED: Patiria miniata neuronal acetylcholine receptor subunit alpha-3-like (LOC119730134), mRNA
+c---CCCGUGGCCAAACGGAUAAGGCAUCUGACUACGAAUCAGGGGAUUCCAGGUUCGAAUCCUGGCGGGG------ucg

@@ -1,0 +1,126 @@
+>query
+GGCCGUAGUGCUUGCUCUGAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUGGAGGAAGCAGGGCAACCAAACCACAGCGUGCUCAGUCUG
+>AE004092.2/854459-854370/23-84 [subseq from] Streptococcus pyogenes M1 GAS, complete genome.
+-----------------------------------AUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>AECT01000063.1/6663-6753/22-85 [subseq from] Streptococcus anginosus F0211 S_anginosusF0211-1.0_Cont242.4, whole genome shotgun sequence.
+ca------------------------------------CAGCAAGUUAAAAUAAGGCUuUGUCCGUAUCCAACUUGAAAAAGUGGCACCGAUUCGGUGCU----------------------------------------
+>ACRI01000034.1/5085-5175/22-85 [subseq from] Streptococcus sp. C150 cont1.34, whole genome shotgun sequence.
+ga------------------------------------CAGCGAGUUAAAAUAAGGCuUAGUCCGUAUUCAACUUGAGAAAGUGGCACCGAUUCGGUGCU----------------------------------------
+>AGFN01000186.1/1088-1178/22-84 [subseq from] Streptococcus thermophilus CNCM I-1630 Contig0248, whole genome shotgun sequence.
+ca------------------------------------CAGCUAGUUAAAAUAAGGCuUAGUCCGUACUCAACUUGAAAAGGUGGCACCGAUUCGGUG------------------------------------------u
+>AOCT02000074.1/1229-1139/22-85 [subseq from] Streptococcus iniae IUSA1 contig074, whole genome shotgun sequence.
+ca------------------------------------CAGCAAGUUAAAAUAAGGCUUGUCCGUAAUCAACUUGAAAAAGUGAaCACCGAUUCGGUGU-----------------------------------------u
+>AEQQ01000063.1/19451-19541/23-85 [subseq from] Streptococcus agalactiae ATCC 13813 contig00063, whole genome shotgun sequence.
+ac-------------------------------------AGCGCGUUAAAAUAAGGCUAGUCCGUAUUCAGCUUGAAAAAGUGaGCACCGAUUCGGUGCU----------------------------------------
+>JRQN01000009.1/84382-84292/22-85 [subseq from] Streptococcus uberis strain CAIM 1894 contig_009, whole genome shotgun sequence.
+c-----------------------------------AUAGCGAGUUAAAAUAAGGUUUAUCCGUAUUCAACUUGAAAAAGUGgGCACCGAUUCGGUGCU----------------------------------------
+>LHQM01000061.1/3555-3465/22-85 [subseq from] Streptococcus phocae strain ATCC 51973 contig_65, whole genome shotgun sequence.
+ca------------------------------------CAGCGCGUUAAAAUAAGGCUGGUCCGUAAAUAGCUUGAAgAAAGUGGCACCGAUUCGGUGCU----------------------------------------
+>AEUW02000001.1/849316-849406/22-85 [subseq from] Streptococcus macacae NCTC 11558 final_molecule, whole genome shotgun sequence.
+ca------------------------------------CAGCAAGUUAAAAUAAGGUUUAUCCGUAUCCAACUUGAAAAAGUGaGCACCGAUUCGGUGCU----------------------------------------
+>AEVC01000007.1/325692-325784/22-87 [subseq from] Streptococcus cristatus ATCC 51100 contig00007, whole genome shotgun sequence.
+ca------------------------------------CAGCAAGUUAAAAUAAGGCUuuUGUCCGUACACAACUUGAAAAAGUGcGCACCGAUUCGGUGCU----------------------------------------
+>AEVI01000020.1/127-36/23-86 [subseq from] Streptococcus vestibularis ATCC 49124 contig00020, whole genome shotgun sequence.
+a------------------------------------CAGCGAGUUAAAAUAAAGCuUAGUCCGUAUACAACUUGAAaAAAGUGGCACCGAUUCGGUGCU----------------------------------------
+>URS00023358FE/16-99 [subseq from] sRNA from 1 species
+cucuc------------------AAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS00025A3457/23-101 [subseq from] sRNA from 1 species
+g-------------------GGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS00023358DA/16-99 [subseq from] sRNA from 1 species
+cucugu-------------------UGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS0000CBFF41/14-99 [subseq from] sRNA from 1 species
+ucgu---------------UCAUGGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS0000DC6D92/15-99 [subseq from] guide_RNA from 1 species
+ugcucu-----------------UCAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGC-----------------------------------------
+>URS00017DFFCB/17-97 [subseq from] sRNA from 1 species
+cccu--------------------GUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS00019D7E4F/440-528 [subseq from] tRNA from 1 species
+-------------------AGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCACAAAG-----------------------------------caccag
+>URS00015FD6BF/15-97 [subseq from] sRNA from 1 species
+ccaau-------------------AGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS0002616B75/20-99 [subseq from] sRNA from 1 species
+cg-------------------CGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS0000032644/18-96 [subseq from] guide_RNA from 1 species
+gg-------------------UGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGC-----------------------------------------
+>URS00009E63A9/18-97 [subseq from] guide_RNA from 1 species
+u------------------GUGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUG------------------------------------------gu
+>URS000259B548/20-96 [subseq from] sRNA from 2 species
+g--------------------GUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGC-----------------------------------------
+>URS00019D7E4F/612-688 [subseq from] tRNA from 1 species
+-------------------AGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGC-----------------------------------------
+>URS0000ECEBEF/1-76 [subseq from] guide_RNA from 1 species
+--------------------GUUUUAGGUCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGC-----------------------------------------
+>URS000234A4AD/19-114 [subseq from] sRNA from 1 species
+cguuuuagagcuaugcuguuuugaaaaa----------------------------------AacagcAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS000227B2DC/21-108 [subseq from] sRNA from 1 species
+a--------------------GUUUAAGAGCUAagcugGAAacagcAUAGCAAGUUUAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS000066E660/23-84 [subseq from] sRNA from 1 species
+g------------------------------------UAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS00021ED9AA/12-82 [subseq from] misc_RNA from 1 species
+cuua--------------GACUGAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUG--------------------------------------------------------
+>URS000081ACA3/21-82 [subseq from] sRNA from 1 species
+-----------------------------------AUAGCCAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>URS0000A76393/13-81 [subseq from] misc_RNA from 1 species
+cg--------------CUUGGCGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUG--------------------------------------------------------
+>URS00018465EC/16-86 [subseq from] guide_RNA from 2 species
+uggaaacagc-----------------------------------AUAGCAAGUUUAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGC-----------------------------------------
+>URS0000A4CCBF/1-60 [subseq from] sRNA from 1 species
+------------------------------------UAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGC-----------------------------------------
+>URS0002311A0C/21-83 [subseq from] misc_RNA from 1 species
+c-------------------AGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUG--------------------------------------------------------
+>URS00023119D1/23-83 [subseq from] misc_RNA from 1 species
+--------------------GUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUG--------------------------------------------------------
+>URS0002575424/311-364 [subseq from] guide_RNA from 1 species
+u--------------------GUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUUUUAG--------------------------------------------------------------------cgcg
+>LC494193.1/740-850 [subseq from] Synthetic construct DNA, expression vector of guide RNA for CRISPR-Cas9 system in the moss Physcomitrella patens, complete sequence
+cgg---------------UCUCUGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------uuuuuucuagaggauccccggguacc
+>MH319949.1/6703-6802 [subseq from] Cloning vector pcas9-sgRNA, complete sequence
+ugcucu-----------------UCAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------uuuuuugaagcuug
+>MW775630.1/2059-2150 [subseq from] Vector pH-gRNA-iGFP, complete sequence
+cc----------------CCGGGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUU---------------------------------------uuuuaagc
+>MN555452.1/61-147 [subseq from] Synthetic construct clone pTrCas9gRNA_Ace1 sgRNA gene, complete sequence
+cg-------------------UGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUU---------------------------------------uuggcc
+>KU189142.1/12428-12510 [subseq from] Cloning vector pBac[AttB-3xP3-RFP-Vas2-hCas9-U6-BsaI-gRNA-AttB], complete sequence
+g---------------UCUCAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>MW775624.1/305-389 [subseq from] Vector pAR-gRNA-Cas9-Amp, complete sequence
+cc----------------CCGGGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------uu
+>KJ796496.1/3662-3745 [subseq from] Cloning vector CMVp-mKate2-Triplex-HHRibo-gRNA1-HDVRibo-pA, complete sequence
+-------------------AGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUU---------------------------------------uuggc
+>KM099232.1/1289-1377 [subseq from] Expression vector pCas9_kahrp sgRNA, complete sequence
+cg------------------GCGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUAG--------------------------------------cauaac
+>MF280106.1/1933-2025 [subseq from] Synthetic construct clone pgRNA-Xyl, partial sequence
+cgu------------------UAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------uagcauccaaa
+>KT031987.1/559-644 [subseq from] Synthetic plasmid gRNA_expression_cassette_yA_protospacer, complete sequence
+cg--------------------GUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCUU---------------------------------------uuggcc
+>LC740575.1/253-337 [subseq from] Vector pX459V2.0-eSpCas9-HDAC2-exon1-sgRNA1 DNA, complete sequence
+ua--------------CUACGAGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>MF280106.1/1348-1439 [subseq from] Synthetic construct clone pgRNA-Xyl, partial sequence
+cc------------------GCGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------uagcauccaaa
+>MH220818.1/300-381 [subseq from] Cloning vector pCnCas9:U6-gRNA, complete sequence
+uc-----------------UCGGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>KR029099.1/13-96 [subseq from] Plant multiplex genome editing vector pYLsgRNA-AtU3d, complete sequence
+gg---------------UCUCGGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>KJ796508.1/3346-3427 [subseq from] Cloning vector CMVp-mKate2_Triplex-28-gRNA5-28-pA, complete sequence
+uc-----------------AGCGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>6IFO_C/13-97 [subseq from] Chain C, RNA (99-MER)
+cg--------------CUUGGCGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>MW925702.1/4269-4188 [subseq from] Cloning vector pVMG0218_Cq-U6-4_2xBbsI-gRNA, complete sequence
+uc-----------------UCUGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>KU587439.1/673-753 [subseq from] Synthetic construct HPV 18E6 knockout guide RNA, complete sequence
+u-----------------UGUGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>KF264452.1/321-401 [subseq from] Synthetic construct Cas9 mediating guide RNA, complete sequence
+ug------------------GUGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>KT876200.1/1169-1249 [subseq from] Synthetic construct ADE2.1 guide RNA, complete sequence
+u------------------GUGUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGGU----------------------------------------g
+>MF996907.1/735-815 [subseq from] Cloning vector p.sfGFP:gg-151_tRNASer:GAT, complete sequence
+ccguc---------------------UCUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>MF996909.1/692-767 [subseq from] Cloning vector p.sfGFP:TAG-151_tRNAPyl:CTA, complete sequence
+cu-----------------------CUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>KT876201.1/2866-2943 [subseq from] Synthetic construct ABD1 gene, complete cds; and ABD1.1 guide RNA, complete sequence
+--------------------GUUUUAGAGCUAGAAAUAGCAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGGU----------------------------------------g
+>OP757698.1/2911-3003 [subseq from] Cloning vector TRV-RNA2-PDS4-m18a27, complete sequence
+caa-----------------UGAGUUUCAGAGCUAugcugGAAacagcAUAGCAAGUUGAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>OP757697.1/2916-3002 [subseq from] Cloning vector TRV-RNA2-PDS1-s18a27, complete sequence
+guu-----------------------UCAGAGCUAugcugGAAacagcAUAGCAAGUUGAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------
+>LC169512.1/11080-11143 [subseq from] Cloning vector pPlatTET-gRNA2 DNA, complete sequence
+auauc--------------------------------------UUAAGUUAAAAUAAGGCUAGUCCGUUAUCAACUUGAAAAAGUGGCACCGAGUCGGUGCU----------------------------------------

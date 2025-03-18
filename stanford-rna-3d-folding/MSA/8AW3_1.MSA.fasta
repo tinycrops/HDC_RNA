@@ -1,0 +1,288 @@
+>query
+GGCCGCUUAGCACAGUGGCAGUGCACCACUCUCGUAAAGUGGGGGUCGCGAGUUCGAUUCUCGCAGUGGCCUCCA
+>FR796426.1/785566-785495/2-72 [subseq from] Leishmania major strain Friedlin complete genome, chromosome 30
+-GCCGCUUAGCACAGUGGCAGUGCACCACUCUCGUAAAGUGGGGGUCGCGAGUUCGAUUCUCGCAGUGGCCU---
+>GG738881.1/309955-310026/2-71 [subseq from] Naegleria gruberi genomic scaffold NAEGRscaffold_37, whole genome shotgun sequence.
+g--CGGCUUAGCACAGUGGUAGUGCAUCAGUCUUGUAAACUGAGGGUCGAGGGUUCAAUUCCCUCAGUCGC-----c
+>AUPL01004787.1/4888-4959/2-71 [subseq from] Trypanosoma rangeli SC58 Cont4787, whole genome shotgun sequence.
+a--CCGCUUAGCACAACAGUAGUGCGCCACUUUACUAAAGCGGCGAUUGCGAGUUUGAUUUUCGCAGUGGU-----c
+>LCKH01000015.1/11810-11881/3-68 [subseq from] Parcubacteria bacterium GW2011_GWA2_45_14 UW94_C0015, whole genome shotgun sequence.
+ca----GCUUAGCUCAGUGGUAGAGCAACACUUUUGUAAAGUGAAGGUCCCGAGUUCGAAUCUCGGAG---------cu
+>MHTO01000010.1/440-369/3-66 [subseq from] Candidatus Wildermuthbacteria bacterium GWA2_46_15 gwa2_scaffold_25005, whole genome shotgun sequence.
+g---CGCGUAGCUCAAUGGCAGAGCACCACUCUUAUAAAGUGGGGGUCGCAGGUUCGAUCCCUGC-----------cg
+>ACJG01001464.1/23949-23878/5-69 [subseq from] Daphnia pulex DAPPUscaffold_24_Cont1464, whole genome shotgun sequence.
+c-----CUUAGCUCAGUGGCAGAGCACUAGUCUUGUAAACUAGGGGCCGUGAGUUCAAUUCUCACAGGG-------g
+>MHVI01000027.1/1575-1503/7-64 [subseq from] Candidatus Zambryskibacteria bacterium RIFCSPHIGHO2_01_FULL_46_30 rifcsphigho2_01_scaffold_6830, whole genome shotgun sequence.
+gu--------AGCUCAGUcGGCAGAGCACCACUUUCGUAAAGUGGGGGUCAUGAGUUCGAUUCUC-------------a
+>MHJC01000021.1/5510-5439/8-66 [subseq from] Candidatus Colwellbacteria bacterium RIFCSPLOWO2_12_FULL_44_13 rifcsplowo2_12_scaffold_3022, whole genome shotgun sequence.
+-------UAGCUCAGUGGUAGAGCAACGCUUUCGUAAAGCGUGGGUCGCGAGUUCGACUCUCGC-----------cu
+>KX857749.1/168904-168975/5-67 [subseq from] Only Syngen Nebraska virus 5, complete genome.
+g-----UUUAGCAUAGUGGUAUUGCACCAGUCUUGUAAACUGGAGGCCGGGAGUUCGAUCCUCCCA----------au
+>MHWD01000025.1/16681-16753/5-67 [subseq from] Candidatus Zambryskibacteria bacterium RIFCSPLOWO2_01_FULL_43_17 rifcsplowo2_01_scaffold_719, whole genome shotgun sequence.
+c-----CUUAGCUCAGUuGGUAGAGCACCACUUUCGUAAAGUGGGGGUCCAGAGUCCGAUUCUCU------------gag
+>MTEL01000047.1/9759-9688/8-64 [subseq from] Beggiatoa sp. IS2 Ga0073106_1047, whole genome shotgun sequence.
+-------UAGCUCAGUGGUAGAGCACCACUUUGGUAAAGUGGAGGUCACGAGUUCAAUCCUCG------------u
+>CP001511.1/590707-590634/5-71 [subseq from] Methylobacterium extorquens AM1 megaplasmid, complete sequence.
+cc------UUAGCUCAGCugGACAGAGCACCACUUUCCUAAAGUGGGGGUCGCAAGUUCGAACCUUGCAGGG-------g
+>NBCO01000011.1/268294-268223/7-69 [subseq from] Trypanosoma theileri isolate Edinburgh TM35_Tth_11_V1, whole genome shotgun sequence.
+g-------UAGCACAGUGGCAGUGCACUGGUCUUGUAAACCAGGGGUCCCGAGUUCAAUUCUCG------------gcaggg
+>LFNC01000060.1/6049-5978/5-69 [subseq from] Perkinsela sp. CCAP 1560/4 XU18scaffold_120, whole genome shotgun sequence.
+uc------AUAGCACAGUGGCAGUGCGUCUCAUUUGUAAUGAGAAGGUCGCGAGUUCAAUUCUCGCUGGG-------g
+>CBTN010000064.1/37561-37489/5-69 [subseq from] Lichtheimia corymbifera JMRC:FSU:9682, FSU 9682, WGS project CBTN01000000 data, contig: SCAF00064
+a-----CUUAGCACAGUuGGCAGUGCGCUGCUCUCGUAAAGCAGAGGUCGUGUGUUCGAUUCACACAGU--------c
+>LBYD01000001.1/139678-139749/6-65 [subseq from] Parcubacteria (Moranbacteria) bacterium GW2011_GWC2_40_12 UT79_C0001, whole genome shotgun sequence.
+aa-------UAGCUCAGUGGUAGAGCAGCGCUUUCGUAAAGCGAAGGUCGCGAGUUCGACUCUCGC-----------u
+>MHTK01000005.1/78237-78309/6-67 [subseq from] Candidatus Vogelbacteria bacterium RIFOXYD1_FULL_46_19 rifoxyd1_full_scaffold_178, whole genome shotgun sequence.
+c------UUAGCUCAGcUGGUAGAGCACCACUUUCGUAAAGUGGGGGUCCGGAGUUCGACUCUCC------------gag
+>BDGG01000010.1/990121-990050/3-69 [subseq from] Ramazzottius varieornatus DNA, contig: Scaffold010, strain: YOKOZUNA-1.
+c---CGUAUGGCUCAGUGGUAGAGCAUCAGUCUUGUAAACUGAGGGUCCCGAGUUCGAUCCUCGGUGUG-------g
+>LBYO01000017.1/2766-2838/8-66 [subseq from] Parcubacteria bacterium GW2011_GWA1_40_21 UT90_C0017, whole genome shotgun sequence.
+ua---------GCUCAGuUGGCAGAGCACCGCUUUCGUAAAGCGGGGGUCGUGAGUUCGAUCCUCA------------cc
+>MTYJ01000005.1/429716-429787/3-62 [subseq from] Hypsibius dujardini strain Z151 scaffold0005, whole genome shotgun sequence.
+cu----GUUUAGCUCAGUGGUAGAGCACCAGUCUCGUAAACUGGGGGUCCAGUGUUCGAUCC---------------ac
+>AAPU01009423.1/116485-116556/6-67 [subseq from] Drosophila mojavensis strain TSC#15081-1352.22 Ctg01_9424, whole genome shotgun sequence.
+u------UUAGCUCAGAGGCAGAGCACUGGUCUCGUAAACCAGGGGUCGUGAGUUCAAUUCUCACAG---------g
+>MFCP01000039.1/6974-6903/6-69 [subseq from] Candidatus Daviesbacteria bacterium RIFCSPHIGHO2_01_FULL_40_11 rifcsphigho2_01_scaffold_6213, whole genome shotgun sequence.
+ca-------UGGCUCAGUGGCAGAGCAUCUCCAUGGUAAGGAGAGGGUCGCGAGUUCGAUUCUCGCUGU--------cg
+>LWDK01000019.1/26616-26687/8-69 [subseq from] Proteobacteria bacterium SG_bin7 2278, whole genome shotgun sequence.
+ug---------GCUCAGUGGCAGAGCACCUCCUUGGUAAGGAGGAGAUCGCGAGUUCGAUUCUCGCCAUG-------g
+>KB206450.1/243-172/2-71 [subseq from] Entamoeba invadens IP1 unplaced genomic scaffold scaff_1105074725903, whole genome shotgun sequence.
+g--CGGUUUAGCUCAGUGGCAGAGCGUCUCUCUCGUAAAGAGAAGGUCAUGGGUUCGAUCCCCAUAGUCGC-----c
+>CAJW010345359.1/163-91/6-67 [subseq from] Hordeum vulgare subsp. vulgare, WGS project CAJW01000000 data, contig: morex_contig_345359
+ca-------UAGCUCAGUGGuUAGAGCACCAGUCUAGUAAACUGGGGGUCGAGAGUUCGAUUCUCUC-----------ug
+>MCFE01000670.1/36555-36626/3-69 [subseq from] Basidiobolus meristosporus CBS 931.73 K493scaffold_670, whole genome shotgun sequence.
+c---UGCUUAGCGCAGUGGUAGCGCGUCAGUCUCGUAAACUAAAGGUCGCCAGUUCAAUCCUGGCAGU--------ag
+>LWCA01000694.1/12785-12856/6-69 [subseq from] Intoshia linei isolate Intl2013 Contig_17232, whole genome shotgun sequence.
+ug-------UAGCUCAGUGGUAGAGCACUGGUCUCGUAAACCAGGGGUCGCGAGUUCAAUCCUCGUUGA--------gg
+>AEDQ01000018.1/39979-40051/3-68 [subseq from] Atopobium vaginae PB189-T1-4 contig00014, whole genome shotgun sequence.
+ca----GCUUAGCUCAGUuGGUAGAGCACCGCUCUCGUAAAGCGGGGGUCACCAGUUCAAGUCUGGUAG---------c
+>LCFF01000050.1/7848-7777/8-65 [subseq from] Microgenomates bacterium GW2011_GWC1_43_11 UV63_C0050, whole genome shotgun sequence.
+-------UAGCUCAGUGGCAGAGCAACGCUUUCGUAAAGCGUGGGUCGUGGGUUCGAUUCCC-------------acu
+>GG745398.1/64303-64232/5-68 [subseq from] Allomyces macrogynus ATCC 38327 genomic scaffold supercont3.71, whole genome shotgun sequence.
+a-----CUUAGCUCAGUGGCAGAGCGUCGCUCUCGUAAAGCGAAGGUCGGGUGUUCGAUCCCCCCAGU--------c
+>CP003590.1/4101091-4101020/4-67 [subseq from] Pleurocapsa sp. PCC 7327, complete genome.
+ag-----UUUAGCUCAGUGGUAGAGCAUCGCACUCGUAAUGCGAGGGUCGCGGGUUCAAAUCCCGCA----------ac
+>CP006939.1/2904849-2904920/4-66 [subseq from] Salinispira pacifica strain L21-RPul-D2, complete genome.
+a----GCAUAGCUCAGGGGUAGAGCAGCACUCUCGUAAAGUGCAGGUCGUCAGUUCGAAUCUG-------------acug
+>LNIX01000028.1/1415761-1415832/3-69 [subseq from] Folsomia candida strain VU population Fcan01_Sc028, whole genome shotgun sequence.
+c---CUCUUAGCUCAGUCGCAGAGCGCCUGUCUCGUAAACAGGAGGCCGGGAGUUCAAUUCUCUCAGGG-------g
+>KB859843.1/577484-577555/6-67 [subseq from] Musca domestica strain aabys unplaced genomic scaffold Scaffold4453, whole genome shotgun sequence.
+u------UUAGCUCAGUGGCAGAGCACUGGUCUUGUAAACCAGGGGUCGUGAGUUCAAUCCUCACAG---------g
+>FN649751.1/6409101-6409029/4-65 [subseq from] Ectocarpus siliculosus strain Ec 32, whole genome shotgun sequence assembly, chromosome LG26
+c----GUGUAGCACAGUGGUuAAUGCACCUCUCUUGUAAAGAGGAGAUCGUGAGUUCGAUUCUC-------------ac
+>LBTO01000026.1/447-518/6-69 [subseq from] Microgenomates (Levybacteria) bacterium GW2011_GWB1_37_8 US59_C0026, whole genome shotgun sequence.
+ca-------UAGCUCAGUGGUAGAGCAACGCUUUUGUAAAGCGAAGGUCGCGAGUUCAAAUCCCGCUGU--------cg
+>MEYS01000002.1/225840-225768/7-66 [subseq from] Candidatus Azambacteria bacterium RIFCSPLOWO2_01_FULL_46_25 rifcsplowo2_01_scaffold_58, whole genome shotgun sequence.
+gu--------AGCUCAGuUGGUAGAGCAAUACUUUCGUAAAGUAGAGGUCGCGAGUUCGACUCUCGC-----------c
+>LCJJ01000016.1/2759-2687/7-69 [subseq from] Parcubacteria bacterium GW2011_GWB1_44_7 UW71_C0016, whole genome shotgun sequence.
+uuagcuca-------------AUUGGUAGAGCACCACAUUUGCAAUGUGGGGGUAGCGAGUUCGAAUCUCGCA----------cgg
+>LBZV01000003.1/31922-31993/7-68 [subseq from] Microgenomates (Curtissbacteria) bacterium GW2011_GWA1_40_9 UU23_C0003, whole genome shotgun sequence.
+gu--------GGCUCAGUGGCAGAGCAACUGUUUCGUAAACAGUGGGUCGUGAGUUCGAUUCUCACCG---------uc
+>ACJG01016228.1/744-673/6-64 [subseq from] Daphnia pulex DAPPUscaffold_4999_Cont16228, whole genome shotgun sequence.
+u------UUAGCUCAGUGGUAGAGCACUAGUCUCGUAAACUAGGGGUCGACAGUUCAAUUCU--------------gcc
+>CP002353.1/3711318-3711247/6-64 [subseq from] Isosphaera pallida ATCC 43644, complete genome.
+cg-------UAGCUCAACGGCAGAGCACCGCUUUCGUAAAGCGGGGGUUAUGAGUUCGAGUCUC-------------au
+>KB932204.1/1830454-1830383/4-68 [subseq from] Fonticula alba strain ATCC 38817 unplaced genomic scaffold supercont2.4, whole genome shotgun sequence.
+c----GUUUAGCUCAGUGGUAGAGCGCCAGUCUAGUAAACUGGAGGUCGGGUGUUCGAUCCACCCAA---------ug
+>CP017812.1/1983043-1982971/5-70 [subseq from] Actinomyces sp. VUL4_3, complete genome.
+a-----CUUAGCUCAGUcGGUAGAGCAGCUCCCUCGUAAAGAGCAGGUCGCGGGUUCGAUUCCCGCAGU--------ug
+>MFWM01000006.1/65562-65634/7-66 [subseq from] Candidatus Pacearchaeota archaeon RBG_13_33_26 RBG_13_scaffold_38, whole genome shotgun sequence.
+au--------AGCUCAGuUGGCAGAGCAUCACUUUCGUAAAGUGGGUGUCGGGAGUUCAAAUCUC-------------ucu
+>MHOM01000028.1/14866-14937/6-68 [subseq from] Candidatus Staskawiczbacteria bacterium RIFCSPHIGHO2_01_FULL_36_16 rifcsphigho2_01_scaffold_3375, whole genome shotgun sequence.
+ca-------UAGCUCAGUGGCAGAGCAACGCUUUCGUAAAGCGUGGGUCGCAGGUUCAAAUCCUGCUG---------uc
+>MHSH01000024.1/1054-982/7-69 [subseq from] Candidatus Taylorbacteria bacterium RIFCSPLOWO2_02_FULL_46_40 rifcsplowo2_02_scaffold_24256, whole genome shotgun sequence.
+uuagcuca-------------AUUGGUAGAGCACCACAUUUGCAAUGUGGGGGUAGCGAGUUCGAGUCUCGCA----------cgg
+>MFPS01000008.1/124132-124204/3-71 [subseq from] Candidatus Magasanikbacteria bacterium RIFCSPHIGHO2_01_FULL_33_34 rifcsphigho2_01_scaffold_52, whole genome shotgun sequence.
+c---CUCUUAGCUCAGUuGGCAGAGCAACACAUUCGUAACGUGUAGGUCACCAGUUCGAUUCUGGUAGAGG------g
+>AACT01056502.1/20322-20393/7-66 [subseq from] Ciona savignyi cont_56502, whole genome shotgun sequence.
+a-------UAGCUCAGUGGCAGAGCACUGGUCUCGUAAACCAGGGGUCGUGAGUUCAAUCCUCAC-----------ug
+>LBWT01000042.1/25-97/6-67 [subseq from] Parcubacteria bacterium GW2011_GWC1_39_29 UT43_C0042, whole genome shotgun sequence.
+c------UUAGCUCAGcUGGUAGAGCAAUACUUUCGUAAAGUAGAGGUCCCGAGUUCGAAUCUCGGA----------g
+>CP002130.1/57057-56986/6-65 [subseq from] Candidatus Midichloria mitochondrii IricVA, complete genome.
+cg-------UAGCACAGUGGUAGUGCACUUCAUUGGUAAUGAAGAGGUCGCGGGUUCGAUUCCCGC-----------c
+>JMKJ01000579.1/79910-79981/5-70 [subseq from] Microsporidia sp. UGP3 contig-6, whole genome shotgun sequence.
+c-----CUUAGCAUAGUGGUAGUGCGUCAGUCUUGUAAACUGAAGGUCACCAGUUCAAUUCUGGUAGGGG------g
+>NFIO01000024.1/3423-3494/6-67 [subseq from] Alistipes sp. An31A An31A_contig_24, whole genome shotgun sequence.
+a------UUAGCUCAGUGGUAGAGCACUUCACUCGUAAUGAAGGGGUCCCGAGUUCAAGUCUCGGA----------uu
+>ALNL01000009.1/30393-30464/9-64 [subseq from] Mogibacterium sp. CM50 ctg120007703386, whole genome shotgun sequence.
+g---------GCUCAAUGGUAGAGCACUUCACUCGUAAUGAAGGGGUUGCGAGUUCGAUUCUCGC-----------
+>ACYY01000003.1/74791-74720/3-68 [subseq from] Rhodobacter sp. SW2 ctg00019, whole genome shotgun sequence.
+cc----UCAUAGCACAGCGGUAGUGCAGCAGUUUUGUAAACUGAAGGUCGGGAGUUCAAUCCUCUCU----------ggg
+>CBXK010000871.1/17369-17296/3-73 [subseq from] Trichuris trichiura, WGS project CBXK01000000 data, contig: TTRE_871
+cucc------AUAGCUCAGUUGguUAGAGCGCCAGUCUCGUAAACUGGAGGUCGCGAGUUCAACUCUCGCUGGAG------cc
+>KV440979.1/362272-362344/3-70 [subseq from] Phycomyces blakesleeanus NRRL 1555(-) unplaced genomic scaffold PHYBLscaffold_9, whole genome shotgun sequence.
+cu----GCUUGGCUCAGuUGGCAGAGCGUCGCUCUCGUAAAGCGAAGGUCGUGAGUUCAAUUCUCAUAGU--------ag
+>MBFZ01000029.1/115742-115671/6-67 [subseq from] Babesia sp. Xinjiang scaffold6, whole genome shotgun sequence.
+u------UUAGCACAGUGGUAGUGCAUCGGUCUUGUAAACCGAAGGUCACGGGUUCGAUCCCCGUAG---------g
+>GG663742.1/188349-188420/5-69 [subseq from] Micromonas pusilla CCMP1545 genomic scaffold MICPUCscaffold_8, whole genome shotgun sequence.
+u-----CUUAGCACAGUGGUAGUGCGUGUCCUUCGUAAGGAUGAGGUCGGGAGUUCGAUCCUCCCAGAG-------g
+>LRGB01002066.1/135503-135574/3-69 [subseq from] Daphnia magna strain Xinb3 scaffold02066, whole genome shotgun sequence.
+cu----GUUUAGCUCAGUGGUAGAGCGCUAGUCUCGUAAACUAGCGGUCAUGAGUUCAAUCCUCAUAGCG-------g
+>KV875093.1/1288892-1288821/3-69 [subseq from] Coniochaeta ligniaria NRRL 30616 unplaced genomic scaffold CONLIGscaffold_1, whole genome shotgun sequence.
+--CCGCUUAGCUCAGUGGUAGAGCGCAUCACUAGUAAUGAUGAGGUCGCCAGUUCAAUUCUGGUAGCG-------g
+>LCEB01000043.1/809-880/4-66 [subseq from] Microgenomates (Daviesbacteria) bacterium GW2011_GWA1_42_6 UV33_C0043, whole genome shotgun sequence.
+a----GCGUAGCUCAGUGGCAGAGCAAUGCUUUCGUAAAGCAGAGGUCGUGAGUUCAACCCUCA------------ccg
+>AANI01017486.1/226149-226078/5-67 [subseq from] Drosophila virilis strain TSC#15010-1051.87 Ctg01_17525, whole genome shotgun sequence.
+u-----CUUAGCUCAGUGGCAGAGCGCUGGUCUUGUAAACCAGCGGUCGUGAGUUCAAUUCUCACAG---------g
+>CP007139.1/3309955-3310026/6-66 [subseq from] Fimbriimonas ginsengisoli Gsoil 348, complete genome.
+cg-------UAGCUCAGCGGCAGAGCACUUCUUUGGUAAAGAAGAGGUCACGGGUUCGAUUCUCGU-----------cg
+>GL871035.1/27445-27374/2-71 [subseq from] Dictyostelium purpureum unplaced genomic scaffold DICPUscaffold_95, whole genome shotgun sequence.
+-GCCGCAUAGCAUAGUGGUAUUGCGCUUCCCUAGUAAGGAAGAGGUCGUGGGUUCGAUCCCCGCUGGGGC-----c
+>LGUB01000084.1/4510-4439/3-69 [subseq from] Pseudoloma neurophilia strain MK1 NODE_279, whole genome shotgun sequence.
+--CCGCUUAGCUCAGUGGUAGAGCAUUGCCCUCCUAAGGCAGGGGUCGAGGGUUCGAACCCCUCAGUGG------
+>CP002104.1/595380-595452/8-62 [subseq from] Gardnerella vaginalis ATCC 14019, complete genome.
+u--------AGCUCAGUGGaUAGAGCACCACUCUCCUAAAGUGGGUGUCGUCAGUUCGAUUCU--------------
+>CP009215.1/161049-161121/8-67 [subseq from] Corynebacterium ureicelerivorans strain IMMIB RIV-2301, complete genome.
+u--------AGCUCAGUcGGUAGAGCAUCUCACUCGUAAUGAGAAGGUCGCGAGUUCGAUUCUCGCU----------g
+>MHMD01000019.1/42758-42687/8-64 [subseq from] Candidatus Nealsonbacteria bacterium RIFCSPHIGHO2_02_FULL_43_13 rifcsphigho2_02_scaffold_3338, whole genome shotgun sequence.
+-------UAGCUCAGUGGCAGAGCACAGCUCUGAAAAAGCUGGGGUCGUGAGUUCAAUUCUC-------------ac
+>MTYJ01000170.1/85319-85248/6-65 [subseq from] Hypsibius dujardini strain Z151 scaffold0170, whole genome shotgun sequence.
+u------UUAGCUCAGUGGUAGAGCAUCAGUCUCGUAAACUGAGGGCCCCGUGUUCGAACCACG------------ga
+>MHCZ01000037.1/6024-6095/6-60 [subseq from] Candidatus Woykebacteria bacterium RIFCSPHIGHO2_12_FULL_45_10 rifcsphigho2_12_scaffold_5710, whole genome shotgun sequence.
+cg-------UAGCUCAGUGGUAGAGCAUCACUCUUAUAAAGUGGGGGUCGAUGGUUCGA------------------acc
+>MHTW01000018.1/31915-31844/7-64 [subseq from] Candidatus Wildermuthbacteria bacterium RIFCSPHIGHO2_02_FULL_47_12 rifcsphigho2_02_scaffold_406, whole genome shotgun sequence.
+g-------UAGCUCAGUGGCAGAGCAGAGCUUUCGUAAAGCUAAGGUCGCGAGUCCGACUCUCGC-----------
+>CP019646.1/527236-527164/8-66 [subseq from] Phycisphaerae bacterium SM-Chi-D1, complete genome.
+ua---------GCUCAGuUGGCAGAGCACAGCUUUCGUAAAGCUGGGGUCGUGAGUUCGAAUCUCA------------cc
+>AACT01005614.1/9185-9256/6-66 [subseq from] Ciona savignyi cont_5614, whole genome shotgun sequence.
+u------UUAGCUCAGUGGGAGAGCACUGGUCUCGUAAACCAGAGGUCGUGAGUUCAAUCCUCGCU----------g
+>CM001852.1/591665-591736/7-65 [subseq from] Nocardioides sp. CF8 chromosome, whole genome shotgun sequence.
+------UUAGCUCAGGGGUAGAGCACCAAUCUUGUAAAUUGGGUUGCGAGAGUUCGAAUCUCUC-----------a
+>AJKR01000001.1/148460-148532/15-68 [subseq from] Candidatus Aquiluna sp. IMCC13023 C1_IMCC13023, whole genome shotgun sequence.
+au---------------UGGUAGCGCACCACUCUUGUAAAGUGGGGGUUACGGGUUCGAGUCCCGUG----------gu
+>JPVT01000072.1/1068-1140/6-68 [subseq from] Tetragenococcus muriaticus 3MR10-3 WGS_Sequence072_215, whole genome shotgun sequence.
+c------UUAGCUCAGCaGGUAGAGCACCACCAUGGUAAGGUGGGGGUCGCCAGUUCGAAUCUGGCAG---------a
+>MHIP01000029.1/5261-5332/5-67 [subseq from] Candidatus Buchananbacteria bacterium RIFCSPLOWO2_01_FULL_46_12 rifcsplowo2_01_scaffold_37272, whole genome shotgun sequence.
+g-----CGUAGCUCAGUGGUAGAGCAUCGCACUCAUAAAGCGGAGGUCGCAGGUUCGAUCCCUGCC----------gu
+>MHKX01000030.1/5129-5058/5-67 [subseq from] Candidatus Liptonbacteria bacterium RIFCSPHIGHO2_01_FULL_57_28 rifcsphigho2_01_scaffold_9173, whole genome shotgun sequence.
+g-----CGUAGCUCAGUGGUAGAGCACCUCACUCAUAAAGAGGUUGUCGCAGGUUCGAUCCCUGCC----------gu
+>FUHU01000021.1/942-871/8-65 [subseq from] Agrococcus casei LMG 22410 genome assembly, contig: Scaffold18
+-------UAGCUCAGUGGUAGAGCACUUCCAUGGUAAGGAAGGGGUCGCGAGUUCGAUCCUCGC-----------u
+>MHIP01000040.1/9243-9172/7-64 [subseq from] Candidatus Buchananbacteria bacterium RIFCSPLOWO2_01_FULL_46_12 rifcsplowo2_01_scaffold_5856, whole genome shotgun sequence.
+g-------UAGCUCAGUGGUAGAGCAACACUUUUGUAAAGUGAAGGUCGUGGGUUCGAAUCCC-------------uc
+>ABKE02009714.1/5778-5849/7-66 [subseq from] Pristionchus pacificus strain PS312 contig7107, whole genome shotgun sequence.
+u-------UGGCUUAGUGGCAGAGCGUCGCUCUCGUAAAGCGAAGGUCGCAGGUUCGAUUCCUGCA----------a
+>KK365165.1/5290-5219/2-71 [subseq from] Anncaliia algerae PRA339 unplaced genomic scaffold supercont2.36, whole genome shotgun sequence.
+g--CUGCAUAGCUUAGUGGUAGAGCGUCUCCCUAGUAAGGAGAAGGUCGAGAGUUCGACUCUCUCUGUAGC-----c
+>KB206479.1/251780-251708/2-73 [subseq from] Entamoeba invadens IP1 unplaced genomic scaffold scaff_1105074726705, whole genome shotgun sequence.
+g--CCUCUUAGCAUAGUuGGCAGUGCGUUUCCCUAGUAAGGAAAAGGUCGUGGGUUCGACUCUCGCAGAGGCCU---
+>MFXT01000003.1/8277-8348/7-64 [subseq from] Candidatus Peribacteria bacterium RIFCSPHIGHO2_02_FULL_49_16 rifcsphigho2_02_scaffold_12367, whole genome shotgun sequence.
+g-------UAGCUCAGUGGUAGAGCACCUCCAUGGUAAGGAGGGGGUCACGAGUUCAAUCCUCG------------u
+>MHSL01000026.1/5360-5432/7-69 [subseq from] Candidatus Taylorbacteria bacterium RIFCSPLOWO2_12_FULL_44_15c rifcsplowo2_12_scaffold_4820, whole genome shotgun sequence.
+uuagcuca-------------AUUGGUAGAGCGCCACAUUUGCAAUGUGGGGGUAGCGAGUUCGAAUCUCGCA----------cgg
+>GG738855.1/268922-268851/2-71 [subseq from] Naegleria gruberi genomic scaffold NAEGRscaffold_11, whole genome shotgun sequence.
+g--CUGUUUAGCUCAGUGGUAGAGCUUCUCUCUCGUAAGGAGAAGGUCGAGGGUUCAAUCCCCUCAAUAGC-----c
+>CP019633.1/1907438-1907510/8-67 [subseq from] Phycisphaerae bacterium L21-RPul-D3, complete genome.
+u--------AGCUCAGUcGGCAGAGCACUGCUUUCGUAAAGCAGGGGUCGUGAGUUCGAGUCUCA------------cca
+>MHLL01000029.1/2656-2584/9-68 [subseq from] Candidatus Lloydbacteria bacterium RIFCSPHIGHO2_02_FULL_50_13 rifcsphigho2_02_scaffold_26796, whole genome shotgun sequence.
+agcucagc---------------UGGUAGAGCAAUGCUUUCGUAAAGCAGAGGUCGCGAGUUCGAUUCUCGC-----------ucu
+>CP000975.1/1940493-1940422/6-65 [subseq from] Methylacidiphilum infernorum V4, complete genome.
+u------UUAGCUCAGGGGUAGAGCAACGCUUUCGUAAAGCGUGGGUCGUGGGUUCGAAUCCCA------------ca
+>MFJV01000001.1/450972-451043/6-64 [subseq from] Candidatus Gottesmanbacteria bacterium RIFCSPLOWO2_01_FULL_43_11b rifcsplowo2_01_scaffold_30, whole genome shotgun sequence.
+gg-------UAGCUCAGUGGUAGAGCACCAGUAUCAUAAACUGGUCGUCGAGAGUUCGAUCCUC-------------uc
+>AJWK01029702.1/3229-3300/4-64 [subseq from] Lutzomyia longipalpis Contig29707, whole genome shotgun sequence.
+cgg------GUAGCUCAGUGGCAGAGCACUGGUCUCGUAAACCAGGGGUCGUGAGUUCAAACCUC-------------ac
+>LBVC01000066.1/1712-1642/6-65 [subseq from] Microgenomates (Daviesbacteria) bacterium GW2011_GWF2_38_6 US99_C0066, whole genome shotgun sequence.
+g------UUAGCACAGUGGUAAUGCAUCGCUCUCGCACAGCGG-AGACGGGAGUUCGAUUCUCCC-----------ac
+>MHJJ01000008.1/16520-16448/6-67 [subseq from] Candidatus Harrisonbacteria bacterium RIFCSPLOWO2_01_FULL_44_18 rifcsplowo2_01_scaffold_3699, whole genome shotgun sequence.
+c------UUAGCUCAGUuGGUAGAGCAACACUUUCGUAAAGUGAAGGUCCGGAGUUCGAAUCUCC------------gag
+>MNVG01000025.1/19057-18986/6-65 [subseq from] Candidatus Micrarchaeota archaeon CG1_02_51_15 cg1_0.2_scaffold_1319_c, whole genome shotgun sequence.
+cg-------UAGCUCAGCGGUAGAGCACCUCCAUGGUAAGGAGGGGGUCGCGAGUUCAAUCCUCG------------uc
+>FN649740.1/4241786-4241715/5-68 [subseq from] Ectocarpus siliculosus strain Ec 32, whole genome shotgun sequence assembly, chromosome LG15
+g-----CAUAGCUCAGUGGUAGAGCGGCACCUUCGUAAGGUGUAGGCCGAGAGUUCGAUCCUCUCUG---------uc
+>FUIA01000025.1/77734-77806/5-67 [subseq from] Frigoribacterium sp. JB110 genome assembly, contig: Scaffold3
+----GCUUAGCUCAGUuGGUAGAGCACCGCUCUUGUAAAGCGGGGGUCGUGGGUUCGAGCCCCUCA----------g
+>ABJB010938821.1/4403-4332/7-65 [subseq from] Ixodes scapularis strain Wikel colony gcontig_1108378959210, whole genome shotgun sequence.
+a-------UAGCUCAGUGGCAGAGCACUGGUCUCGUAAACCAGGGGUCGUGAGUUCAAACCUC-------------acu
+>KI546046.1/69120-69191/5-70 [subseq from] Spironucleus salmonicida unplaced genomic scaffold scf7180000020563, whole genome shotgun sequence.
+u-----CUUAGCUUAGUGGUAGAGUGCUUCACUCGUAAUGAAGAGGUCACGAGUUCGAAUCUCGUAGAGG------g
+>MCFL01000016.1/381990-381919/6-66 [subseq from] Catenaria anguillulae PL171 BCR44scaffold_16, whole genome shotgun sequence.
+u------UUAGCACAGUGGUAGUGCGUCGGUCUUGUAAACCGAAGGUCCCGAGUUCAAUCCUCGGA----------g
+>MHTA01000034.1/4986-4915/8-65 [subseq from] Candidatus Terrybacteria bacterium RIFCSPLOWO2_02_42_20 rifcsplowo2_02_sub10_scaffold_806, whole genome shotgun sequence.
+-------UAGCUCAGUGGUAGAGCACUUCUCUGAAAAAGAAGGGGUCGUGAGUCCGAUUCUCA------------cc
+>CP000240.1/1715645-1715574/4-69 [subseq from] Synechococcus sp. JA-2-3B'a(2-13), complete genome.
+cac------GUGGCUCAGUGGUAGAGCACCCCCUUGGUAAGGGGGAGGUCACGAGUUCGAUCCUCGUCGUG-------g
+>LCAZ01000004.1/47265-47336/2-61 [subseq from] Microgenomates (Curtissbacteria) bacterium GW2011_GWC2_41_21 UU53_C0004, whole genome shotgun sequence.
+gg---CGCAUAGCUCAAUGGCAGAGCACCACUCUUAUAAAGUGGCGGUUCUUGGUUCGAAU----------------cc
+>CP002637.1/1794273-1794202/8-64 [subseq from] Selenomonas sputigena ATCC 35185, complete genome.
+-------UAGCUCAGUGGUAGAGCACCACCUUGCCAAGGUGGGGGUCGCGAGUUCGAGCCUCG------------u
+>MFBW01000036.1/32622-32550/6-67 [subseq from] Candidatus Curtissbacteria bacterium RIFCSPLOWO2_02_FULL_40_13b rifcsplowo2_02_scaffold_3489, whole genome shotgun sequence.
+c------UUAGCUCAGUuGGUAGAGCAGCGCUUUCGUAAAGCGAAGGUCCCGAGUUCGACUCUCGGA----------g
+>MNUI01000040.1/7134-7206/7-67 [subseq from] Candidatus Beckwithbacteria bacterium CG1_02_47_37 cg1_0.2_scaffold_8354_c, whole genome shotgun sequence.
+u-------UAGCUCAGcUGGCAGAGCACGUCCAUGGUAAGGACGGGGUCGCGAGUUCGAUUCUCGCAG---------
+>HG803604.1/317573-317644/4-71 [subseq from] Trichuris muris Edinburgh genomic scaffold, scaffold57
+ucca-------UAACUCAGUUGGUUAGAGCCAAUCUAGUAAAGUGGAGGUCGCGAGUUCGACCCUCGCUGGAG------cc
+>MEZX01000003.1/70497-70570/8-66 [subseq from] Candidatus Berkelbacteria bacterium RIFCSPLOWO2_01_FULL_50_28 rifcsplowo2_01_scaffold_531, whole genome shotgun sequence.
+ua---------GCUCAGUugGUUAGAGCACAACACUCAUAAAGUUGAGGUCGCGAGUUCGAUCCUCGC-----------
+>LJND01000007.1/14443-14372/6-64 [subseq from] Parcubacteria bacterium DG_72 WOR1_52_54_504, whole genome shotgun sequence.
+ag-------UAGCUCAGUGGUAGAGCACUUCUCUGAAAAAGAAGGGGUCGUGAGUUCAAUUCUC-------------uc
+>LCAO01000001.1/64971-64900/7-64 [subseq from] Microgenomates (Woesebacteria) bacterium GW2011_GWA1_41_13b UU42_C0001, whole genome shotgun sequence.
+g-------UAGCUCAGUGGUAGAGCACCAACUUGGUAAGUUGGGGGUCGUGAGUUCAAUCCUC-------------ac
+>LCQF01000026.1/2023-1951/8-67 [subseq from] Parcubacteria bacterium GW2011_GWA2_49_9 UY50_C0026, whole genome shotgun sequence.
+ua---------GCUCAGuUAGCAGAGCACAACUUUCGUAAAGUUGGGGUCGCCAGUGCAAUUCUGGC-----------ca
+>MHPG01000027.1/15821-15750/7-64 [subseq from] Candidatus Staskawiczbacteria bacterium RIFOXYA12_FULL_37_10 rifixya3_full_scaffold_600, whole genome shotgun sequence.
+a-------UAGCUCAGUGGUAGAGCACUUCUCUGAAAAAGAAGGGGUCGAGAGUCCGAUUCUC-------------uc
+>URS0000153583/2-72 [subseq from] tRNA from 1 species
+-GCCGCUUAGCACAGUGGCAGUGCACCGCUCUCGUAAAGCGGGGGUCGCGAGUUCAAUUCUCGCAGUGGCCU---
+>URS0000D0FE32/2-73 [subseq from] tRNA from 3 species
+GGCCGCUUAGCACAGUGGCAGUGCACUGGUCUUGUAAACCAGGGGUCCCGAGUUCAAUUCUCGGAGUGGCCU---
+>URS0000E31D45/3-69 [subseq from] tRNA from 1 species
+c---UGCUUAGCACAGUGGUAGUGCGCCACUCUACUGAAGCGGCGGUCGCGAGUUUGAUUUUCGCAGUGG------
+>URS00025CB313/6-67 [subseq from] tRNA from 1 species
+-----CUUAGCACAGUGGUAGUGCACCGCUUUCGUAAAGCGGGGGUCGUGAGUUCAAAUCUCACAG---------g
+>URS0000128EDA/2-71 [subseq from] tRNA from 1 species
+g--CGGCUUAGCACAGUGGCAGUGCAUCAGUCUUGUAAACUGAGGGUCGAGGGUUCAAUUCCCUCAGUCGC-----c
+>URS00022DDCD5/3-74 [subseq from] tRNA from 1 species
+cc----ACGUAGCACAGUGGCAGUGCACUUCCUUGGUAAGGAAGGGGUCGCGAGUUCAAUUCUCGCCGAGGGCUC--c
+>URS00022F4D84/9-65 [subseq from] tRNA from 1 species
+g---------GCUCAGUGGUAGAGCACCACACUCAUAAUGUGGGGGUCGCGAGUUCGAUUCUCGC-----------c
+>URS0002188626/3-68 [subseq from] tRNA from 1 species
+c---CGUAUAGCUCAGAGGCAGAGCACUAGUCUCGUAAACUAGGGGUCGUGAGUUCGAUUCUCACUG---------gg
+>URS00021B212F/3-74 [subseq from] tRNA from 1 species
+c---CUCUUAGCACAGUGGCAGUGCACCUCCUUGGUAAGGAGGGGGUCGACAGUUCAAUUCUGUCAGAGGGUUC--c
+>URS00022144C3/3-67 [subseq from] tRNA from 1 species
+c---UGCUUAGCUCAGUGGCAGAGCACUAAUCUUGUAAACUAGGGGUCAUGAGUUCAAUUCUCGUAG---------g
+>URS0002289537/5-72 [subseq from] tRNA from 1 species
+----GCUUAGCUCAGCGGUAGAGCAGCGCUCUUGUAAAGCGAAGGUCGCGAGUUCGAUCCUCGCAGCCG------gcu
+>URS0000C96653/7-63 [subseq from] tRNA from 1 species
+g-------UAGCUCAGUGGCAGAGCACCACUCUCGUAAAGUGGGGGUCGCAGGUUCAAAUC---------------cug
+>URS0000DEA0D6/3-71 [subseq from] tRNA from 1 species
+cuc-----CUUGGCCAAGCGGCAAGGCACCAGUCUUGUAAACUGGGGAUCGCGAGUUCGAUCCUCGCAGGGGC-----c
+>URS00022BB9DA/7-72 [subseq from] tRNA from 1 species
+g-------UAGCUCAGUGGUAGAGCAGCACUUUCGUAAAGUGAAGGCCGCGAGUUCGAAUCUCGCC----------uccggcu
+>URS0002189348/3-70 [subseq from] tRNA from 1 species
+cu----GCAUAGCUCAGGGGCAGAGCACUAGUCUUGUAAACUAGGGGUCGUGAGUUUGAUUCUCACUGUGG------g
+>URS0000ADD7EE/8-72 [subseq from] tRNA from 3 species
+-------UAGCUCAGUGGUAGAGCAACGCUUUCGUAAAGCGUGGGUCGCGAGUUCGACUCUCGCCUU--------cggcu
+>URS0002275202/2-71 [subseq from] tRNA from 1 species
+g--CCUCUUGGCUUAGUGGCAUAGCGUCGCUCUAGUAAAGCGAAGGUCGCGAGUUCAAUUCUCGCAGAGGCC----
+>URS0000A318EC/6-63 [subseq from] tRNA from 1 species
+ua-------UAGCACAGUGGUAGUGCACCUCUUUGGUAAAGAGGAGGUCGCGGGUUCGAUUCC--------------cu
+>URS00021A01CB/8-68 [subseq from] tRNA from 1 species
+uag----------CUCAGcUGGUAGAGCACCACUCUCGUAAAGUGGGGGUCGGGAGUUCGAGUCUCCCC----------gu
+>URS0000ACDCF3/7-64 [subseq from] tRNA from 2 species
+cu--------AGCUCAGuUGGUAGAGCACCACUUUCGUAAAGUGGGGGUCCCGAGUUCGAUCCUCG------------
+>URS00022F6E89/7-63 [subseq from] tRNA from 1 species
+g-------UAGCUCAGUGGUAGAGCAACACUUUCGUAAAGUGUGGGUCGGGAGUCCGAUUCUC-------------c
+>URS000066B254/5-69 [subseq from] tRNA from 1 species
+c-----CUUAGCUCAGUGGCAGAGCACUGGUCUUGUAAACCAGGGGUCGUGAGUUCGAAUCUCACAGGG-------g
+>URS0000AEEC79/6-74 [subseq from] tRNA from 1 species
+ca-------UGGCUCAGUGGCAGAGCAUCUCCAUGGUAAGGAGAGGGUCGCGAGUUCGAUUCUCGCUGUCGGCUC--c
+>URS0000726BA9/5-69 [subseq from] tRNA from 2 species
+c-----CUUAGCUCAGGGGCAGAGCACUAGUCUUGUAAACUAGGGGCCGUGAGUUCAAUUCUCACAGGG-------g
+>URS0000CB2D70/4-74 [subseq from] tRNA from 1 species
+ag-----AUUAGCUCAGUGGUAGAGCACUGCUUUCGUAAAGCAGGGGUCGCGGGUCCGAAUCCCGCAUCUGGCU---cc
+>URS0000C99845/5-68 [subseq from] tRNA from 1 species
+u-----CUUAGCUCAGUGGUAGAGCAACACAUUCGUAACGUGUAGGUCGUGAGUUCGACUCUCACAG---------au
+>URS00006BD91E/6-71 [subseq from] tRNA from 1 species
+ua-------UAGCUCAGUGGCAGAGCACUGGUCUUGUAAACCAGGGGUCGCGAGUUCGAUCCUCGCUGGAG------cc
+>URS0001611CF9/5-66 [subseq from] tRNA from 1 species
+c-----CUUAGCACAGUGGUAGUGCACCGCUUUCGUAAAGCGGGGGUCCAGGGUUCAAAUCCC-------------ugag
+>URS0000C013D7/3-69 [subseq from] tRNA from 2 species
+c---UGCUUAGCUCAGUGGUAGAGCGCUAGUCUUGUAAACUAGCGGUCGUGAGUUCGAUACUCACAGCG-------g
+>URS0000D10462/5-69 [subseq from] tRNA from 1 species
+a-----CUUAGCUCAGCGGUAGAGCAGCAGUUUUGUAAACUGUCGGUCGCGAGUUCGAUCCUCGCAGU--------cg
+>8AW3_1/2-75 [subseq from] Chain 1, RNA (75-MER)
+-GCCGCUUAGCACAGUGGCAGUGCACCACUCUCGUAAAGUGGGGGUCGCGAGUUCGAUUCUCGCAGUGGCCUCCA
+>X57046.1/340-271 [subseq from] Trypanosoma brucei tRNA-tyr, tRNA-thr & U6 snRNA genes
+-GCCGCUUAGCACA-UGGCAGUGCACCACUCUCGUAAAGUGGGGGUCGCGAGUUCGAUUCUCGCAGUGGCCU---

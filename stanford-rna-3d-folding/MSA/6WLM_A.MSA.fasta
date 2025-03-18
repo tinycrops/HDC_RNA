@@ -1,0 +1,72 @@
+>query
+GGAAUCGGAUGAAGAUAUGAGGAGAGAUUUCAUUUUAAUGAAACACCGAAGAAGUAAAUCUUUCAGGUAAAAAGGACUCAUAUUGGACGAACCUCUGGAGAGCUUAUCUAAGAGAUAACACCGAAGGAGCAAAGCUAAUUUUAGCCUAAACUCUCAGGUAAAAGGACGGAG
+>AE009951.2/963996-963902/1-87 [subseq from] Fusobacterium nucleatum subsp. nucleatum ATCC 25586, complete genome.
+------------------------------------------------------------------------------------GGACGAACCUCUGGAGAGCUUAUCUAAGAGAUAACACCGAAGGAGCAAAGCUAAUUUUAGCCUAAACUCUCAGGUAAAAGGACGGAG
+>GL985160.1/1671-1750/2-80 [subseq from] Fusobacterium nucleatum subsp. animalis ATCC 51191 genomic scaffold SCAFFOLD20, whole genome shotgun sequence.
+---------UGAAGAUAUGAGGAGAGAUUUCAUUUUAAUGAAACACCGAAGAAGUAAAUCUUUCAGGUAA-AAGGACUCAUAUUGGACG----------------------------------------------------------------------------------
+>CP001685.1/1471392-1471295/1-89 [subseq from] Leptotrichia buccalis DSM 1135, complete genome.
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGACUGUCuUAAGUGACAGCACCGAAGGAGCAAAGGAAUUUUAAuuCCCUAAACUCUCAGGUAAAAGAACAG--a
+>LAYY01000009.1/150797-150608/64-187 [subseq from] Bacillus sp. SA2-6 scf7180000001087, whole genome shotgun sequence.
+ccuuug---------------------------------------------------GAAUUAAUCUCUCAGGUAA-AAGAACCAAUACAGGACGCAACUCUGGAGAGCGCAAAUU--CAUUGCCACCAAAGGGGACCCGCUAUUUUUgcGGAUUAAACUUUCAGGUAAAAGGACAG--a
+>GG700632.1/893193-893097/1-88 [subseq from] Leptotrichia hofstadii F0254 genomic scaffold Scfld0, whole genome shotgun sequence.
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGACUGUCUuAAAUGACGGCACCGAAGGAGCAAAGGAAUUUUaUUCCCUAAACUCUCAGGUAAAAGAACAG--a
+>CP003108.1/4989940-4989749/2-189 [subseq from] Desulfosporosinus orientis DSM 765, complete genome.
+c------GGAUGACACUAGCAGGAGAGAUCUGAAUUUU-UCAGGCGCCGAAGGAGAAAucucuugaauucgcuuuuucaaggggggaAGCUCUCAGGCA-AAAGUACUGCUAGAUGACGAGACUCUGGAGAGUUUCUUGUAAAAAGAACACCAAAGGGGAA--GC--CUUACGGGCGAAUCUCUCAGGUUAAAGGACAG--a
+>FQXJ01000004.1/105997-105801/3-194 [subseq from] Desulfosporosinus lacus DSM 15449 genome assembly, contig: EJ50DRAFT_scaffold00002.2
+ga--------AUGACGCUAGCAGGAGAGAUCUGAUUUauUUUUCAGACGCCGAAGGAGAAAUUccuugaaaucgcucuuucaaggagggaaaCUCUCAGGC-AAAAGUACUGCUAGAAGACGGGACUCUGGAGAGUUUCuUGUAAAAGAGAACACCAAAGGGG--AAGCCGAAGA-CGGCGAAUCUCUCAGGUUAAAGGACAG--a
+>LFJO01000003.1/9058-9254/2-192 [subseq from] Bacillus pseudalcaliphilus strain DSM 8725 super5, whole genome shotgun sequence.
+-----CGGAUGAAAAUAAGGGGAGAGACUGCAA---AGUGCAGCGCCGAAGgagcaagcuuugaaacaAAGUGAAUCUCUCAGGCAAAAA-GACUUUUAUUUGACGCAACUCUGGAGAGUGCUUAAUGGAGAUUAagcCACCUACGAA-----GACAAUUUUccguugcacguaucggaAAAUGAAACUUUCUGGUACAAGGAC----a
+>BA000016.3/1674697-1674599/1-90 [subseq from] Clostridium perfringens str. 13 DNA, complete genome.
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGACUcUUUUAAAAAAGAGCACCGAAGGAGCAAGGUCAAauuUUUUGACUGAAACUCUCAGGUAAAAGGACAG--a
+>JYNH01000016.1/25002-25196/69-192 [subseq from] Desulfosporosinus sp. I2 contig00016, whole genome shotgun sequence.
+uuuuuua-------------------------------------------------AGGAGCAA-ACUCUCAGGCAA-AAGUACUGCUAGUAGACGGGACUCUGGAGAGUUUCUCAUAAAGAGAACACCAAAGGGGA--AGCCGCAAAGCGGCGAAUCUCUCAGGUUCAAGGACAG--a
+>CP001056.1/1000469-1000568/1-90 [subseq from] Clostridium botulinum B str. Eklund 17B, complete genome.
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGacuCAUAUUUAUUA-UGAGCACCGAAGGAGCAAGGCAAAUUUUAuuuGCUGAAACUCUCAGGUAAAAGGAC----ag
+>MLBF01000003.1/118277-118085/54-190 [subseq from] Desulfosporosinus sp. OL contig00003, whole genome shotgun sequence.
+ucccuugaaucgccuuuc------------------------------------------------AAGGGGGGAAACUCUCAGGCAA-AGGUACUACUAGAUGACGAUACUCUGGAGAGUUUCUCUuAAAUGAGAACACCAAAGGGG--AAGCCGGUU-ACGGCGAAUCUCUCAGGUUAAAGGACAG--a
+>CP017253.1/952100-952198/1-89 [subseq from] Clostridium taeniosporum strain 1/k, complete genome.
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGacuCAUAUUUAUA--UGAGCACCGAAGGAGCAAAGUAAAUUUUAuuuACUGAAACUCUCAGGUAAAAGGAC----ag
+>CP002282.1/634251-634174/2-78 [subseq from] Ilyobacter polytropus DSM 2926 plasmid pILYOP01, complete sequence.
+---------UGAAGGUAUGGGGAGAGAGCUGUUUUUACA--GCCACCGAAGAAGUAAAUCUUUCAGGUAA-AUGGACCUAUACUGGACG----------------------------------------------------------------------------------
+>KI518151.1/5258-5159/1-91 [subseq from] Cetobacterium somerae ATCC BAA-474 genomic scaffold Scaffold3, whole genome shotgun sequence.
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGACUC--UAUGA----GCACCGAAGGAGCAAACCCAAAuauaauuuguaUUUGGACUAAACUCUCAGGUAAAAGGACAG--a
+>MAPZ01000009.1/264255-264344/2-79 [subseq from] Clostridium paraputrificum strain 373-A1 CP373A1_17, whole genome shotgun sequence.
+-------------------------------------------------------------------------------------GACGAGCCUCUGGAGAGACUCUAGAAGAG----CACCGAAGGAGCAAGGCUAAG-AUAGCUGAAACUCUCAGGUAAAAGGAC----a
+>LADV01000006.1/37374-37567/62-190 [subseq from] Peptococcaceae bacterium BRH_c23 BRHa_1003339, whole genome shotgun sequence.
+aaucgcuuuuuu------------------------------------------------AAGGAGCAA-ACUCUCAGGCAA-AAGUACUGCUAGUUGACGGGACUCUGGAGAGUUUCUCAUAAAGAGAACACCAAAGGGG--AAGCUGGAAA-CGGCGAAUCUCUCAGGUUuAAAGGA-----cag
+>CP003629.1/3984974-3984784/44-188 [subseq from] Desulfosporosinus meridiei DSM 13257, complete genome.
+ggagaaauucc--------------------------------UUGAAAUACGCUUUUCAAGGAGGGAAGCUCUCAGGCAA-AAGUACUGCUAGAAGACGGGACUCUGGAGAGUUUCUUGUA-AAAGAACACCAAAGGGG--AAGCCGAGAUACGGCGAAUCUCUCAGGUUAAAGGACAG--a
+>GL987991.1/160632-160722/1-82 [subseq from] Fusobacterium mortiferum ATCC 9817 genomic scaffold supercont2.5, whole genome shotgun sequence.
+------------------------------------------------------------------------------------GGACGAACCUCUGGAGAGACU--CGUAG----AGCACCGAAGGAGCAAACCCAAGUaaUUGGACUAAACUCUCAGGUAAAAGGACAG--a
+>LOEW01000225.1/8744-8555/76-187 [subseq from] Desulfosporosinus sp. BRH_c37 BRHa_1005183, whole genome shotgun sequence.
+ga---------------------------------------------------------AACUCUCAGGCAGAAAGUACCGCUAGUAGACGGGACUCUGGAGAGUUUCuUGUAACAGAGAACACCAAAGGGG--AUGCCGAG--ACGGCGAAUCUCUCAGGUUAAAGGACAG--a
+>BA000004.3/2941608-2941417/2-189 [subseq from] Bacillus halodurans C-125 DNA, complete genome.
+-----CGGAUGAAAGCAAGGGGAGAGACUGCAA--GGAUGCAGCGCCGAAGGAGCAaacacaauuagggugugAAUCUCUCAGGCAAAAA-GACUCUUGCUCGACGCAGCUCUGGAGAGCGU--CUAACAcUAGACCACCUACGAAGACAUUUCCUUUUUACGAUaaggggaaagAAACUUUCUGGUAACCGGACA---ga
+>CYZX01000022.1/22496-22592/1-86 [subseq from] Clostridium disporicum strain 2789STDY5834856 genome assembly, contig: SCcontig000022
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGAC----UCAAAGAGAGCACCGAAGGAGCAAGGUUUAaguuuuAUUAAACUCAAACUCUCAGGUAAAAGGAC----a
+>CP000673.1/769876-769785/1-76 [subseq from] Clostridium kluyveri DSM 555, complete genome.
+------------------------------------------------------------------------------------GGACGAACCUCUGGAGAGACUCUUUAAGAG----CACCGAAGGGGAAAGCCAAAAUUUUGGUGAAACUCUCAGGUAAAA--------a
+>AGAF01000169.1/16215-16021/45-192 [subseq from] Desulfosporosinus sp. OT TOU.assembly.257, whole genome shotgun sequence.
+a--------------------GGAGAAAAUCCCUUGAAAUUGCUUUUCGAGGGAGGAAA-CUCUCAGGCAA-AAGUACUGCUAGAAGACGGUACUCUGGAGAGUUUCUCUUAcaUAGAGAACACCAAAGGGGA--AGCCGGGA-ACGGCGAAUCUCUCAGGUUCAAGGACAG--a
+>CP000141.1/423711-423891/76-178 [subseq from] Carboxydothermus hydrogenoformans Z-2901, complete genome.
+aa---------------------------------------------------AGGUGAAACUCUCAGGCAA-AAGGACUGUUGCCGGACGAAACUCUGGAGAGUCCCUUAAAGGG----CACCCACGGGG-------------AGUUUAAUCUCUCAGGUCAAAGGACAG--a
+>CP003639.1/3897938-3897745/71-191 [subseq from] Desulfosporosinus acidiphilus SJ4, complete genome.
+uc------------------------------------------------AAGAGGGGAAACUCUCAGGCAA-AGGUACGGCUAGUAGACGGUACUCUGGAGAGUUUCUCUAAGcAGAGAACACCAAAGGGGAAGU-CGG--AGACGGCGAAUCUCUCAGGUUAAAGGACAG--a
+>DS562854.1/110528-110435/1-82 [subseq from] Clostridium spiroforme DSM 1552 Scfld_02_11 genomic scaffold, whole genome shotgun sequence.
+------------------------------------------------------------------------------------GGACGAACCAUUGGAGAGaCUUAUUGAA--UUAAGCACCGAAGGAGCAAACCUAUAUAUAGGUGAAACUCUCAGGUAAAAGGAC----
+>LZFO01000012.1/4986-5076/2-82 [subseq from] Clostridium acetireducens DSM 10703 CLAC_contig000012, whole genome shotgun sequence.
+-------------------------------------------------------------------------------------GACGAGCCUCUGGAGAGACUUU-UAAAA---GUCACCGAAGGAGAAA-GCUGAuUUUUCAGCGAAACUCUCAGGUAAAAGGACAG--a
+>CBML010000006.1/708229-708324/1-85 [subseq from] Clostridium chauvoei JF4335, WGS project CBML01000000 data, contig: 00001
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGACU---CAAG--AGAGCACCGAAGGAGCAAGGUAAAAUUuuuauuUUACUGAAACUCUCAGGUAAAAGGAC----a
+>CP001348.1/1451256-1451350/2-86 [subseq from] Clostridium cellulolyticum H10, complete genome.
+-------------------------------------------------------------------------------------GACGGACCUCUGGAGAGACCAA-----UGACGGCGCCGAAGGGGCAAAGgcuagUUAAAUUUAGCUUAAUCUCUCAGGCAAAAGGACAG--a
+>KB850956.1/1471377-1471277/1-91 [subseq from] Clostridium colicanis 209318 genomic scaffold acBRg-supercont1.1, whole genome shotgun sequence.
+------------------------------------------------------------------------------------GGACGAGCCUCUGGAGAGACUCUAUU--AAGGAGCACCGAAGGAGCAAGAUacauuuauUUAUUUGUAUCCAAACUCUCAGGUAAAAGGAC----ag
+>CP005974.1/1990963-1990870/3-85 [subseq from] Photobacterium gaetbulicola Gung47 chromosome 2, complete sequence.
+ag----------------------------------------------------------------------------------------GAGCCUCUGGAGAGAUCCGUUAA-AUCGGACGCCGAAGGAGCAAACCUGAAUUCAGGUGAAACUCUCAGGCAAAAGGACAG--a
+>LWDV01000008.1/168995-169088/2-83 [subseq from] Orenia sp. Z6 2524618311, whole genome shotgun sequence.
+g--------------------------------------------------------------------------------------ACGACGCUCUGGAGAGACUCACUAAGAG----CACCGAAGGAGUAACcugAUUAACUUCAGGGUAAUCUCUCAGGUAAAAGGAC----a
+>URS000080DF90/2-169 [subseq from] misc_RNA from 1 species
+-------------GAUAUGAGGAGAGAUUUCAUCCAuugcacuccgGAUGAAACACCGAAGAAGUAAAUCUUUCAGGUAAAAAGGACUCAUAUUGGACGAACCUCUGGAGAGCUUAUCUAAGAGAUAACACCGAAGGAGCAAAGCUAAUUUUAGCCUAAACUCUCAGGUAAAAGGACGGAG
+>URS0000AB6CBE/1-84 [subseq from] ncRNA from 1 species
+------------------------------------------------------------------------------------GGACGAACCUCUGGAGAGACUUAUUAA-AUUAAGCACCGAAGGAGCAAGCCUAUUUAUAGGUGAAACUCUCAGGUAAAAGGAC----ag

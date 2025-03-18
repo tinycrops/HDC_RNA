@@ -1,0 +1,48 @@
+>query
+GGCUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAGCC
+>K03455.1/579-677/1-98 [subseq from] Human immunodeficiency virus type 1 (HXB2), complete genome; HIV1/HTLV-III/LAV reference genome.
+--CUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACCUGAAAGCGAAAGGGAAACCAGA---
+>AF239651.1/517-615/1-98 [subseq from] HIV-1 isolate Pair14/infant from Tanzania, 5' long terminal repeat, complete sequence.
+--CUCUGGUAACUAGAGAUCCCUCAGACCUUUUGUGGUAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAGACCG-----ga
+>L28843.1/453-551/1-98 [subseq from] Human immunodeficiency virus type 1 (clone 1B-11) long terminal repeat (LTR).
+c---UUUGGUAGCUAGAGAAYCCUUAGACCCUUUAAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGRACAGGGACUUGAAAGCGAAAAGAGAACCAG----a
+>AF254676.1/517-615/1-98 [subseq from] HIV-1 clone NT5.3/ from Tanzania 5' long terminal repeat, complete sequence.
+--CUCUGGUAACUAGAGAUCCCUCAGACCUCUUUAGUCUGUGGGGAAAAUCUCUAGCAGUGGCGCCCAACGUGGGGCACGAAAGCGAAAGUAAGACCAG----a
+>DQ373063.1/124-224/1-100 [subseq from] Simian immunodeficiency virus isolate SIVcpzMB66, complete genome.
+--CUCUGGUAUCUAGAGAUCCCUCAGAUAACUGUAGUCUGUGCGGccAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAACGAAAGUAAGACCAG----a
+>AJ006022.1/138-235/1-97 [subseq from] Human immunodeficiency virus type 1 complete proviral genome
+--CUCUGGUACCUAGAGAUCCCUCAGACCA-UCUAGACUGAGUGAAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAACGAAAGUAGAACCGG----a
+>X04415.1/123-217/1-90 [subseq from] Human lymphadenopathy virus (MAL isolate), complete genome.
+--CUCUGGUAACUAGAGAUCCCUCAGACCACUCUAGACGGUGUA-AAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUUAAAGUGAAAGUAA----------
+>DQ373065.1/122-216/1-89 [subseq from] Simian immunodeficiency virus isolate SIVcpzEK505, complete genome.
+--CUCUGGUAUCUAGAGAUCCCUCAGACUAAUUcUACUGAGU---AAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGUGAAAGUAA----------
+>L20571.1/582-680/2-97 [subseq from] Human immunodeficiency virus type 1, complete genome.
+c----CUGGUGUCUAGAGAUCCCUCAGAUCACUUAGACUGAAGCAGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACGCGAAAGUGAAAGUGGAACCA-----g
+>URS0000D56C30/3-101 [subseq from] sRNA from 1 species
+--CUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGUAAAGCCAGAG--
+>KM519788.1/2934-3032 [subseq from] Cloning vector pH1TO-shRNA_FF4-hEF1a-TetR-2A-iRFP-2A-Bla, complete sequence
+--CUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGGGAAACCAGAG--
+>MT308106.1/8-106 [subseq from] HIV-1 isolate 00749_PH258_W1.2_5pHGRNAMix_BAR4_Seq1_Phase0_NumReads167 from USA gag protein (gag) gene, complete cds; and pol protein (pol) and vif protein (vif) genes, partial cds
+--CUCUGGUAACUAGAGAUCCCUCAGACCAUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACCCGAAAGCGAAAGAGAAACCAGAG--
+>Z11530.1/620-717 [subseq from] Human Immunodeficiency virus I (HIV-1) RNA
+--CUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCUGAACAGGGACCUGAAAAUGA-AGUAAGACCAGA---g
+>U19177.1/1-81 [subseq from] Human (Hin-2)/HIV1 promoter region chimeric mRNA, partial cds
+--------------------CCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGAGAAACCAGAG--
+>U19178.1/1-81 [subseq from] Human (Hin-3)/HIV1 promoter region chimeric mRNA, complete cds
+--------------------CCUCAGACCCUUUAAGUCAGUGUGGAAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGUGAAAGAGAAGCCAGAG--
+>EU074783.1/17-106 [subseq from] HIV-1 isolate X138.8.PI.RNA from Spain nonfunctional gag protein (gag) gene, complete sequence; nonfunctional pol protein (pol) gene, partial sequence; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) and nonfunctional envelope glycoprotein (env) genes, complete sequence; and nef protein (nef) gene, complete cds
+--CUCUGGUAACUAGAGAUCCCUCAGACCACUCUAGAUAGUGUA-AAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAACGAAAGU------------ua
+>AB070353.1/579-668 [subseq from] Human immunodeficiency virus 1 genomic RNA, complete genome, clone: 93JP-NH2env
+--CUCUGGUAACUAGAGAUCCCUCAGACCACUCUAGACUGAAUA-AAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAGCGAAAGU------------ua
+>AB052867.1/578-658 [subseq from] Human immunodeficiency virus type 1 genomic RNA, complete genome, Ghana intersubtype A/G recombinant
+--CUCUGGUAACUAGAGAUCCCUCAGACCACUCUAGGUUGUGUA-AAAAUCUCUAGCAGUGGCGCCCGAACAGGGACCGGAA---------------------gu
+>KM519788.1/9492-9552 [subseq from] Cloning vector pH1TO-shRNA_FF4-hEF1a-TetR-2A-iRFP-2A-Bla, complete sequence
+a--CUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAGG-------------------------------------------gc
+>MW852482.1/4584-4527 [subseq from] Synthetic construct clone pSP589_Spear-ATAC_sgNT-2 sgRNA gene, complete sequence
+--CUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCAG--------------------------------------------c
+>Y12839.1/22-78 [subseq from] H.sapiens BH30 mRNA
+a--CUCUGGUAACUAGAGAUCCCUCAGACCCUUUUAGUCAGUGUGGAAAAUCUCUAGCA---------------------------------------------
+>EU074781.1/1-74 [subseq from] HIV-1 isolate X138.7.PI.RNA from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; nonfunctional vif protein (vif) gene, complete sequence; vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds
+------------------UCCCUCAGACCACUCUAGAUAGUGUA-AAAAUCUCUAGCAGUGGCGCCCGAACAGGGACUUGAAAACGAAAGU------------ua
+>X03190.1/861-917 [subseq from] Human T-lymphotropic virus type III (HTLV III) HAT3 RNA for 3'ORF
+a--CUCUGGUAACUAGAGAUCCCUCAGACCUCUUUAGUCAGUGUGGAAAAUCUCUAGCA---------------------------------------------
