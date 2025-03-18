@@ -1,72 +1,137 @@
+# HDC-RNA: Hyperdimensional Computing for RNA 3D Structure Prediction
 
-prompt: what are the commonalities and advantageous synergies between our understanding of RNA 3D folding and hyperdimensional computing?  I want to explore some hypothesis that challenge our understanding of RNA and DNA.
+This project applies Hyperdimensional Computing (HDC) techniques to predict the 3D structure of RNA molecules. By encoding RNA sequences in high-dimensional space and leveraging HDC operations, we aim to improve the accuracy and efficiency of RNA structure prediction.
 
-I'll analyze the commonalities and potential synergies between RNA 3D folding and hyperdimensional computing, then explore some hypotheses that challenge conventional understanding of RNA and DNA.
+## Overview
 
-## Commonalities Between RNA 3D Folding and Hyperdimensional Computing
+Hyperdimensional Computing is a brain-inspired computing paradigm that represents information with high-dimensional vectors (typically 10,000+ dimensions). The key HDC operations include:
 
-1. **High-Dimensional Representation**
-   - RNA structures exist in 3D space but encode vast information through complex folding patterns
-   - Hyperdimensional computing uses thousands-dimensional vectors to represent information
-   - Both leverage high dimensionality to efficiently encode complex relationships
+- **Binding**: Create associations between concepts
+- **Bundling**: Combine multiple elements
+- **Permutation**: Encode sequence information
 
-2. **Robustness to Errors**
-   - RNA maintains function despite small mutations or environmental noise
-   - Hyperdimensional computing is notably error-tolerant, with vectors remaining "close" to correct answers despite bit flips
-   - Both systems prioritize functional resilience over perfect accuracy
+These operations enable holistic representation of complex data while maintaining robustness to noise and errors, making HDC particularly well-suited for biological sequence analysis.
 
-3. **Distributed Representation**
-   - RNA's function emerges from its entire structure, not just primary sequence
-   - HDC uses distributed representations across many dimensions rather than single values
-   - Both avoid single points of failure through distributed information encoding
+## Features
 
-4. **Compositional Operations**
-   - RNA combines simple elements (nucleotides) to create complex structures with binding, stacking
-   - HDC uses defined operations (binding, bundling, permutation) to compose complex concepts
-   - Both systems build complexity through well-defined operations on simpler components
+- RNA sequence encoding using hyperdimensional vectors
+- Position-specific nucleotide representation
+- N-gram context encoding for capturing local patterns
+- Neural network-based coordinate prediction
+- 3D structure visualization
+- Easy-to-use command line interface
 
-## Advantageous Synergies
+## Installation
 
-1. **Modeling RNA Structure with HDC**
-   - HDC could represent RNA structures as hypervectors, with each dimension capturing structural or chemical properties
-   - Operations like binding and bundling might model RNA interactions with proteins or other molecules
-   - This approach could overcome limitations of current computational models for RNA structure prediction
+Clone the repository:
 
-2. **Biomimetic Computing Architectures**
-   - RNA's efficient information processing could inform new HDC hardware implementations
-   - The parallel processing nature of RNA folding could inspire parallel HDC architectures
-   - Energy efficiency of biological systems could transfer to HDC implementations
+```bash
+git clone https://github.com/tinycrops/hdc-rna.git
+cd hdc-rna
+```
 
-3. **Drug Discovery Applications**
-   - HDC could model drug-RNA interactions at scale with better error tolerance than traditional methods
-   - RNA structure prediction algorithms could benefit from HDC's ability to handle ambiguity and partial information
-   - Faster screening of potential RNA-targeting therapeutics
+Install dependencies:
 
-## Hypotheses That Challenge Our Understanding
+```bash
+pip install -r hdc_rna/requirements.txt
+```
 
-1. **RNA as a Hyperdimensional Computer**
-   - What if RNA itself operates as a biological hyperdimensional computing system?
-   - Hypothesis: RNA's 3D structure is not just a consequence of chemistry but an evolved computational architecture
-   - This would explain how relatively simple RNA molecules perform complex regulatory functions
+## Data
 
-2. **Non-Linear Information Encoding in DNA**
-   - Traditional view: DNA stores information linearly in its nucleotide sequence
-   - Challenging hypothesis: DNA's 3D folding and structural characteristics encode additional information orthogonal to the linear sequence
-   - Perhaps DNA contains hyperdimensional representations that we've overlooked because we focus on the primary sequence
+This project uses the Stanford RNA 3D Folding dataset, which includes:
 
-3. **Evolutionary Advantage of Dimensionality**
-   - Hypothesis: Life evolved to use high-dimensional representations because they offer superior computational efficiency
-   - This could explain why biological systems seem to outperform human-engineered systems in many aspects despite using "slower" components
-   - The distributed nature of biological information processing may be a fundamental advantage rather than just a quirk of evolution
+- RNA sequences with their 3D coordinates
+- Training, validation, and test sets
+- Supporting multiple sequence alignments (MSAs)
 
-4. **Quantum Effects in RNA Computation**
-   - Hypothesis: RNA structures may leverage quantum mechanical effects for information processing
-   - The high-dimensional space of RNA conformations might allow for quantum-like superposition states
-   - This could explain how RNA catalytic activities achieve efficiency beyond classical expectations
+The dataset can be found in the `stanford-rna-3d-folding` directory.
 
-5. **Memory-Like Functions in RNA Systems**
-   - Similar to how HDC uses hypervectors for memory, RNA structures might serve as biological memory units
-   - Hypothesis: Some RNA structures persist to "remember" cellular states beyond just carrying genetic information
-   - This would challenge the view of RNA as primarily a transient messenger
+## Usage
 
-These hypotheses suggest that our understanding of nucleic acids might benefit from concepts in hyperdimensional computing, potentially revealing new functions and capabilities we haven't yet recognized in these fundamental biological molecules.
+The project provides a simple command-line interface for all operations:
+
+### Quick Demonstration
+
+Run a quick demo with sample data:
+
+```bash
+python run_hdc_rna.py demo
+```
+
+### Testing HDC Implementation
+
+Test the basic HDC operations:
+
+```bash
+python run_hdc_rna.py test
+```
+
+### Training
+
+Train a model on the full dataset:
+
+```bash
+python run_hdc_rna.py train --data_dir stanford-rna-3d-folding --output_dir models
+```
+
+For faster training with limited data:
+
+```bash
+python run_hdc_rna.py train --data_dir stanford-rna-3d-folding --max_sequences 10
+```
+
+### Prediction
+
+Predict the 3D structure of an RNA sequence:
+
+```bash
+python run_hdc_rna.py predict --model_path models/rna_hdc_model.pt --sequence GGGUGCUCAGUACGAGAGGAACCGCACCC --visualize
+```
+
+Predict a structure from the dataset by ID:
+
+```bash
+python run_hdc_rna.py predict --model_path models/rna_hdc_model.pt --target_id R1107 --visualize
+```
+
+## How It Works
+
+1. **Encoding**: RNA sequences are encoded as hypervectors:
+   - Each nucleotide (A, C, G, U) has its own random hypervector
+   - Position information is incorporated using position-specific vectors
+   - Local context is captured with n-gram encoding
+
+2. **Neural Mapping**: A neural network maps from the HDC space to 3D coordinates:
+   - Input: High-dimensional representation of RNA sequence
+   - Output: x, y, z coordinates for each nucleotide
+
+3. **Visualization**: 3D structures are rendered for analysis:
+   - Color-coded by nucleotide type
+   - Connections shown between adjacent nucleotides
+   - Comparison between predicted and actual structures (when available)
+
+## Benefits of HDC for RNA Structure Prediction
+
+- **Robustness**: Maintains accuracy despite mutations or sequencing errors
+- **Efficiency**: Requires fewer training examples than traditional deep learning
+- **Holistic Representation**: Captures relationships between distant parts of the sequence
+- **Interpretability**: More transparent approach than black-box deep learning models
+- **Parallelizability**: HDC operations can be highly parallelized
+
+## Future Improvements
+
+- Incorporate evolutionary information from MSAs
+- Add physical constraints from RNA folding energetics
+- Implement end-to-end differentiable HDC operations
+- Integrate with existing RNA structure prediction tools
+- Hardware acceleration for HDC operations
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Stanford RNA 3D Folding competition for providing the dataset
+- The hyperdimensional computing research community for foundational work
+- Contributors to open-source libraries used in this project (PyTorch, NumPy, etc.)

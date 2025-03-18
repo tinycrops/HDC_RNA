@@ -1,0 +1,980 @@
+>query
+GGGAUCUGUCACCCCAUUGAUCGCCUUCGGGCUGAUCUGGCUGGCUAGGCGGGUCCC
+>APMT01002221.1/2714-2581/27-74 [subseq from] Mesocricetus auratus contig002221, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCC---AGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01058032.1/1197-1522/19-78 [subseq from] Myotis davidii contig58032, whole genome shotgun sequence.
+-GGAUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAQR03002357.1/4920-5254/27-84 [subseq from] Otolemur garnettii contig002357, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUGGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01002761.1/6998-7337/27-75 [subseq from] Myotis davidii contig2761, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCA--GGGUUGAUCUGGCUGGCUAGGCGGGU---
+>AZIM01000182.1/603950-603624/25-82 [subseq from] Ophiophagus hannah scaffold182.1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCagaguugAUUGGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALAR01013185.1/9627-9329/26-84 [subseq from] Tupaia chinensis contig13185, whole genome shotgun sequence.
+a---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWS01075686.1/483-813/27-84 [subseq from] Pteropus alecto contig75686, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000555.1/110448907-110448563/26-84 [subseq from] Pongo abelii chromosome 5.
+a---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835550.1/1173857-1174136/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00262, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAggguugaUAGGGCUGAUCUGGCUGACUAGGCGGGU---
+>AYUG01094814.1/34961-35167/26-83 [subseq from] Fukomys damarensis contig94814, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAggguugaCUGGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835461.1/3773021-3773275/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00173, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUCGGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835432.1/2124602-2124892/26-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00144, whole genome shotgun sequence
+c---AUCUGUCAUCCCAUUGAUCGCCaggguugaUUCGGGCUGAUCUGGCUGGCUAGGUGGGU---
+>LZPO01044631.1/43113-43426/12-71 [subseq from] Neotoma lepida isolate 417 scaffold_3141, whole genome shotgun sequence.
+a--GAUCUGUCACCCCAUUGAUAGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01135314.1/10402-10577/27-85 [subseq from] Myotis davidii contig135314, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugaUUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWS01164356.1/27558-27262/26-83 [subseq from] Pteropus alecto contig164356, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAUGGuugauucAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835329.1/1078085-1078363/27-75 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00041, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCA--GGGUUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02016378.1/963-1266/27-84 [subseq from] Dipodomys ordii contig_16378, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUGGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFTD01072727.1/49847-49527/13-71 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+--GAUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02014178.1/16776-16549/27-75 [subseq from] Dipodomys ordii contig_14178, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCUCC--AGGGUUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01064901.1/3826-4160/27-84 [subseq from] Myotis davidii contig64901, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUAGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835897.1/230507-230823/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00609, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUGGGCUGAUCUGGCUGGCUAGGCUGG----u
+>AAQR03175439.1/11597-11300/27-85 [subseq from] Otolemur garnettii contig175439, whole genome shotgun sequence.
+a----CCUGUCACCCCAUUGAUCGCCUUGGuugauuuGGCUGAUCUGGCUGGUUAGGCGGGUC--
+>AFTD01137922.1/33492-33164/24-80 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAGGGuugauuGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFTD01130284.1/34746-34406/27-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCGCCagggcugAUUGGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFTD01116279.1/7056-6743/27-83 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCACAUUGAUCGCCAggguugAUGGGCUGAUCUGGCUGGCUAGGCGGGU---
+>APMT01117001.1/15903-16195/27-84 [subseq from] Mesocricetus auratus contig117001, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguuuGUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>GK000023.2/22191664-22191349/27-84 [subseq from] TPA: Bos taurus chromosome 23, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugGUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835457.1/3318555-3318233/23-80 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00169, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUAGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000320.3/78390124-78389795/27-84 [subseq from] Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 6, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAgggguaaCUGGGCUGAUCUGGCUGGCUAGGUGGGU---
+>CM000008.3/14848376-14848068/27-84 [subseq from] Canis lupus familiaris chromosome 8, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAGCGuugauucGGCUGAUCUGGCUGGCUAAGCGGGU---
+>ALWS01021977.1/40791-40485/27-84 [subseq from] Pteropus alecto contig21977, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUCUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFTD01016518.1/5192-4899/21-78 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCAACCCAUUGAUCGCCaggguugAUUGGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000801.1/128188237-128188536/27-84 [subseq from] Oryctolagus cuniculus chromosome 12, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGG----g
+>ALWT01219646.1/8923-8615/25-84 [subseq from] Myotis davidii contig219646, whole genome shotgun sequence.
+gc---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGG-----au
+>APMT01002363.1/722-1020/27-80 [subseq from] Mesocricetus auratus contig002363, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCacgUCAGGGUUGAUCUGGCUGUCUAGGCGGGU---
+>CM000382.2/49429501-49429826/24-83 [subseq from] Equus caballus chromosome 6, whole genome shotgun sequence.
+ga----CAUGUCACCCCAUUGAUCGCCagggucgAUUUGGCUGAUCUGGCUGGCUAGGCGGGUC--
+>JH836258.1/42001-42300/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00970, whole genome shotgun sequence
+a---AUCUGUCACCCCAUUGAUCGCCaggguuuAUUUGGCUGAUCUGGCUGGCUAAGCGGGU---
+>CM000001.3/54893199-54893477/27-84 [subseq from] Canis lupus familiaris chromosome 1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaguguugAUUUGGCUGAUCUGGCUGGCUAGGCGG-----au
+>JH836432.1/334078-334433/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01144, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaagguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835534.1/1499023-1499340/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00246, whole genome shotgun sequence
+---AUCUGUCAACCCAUUGAUCGCCUggguugaUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836177.1/195743-196090/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00889, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAUGGuugauuuGGCUGAUCUGGCUGGCUAGGUGGGU---
+>CM001380.3/137015000-137014683/19-76 [subseq from] Felis catus isolate Cinnamon breed Abyssinian chromosome A3, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCUCCagaguugAUCUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835351.1/5104827-5104494/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00063, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguucAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000860.1/97444063-97444392/27-85 [subseq from] Callithrix jacchus chromosome 5, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---a
+>JH835673.1/477037-477338/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00385, whole genome shotgun sequence
+u---AUCUGUCACCCCAUUGAUCGCCaggguugUUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>KB018660.1/174730-174420/27-84 [subseq from] Camelus ferus unplaced genomic scaffold scaffold2920, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUGGGCUGAUCUGACUGGCUAGGCAGG----u
+>KB016505.1/24351-24048/27-85 [subseq from] Camelus ferus unplaced genomic scaffold scaffold212, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCagaauugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---g
+>AFSB01179690.1/7517-7842/27-85 [subseq from] Heterocephalus glaber contig179690, whole genome shotgun sequence.
+---AUCUGUUACCCCAUUGAUCGCCagaguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---a
+>JH835520.1/818542-818862/29-88 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00232, whole genome shotgun sequence
+-GGAUCUGUCACCCCAUUAAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835375.1/3614260-3613947/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00087, whole genome shotgun sequence
+---AUCUGUCACCCCAUUAAUCGCCaguguuaAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835291.1/5138940-5139232/26-74 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00003, whole genome shotgun sequence
+c---AUCUGUCACCCCAUUGAUCGCC---AGGCUGAUCUGGCUAGCUAGGCAGG----u
+>AFTD01172619.1/1247-916/25-82 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaagguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01168573.1/285-1/27-84 [subseq from] Myotis davidii contig168573, whole genome shotgun sequence.
+a----UCUAUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01150641.1/5137-4802/27-84 [subseq from] Myotis davidii contig150641, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggggugAUUCGGCUGAUCUGGCUGGCUAGGCGAG----u
+>AFTD01152093.1/27276-27536/27-76 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCUCAUUGAUUGCC--AGGGCUGAUCUGGCUGGCUAGGCAGGU---g
+>APMT01000327.1/31337-31673/27-84 [subseq from] Mesocricetus auratus contig000327, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUGGGCUGAUCUGACUGGCUAGGUGGGU---
+>JH835751.1/1016459-1016833/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00463, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaagguugAUUCGGCUGAUCUGGCUGACUAGGCGGGU---
+>CM000803.1/113050661-113051009/25-81 [subseq from] Oryctolagus cuniculus chromosome 14, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGG----
+>CM000937.1/161500300-161500597/27-84 [subseq from] Anolis carolinensis chromosome 1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCagcauugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM001389.3/39755601-39755930/27-84 [subseq from] Felis catus isolate Cinnamon breed Abyssinian chromosome D3, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAggguugaUUUAGCUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02044456.1/14191-14503/27-84 [subseq from] Dipodomys ordii contig_44456, whole genome shotgun sequence.
+a----UCUAUCACCCCAUUGAUCGCCaguguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAPE02003132.1/2938-3254/27-82 [subseq from] Myotis lucifugus cont2.3131, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGGCUGGCUAGGCGG-----
+>CM001419.1/18585604-18585934/27-84 [subseq from] Lepisosteus oculatus linkage group LG16, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCUagggucgAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAPE02010474.1/11608-11935/27-84 [subseq from] Myotis lucifugus cont2.10473, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGACUGAUCUGGCUGGCUAGGCGGGU---
+>JH835527.1/839386-839698/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00239, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCAaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01227056.1/2347-2003/25-84 [subseq from] Myotis davidii contig227056, whole genome shotgun sequence.
+a--GAUCUGUCACCCCAUUAAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835502.1/2878252-2878557/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00214, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGGCUGGUUAGGCGGGU---
+>CM000016.3/25062198-25062514/27-84 [subseq from] Canis lupus familiaris chromosome 16, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCACAGuugauucUGCUGAUCUGGCUGGCUAGGCGGGU---
+>AGTP01013412.1/11916-11584/27-84 [subseq from] Ictidomys tridecemlineatus contig013412, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaagguugAUUCGGCUGAUCUGACUGGCUAGGCGGGU---
+>CM000790.1/142454031-142453741/27-84 [subseq from] Oryctolagus cuniculus chromosome 1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguggAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835343.1/4388243-4388548/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00055, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCGCCaggauugAUUGGGCUGAUCUGGCUGGCUAGGCAGG----u
+>ABRO02004569.1/435011-435332/27-85 [subseq from] Dipodomys ordii contig_4569, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---a
+>JH835510.1/1553581-1553280/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00222, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGUCagaguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835323.1/2014842-2014533/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00035, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCUaggguuuAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAPE02003138.1/82827-83145/27-84 [subseq from] Myotis lucifugus cont2.3137, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGACUGAUCUGGCUGGCUAGGCGGGU---
+>CM000796.1/123213152-123212809/27-84 [subseq from] Oryctolagus cuniculus chromosome 7, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCUCCagagucaAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFTD01157554.1/389-128/13-72 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+--GAUCUGUCACCCCAUUGAUCUCCaggguugaUUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAPE02038315.1/58167-57876/27-85 [subseq from] Myotis lucifugus cont2.38314, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGUGGGU---g
+>JH835557.1/2688485-2688762/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00269, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAGGGuugauguAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835303.1/3198248-3197905/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00015, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUAGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835500.1/1700457-1700742/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00212, whole genome shotgun sequence
+c---AUCUGUCACCCCAUUGAUCGCCACUGuuaauacGGCUGAUCUGGCUGGCUAGGCAG-----g
+>JH835698.1/826657-826353/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00410, whole genome shotgun sequence
+---AUCUGUCACCUCAUUGAUCGCCaagguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835316.1/1869241-1869541/27-75 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00028, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACC--AGGGUUGAUCUGGCUGGCUAGGCAGG----u
+>AZIM01000826.1/215969-216271/27-84 [subseq from] Ophiophagus hannah scaffold827.1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCAGGCUAGGCGGGU---
+>ACTA01104581.1/58492-58305/27-84 [subseq from] Ailuropoda melanoleuca scaffold219_44, whole genome shotgun sequence.
+a----UAUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AYUG01124849.1/108825-108530/25-84 [subseq from] Fukomys damarensis contig124849, whole genome shotgun sequence.
+gc---AUCUGCCACCCCAUUGAUCGCCaggguuaAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835312.1/2181420-2181758/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00024, whole genome shotgun sequence
+---AUCUGUCAUCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFSB01041506.1/11157-11465/27-84 [subseq from] Heterocephalus glaber contig41506, whole genome shotgun sequence.
+---AUCUGUCACCUCAUUGAUCGCCagaguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835599.1/21363-21038/27-79 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00311, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCACCagAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835357.1/19735-20079/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00069, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGACaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835409.1/2100414-2100106/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00121, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAAGCGGGU---
+>GL018720.1/1436281-1435965/27-84 [subseq from] Oryctolagus cuniculus unplaced genomic scaffold chrUn0022, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUAAUCUGGCUGGCUAGGCGGGU---
+>ALWT01189537.1/5208-4869/27-84 [subseq from] Myotis davidii contig189537, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGAGGGU---
+>DS562862.1/29102441-29102147/27-84 [subseq from] Cavia porcellus supercont2_7 genomic scaffold, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGACUGGCUAGGCGGGU---
+>ACTA01115337.1/14022-13706/27-84 [subseq from] Ailuropoda melanoleuca scaffold1680_74, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGACGGGU---
+>CM000795.1/23722212-23721898/25-82 [subseq from] Oryctolagus cuniculus chromosome 6, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUCUGCUGAUCUGGCUGGCUAGGCGGGU---
+>AGTP01040205.1/3674-3954/27-84 [subseq from] Ictidomys tridecemlineatus contig040205, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUAGCUAGGCGGGU---
+>CM000808.1/22162191-22161893/27-84 [subseq from] Oryctolagus cuniculus chromosome 19, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUAAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835371.1/5030427-5030725/24-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00083, whole genome shotgun sequence
+c---AUCUGUCACCCCAUUGAUCGCCaggguuaAUUCGGCUGAUCUGGCUGGUUAGGCGGGU---
+>JH835735.1/1040180-1040504/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00447, whole genome shotgun sequence
+---AUCUGUCACCCCAUAGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFEY01282036.1/1181-878/27-84 [subseq from] Sarcophilus harrisii ctg7180002276274, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUAGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALAR01009258.1/4647-4961/27-84 [subseq from] Tupaia chinensis contig9258, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCUAGGuugauucAGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835646.1/2238371-2238028/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00358, whole genome shotgun sequence
+---AUCUGUAACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000791.1/9970164-9970480/27-84 [subseq from] Oryctolagus cuniculus chromosome 2, whole genome shotgun sequence.
+a----UUUGUCACCCCAUUGAUCGCCagggaugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAPE02035596.1/103348-103650/27-84 [subseq from] Myotis lucifugus cont2.35595, whole genome shotgun sequence.
+---AUCUGUCACCACAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000942.1/76402811-76403135/27-84 [subseq from] Anolis carolinensis chromosome 6, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGAUGGCUAGGCGGGU---
+>ABRO02001374.1/20957-20638/27-84 [subseq from] Dipodomys ordii contig_1374, whole genome shotgun sequence.
+---AUCUGUCACACCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000094.4/52937346-52937533/27-84 [subseq from] Gallus gallus isolate RJF #256 breed Red Jungle fowl, inbred line UCD001 chromosome 2, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugCUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835409.1/2496911-2497196/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00121, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUUGCCaagguugAUUGGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AZIM01002150.1/82545-82285/25-83 [subseq from] Ophiophagus hannah scaffold2151.1, whole genome shotgun sequence.
+gc---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGACUGAUCUGGCUGGCUAGGCGGG----
+>ANKR01269232.1/6639-6927/25-84 [subseq from] Myotis brandtii contig269232, whole genome shotgun sequence.
+gc---AUCUGGCACCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000857.1/46523987-46523677/27-84 [subseq from] Callithrix jacchus chromosome 2, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCGCCacgguuaAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835740.1/1824638-1824358/13-71 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00452, whole genome shotgun sequence
+--GAUCUGUCACCCCAUUAAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>AZIM01001567.1/154011-154340/27-84 [subseq from] Ophiophagus hannah scaffold1568.1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAACUGGCUGGCUAGGCGGGU---
+>AGTP01010090.1/7015-7291/25-84 [subseq from] Ictidomys tridecemlineatus contig010090, whole genome shotgun sequence.
+a--GAUCUGUCACCCCAUUGAUUGCCaguguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JJRN01071856.1/267-1/27-82 [subseq from] Fulmarus glacialis contig71856, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCUCCaguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835393.1/4707706-4707998/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00105, whole genome shotgun sequence
+a---AUCUGUCACCCCAUUGAUCACCaggguagAUUCGGCUGAUCUGGCUGGCUAGGCGG-----au
+>JH835372.1/2642471-2642161/28-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00084, whole genome shotgun sequence
+----UCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFSB01052352.1/5946-5632/27-84 [subseq from] Heterocephalus glaber contig52352, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAAGGUugauuccGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000868.1/5226238-5225942/26-84 [subseq from] Callithrix jacchus chromosome 13, whole genome shotgun sequence
+--GAUCUGUCACCCCAUUGAUCACCAggguugaUAUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000408.2/39125434-39125157/27-76 [subseq from] Equus caballus chromosome X, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUUGCCA--GGGUUGAUCUGGCUGGCUAGGCGGGU---a
+>GL010033.1/847331-847615/23-80 [subseq from] Loxodonta africana unplaced genomic scaffold scaffold_6, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUUGGCUGAUCCGGCUGGCUAGGCGGGU---
+>JH835374.1/3014300-3013996/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00086, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGUCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AZIM01000618.1/659011-659290/27-75 [subseq from] Ophiophagus hannah scaffold619.1, whole genome shotgun sequence.
+aa-----CUGUCACCCCAUUGAUCGCCAU--GGUUGAUUUGGCUGGCUAGGCGGGU---
+>CM000392.2/23263355-23263666/27-84 [subseq from] Equus caballus chromosome 16, whole genome shotgun sequence.
+a----UUUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836275.1/255734-256038/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00987, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGUG----u
+>CM000808.1/21640996-21641288/27-83 [subseq from] Oryctolagus cuniculus chromosome 19, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCUAGGGuugaucGGCUGAUCUGGCUGGCUAGGCGGGU---
+>GL897084.1/1345940-1345636/27-84 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00187, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGUUGAUCUGGCUGGCUAGGCGGGU---
+>KB017599.1/932258-932570/27-84 [subseq from] Camelus ferus unplaced genomic scaffold scaffold1413, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCAGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02002834.1/87475-87782/27-86 [subseq from] Dipodomys ordii contig_2834, whole genome shotgun sequence.
+---AUCUGUCUCCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGUCC-
+>JH835292.1/7815417-7815706/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00004, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUCGGCUGAUCUGGGUGGCUAGGCGGGU---a
+>JH835407.1/3708698-3708389/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00119, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGUCUGAUCUGGCUGGCUAGGCGGGU---g
+>KB017152.1/221815-221523/27-75 [subseq from] Camelus ferus unplaced genomic scaffold scaffold909, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCACC--AGGGUUGAUCUGGCUGGCUAGGCGGGU---
+>JH835530.1/472481-472752/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00242, whole genome shotgun sequence
+c---AUCUGUCACCCCAUUGAUCGCCaggguuGUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835294.1/9112652-9112980/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00006, whole genome shotgun sequence
+---AUCUGUCACCCUAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ACTA01152132.1/16520-16192/27-84 [subseq from] Ailuropoda melanoleuca scaffold47_75, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGUUGAUCUGGCUGGCUAGGCGGGU---
+>AYUG01089982.1/3433-3134/27-84 [subseq from] Fukomys damarensis contig89982, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGG----g
+>AFTD01069926.1/16306-16031/27-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+a----UCGGUCACCCCAUUGAUCGCCAGCGuugauucGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAQR03077512.1/3354-3060/27-74 [subseq from] Otolemur garnettii contig077512, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCC---AGGGUGAUCUGGUUGGCUAGGCGGGU---
+>ANKR01321903.1/9774-10116/27-84 [subseq from] Myotis brandtii contig321903, whole genome shotgun sequence.
+---AUCUGUUACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835367.1/4728512-4728192/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00079, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGUUGGCUAGGCGGGU---
+>AFEY01391392.1/12516-12814/27-84 [subseq from] Sarcophilus harrisii ctg7180002459529, whole genome shotgun sequence.
+---AUCUGUCACUCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01087577.1/7410-7754/27-84 [subseq from] Myotis davidii contig87577, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUUUGGCUGGCUAGGCGGGU---
+>JH835562.1/1457340-1457038/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00274, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCGCCaggcuugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---a
+>LZPO01063975.1/861755-862074/27-84 [subseq from] Neotoma lepida isolate 417 scaffold_64, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUAAUCACCAUGGuugauucGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM001396.3/36138574-36138257/27-85 [subseq from] Felis catus isolate Cinnamon breed Abyssinian chromosome X, whole genome shotgun sequence.
+---AUCUGUCACUCCAUUGAUCGCCaggguuuAUUCGGCUGAUCUGGCUGGCUAGGCGGGC---c
+>CM001650.1/61276265-61275961/27-84 [subseq from] Nomascus leucogenys chromosome 4, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAggguugaUCUGGCUGAUCUGGUUGGCUAGGCAGG----u
+>APMT01118682.1/64497-64200/27-84 [subseq from] Mesocricetus auratus contig118682, whole genome shotgun sequence.
+a----CCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836087.1/403510-403789/27-79 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00799, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCAGGGuuGACUGAUCUGGCUGGCUAGGCGGGU---
+>JH835917.1/1312957-1313273/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00629, whole genome shotgun sequence
+a----UCCGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AAPE02024813.1/4047-3727/27-84 [subseq from] Myotis lucifugus cont2.24812, whole genome shotgun sequence.
+---AUCUGUCACCCUAUUGAUCGCCaggcuugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835630.1/2071587-2071408/22-79 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00342, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCAUGGuugauucGGCUGAUCUGGCUGGCUAAGCGGGU---
+>JH835325.1/3853120-3852823/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00037, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCAUGGcugauuuGGCUGAUCUGGCUGGCUAGGCAGG----u
+>GL343244.1/1483015-1482694/27-84 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0052, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaagguugUUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM001967.1/26742363-26742064/27-84 [subseq from] Chlorocebus sabaeus isolate 1994-021 chromosome 26, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUUAUCGCCagaguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835535.1/385156-384815/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00247, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCagagaggAUUUGGCUGAUCAGGCUGGCUAGGCAGG----u
+>JH835554.1/2415851-2416034/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00266, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCAGGGuugacuuGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01221568.1/10056-9762/27-84 [subseq from] Myotis davidii contig221568, whole genome shotgun sequence.
+---AUCUGUCACCGCAUUGAUCGCCagauuuaAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02009547.1/7025-7365/27-85 [subseq from] Dipodomys ordii contig_9547, whole genome shotgun sequence.
+---AUCUGUCUCCCCAUUGAUCGCCaggguugAUCCGGCUGAUCUGGCUGGCUAGGCGGGU---g
+>ALAR01092977.1/1548-1855/27-84 [subseq from] Tupaia chinensis contig92977, whole genome shotgun sequence.
+---AUCUGUCAUCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000818.4/98716625-98716338/27-84 [subseq from] Sus scrofa chromosome 7.
+---AUCUGUCACCCCAUGGAUCGCCaggguugAUUGGGCUGAUCUGGCUGGCUAGGCAGG----u
+>AZIM01012255.1/2198-1908/27-84 [subseq from] Ophiophagus hannah scaffold12260.1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUCGGCUGAUCUGGCUGGCUAGGGGGG----u
+>AFSB01069954.1/3264-3576/27-84 [subseq from] Heterocephalus glaber contig69954, whole genome shotgun sequence.
+---AUCUGUGACCCCAUUGAUCGCCagcauugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02089191.1/2030-1704/27-84 [subseq from] Dipodomys ordii contig_89196, whole genome shotgun sequence.
+---AUCUGUCACCUCAUUGAUCGCCaggguugAUCCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>ANKR01159600.1/12556-12232/32-88 [subseq from] Myotis brandtii contig159600, whole genome shotgun sequence.
+u-----CAGUCACCCCAUUGAUCGCAaggguugAUCGGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835702.1/631830-631687/13-71 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00414, whole genome shotgun sequence
+--GAUCUGUCACCCCAUUGAUCUCCaggauugAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM001388.3/73259499-73259824/26-82 [subseq from] Felis catus isolate Cinnamon breed Abyssinian chromosome D2, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAG-----g
+>ALWT01076158.1/9359-8949/27-84 [subseq from] Myotis davidii contig76158, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAGGGUugauuccGCUGAUCUGGCUGGCUAGGCGGGU---
+>AZIM01000035.1/429830-429713/28-83 [subseq from] Ophiophagus hannah scaffold35.1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUCGGCUGAUCUGGCUGGCUAGGC-------ag
+>GK000007.2/65666305-65665995/22-81 [subseq from] TPA: Bos taurus chromosome 7, whole genome shotgun sequence.
+g--AAUCUGUCACCCCAUUGAUCGUUaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AYUG01114199.1/1040-726/27-84 [subseq from] Fukomys damarensis contig114199, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguggAUUCGGCCGAUCUGGCUGGCUAGGCGGGU---
+>JH835451.1/2484980-2485301/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00163, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGUCAggguagaUUAGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835446.1/965891-966205/25-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00158, whole genome shotgun sequence
+---AUCUGUCACCUCAUUGAUCGCCaggguugAUCUGGCUGAUCUGGCUGGCUAGGUGGGU---
+>APMT01023042.1/1886-2202/27-84 [subseq from] Mesocricetus auratus contig023042, whole genome shotgun sequence.
+a----CCUGUCACCCCAUUGAUCGCCAGGGuugaauuGGCUGAUCUGGCUGGCUAGGCGGGU---
+>APMT01021231.1/137-455/25-82 [subseq from] Mesocricetus auratus contig021231, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCAgggcugaUUAGGCUGAUCUGGCUGGCUAGGCAGG----u
+>KB017550.1/233119-233440/27-85 [subseq from] Camelus ferus unplaced genomic scaffold scaffold1359, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCAAGGGuugauucaGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836166.1/37709-37381/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00878, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCagaguugAUUAGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835937.1/804896-804572/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00649, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUUUGGCUGGCUAGGCGGGU---a
+>DS563039.1/508947-509281/27-83 [subseq from] Cavia porcellus supercont2_184 genomic scaffold, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguuaGUUCAGCUGAUCUGGCUGGCUAGGCGGG----
+>JH835448.1/2679919-2680236/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00160, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACUaggguugUUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000322.4/6258407-6258120/27-75 [subseq from] Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 8, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACC--AGGGUUGAUGUGGCUGGCUAGGCGGGU---
+>ABRO02019027.1/706-392/27-84 [subseq from] Dipodomys ordii contig_19027, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGACCUGGCUGGCUAGGCGGGU---
+>CM000792.1/65732091-65731890/26-84 [subseq from] Oryctolagus cuniculus chromosome 3, whole genome shotgun sequence.
+u---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUUAUCUGGCUGGCUAGGCGGGU---
+>JH835373.1/1146990-1146721/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00085, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUGGGCUGAUCUGGCUGGCUAGGCAA-----gu
+>GL897088.1/990120-990437/26-83 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00191, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCUGG----u
+>JH835314.1/84634-84951/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00026, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCagcauugAUUCAGUUGAUCUGGCUGGCUAGGCGGGU---
+>ACTA01185652.1/102798-103127/26-83 [subseq from] Ailuropoda melanoleuca scaffold639_47, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCUGG----u
+>CM000231.2/158312727-158312404/27-84 [subseq from] Rattus norvegicus chromosome 1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugUUUCGGCUGAUCUGGCUGGCUAGUCGGGU---
+>AFSB01080557.1/1966-2284/27-84 [subseq from] Heterocephalus glaber contig80557, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCCAGGCGGGU---
+>ABRO02052717.1/20355-20159/27-85 [subseq from] Dipodomys ordii contig_52717, whole genome shotgun sequence.
+a----UAUGUCACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---a
+>JH835540.1/1292802-1293148/28-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00252, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGACCUCCagggUUGAGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000938.1/148671541-148671852/27-79 [subseq from] Anolis carolinensis chromosome 2, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGGUUgaUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>AFSB01157625.1/6398-6760/27-84 [subseq from] Heterocephalus glaber contig157625, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagggcugAUUUGGCUGAUCUGGCUGUCUAGGCGGGU---
+>JH835892.1/1420489-1420818/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00604, whole genome shotgun sequence
+ca----UGUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835327.1/5896255-5896571/27-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00039, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAggguugaUCCAGCUGAUCUGGCUGGCUAGGCGG-----
+>JH835768.1/1410852-1410564/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00480, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCagcauugAUUUGGCUGAUCUGGCUGGCUAGGUGAG----u
+>AAPE02005259.1/6320-6614/27-84 [subseq from] Myotis lucifugus cont2.5258, whole genome shotgun sequence.
+---AUCUGCCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835435.1/671658-671942/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00147, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguuaAUUCGGCUGAUCUGGCUGUCUAGGCGGGU---
+>GK000012.2/50588113-50588436/27-84 [subseq from] TPA: Bos taurus chromosome 12, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM001498.2/29958571-29958873/23-80 [subseq from] Papio anubis isolate 1X1155 chromosome 8, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGACCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02028933.1/29707-29976/24-82 [subseq from] Dipodomys ordii contig_28933, whole genome shotgun sequence.
+gc---AUCUGUCACCCCAUUGAUCGCCAGGGUugauuccGCUGAUCUGGCUGGCUAGGCGGG----
+>CM000871.1/18807339-18806995/26-84 [subseq from] Callithrix jacchus chromosome 16, whole genome shotgun sequence
+u---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAUGCGGGU---
+>JH835615.1/2319162-2319501/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00327, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGUGGGU---g
+>JH835317.1/444631-444290/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00029, whole genome shotgun sequence
+c---AUCUGUCACCCCAUUGAUCGCCgggguugGUUCGGCUGAUCUGGCUGGCUAGGCGGG----
+>ANKR01221147.1/151-1/27-84 [subseq from] Myotis brandtii contig221147, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCUaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835290.1/2959125-2958801/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00002, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUGGCCaggauugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835296.1/489766-490043/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00008, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAggguugaCUGGGCUGAUCUGGCUGGGUAGGCGGGU---
+>APMT01211109.1/2721-2409/27-83 [subseq from] Mesocricetus auratus contig211109, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCA------ga
+>JH835385.1/2528843-2528501/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00097, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGGU---g
+>CM001585.2/2227798-2228134/18-76 [subseq from] Ovis aries breed Texel chromosome 4, whole genome shotgun sequence.
+c---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGUCGGGU---
+>JH835973.1/1199969-1199670/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00685, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGAUGAUCUGGCUGGCUAGGCGGGU---
+>DS562872.1/32588019-32587703/27-84 [subseq from] Cavia porcellus supercont2_17 genomic scaffold, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGAGG-----au
+>ANKR01300817.1/22969-23312/27-83 [subseq from] Myotis brandtii contig300817, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUAAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGG----
+>AAQR03152194.1/1052-744/27-85 [subseq from] Otolemur garnettii contig152194, whole genome shotgun sequence.
+---AUCUGUCACUCCAUUGAUCGCCagggacgAUUUGGCUGAUCUGGCUGACUAGGCGGGU---g
+>AYUG01134487.1/46961-47307/27-84 [subseq from] Fukomys damarensis contig134487, whole genome shotgun sequence.
+---AUCUGUCAUCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGGCUGGCUAGGCAGG----u
+>ALWS01018238.1/16375-16062/27-84 [subseq from] Pteropus alecto contig18238, whole genome shotgun sequence.
+a----UCUUUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836032.1/735853-735533/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00744, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUGGGCUGGUCUGGCUGGCUAGGCAGG----u
+>JH835445.1/1792992-1792678/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00157, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCCGG----u
+>AGTP01028667.1/34589-34900/26-74 [subseq from] Ictidomys tridecemlineatus contig028667, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCUU--CGGCUGAUCUGGCUGGCUAGGCAG-----au
+>JH835333.1/76090-76399/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00045, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGAGGGU---
+>AAPE02015318.1/26563-26871/27-84 [subseq from] Myotis lucifugus cont2.15317, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGAG----u
+>DS562858.1/52611965-52611622/27-84 [subseq from] Cavia porcellus supercont2_3 genomic scaffold, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUGGGCUGAUCUGGCUGGCUGGGCGG-----au
+>JH835369.1/2112190-2112536/24-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00081, whole genome shotgun sequence
+ga----CAUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JMFL01022253.1/4433-4244/27-84 [subseq from] Opisthocomus hoazin contig22253, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGACagaguugAUUGGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000002.3/50689199-50689521/26-83 [subseq from] Canis lupus familiaris chromosome 2, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835642.1/1525217-1525505/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00354, whole genome shotgun sequence
+---AUCUGUCACUCCAUUGAUCGCCAGGGcugacuuGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835313.1/5088923-5088609/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00025, whole genome shotgun sequence
+c---AUCUGUCACCCCAUUGAUUGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000938.1/87048942-87049264/27-83 [subseq from] Anolis carolinensis chromosome 2, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggauugAUUCGGCUGAUCUGGCUGGCUAGGCGGG----
+>AFTD01132119.1/8323-8021/26-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+g---ACCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835383.1/903107-903423/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00095, whole genome shotgun sequence
+---AUCUGUCACCCCAAUGAUCGUCaggguugAUUGGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835509.1/1280004-1279815/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00221, whole genome shotgun sequence
+a----CCUGUCACCCCAUUGAUCGCCAgggcugaUCCGGCUGAUCUGGCUAGCUAGGCGGGU---
+>JH835588.1/666863-667185/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00300, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGGCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01075769.1/94201-93910/27-84 [subseq from] Myotis davidii contig75769, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAGCUGGCUGGCUAGGCGGGU---
+>ABRO02045535.1/7665-7977/27-85 [subseq from] Dipodomys ordii contig_45535, whole genome shotgun sequence.
+---AUCUGUCACUCCAUUGAUCGCCaggguugAUUAGGCUGAUCCGGCUGGCUAGGCGGGU---g
+>DS562894.1/14140303-14139994/27-84 [subseq from] Cavia porcellus supercont2_39 genomic scaffold, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACUaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01051417.1/14928-15103/27-84 [subseq from] Myotis davidii contig51417, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACUaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835855.1/61417-61108/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00567, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaguguugAUUCGGCUGAUCUGGCUGGCUAGGCGAG----u
+>ACTA01147731.1/14847-14665/27-84 [subseq from] Ailuropoda melanoleuca scaffold1976_114, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGCCUGAUCUGGCUGGCUAGGCGGGU---
+>AWGT02000071.1/420232-420156/13-70 [subseq from] Colinus virginianus strain Texas jcf7180006227106, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCACAGuugauucAGCUGAUCUGGCUGGCUAGGCGUG----u
+>JH835451.1/1785454-1785268/27-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00163, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAGGGuugaugcGGCUGAUCUGGCUGGCUAGGCGG-----
+>JH835302.1/9009563-9009263/27-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00014, whole genome shotgun sequence
+a----UCCAUCACCCCAUUGAUCGCCaagguuGUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835570.1/2824793-2825090/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00282, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaguguugAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000663.2/96696176-96695856/27-85 [subseq from] Homo sapiens chromosome 1, GRCh38 reference primary assembly.
+---AUCUGUUACCCCAUUGAUUACCUggguuggUUGGGCUGAUCUGGCUGGCUAGGCGGGU---a
+>JH836185.1/356502-356222/27-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00897, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGACUGGCUAGGCGG-----
+>AFTD01014965.1/32477-32219/27-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+a----UCUAUCACCCCAUUGAUCGCCaggguugAUUGGGCUGAUCUAGCUGGCUAGGCAGG----u
+>JH835417.1/549696-549362/27-94 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00129, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugaUucuggcugaUCUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ANKR01286052.1/1059-1325/27-84 [subseq from] Myotis brandtii contig286052, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCCGG----u
+>AZIM01001907.1/318789-319116/27-84 [subseq from] Ophiophagus hannah scaffold1908.1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaagguugAUUCGGCAGAUCUGGCUGGCUAGGUGGGU---
+>JH835323.1/7624889-7624583/27-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00035, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguucAUUCGGCUGAUCUGGCUGGCUAGGCA------gu
+>GL896932.1/10194222-10193907/27-84 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00035, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaagguugAUUCGGCUGAUCUGGCUGGCUAGGAGGGU---
+>CM000941.1/17109631-17109432/13-71 [subseq from] Anolis carolinensis chromosome 5, whole genome shotgun sequence.
+--GAUCUGUCACCCCAUUGUUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM001386.3/83338586-83338898/27-84 [subseq from] Felis catus isolate Cinnamon breed Abyssinian chromosome C2, whole genome shotgun sequence.
+---AUCUGUCACCCCAAUGAUCGCUaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFSB01056514.1/21207-21312/26-83 [subseq from] Heterocephalus glaber contig56514, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCUUUGGuuaauucGGUUGAUCUGGCUGGCUAGACGGGU---
+>JH835686.1/1420207-1419889/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00398, whole genome shotgun sequence
+---AUCUGUCAUCCCAUUGAUCGCCagggcugAUUUGGCUGAUCUGGCUGGCUAGGCGG-----au
+>JH835330.1/3423746-3423513/13-71 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00042, whole genome shotgun sequence
+--GAUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCCGAUCUGGCUGGCUAGGCAGG----u
+>AZIM01000670.1/291904-291610/27-84 [subseq from] Ophiophagus hannah scaffold671.1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCagggucaAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>ABRO02002258.1/60579-60267/27-84 [subseq from] Dipodomys ordii contig_2258, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUGUGGCUGGCUAGGCGGGU---
+>AYUG01112530.1/52447-52746/27-84 [subseq from] Fukomys damarensis contig112530, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUAAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000806.1/31353951-31353625/27-84 [subseq from] Oryctolagus cuniculus chromosome 17, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGACUGAUCUGGCUGGCUAGGCAGG----u
+>JJRM01067631.1/225-1/27-84 [subseq from] Gavia stellata contig67631, whole genome shotgun sequence.
+---AUCUGUCAUUCCAUUGAUCGCCaggguugAUCCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835375.1/4522263-4522568/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00087, whole genome shotgun sequence
+---AUCUGUCACCUCAUUGAUCGCCagaguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH836286.1/367070-367389/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00998, whole genome shotgun sequence
+---AUCUGUCACCCCAGUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835331.1/660450-660171/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00043, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguuaAUUUGGCUGAUCUAGCUGGCUAGGCAGG----u
+>AYUG01073632.1/1062-1378/27-84 [subseq from] Fukomys damarensis contig73632, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCAUAGuugauuuGGCUGAUCUGGCUGGCUGGGCGGGU---
+>JH835851.1/1030202-1029884/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00563, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCCCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>GL343202.1/3253611-3253428/27-74 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0010, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCA--GGGUUGAUAUGGCUGGCUAGGCA------gu
+>JH835457.1/1740742-1741053/27-86 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00169, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCUGCCUGGguugauuaGGCUGAUCUGGCUGGCUAGGCGGGU---g
+>JH835329.1/1854343-1854656/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00041, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGUCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835327.1/903748-903428/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00039, whole genome shotgun sequence
+---AUCUGUCACCCCAAUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFTD01152255.1/22754-22456/27-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGAUGGCUAGGCGAG----u
+>CM000937.1/99505327-99504989/27-84 [subseq from] Anolis carolinensis chromosome 1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGACGAG----u
+>DS562872.1/26465875-26465586/26-84 [subseq from] Cavia porcellus supercont2_17 genomic scaffold, whole genome shotgun sequence.
+u---AUCUGUCACCCCACUGAUCGCCagaguugAUCUGGCUGAUCUGGCCGGCUAGGCGGGU---
+>KB017124.1/2114979-2115309/28-83 [subseq from] Camelus ferus unplaced genomic scaffold scaffold876, whole genome shotgun sequence.
+----UCUGUCACCCCAUUGAUCGCCAggguugaUCUGGCUGAUCUGGCUGGCUAGGCAG-----g
+>JH835601.1/211560-211245/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00313, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGACaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835687.1/1502194-1501923/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00399, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGACaggguugAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835736.1/1656913-1656565/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00448, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUAGCUAGGCGG-----au
+>GK000006.2/62225327-62225649/27-84 [subseq from] TPA: Bos taurus chromosome 6, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835356.1/1462872-1463190/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00068, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguuuAUUUGGCUGAUCUGGCUGGCUAAGAGGG----u
+>JH835361.1/2054641-2054919/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00073, whole genome shotgun sequence
+a----UUUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01282900.1/7553-7378/27-84 [subseq from] Myotis davidii contig282900, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaguguugAUUCGGCUGAUCUGGCUGGCUAGACGGGU---
+>JH836106.1/213209-213478/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00818, whole genome shotgun sequence
+---AUCUGUCAGCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWS01085786.1/13222-12912/27-84 [subseq from] Pteropus alecto contig85786, whole genome shotgun sequence.
+---AUCUGUCACCCCAAUGAUCGUCaagguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835491.1/3544650-3544308/13-71 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00203, whole genome shotgun sequence
+--GAUCUGUCACCCCAUUGAUCGCCAGGGuugacuuGGCUGAUCUAGCUGGCUAGGUGGGU---
+>AFTD01085396.1/3101-3414/27-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUCGCUAGGCGGGU---
+>JH835695.1/268740-268406/26-80 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00407, whole genome shotgun sequence
+c---AUCUGUCACCCCAUUGACUGCAUUGGuuuGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835955.1/539834-540152/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00667, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUGGACUGAUCUAGCUGGCUAGGUGGGU---
+>JH835920.1/761067-760760/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00632, whole genome shotgun sequence
+---AUCUGUCACCCCAUCGAUCGCCagggucgAUCCGGCUGAUCUGGCUGGAUAGGCGGGU---
+>JH835396.1/1700098-1699812/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00108, whole genome shotgun sequence
+---AUCUGUCACCCAAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>GL897039.1/1951072-1951400/27-84 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00142, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagggcugAUUCGGCUGAUCUGGCUGGCUAAGAGGG----u
+>ANKR01319614.1/1701-1442/26-83 [subseq from] Myotis brandtii contig319614, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUAGGCUAAUCUGGCUGGCUAGGUGGGU---
+>ANKR01309769.1/898-597/27-84 [subseq from] Myotis brandtii contig309769, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGGUAGGCGGGU---
+>JH835484.1/966640-966329/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00196, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUGGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835696.1/87218-86914/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00408, whole genome shotgun sequence
+a----CCUGUCACCCCAUUGAUCGCCaggguugAUUUGACUGAUCUGGCUGGCUAGGCGGGU---
+>GL896976.1/796047-796362/27-82 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00079, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCG------a
+>CM000939.1/60528872-60528652/27-84 [subseq from] Anolis carolinensis chromosome 3, whole genome shotgun sequence.
+---AUCUGUCACCCGAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ANKR01212110.1/43309-43548/27-84 [subseq from] Myotis brandtii contig212110, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAGGGUuaauuccGCUGAUCUGGCUGGCUAGGAGGGU---
+>JH835479.1/901872-901557/24-81 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00191, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGGUCGCCaggguugAUCCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000937.1/213681577-213681248/27-84 [subseq from] Anolis carolinensis chromosome 1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCAAGGCAGG----u
+>JH835513.1/1176005-1176338/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00225, whole genome shotgun sequence
+c---AUCUGUCACUCCAUUGAUCGCCaggguugAUCUGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH836006.1/1014383-1014038/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00718, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGAUGGCUAGGCAGG----u
+>JH835337.1/1566675-1566996/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00049, whole genome shotgun sequence
+---AUCUGUCACCCCAGUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000014.3/28792483-28792785/20-77 [subseq from] Canis lupus familiaris chromosome 14, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGACUGAUCUGGCUGGCUAGGCAGG----u
+>JH835460.1/3613673-3613987/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00172, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAAGCAGG----u
+>ANKR01273961.1/36631-36353/27-84 [subseq from] Myotis brandtii contig273961, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCGGGCUGGCUAGGCGGGU---
+>JH836126.1/87395-87683/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00838, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAGCUGGCUGGCUAGGCGGGU---
+>JH835671.1/33721-33387/24-81 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00383, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUAGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000860.1/71118556-71118863/28-85 [subseq from] Callithrix jacchus chromosome 5, whole genome shotgun sequence
+g-----CUGUCACCCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---a
+>JH835420.1/1671117-1670809/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00132, whole genome shotgun sequence
+---AUCUGUCACUCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCAAGGCGGGUC--
+>JH835494.1/2269092-2268828/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00206, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUCAUCUGGCUGGCUAGGCGGGU---
+>ALAR01089612.1/7950-8246/27-83 [subseq from] Tupaia chinensis contig89612, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagguugAUUCGGCUGAUCUGGCUGGCUAGACAGG----u
+>CM000017.3/50888070-50887741/27-84 [subseq from] Canis lupus familiaris chromosome 17, whole genome shotgun sequence.
+---AUCUGUCACGCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>GL896921.1/12612242-12612571/27-85 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00024, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCAGCauuguuaaUGGCUGAUCUGGCUGGCUAGGUGGGU---
+>CM000940.1/122776942-122777237/25-82 [subseq from] Anolis carolinensis chromosome 4, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGCCGGGU---
+>CM000792.1/27636680-27637022/39-96 [subseq from] Oryctolagus cuniculus chromosome 3, whole genome shotgun sequence.
+a----UCUAUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000937.1/121054564-121054905/27-84 [subseq from] Anolis carolinensis chromosome 1, whole genome shotgun sequence.
+---AUCUGUAACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AYUG01155707.1/9158-8841/27-84 [subseq from] Fukomys damarensis contig155707, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCagggucgAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835393.1/2020204-2020521/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00105, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGGCUGGAUAGGCGGGU---
+>ABRO02049691.1/9923-9603/27-84 [subseq from] Dipodomys ordii contig_49691, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGUAGG----u
+>JH836874.1/21678-21973/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01586, whole genome shotgun sequence
+a---AUCUGUCACCCCAUUGAUAGCCaggauugAUUUGGCUGAUCUGGCUGGUUAGGCGGGU---
+>AYUG01115508.1/70973-70640/26-84 [subseq from] Fukomys damarensis contig115508, whole genome shotgun sequence.
+u---AUCUGUCACCCCAUUGAUCGCCAggggugaUUUGGCUGAUCUGGCUGGCCAGGCAGG----u
+>JH835380.1/2984790-2984488/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00092, whole genome shotgun sequence
+u---AUCUGUCACCCCAUUGAUCGCCaggcuugAUUUGGCUAAUCUGGCUGGCUAAGCGGGU---
+>APMT01102919.1/1720-2024/22-79 [subseq from] Mesocricetus auratus contig102919, whole genome shotgun sequence.
+---AUCUGUCACCCUAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836396.1/236336-236689/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01108, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGACUAAGCGGGU---
+>APMT01191385.1/9352-9089/27-82 [subseq from] Mesocricetus auratus contig191385, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAGGGUugucuGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835992.1/173738-173452/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00704, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCUGGGUugauucaGUUGAUCUGGCUGGCUAGGCGG-----au
+>JH835525.1/1678975-1678670/27-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00237, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCUaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAG-----g
+>JH835311.1/3286885-3287201/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00023, whole genome shotgun sequence
+---AUCUGUCAUCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>ANKR01150620.1/202-1/25-82 [subseq from] Myotis brandtii contig150620, whole genome shotgun sequence.
+c---AUCUGUCACCCCCUUGAUCGCCaggguuUUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>GL343380.1/853805-853627/27-84 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0188, whole genome shotgun sequence.
+a----UCAGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGACUAGGCGGGU---
+>JH835521.1/2232675-2232390/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00233, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGGAUGGCUAGGCGGGU---
+>AYUG01150725.1/518-815/27-84 [subseq from] Fukomys damarensis contig150725, whole genome shotgun sequence.
+---AUCUGUCAUCCCAUUGAUCACCagaguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02013095.1/126217-126523/27-84 [subseq from] Dipodomys ordii contig_13095, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUACGCGGGU---
+>GL343253.1/787508-787183/27-83 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0061, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCagguugAUUUGACUGAUCUGGCUGGCUAGGCGGGU---
+>JH835735.1/58898-58582/24-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00447, whole genome shotgun sequence
+g---ACCUGUCACCCCAUUGAUUGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JMFW02041184.1/28005-28326/27-84 [subseq from] Tinamus guttatus contig41184, whole genome shotgun sequence.
+---AUCUGUCAUCCCAUUGAUCACCagggucgAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM001383.3/140630510-140630173/27-84 [subseq from] Felis catus isolate Cinnamon breed Abyssinian chromosome B3, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUCGCUAGGCGGGU---
+>GL343297.1/19710-19393/26-83 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0105, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUAAUCUGGCUGGCUAGGCGGGU---
+>CM000864.1/68324519-68324861/27-85 [subseq from] Callithrix jacchus chromosome 9, whole genome shotgun sequence
+a----UCCGUCACUCCAUUGAUCGCCaggguugUUACGGCUGAUCUGGCUGGCUAGGCGGGU---u
+>JH835528.1/2370457-2370794/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00240, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGCCUGGCUAGGCGGGU---
+>JH836209.1/746465-746777/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00921, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCagggcugAUUCGGCUAAUCUGGCUGGCUAGGCAGG----u
+>CM000790.1/20334734-20334425/27-84 [subseq from] Oryctolagus cuniculus chromosome 1, whole genome shotgun sequence.
+a----UUUGUCACCCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>LZPO01087346.1/21445-21635/34-91 [subseq from] Neotoma lepida isolate 417 scaffold_2596, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCagaguugAUUCUGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835560.1/2623840-2623540/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00272, whole genome shotgun sequence
+---AUCUGUCACUCCAUUGAUCACCaggguugUUCCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835340.1/5240063-5239761/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00052, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGACUGAUCUGGCUGGCUAGGUGGGU---
+>ALWT01008288.1/4994-5316/27-84 [subseq from] Myotis davidii contig8288, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUCAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835385.1/464789-465081/27-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00097, whole genome shotgun sequence
+---AUCUGUCACCCCAUAGAUCGCCagguugAUUUGGUUGAUCUGGCUGGCUAGGCGGGU---
+>JH835351.1/5238404-5238058/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00063, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUAACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ANKR01259199.1/47017-47332/26-84 [subseq from] Myotis brandtii contig259199, whole genome shotgun sequence.
+c---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGACUGAUCCGGCUGGCUAGGCGGGU---
+>JH836127.1/274273-274597/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00839, whole genome shotgun sequence
+a----UUUGUCAUCCCAUUGAUCGCCaagguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ABRO02054198.1/15647-15377/22-79 [subseq from] Dipodomys ordii contig_54198, whole genome shotgun sequence.
+---AUCUGUCACCUCAUUGAUCGCCaggauugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>AYUG01160348.1/470-808/26-83 [subseq from] Fukomys damarensis contig160348, whole genome shotgun sequence.
+a----UCAGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JJRP01000218.1/55360-55453/20-77 [subseq from] Colius striatus contig218, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagguuugAUUCGGCUGAUCUGGCUAGCUAGGCAGG----u
+>JH835497.1/2809509-2809810/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00209, whole genome shotgun sequence
+---AUCUGUCACCCCAUUAAUGGCCAGCGuugauuuGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01207091.1/12281-11974/27-84 [subseq from] Myotis davidii contig207091, whole genome shotgun sequence.
+---AUCUGUCACCUCAUUGAUCGCCaggguuaAUUCGGCUGAUCUGGCUGGCUAAGCGGGU---
+>AAPE02016333.1/54492-54179/27-84 [subseq from] Myotis lucifugus cont2.16332, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUAUGGCAGGCUAGGCGGGU---
+>ABRO02060870.1/11091-11377/28-85 [subseq from] Dipodomys ordii contig_60870, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCUUGGuugauuuGGCUGAUCUGGCUAGCUAGGUGGGU---
+>JH835315.1/6110328-6109995/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00027, whole genome shotgun sequence
+---AUCUGUCACUCCAUUGAUCGCCagggcugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>ALAR01082717.1/5888-6205/31-88 [subseq from] Tupaia chinensis contig82717, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUAGCUAAGCGGGU---
+>AFTD01073830.1/31625-31938/27-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggauuaAUUCGGCUGAUCUGACUGGCUAGGCGGGU---
+>JH835307.1/207216-206886/27-82 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00019, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAggguuggUUAGGCUGAUCUGGCUGGCUAGGA-------ga
+>KB016875.1/3316661-3316971/27-84 [subseq from] Camelus ferus unplaced genomic scaffold scaffold602, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGUCaggguugAUUCGGCUGAUCUGGCUGGCUAGGAGGGU---
+>CM000802.1/86872742-86873084/27-84 [subseq from] Oryctolagus cuniculus chromosome 13, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGAUGGG----u
+>CM000938.1/125932424-125932741/27-84 [subseq from] Anolis carolinensis chromosome 2, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH835480.1/1817509-1817214/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00192, whole genome shotgun sequence
+---AUCUGUCACCCCAUUCAUCGCCaggguuaAUUUGGCUGAUCUGGCUGGCUAGGCAGGU---g
+>ALAR01062380.1/11375-11054/30-87 [subseq from] Tupaia chinensis contig62380, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAUGGuugauucAGCUGAUCUGGCUAGCUAGGCGAG----u
+>JH835571.1/159101-158822/28-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00283, whole genome shotgun sequence
+----UCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUAAUCUGGCUGGCUAGGCGGGU---
+>JH836313.1/37380-37641/19-77 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01025, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGACUGAUCUGGCUGGCUAGGCAGA----uc
+>AGTP01059747.1/33839-34127/27-84 [subseq from] Ictidomys tridecemlineatus contig059747, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGUUAGGCAGG----u
+>JH835440.1/1987837-1988185/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00152, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCaggcuugAUACAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836160.1/162971-163273/26-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00872, whole genome shotgun sequence
+u---AUCUGUCACUCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ADON01012796.1/497-203/32-88 [subseq from] Anas platyrhynchos breed Pekin duck contig12796, whole genome shotgun sequence.
+----UCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWS01097264.1/13808-14132/27-86 [subseq from] Pteropus alecto contig97264, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGUAaagguuaAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---gc
+>AAPE02034189.1/9374-9068/27-84 [subseq from] Myotis lucifugus cont2.34188, whole genome shotgun sequence.
+---AUCUGUCAUCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>ALWT01214931.1/31900-32233/27-83 [subseq from] Myotis davidii contig214931, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGUGGG----
+>ABRO02069730.1/32863-32550/27-84 [subseq from] Dipodomys ordii contig_69730, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGGCUGGCUAGGUGGGU---
+>ALAR01218580.1/1928-2235/27-83 [subseq from] Tupaia chinensis contig218580, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggguucAUUCGGCUGAUCUGGCUGGCUAGGCAG-----g
+>JH835549.1/1410110-1409798/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00261, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAGGGUUgauuccaCUGAUCUGGCUGGCUAGGCGGGU---
+>ACTA01051092.1/8176-8000/27-84 [subseq from] Ailuropoda melanoleuca scaffold1463_144, whole genome shotgun sequence.
+---AUCUGUCACCCUAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000234.2/130774956-130775279/27-84 [subseq from] Rattus norvegicus chromosome 4, whole genome shotgun sequence.
+a----UCGGUCACCCCAUUGAUCGCCaggguugCUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AZIM01006308.1/39933-40268/24-81 [subseq from] Ophiophagus hannah scaffold6312.1, whole genome shotgun sequence.
+a----UCAGUCACCCCAUUGAUUGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835389.1/1069135-1069465/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00101, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugauUCUCGGCUGAUCUGGCUGGCUAGGCGGG----
+>ANKR01196131.1/5406-5702/27-84 [subseq from] Myotis brandtii contig196131, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGACUAGGUGGGU---
+>GL897056.1/932813-932485/27-84 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00159, whole genome shotgun sequence.
+---AUCUGUUACCCCAUUGAUCGCCaggguugAUUCGGCAGAUCUGGCUGGCUAGGCGGGU---
+>JH835420.1/2915806-2915495/13-71 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00132, whole genome shotgun sequence
+--GAUCUAUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835312.1/585489-585187/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00024, whole genome shotgun sequence
+a----UUUGUCACCCCAUUGAUCGCCagaguugAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835800.1/267272-266917/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00512, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUAGCCagggucgAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835562.1/2674139-2673817/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00274, whole genome shotgun sequence
+a----CCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>CM000866.1/76971062-76971367/24-81 [subseq from] Callithrix jacchus chromosome 11, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUGGGCUGACCUGACUGGCUAGGCGGGU---
+>AZIM01003705.1/72834-73179/27-84 [subseq from] Ophiophagus hannah scaffold3707.1, whole genome shotgun sequence.
+---AUCUGUUACCCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>APMT01121945.1/3900-3581/29-84 [subseq from] Mesocricetus auratus contig121945, whole genome shotgun sequence.
+a----UAUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGG-----
+>CM000994.2/176793956-176794247/27-84 [subseq from] Mus musculus chromosome 1, GRC primary reference assembly.
+---AUCUGUCACCUCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>AZIM01000241.1/432171-432479/27-84 [subseq from] Ophiophagus hannah scaffold241.1, whole genome shotgun sequence.
+---AUCUGUCACCCUAUUGAUCACCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>APMT01174876.1/36663-37006/27-84 [subseq from] Mesocricetus auratus contig174876, whole genome shotgun sequence.
+---AUCUGUCAUCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835763.1/1143151-1143338/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00475, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCAggguugaCUGGGCUGAUCUGGUUGGCUAGGUGGGU---
+>ABRO02055187.1/63702-63431/25-84 [subseq from] Dipodomys ordii contig_55187, whole genome shotgun sequence.
+gc---AUCUGUCACCCCAUUGAUCACCAGGGuugagucGGCUGAUCUGACUGGCUAGGCGGGU---
+>CM000002.3/5378056-5378372/27-84 [subseq from] Canis lupus familiaris chromosome 2, whole genome shotgun sequence.
+a----CCUGUCACCCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000942.1/22687717-22687530/27-84 [subseq from] Anolis carolinensis chromosome 6, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCGCCaggguugUUUUGGCUGAUAUGGCUGGCUAGGCGGGU---
+>JH835291.1/11612658-11612356/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00003, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGUG----u
+>JH835423.1/599670-599999/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00135, whole genome shotgun sequence
+---AUCUGUUACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAAGCGGGU---
+>JH835638.1/570881-570562/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00350, whole genome shotgun sequence
+a----UCUAUCACCCCAUUGAUUGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JMFM02013461.1/20218-20430/27-84 [subseq from] Manacus vitellinus contig13461, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>ABRO02071812.1/6168-5859/27-84 [subseq from] Dipodomys ordii contig_71812, whole genome shotgun sequence.
+---AUCUGUAACCCCAUUGAUUGCCaggguagAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835416.1/4062370-4062071/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00128, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUUGGCUGAUCUGGCUGGCUAAGCGGGU---
+>JH835383.1/2179301-2178975/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00095, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGACUAGGUGGGU---
+>ALAR01204805.1/4124-3819/24-82 [subseq from] Tupaia chinensis contig204805, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagaguugAUUUGGCUGAUCUGGCUGGAGAGGCGGGU---a
+>ALWT01316278.1/34581-34903/32-87 [subseq from] Myotis davidii contig316278, whole genome shotgun sequence.
+-----CUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835323.1/5921340-5921662/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00035, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCUaggguugAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH836006.1/598253-598540/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00718, whole genome shotgun sequence
+a----UUUGUCACCCCAUUGAUAGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AYUG01159089.1/4451-4780/27-84 [subseq from] Fukomys damarensis contig159089, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAggguugaUAUGGCUGAUCUGGCUGGCCAGGCAGG----u
+>GL343203.1/2662450-2662785/26-84 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0011, whole genome shotgun sequence.
+c---AUCUGUCACCCCAUUGAUCGCCacgguugAUUCGGCUGUUCUGGCUGGCUAGGCGGGU---
+>APMT01060739.1/4585-4239/27-82 [subseq from] Mesocricetus auratus contig060739, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggauugAUUCAGCUGAUCUGGCUGGCUAGGCGG-----
+>CM000860.1/31990228-31989904/26-83 [subseq from] Callithrix jacchus chromosome 5, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUCGGCUGAUCUGGCUGGCUAAGCGGGU---
+>CM000316.3/23214185-23214486/27-84 [subseq from] Pan troglodytes isolate Yerkes chimp pedigree #C0471 (Clint) chromosome 2B, whole genome shotgun sequence.
+---AUCUGUCACCUCAUUGAUCGCCaggguugAUUUGACUGAUCUGGCUGGCUAGGCGGGU---
+>KB017436.1/351565-351865/27-84 [subseq from] Camelus ferus unplaced genomic scaffold scaffold1221, whole genome shotgun sequence.
+---AUCUGUCACUCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAAGCGGGU---
+>CM001388.3/17992836-17993035/28-84 [subseq from] Felis catus isolate Cinnamon breed Abyssinian chromosome D2, whole genome shotgun sequence.
+----UCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>JH836074.1/108501-108301/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00786, whole genome shotgun sequence
+---AUCUGUCACCCCGUUGAUCGCCgggguugAUUAGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836625.1/127298-127572/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01337, whole genome shotgun sequence
+a----UCUAUCACCCCAUUGAUCACCAGGGuugauacGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835451.1/1747117-1746790/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00163, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUCGGCUGAUCUGGCUGACUAGGCGGGU---
+>LZPO01066268.1/69958-69682/27-84 [subseq from] Neotoma lepida isolate 417 scaffold_252, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCGCCAggguugaUCUGGCUGAUCUGGCUGGCUAGGCA------agu
+>CM000296.1/11363792-11363497/27-84 [subseq from] Macaca mulatta chromosome 10, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUUGGCUGAUCUGACUGGCUAGGCGGGU---
+>ALWS01024662.1/9182-8842/27-84 [subseq from] Pteropus alecto contig24662, whole genome shotgun sequence.
+---AUCUGUCACCUCAUUGAUCGCCAggguugaUUUAGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835365.1/4503558-4503276/27-75 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00077, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCA--GGGUUGAUUCGGCUGGCUAGGCGAG----u
+>JH836010.1/644586-644316/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00722, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCAGGGUugagucaGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835396.1/2911144-2910960/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00108, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaagguugAUUCGGCUGAUCUGGCUGGCUAGGCCGG----u
+>JH835481.1/282931-282624/22-79 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00193, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguggAUUCGGCUGAUCUGGUUGGCUAGGCGGGU---
+>ALWT01221893.1/3152-3213/3-60 [subseq from] Myotis davidii contig221893, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCagggcugAUUCGGCUGACCUGGCUGGCUAGGCGG-----au
+>JH835451.1/177091-176775/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00163, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCCaagguugAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835325.1/1141762-1141988/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00037, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCAACaggguugUUUAGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836176.1/596164-595860/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00888, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGCUaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>GL343419.1/204934-205224/27-84 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0227, whole genome shotgun sequence.
+---AUCUGUCACUCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>KB018461.1/428113-427790/28-84 [subseq from] Camelus ferus unplaced genomic scaffold scaffold2578, whole genome shotgun sequence.
+----UCUGUCACCCCAUUGAUCGCCaggguugAUUCGACUGAUCUGGCUGGCUAGGCGGGU---
+>AAQR03090120.1/8458-8176/27-84 [subseq from] Otolemur garnettii contig090120, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUUGGCUGACCUGGCUGGCUAGGCGGGU---
+>AGTP01015493.1/15731-16039/26-83 [subseq from] Ictidomys tridecemlineatus contig015493, whole genome shotgun sequence.
+---AUCUGUCACCCAAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835291.1/2407085-2407396/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00003, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCGCCaagguugAUUCGGCUGAUCUGGCUGGCUAGGUGGGU---
+>JH835918.1/1207701-1207372/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00630, whole genome shotgun sequence
+---AUCUGUUACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFSB01009373.1/6071-5736/27-84 [subseq from] Heterocephalus glaber contig9373, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUAAUCGCUaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835306.1/4680666-4680334/25-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00018, whole genome shotgun sequence
+gc---AUCUGUCACCCCACUGAUUGCCaggguugAUCUGGCUGAUCUGGCUGGCUAGGCAGG----u
+>ACTA01104003.1/54721-54405/28-83 [subseq from] Ailuropoda melanoleuca scaffold9_12, whole genome shotgun sequence.
+----UCUGUCACCCCAUUGAUCGCCagguuuGAUGCGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000817.4/10126195-10126525/27-85 [subseq from] Sus scrofa chromosome 6.
+---AUCUGUCACCCCACUGAUCGCCaggguugAUUCGGCUGAUCUGACUGGCUAGGCGGGU---g
+>AFSB01152850.1/43220-43562/27-84 [subseq from] Heterocephalus glaber contig152850, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguuaAUUCGGCUGAUCUGGCUGGCCAGGCAGG----u
+>JH835291.1/9066263-9065972/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00003, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFSB01161809.1/19530-19843/26-84 [subseq from] Heterocephalus glaber contig161809, whole genome shotgun sequence.
+c---AUCUGUCACCCCAUUGAUUGUCUggguugaUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ALWT01190380.1/2770-2451/27-85 [subseq from] Myotis davidii contig190380, whole genome shotgun sequence.
+---AUCUGUCGCCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---g
+>CM000802.1/69816574-69816919/27-84 [subseq from] Oryctolagus cuniculus chromosome 13, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUAGCCaggguugAUUUGGUUGAUCUGGCUGGCUAGGCGGGU---
+>AFSB01153441.1/2906-3220/27-84 [subseq from] Heterocephalus glaber contig153441, whole genome shotgun sequence.
+a----UCGGUCACCCCAUUGAUCGCCagaguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>GL896952.1/6010849-6011180/27-84 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00055, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUUGGUUGAUCUGGCUGGCUAGGCGGGU---
+>JH835336.1/6005380-6005073/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00048, whole genome shotgun sequence
+u---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCUGCUGAUCUGGCUGGCUAGGCGG-----u
+>JH835725.1/1170587-1170272/27-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00437, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUUGUCAGAGuugauuGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835996.1/154246-154569/27-85 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00708, whole genome shotgun sequence
+---AUCUGUCUCCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---a
+>AAQR03132496.1/19336-19049/27-84 [subseq from] Otolemur garnettii contig132496, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCaggguugAUUUGGCUGAUCUGGCUGACUAGGCGGGU---
+>JH835392.1/3147168-3147511/31-88 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00104, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCUGGCUAGGCUGG----u
+>KB019284.1/146992-146689/27-84 [subseq from] Camelus ferus unplaced genomic scaffold scaffold49054, whole genome shotgun sequence.
+---AUCUGUCACCCCGUUGAUCGCCAUGGuugauucAGCUGAUCUGGCUGGCUAGGCGGGU---
+>AFTD01094215.1/29505-29204/18-75 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCACCacgguugAUUGGGCUGAUCUGGCUGGCUAGGCAGG----u
+>AAPE02037014.1/21800-21439/24-82 [subseq from] Myotis lucifugus cont2.37013, whole genome shotgun sequence.
+ga----CAUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>AYUG01120588.1/6151-6449/24-81 [subseq from] Fukomys damarensis contig120588, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCACCaagauugAUCUGGCUGAUCUGGCUGGCUAAGCAGG----u
+>JH835298.1/3782695-3782397/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00010, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCCAGGCGGGU---
+>JH835349.1/2124890-2124636/24-73 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00061, whole genome shotgun sequence
+ga----CAUGUCACCCCAUUGAUUGCCA--GGGUUGAUCUGGCUGGCUAGGCGAG----u
+>JH835739.1/655894-656194/21-78 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00451, whole genome shotgun sequence
+a----UCCAUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835561.1/2064076-2064327/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00273, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCACCaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835551.1/2374086-2374429/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00263, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguuuAUUCGGCUGAUCUGGCUGGCUAGGCGUG----u
+>JH835793.1/1732031-1731769/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00505, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCGCCAGGGUggauucaGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH836175.1/511781-512079/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00887, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaggguugAUUUGGCUGAUCUGACUGGCUAGGCGGGU---
+>AFTD01083138.1/4236-3901/30-87 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCGCCaggguugAUUGGGAUGAUCUGGCUAGCUAGGCGGGU---
+>JH835453.1/1170599-1170913/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00165, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCAGCUGAUCUGGCCGGCUAGGCGGGU---
+>AAPE02040713.1/11045-10715/27-84 [subseq from] Myotis lucifugus cont2.40712, whole genome shotgun sequence.
+---AUCUGCCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGACUAGGCGGGU---
+>AFYH01111718.1/4479-4171/27-84 [subseq from] Latimeria chalumnae contig111718, whole genome shotgun sequence.
+---AUCUGUAACCCCAUUGAUCGCUaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>ANKR01228350.1/5019-4916/25-82 [subseq from] Myotis brandtii contig228350, whole genome shotgun sequence.
+---AUCUGUCACCCCACUGAUCGCCaggguugAUUUGGCUGAUCUAGCUGGCUAGGCGGGU---
+>JH835978.1/634886-635065/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00690, whole genome shotgun sequence
+---AUCUGUCUCCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUAGGCGGGU---
+>CM000674.2/112267077-112267394/27-84 [subseq from] Homo sapiens chromosome 12, GRCh38 reference primary assembly.
+---AUCUGUCACCCCAUUGAUCGCUgggguugAUUCGGCUGAUCUGGCUGGCUAGGCAGG----u
+>GL343634.1/247364-247044/26-84 [subseq from] Anolis carolinensis unplaced genomic scaffold chrUn0442, whole genome shotgun sequence.
+c---AUCUGUCACCCCAUUGAUCGCCaggguugAUUUGGCUGAUCUGGCUGGCUUGGCGGGU---
+>ABRO02062034.1/3718-3405/27-84 [subseq from] Dipodomys ordii contig_62034, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUAGCCaggguugAUUCGGCUGAUCUGGCUGGUUAGGCGGGU---
+>JH836442.1/294300-293981/27-88 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01154, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGAUcgccaggguugAUUCGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835394.1/2974213-2973938/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00106, whole genome shotgun sequence
+---AUCUGUCACCCCACUGAUCUCCAUGGuugauucGGCUGAUCUGGCUGGCUAGGCGGGU---
+>JH835602.1/2462382-2462701/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00314, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUAGGCUGAUCUGGGUGGCUAGACGGGU---
+>JH835439.1/714145-713838/28-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00151, whole genome shotgun sequence
+----UCUGUCACCCCAUUGAUCGCCAggguugaUGAGGCUGAUCUGGCUGGCUAGGAGGGU---
+>JH835395.1/3889193-3888902/25-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00107, whole genome shotgun sequence
+a---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUAGCUGGCUAGGUGG-----au
+>GL897037.1/5020526-5020885/27-84 [subseq from] Mustela putorius furo unplaced genomic scaffold scaffold00140, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCAGGGUugauuccGCUAAUCUGGCUGGCUAGGCGGGU---
+>KB017312.1/2220626-2220314/27-74 [subseq from] Camelus ferus unplaced genomic scaffold scaffold1085, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCA--GGGCCAAUCUGGCUGGCUAGGC-------uag
+>CM000004.3/40220160-40219838/27-84 [subseq from] Canis lupus familiaris chromosome 4, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUUGCCagaguugAUUUGGUUGAUCUGGCUGGCUAGGCGGGU---
+>JH836889.1/57991-57687/27-84 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01601, whole genome shotgun sequence
+---AUCUGUCACUCCAUUGAUCGCCagaguugAUUUGGCUGAUCUGGCUGGCUAGGUGGGU---
+>AGTP01027236.1/10149-10430/27-82 [subseq from] Ictidomys tridecemlineatus contig027236, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUGGCCaggguugAUCCGGCUGAUCUGGCUGGCUAGGCGG-----
+>CM000857.1/66961655-66961336/27-84 [subseq from] Callithrix jacchus chromosome 2, whole genome shotgun sequence
+---AUCUGUCACCCCAUUGAUCACCaguguugAUUUGGCUGAUCUGGCUGGCGAGGCGGGU---
+>AFTD01010825.1/172257-171945/27-84 [subseq from] Cricetulus griseus cell line CHO-K1, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUGGGCUGAUCUGGCUGUAUAGGCAGG----u
+>GL018709.1/598093-598426/27-83 [subseq from] Oryctolagus cuniculus unplaced genomic scaffold chrUn0011, whole genome shotgun sequence.
+---AUCUGUCACCCCAUUGAUCGCCaggguugAUUCGGCUGAUCUGGCUGGCUAGGUAG-----g
+>JH836352.1/395664-395840/27-75 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold01064, whole genome shotgun sequence
+a----UCAGUCACCCCAUUGAUUGCCA--GGGUUGAUUUGGCUGGCUAGGCGGGU---
+>JH835469.1/1766743-1767036/26-83 [subseq from] Erinaceus europaeus unplaced genomic scaffold scaffold00181, whole genome shotgun sequence
+a---AUCUGUCACCCCAUUGAUAACCAggguugACUGGCUGAUCUGGCUGGCUAGACGGGU---
+>URS0000A763A0/1-56 [subseq from] snRNA from 1 species
+GGGAUCUGUCACCCCAUUGAUCGCCUUCGGGCUGAUCUGGCUGGCUAGGCGGGUCC-
+>URS0000D77914/2-56 [subseq from] misc_RNA from 1 species
+-GGAUCUGUCACCCCAUUGAUCGCCGAGAGGCUGAUCUGGNUGGNUAGGCGGGUCC-
+>URS0002616B77/1-55 [subseq from] misc_RNA from 1 species
+GGGAUCUGUCACCCCAUUGAUCGCCAGU-GGCUGAUCUGGCUGGCUAGGCGGGUCC-

@@ -1,0 +1,58 @@
+>query
+GGUGCCCGUCUGUUGUGUGACUCUGGUGAGAGCCAGAGGAGAUCUCUCGACGCAGGACUCGGCUUGCUGGAGACGGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCAAAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGCCC
+>URS000086851D/2-155 [subseq from] misc_RNA from 1 species
+-GUGCCCGUCUGUUGUGUGACUCUGGUGAGAGCCAGAGGAGAUCUCUCGACGCAGGACUCGGCUUGCUGGAGACGGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCAAAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGCCC
+>KM519788.1/3025-3152 [subseq from] Cloning vector pH1TO-shRNA_FF4-hEF1a-TetR-2A-iRFP-2A-Bla, complete sequence
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACGGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCAAAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>Z11530.1/711-837 [subseq from] Human Immunodeficiency virus I (HIV-1) RNA
+a--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACAGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCAAAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>MT308106.1/99-227 [subseq from] HIV-1 isolate 00749_PH258_W1.2_5pHGRNAMix_BAR4_Seq1_Phase0_NumReads167 from USA gag protein (gag) gene, complete cds; and pol protein (pol) and vif protein (vif) genes, partial cds
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACAGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCGAAAAUuUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>EU074781.1/96-221 [subseq from] HIV-1 isolate X138.7.PI.RNA from Spain gag protein (gag) gene, complete cds; pol protein (pol) gene, partial cds; nonfunctional vif protein (vif) gene, complete sequence; vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) gene, complete sequence; and envelope glycoprotein (env) and nef protein (nef) genes, complete cds
+u--------------------------------CCAGAGAAGYUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACAGCAAGAGGCGAG-AGCGGCGACUGGUGAGUACGCCAUAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>EU074783.1/128-253 [subseq from] HIV-1 isolate X138.8.PI.RNA from Spain nonfunctional gag protein (gag) gene, complete sequence; nonfunctional pol protein (pol) gene, partial sequence; vif protein (vif), vpr protein (vpr), tat protein (tat), and rev protein (rev) genes, complete cds; nonfunctional vpu protein (vpu) and nonfunctional envelope glycoprotein (env) genes, complete sequence; and nef protein (nef) gene, complete cds
+u--------------------------------CCAGAGAAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGugcgcACAGCAAGAGGCGAG-AGCGGCGACUGGUGAGUACGCCAUAAAUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>AB070353.1/688-814 [subseq from] Human immunodeficiency virus 1 genomic RNA, complete genome, clone: 93JP-NH2env
+agu-------------------------------UCCAGAGAAGUUCUCUCGACGCAGGACUCGGCUUGCUGAGGugcacACAGCAAGAGGCGAG-AGCGGCGACUGGUGAGUACGCCAA--AUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>AB052867.1/680-807 [subseq from] Human immunodeficiency virus type 1 genomic RNA, complete genome, Ghana intersubtype A/G recombinant
+agu-------------------------------UCCAGAGAAGAUCUCUCGACGCAcGGACUCGGCUUGCUGAGGugcacACAGCAAGAGGCGAG-AGCGGCGACUGGUGAGUACGCCAA--UUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>AJ276595.1/2-114 [subseq from] HIV-1 proviral gag gene, pol gene, vif gene, vpr gene, vpu gene, env gene, nef gene, tat gene and rev gene, isolate VI1035, genomic RNA
+------------------------------------------UCUCUCGACGCAGGACUCGGCUUGCUGAGGugcacACAGCAAGAGGCGAG-AGCGGCGACUGGUGAGUACGCCCA--ACUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>AB845348.1/1-112 [subseq from] Human immunodeficiency virus 1 genomic RNA, nearly complete genome, isolate: 10JP-5091N172
+-------------------------------------------CUCUCGACGCAGGACUCGGCUUGCUGCggugcACACAGCAAGAGGCGAG-AGCGGCGACUGGUGAGUACGCCUA--AUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>AJ276596.1/1-116 [subseq from] HIV-1 proviral gag gene, pol gene, vif gene, vpr gene, vpu gene, env gene, nef gene, tat gene and rev gene, isolate VI1197, genomic RNA
+-----------------------------------------AUCUCUCGACGCAGGACUCGGCUUGCUGAAGgugcacACAGCAAGAGGCGAGAGCGGCGCACUGGUGAGUACGCCAA--UUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>LC312713.1/13-92 [subseq from] Human immunodeficiency virus 1 RNA, nearly complete genome, isolate: 08MNG4608 homosexual male
+-------------------------------------------------------------------------CGGCAAGAGGCGAGGGGCGGCGACUGGUGAGUACGCCGAAAAUUUUUACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>AM706400.1/4-92 [subseq from] Human immunodeficiency virus type 1 partial gag gene, genomic RNA, isolate SE762
+g--------------------------------------------------------------CUGGGUGCACACAGCAAGAGGCGAG-AGCGGCGACUGGUGAGUACGCCAA--UUUUUGACUAGCAGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>GU453418.1/23-137 [subseq from] HIV-1 isolate R18 from Spain nef spliced transcript mRNA sequence
+a--------------------------------CCAGAGGAGAUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACAGCAAGAGGCGAGGGGCGGCGACUGACAggaucAGAAGAACUUAAAUCAUUACCAGCA----------------------------ugggaugga
+>U19178.1/74-159 [subseq from] Human (Hin-3)/HIV1 promoter region chimeric mRNA, complete cds
+------------------------------AGCCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcAGAGCAAGAGGCGAGGGGCGGCGACUGGGGA----------------------------------------------------uaucauuu
+>GU453427.1/19-104 [subseq from] HIV-1 isolate R28 clone 10 from Spain vpr spliced transcript mRNA sequence
+a-----------------------------GAACCAGAGAAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGugcgcACGGCAAGAGGCGAGGGGCGGCGACUG--------------------------------------------------------aaucugcuau
+>GU453416.1/24-101 [subseq from] HIV-1 isolate R51-7 from Spain nef spliced transcript mRNA sequence
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACGGCAAGAGGCGAGGGGCGGCGACUGG-------------------------------------------------------gau
+>KC493108.1/10-93 [subseq from] HIV-1 from Canada exon 6D spliced transcript variant 1 mRNA sequence; and tat fusion protein mRNA, partial cds
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACGGCAAGAGGCGAGGGGCGGCGACUG--------------------------------------------------------acucugcuau
+>KC493109.1/10-98 [subseq from] HIV-1 from Canada exon 6D spliced transcript variant 2 mRNA sequence; and tat fusion protein mRNA, partial cds
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACGGCAAGAGGCGAGGGGCGGCGACUGAA------------------------------------------------------uugggugucgaca
+>GU453420.1/19-94 [subseq from] HIV-1 isolate R11 from Spain nef spliced transcript mRNA sequence
+a-----------------------------GAACCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAGCgcgcACGGCAAGAGGCGAGGGGCGGCGACUGG-------------------------------------------------------
+>KC493113.1/10-89 [subseq from] HIV-1 from Canada exon 6D spliced transcript variant 6 mRNA sequence
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAGGcgcgcACGGCAAGAGGCGAGGGGCGGCGACUGG-------------------------------------------------------caucu
+>GU453417.1/22-96 [subseq from] HIV-1 isolate R60-2 from Spain nef spliced transcript mRNA sequence
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcGCGGCAAGAGGCGAGGGGCGGCGACUGG-------------------------------------------------------
+>GU453419.1/19-97 [subseq from] HIV-1 isolate R11 from Spain nef spliced transcript mRNA sequence
+a-----------------------------GAACCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcGCAGCAAGAGGCGAGGGGCGGCGACUG--------------------------------------------------------aac
+>U19177.1/74-165 [subseq from] Human (Hin-2)/HIV1 promoter region chimeric mRNA, partial cds
+aa--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUAAAGcgcgcACAGCAAGAGGCGAGGGGCGGCGACUG--------------------------------------------------------ccaccccugaaugcucaa
+>GU453421.1/22-95 [subseq from] HIV-1 isolate R17 from Spain noncoding spliced transcript mRNA sequence
+a--------------------------------CCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAAGcgcgcACAGCAAGAGGCGAGGGGCGGCGACUGG-------------------------------------------------------
+>GU453422.1/19-95 [subseq from] HIV-1 isolate R11 clone 1 from Spain nef spliced transcript mRNA sequence
+a-----------------------------GAACCAGAGGAGCUCUCUCGACGCAGGACUCGGCUUGCUGAGCgcgcACAGCAAGAGGCGAGGGGCGGCGACUG--------------------------------------------------------aa
+>X70519.1/1-58 [subseq from] Human Immunodeficiency virus type 1 RNA, 5'end
+---------------------------------------------------------------------------------------------CGACUGGUGAGUACGCCAA--UUUUUGACUAGCGGAGGCUAGAAGGAGAGAGAUGGGUGC--
+>GU453424.1/21-95 [subseq from] HIV-1 isolate R17 from Spain vpu spliced transcript mRNA sequence
+------------------------------AGCCAGAGGAGCUCUCUCGACGCAGG-CUCGGCUUGCUGAAGcgcgcACAGCAAGAGGCGAGGGGCGGCGACUG--------------------------------------------------------aa

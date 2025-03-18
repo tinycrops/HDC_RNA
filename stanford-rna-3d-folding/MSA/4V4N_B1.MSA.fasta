@@ -1,0 +1,1442 @@
+>query
+GGGGCGGUAGCUCAGCCUGGGAGAGCACCGGACUGAAGAUCCGGGUGUCGGGGGUUCAAAUCCCCCCCGCCCCACCA
+>000|LGET01000116.1/5195-5122/2-74 [subseq from] Thermococcales archaeon 44_46 PW_scaffold_666, whole genome shotgun sequence.
+-GGGCGGUAGCUCAGCCUGGGAGAGCGCCGGACUGAAGAUCCGGGUGUCGGGGGUUCAAAUCCCCCUCGCCCCA---
+>001|L77117.1/637583-637656/4-70 [subseq from] Methanocaldococcus jannaschii DSM 2661, complete genome.
+---GCGGUAGUUCAGCCUGGGAGAACGCUGGACUGAAGAUCCAGUUGUCGGGUGUUCAAAUCACCCCCGC-------
+>002|CP002278.1/199676-199749/4-68 [subseq from] Methanothermus fervidus DSM 2088, complete genome.
+g----UGGUAGUUCAGCCUGGGAGAACGCCGGACUGAAGAUCCGGUUGUCGCCGGUUCAAAUCCGGC-----------cc
+>003|MNWW01000075.1/12680-12607/2-74 [subseq from] Candidatus Woesearchaeota archaeon CG1_02_57_44 cg1_0.2_scaffold_1547_c, whole genome shotgun sequence.
+-GGGCGGUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCACGGAUUCAAAUUCCGUCCGCCCCA---
+>004|MFRR01000014.1/150369-150442/2-73 [subseq from] Candidatus Micrarchaeota archaeon RBG_16_36_9 RBG_16_scaffold_36, whole genome shotgun sequence.
+g--GACAGUAGCUCAGCCUGGGAGAGCGCACGGCUGAAGACCGUGCUGUCGGGGGUUCAAAUCCCUCCUGUCC-----c
+>005|MNUF01000013.1/125-52/2-73 [subseq from] Candidatus Aenigmarchaeota archaeon CG1_02_38_14 cg1_0.2_scaffold_15733_c, whole genome shotgun sequence.
+g--GACGGUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCAUGUGUUCAAAUCACAUCCGUCC-----c
+>006|AWUE01004663.1/954-882/7-66 [subseq from] Corchorus olitorius cultivar O-4 contig04679, whole genome shotgun sequence.
+------GUAGCUCAGU-UGGUAGAGCACUGGAUUGAAGAUCCGGGUGUCGGGGGUUCAAAUCCCUC-----------c
+>007|CP017717.1/6661070-6661143/2-73 [subseq from] Nonomuraea sp. ATCC 55076, complete genome.
+-GGGCGGUAGCUCAGCCGGUCAGAGCAUCGGACUCAUAAUCCGUGGGUCGUGGGUUCAAGUCCCACCCGCCC-----u
+>008|LHXX01000080.1/1867-1794/4-71 [subseq from] Candidate divison MSBL1 archaeon SCGC-AAA261D19 AAA261D19_Contig_80, whole genome shotgun sequence.
+gg-----GAUAGCUCAGCUUGGGAGAGCGCCGCACUGAAGAUGCGGUUGUCGUGGGUUCAAGUCCCACUC---------ccc
+>009|LUCD01000039.1/6684-6611/4-70 [subseq from] Candidatus Bathyarchaeota archaeon B26-1 scaffold3556, whole genome shotgun sequence.
+---GCGGUAGCUCAGACUGGGAGAGCACCCGGCUGAAGACCGGGCUGUCGGGAGUUCAAGUCUCCCCCGC-------
+>010|CP007026.1/617253-617180/5-69 [subseq from] Candidatus Nitrosopelagicus brevis strain CN25, complete genome.
+a-----GGUAGCUCAGCCUGGGAGAGCACCACGCUGAAGACGUGGCUGUCGGGAGUUCAAAUCACCCCC---------u
+>011|MKSH01000170.1/6026-5953/4-72 [subseq from] Solirubrobacterales bacterium 70-9 SCNpilot_bf_inoc_scaffold_3432, whole genome shotgun sequence.
+g----AGGUAGCUCAGGCCGGUAGAGCACUCGACUGAAAAUCGAGGUGUCGCGGGUUCAAAUCCCGCCCU--------cgc
+>012|MCBC01000166.1/10155-10082/4-70 [subseq from] Candidatus Altiarchaeales archaeon WOR_SM1_86-2 WORSMTZ_9293, whole genome shotgun sequence.
+---GCGAUAGCUCAGCCUGGGAGAGCACAUGGCUGAAGACCAUGGUGUCCGGGGCUCAAAUCCCCGUCG--------c
+>013|LADZ01000041.1/3377-3449/4-71 [subseq from] Flavobacteriales bacterium BRH_c54 BRHa_1006649, whole genome shotgun sequence.
+gau------GUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGGGGUUCAAUUCCCUCC----------aucac
+>014|MFWM01000008.1/3572-3499/5-67 [subseq from] Candidatus Pacearchaeota archaeon RBG_13_33_26 RBG_13_scaffold_559, whole genome shotgun sequence.
+cc------GUAGCUCAGCCUGGUAGAGCACUGGACUUUUAAUCCAGGUGUCGCGGGUUCAAAUCCC-------------guc
+>015|CP000866.1/754037-753964/4-70 [subseq from] Nitrosopumilus maritimus SCM1, complete genome.
+g----UGGUAGCUCAGCCUGGGAGAGCACUCGGCUGAAGACCGGGCUGUCGCGCGUUCAAAUCCCGCCCG--------c
+>016|MNUP01000033.1/8906-8833/6-68 [subseq from] Candidatus Desantisbacteria bacterium CG1_02_49_89 cg1_0.2_scaffold_184_c, whole genome shotgun sequence.
+-----GGUAGCUCAGUCUGGUAGAGCGACGGACUGAAAAUCCGUGCGUCGGCGGUUCAAUUCCGCCC----------c
+>017|MNVY01000004.1/3073-3144/2-72 [subseq from] Candidatus Pacearchaeota archaeon CG1_02_35_32 cg1_0.2_scaffold_5501_c, whole genome shotgun sequence.
+g--GACGGUAGCUCAG--UGGGAGAGCACACGACUGAAGCUCGUGGUGUCGGGGGUUCGAUUCCCUCCCGUCCC----a
+>018|KR296684.1/94209-94281/2-73 [subseq from] Salmonella phage 19, complete genome.
+g--GGUUGUAGCUCAGU-UGGUAGAGCACCUGAUUGAAGAUCAGGGUGUCGGUGGUUCGAGUCCACCCGGCCCC----a
+>019|LJTP01000128.1/593-665/6-67 [subseq from] Gemmatimonas sp. SG8_38_2 WOR_8-12_16885, whole genome shotgun sequence.
+-----GGUAGCUCAGU-UGGUAGAGCACCGGACUGAAAAUCCGGGUGUCGGCAGUUCAAGUCUGCCC----------c
+>020|CP009241.1/140781-140853/4-72 [subseq from] Paenibacillus sp. FSL H7-0357, complete genome.
+u----CGGUAGCUCAGUC-GGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCGAUUCCCUCCCGCGC-----c
+>027|CP005290.1/1503289-1503362/2-72 [subseq from] Archaeoglobus sulfaticallidus PM70-1, complete genome.
+g--GCCGGUAGCUCAGCUAGGCAGAGCAGCGGACUCUUAAUCCGUCGGUCGGGGGUUCAAAUCCCCUCCGGC------c
+>028|CP019082.1/2488282-2488354/4-71 [subseq from] Paludisphaera borealis strain PX4, complete genome.
+cag------AUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGGAGUUCAACUCUCCCUC---------ugcc
+>029|AE017199.1/29341-29270/2-72 [subseq from] Nanoarchaeum equitans Kin4-M, complete genome.
+-GGGCGGUAGCUCAGC--GGGAGAGCGCCCGGCUGAAGACCGGGAGGUCGGGGGUUCAAAUCCCCCCCGCCCCA---
+>030|MTER01000023.1/2173-2246/3-71 [subseq from] Candidatus Altiarchaeales archaeon A3 Ga0073111_1023, whole genome shotgun sequence.
+--GGCAGUAGCUCAGCCCGGGAGAGCACUCGGCUGAAGACCGAGGUGUCAGGUGUUCAAACCACUUCUGC-------c
+>031|LQAQ01000093.1/233814-233886/4-71 [subseq from] Flammeovirga sp. SJP92 Scaffold5_1, whole genome shotgun sequence.
+gau------GUAGCUCAGU-UGGUAGAGCAUCGGACUGAAAAUCCGUGUGUCGGCGGUUCGAAUCCGCCC----------aucac
+>032|MGSU01000315.1/12283-12356/7-68 [subseq from] Deltaproteobacteria bacterium RIFOXYA12_FULL_61_11 rifixya3_full_scaffold_770, whole genome shotgun sequence.
+------GUAGCUCAGAUAGGUAGAGCAUCGGACUGUGGCUCCGAGUGUCGGGGGUUCGAAUCCCCU-----------ca
+>033|MFFQ01000056.1/368-442/4-71 [subseq from] Candidatus Eisenbacteria bacterium RBG_16_71_46 RBG_16_scaffold_2411, whole genome shotgun sequence.
+cc-----UGUAGCUCAGUCCGGuUAGAGCACCGGUCUCCAAAACCGGGUGUCGGGGGUUCAAAUCCCUCC----------agg
+>034|NBLV01000093.1/4361-4434/6-68 [subseq from] Anaerolineaceae bacterium 4572_32.1 ex4572_32.1_scaffold_9572, whole genome shotgun sequence.
+ga-------UAGCUCAGCCUGGUAGAGCACCUGACUGAAAAUCAGGGAGUCGACAGUUCAAAUCU--------------gucuc
+>035|MHYX01000044.1/36803-36730/3-71 [subseq from] Planctomycetes bacterium RIFCSPLOWO2_02_FULL_50_16 rifcsplowo2_02_scaffold_613, whole genome shotgun sequence.
+g---GCCGUAGCUCAGUUGGUUAGAGCACCAGACUGUGGCUCUGGGGGUCGGGGGUUCAAAUCCCCUCGGC-------c
+>036|LADS01000061.1/225577-225504/7-67 [subseq from] Desulfobulbaceae bacterium BRH_c16a BRHa_1001804, whole genome shotgun sequence.
+------GUAGCUCAGCUGGAUAGAGCACCGGACUUCGAAUCCGGGUGUCGGGGGUUCGAAUCCCUC-----------c
+>037|MEPT01000118.1/51350-51277/2-72 [subseq from] Bdellovibrionales bacterium RBG_16_40_8 RBG_16_scaffold_8069, whole genome shotgun sequence.
+-GGGCAGUAGCUCCAAUUGGUAGAGCAACGGACUCCAAAUCCGUGUGUUGUGGGUUCGAAUCCCUCCUGCC------c
+>038|NHCZ01000018.1/61706-61633/6-68 [subseq from] Candidatus Marinimicrobia bacterium TMED46 102329, whole genome shotgun sequence.
+a------GUAGCUCAGCUGGUUAGAGCACCGGAAUCAUAAUCCGGGUGUCGGGAGUUCAAGUCUCUC-----------cu
+>039|LT158599.1/256281-256208/6-63 [subseq from] Methanoculleus sp. MAB1 isolate Methanoculleus sp MAB1 genome assembly, chromosome: chrI
+u------GUAGCUCAGACUGGGAGAGCGCCAGACUGAAGAUCUGGUUGUCCCCGGUUCAAAUCC--------------
+>040|CBTY010000008.1/254413-254340/6-68 [subseq from] Thaumarchaeota archaeon N4, WGS project CBTY01000000 data, contig: APF_1883_Contig_3
+-----GGUAGCUCAGCCUGGGAGAGCACUCGGCUGAAGACCGAGCUGUCGUGGAUUCAAGUCCCACC----------c
+>041|LLZP01000027.1/37944-37872/6-68 [subseq from] Chlorobi bacterium OLB6 UZ06_CHB003CONTIG000027, whole genome shotgun sequence.
+-----GGUAGCUCAGU-UGGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGGGGUUCAAUUCCCUCCC---------u
+>042|LGEW01000001.1/87013-87086/6-63 [subseq from] Euryarchaeota archaeon 55_53 PW_scaffold_0, whole genome shotgun sequence.
+-----GGUAGCUCAGUCUGGGAGAGCAUCGGCCUGAAGAGCCGAGUGUCCCCGGUUCAAAUCC--------------
+>043|MHBQ01000100.1/8368-8296/4-71 [subseq from] Lentisphaerae bacterium RIFOXYC12_FULL_60_16 rifoxyc3_full_scaffold_338, whole genome shotgun sequence.
+ga-----GGUAGCUCAGA-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCAGGGGUUCGAUUCCCUUCC---------ucgc
+>044|NATQ01000051.1/399-328/6-67 [subseq from] Candidatus Coatesbacteria bacterium 4484_99 ex4484_99_scaffold_10741, whole genome shotgun sequence.
+c------GUAGCUCA--AUGGCAGAGCACCGGACUGUGGAUCCGGUUGUUAGGGGUUCAAAUCCCCU-----------cgu
+>045|MHYG01000278.1/4720-4648/3-69 [subseq from] Planctomycetes bacterium RBG_13_62_9 RBG_13_scaffold_8440, whole genome shotgun sequence.
+gca-----GGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGCUGGUUCAACUCCA-------------guccug
+>046|CP009302.1/41345-41417/6-67 [subseq from] Coriobacteriaceae bacterium 68-1-3, complete genome.
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGCCGAGGGUUCAAGUCCCCCU----------c
+>047|AOMC01000094.1/1041-1114/2-72 [subseq from] Halococcus morrhuae DSM 1307 contig_94, whole genome shotgun sequence.
+g--GCCGGUAGCUCAGUUAGGCAGAGCAUCUGACUCUUAAUCAGACAGUCGGGGGUUCAAAUCCCUCCCGGC------c
+>049|LIZX01000088.1/987-1061/3-72 [subseq from] Candidate division WOR_1 bacterium DG_54_3 WOR1_52_54_9104, whole genome shotgun sequence.
+g---GCUGUAGCUCAACCCGGuUAGAGCACCAGAUUGUGGAUCUGGGUGUUGUGGGUUCAAAUCCCAUCAGC-------c
+>050|LIZT01000071.1/3774-3701/2-73 [subseq from] Candidate division TA06 bacterium DG_26 WOR1_52_54_18834, whole genome shotgun sequence.
+g--GCCGUUAGCUCAGUCAGGUAGAGCACCGGAUUUUUAAUCCGGGAGUCGUAGGUUCAAUUCCUACACGGCC-----c
+>051|MHAC01000006.1/40310-40383/5-69 [subseq from] Ignavibacteria bacterium GWF2_33_9 gwf2_scaffold_1151, whole genome shotgun sequence.
+g-----GGUAGCUCAGCUGGUUAGAGCAAUGGAAUCAUAAUCCAUGUGUCGGGGGUUCAAAUCCCUCCC---------u
+>052|MUKC01000075.1/294-367/4-71 [subseq from] Desulfobacca sp. 4484_104 ex4484_104_scaffold_9716, whole genome shotgun sequence.
+cc-----AGUAGCUCCAACGGCUAGAGCACCGGACUCCAAAUCCGGGUGAUGGGGGUUCAAAUCCCUCCUG--------gc
+>053|CP009417.1/404005-403933/2-72 [subseq from] Jeotgalibacillus malaysiensis strain D5 plasmid, complete sequence.
+-GGGCGGUAGCUCAGC-UGGUAGAGCACGGGACUGAAAAUCCCGGUGUCGCAGGUUCGACCCCUGCUCGUCC-----c
+>054|CP000127.1/159954-160026/2-72 [subseq from] Nitrosococcus oceani ATCC 19707, complete genome.
+g--GCCGUUAGCUCAGU-UGGUAGAGCACCGGACUUUUAAUCCGUGUGUCGGAGGUUCGAAUCCUCCACGGCC-----c
+>055|AWUE01003840.1/324-252/6-66 [subseq from] Corchorus olitorius cultivar O-4 contig03850, whole genome shotgun sequence.
+u------GUAGCUCAGU-UGGUAGAGCACUGGAUUGAAGAUCCGGGUGUCGUAGGUUCGAAUCCUA------------cc
+>056|LDCM01000003.1/453359-453432/2-73 [subseq from] Dermacoccus sp. PE3 Contig3, whole genome shotgun sequence.
+-GGGCGGUAGCUCAGCCGGUCAGAGCAGAGGACUCAUAAUCCUUGGGUCGUGGGUUCAAGCCCCACCCGCCC-----u
+>057|CP000159.1/1852407-1852480/6-71 [subseq from] Salinibacter ruber DSM 13855, complete genome.
+c------GUAGCUCAACCUGGUAGAGCAACGGACUCUUAAUCCGUGAGCUGGGGGUUCGAAUCCCCCCGG--------gc
+>058|AE000782.1/2011702-2011775/2-72 [subseq from] Archaeoglobus fulgidus DSM 4304, complete genome.
+g--GCCGGUAGCUUAGCCAGGCAGAGCGCGGGACUCUUAAUCCCGCAGUCGGGGGUUCAAAUCCCUCCCGGC------c
+>059|DP000238.1/1957399-1957472/7-67 [subseq from] Cenarchaeum symbiosum A, complete genome.
+au--------GGCUCAGCCAGGUAGAGCACCGGACUCUUAAUCCGGCUGUCAGGGGUUCGAAUCCCC------------uu
+>060|CP008796.1/523970-523897/2-72 [subseq from] Thermodesulfobacterium commune DSM 2178, complete genome.
+g--GUCUGUAGCUCAGCUGGAAAGAGCACUGGCCUCCGGAGCCAGGAGUCGGGGGUUCAAAUCCCCCCAGA-------cc
+>061|DS990592.1/929915-929842/2-73 [subseq from] Verrucomicrobiae bacterium DG1235 scf_1104243000192 genomic scaffold, whole genome shotgun sequence.
+g--GGCAAUAGCUCAGCUGGAUAGAGCAUCGGAUUUCUAAUCCGAGGGUCGGGGGUUCAAGUCCCUCUUGCCC-----u
+>062|CP001848.1/5981120-5981047/3-72 [subseq from] Pirellula staleyi DSM 6068, complete genome.
+--GGCUGUAGCUCAGUUGGUUAGAGCGCCAGAUUGUGGAUCUGGAUGUCGGGGGUUCAAGUCCCCUCAGCC------a
+>063|CP002829.1/1439003-1438930/2-73 [subseq from] Thermodesulfobacterium geofontis OPF15, complete genome.
+g--GGAUGUAGCUCAGCUUGGGAGAGCGCCGGAAUCGCACUCCGGAGGUCGGGGGUUCGAAUCCCCUCAU--------cucc
+>064|MFWM01000002.1/51210-51284/5-68 [subseq from] Candidatus Pacearchaeota archaeon RBG_13_33_26 RBG_13_scaffold_158, whole genome shotgun sequence.
+cc------GUAGCUCAGCCUGGuUAGAGCACCAGACUCUUAAUCUGGGUGUCGUGGGUUCAAAUCCC-------------auc
+>065|MHXZ01000109.1/17361-17433/2-70 [subseq from] Planctomycetes bacterium GWF2_41_51 gwf2_scaffold_6137, whole genome shotgun sequence.
+gg---UAGGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGCUGGUUCAACUCCAG------------uccugc
+>066|FWZX01000008.1/83425-83498/3-72 [subseq from] Tistlia consotensis strain USBA 355 genome assembly, contig: Ga0111602_108
+--GGCUGUAGCUCAGUCGGUUAGAGCACCAGAUUGUGGAUCUGGGGGUCGUGGGUUCAAGUCCCAUCAGC-------ca
+>067|LFWW01000050.1/5952-5879/5-68 [subseq from] Miscellaneous Crenarchaeota group-6 archaeon AD8-1 WOR_8-12_24558, whole genome shotgun sequence.
+a-----GGUAGCUCAGCCUGGGAGAGCGCUCGGCUGAAGACCGAGUUGUCGCUGGUUCAAAUCCGGC-----------cc
+>068|AP012050.1/662073-662145/6-66 [subseq from] Amphibacillus xylanus NBRC 15112 DNA, complete genome.
+aa-------UAGCUCAGC-UGGUAGAGCAACGGACUGAAGAUCCGUGUGUCGGCGGUUCGACUCC--------------gucu
+>069|FR898689.1/320-392/3-68 [subseq from] Clostridium sp. CAG:307 genomic scaffold, scf57
+uu----CGGUAGCUCAGC-AGGUAGAGCACAGGACUGAAAAUCCUGGUGUCGCGGGUUCGACCCCCGC-----------cug
+>070|MNYD01000052.1/5670-5597/2-72 [subseq from] Dehalococcoidia bacterium CG2_30_46_19 cg2_3.0_scaffold_13019_c, whole genome shotgun sequence.
+g--GCCGUUAGCUCAGUUUGGUAGAGCACCUGACUUUUAAUCAGGGUGUCGUGGGUUCGAGUCCCACACG--------gcu
+>071|MNXM01000207.1/15613-15541/2-71 [subseq from] Armatimonadetes bacterium CG2_30_59_28 cg2_3.0_scaffold_3144_c, whole genome shotgun sequence.
+-GGGCGCUAGCUCAA-CUGGCAGAGCAUCGGACUCCAAAUCCGGAGGUUGGGGGUUCAAGUCCUCCGCGCC------c
+>072|CP000144.2/704746-704819/4-72 [subseq from] Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence.
+g----AGGUAGCUCAGCUGGUUAGAGCACACGACUCAUAAUCGUGGGGUCGGGGGUUCAAGUCCCCCCCU--------cgc
+>073|MFRS01000003.1/146977-146904/2-73 [subseq from] Candidatus Micrarchaeota archaeon RBG_16_49_10 RBG_16_scaffold_12, whole genome shotgun sequence.
+g--GACGGUAGCUCAACCCGGGAGAGCACACGGCUGAAGCCCGUGGUGUUGCUGGUUCAAAUCCGGUCCGUCC-----c
+>074|LOBW01000005.1/33013-32940/5-67 [subseq from] Thermocladium sp. ECH_B, whole genome shotgun sequence.
+----CGGUAGCUUAGACUGGGUGAGCACCCGGCUGAAGACCGGGGGGUCCUGGGUUCAAAUCCC-------------agc
+>075|MNJT01000015.1/414-341/4-67 [subseq from] Thaumarchaeota archaeon 13_1_20CM_2_39_11 13_1_20cm_2_scaffold_60965, whole genome shotgun sequence.
+uuc------GUAGCUCAGCCAGGUAGAGUACCGGACUUUUAAUCCGGCUGUCCGGGGUCCGAAUCCCC------------gc
+>076|CP002628.1/408687-408759/6-67 [subseq from] Coriobacterium glomerans PW2, complete genome.
+ga-------UAGCUCAGUC-GGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGAGGGUUCGAUUCCCCC-----------uc
+>077|DS995474.1/48120-48192/4-72 [subseq from] Collinsella stercoris DSM 13279 Scfld1 genomic scaffold, whole genome shotgun sequence.
+u----CGGUAGCUCAGU-UGGUAGAGCAGAGGACUGAAAAUCCUCGUGUCAGGGGUUCGACUCCCUUCCGCGC-----c
+>078|MFGX01000072.1/21918-21845/2-69 [subseq from] Candidatus Fraserbacteria bacterium RBG_16_55_9 RBG_16_scaffold_3408, whole genome shotgun sequence.
+g--GGAUGUAGCUCAACCUGGCAGAGCAUCGGCCUGUGGAGCCGACUGUUGCGGGUUCAAAUCCCG------------ucau
+>079|JWKX01000002.1/8674-8601/3-72 [subseq from] Archaeon GW2011_AR18 QT09_C0002, whole genome shotgun sequence.
+gg----AUGUAGCUCAACCUGGGAGAGCACCACGCUGAAGCCGUGGAUGUUGGGAGUCCAAAUCUCUCCA---------uccu
+>080|CP003557.1/500656-500583/4-70 [subseq from] Melioribacter roseus P3M, complete genome.
+g----AGGUAGCUCAGUCGGUUAGAGCAGUGGAAUCAUAAUCCACGUGUCGGGGGUUCGAAUCCCUCCC---------uc
+>081|MNDX01000163.1/3339-3267/3-70 [subseq from] Actinobacteria bacterium 13_2_20CM_2_71_6 13_2_20cm_2_scaffold_112, whole genome shotgun sequence.
+--GGCUGUAGCUCAGC-UGGUAGAGCACCGGGUUGUGGUCCCGGGUGUCGGGGGUUCAAGUCCCCUCAG--------uc
+>082|X00916.1/823-896/5-69 [subseq from] Methanococcus vannielii tRNA/5S rRNA gene cluster
+----CGGUGGCUCAGCCUGGUAGAGCGCCUGACUUGUAAUCAGGUGGUCGGGGGUUCGAAUCCCCCCCG--------
+>083|AE009950.1/1388171-1388097/2-73 [subseq from] Pyrococcus furiosus DSM 3638, complete genome.
+g--GCCGGUAGCUUAGCCUGGuUAGAGCGGCGGACUCUUAAUCCGCAGGUCGGGGGUUCAAAUCCCCCCCGGC------c
+>084|MNVX01000033.1/6415-6489/5-70 [subseq from] Candidatus Pacearchaeota archaeon CG1_02_32_21 cg1_0.2_scaffold_544_c, whole genome shotgun sequence.
+cc------GUAGCUCAGCCCGGuUAGAGCACUGGACUCUUAAUCCAGGUGUCGUGGGUUCAAAUCCCAU-----------cgg
+>085|LMZT01000140.1/9783-9710/4-70 [subseq from] Omnitrophica bacterium OLB16 UZ16_OP3001CONTIG000140, whole genome shotgun sequence.
+cc-----AGUAGCUUAGCCCGGUAGAGCACCGCGCUCCAAACGCGGGGGUCGGGGGUUCAAAUCCCUCCU---------gg
+>086|MCBF01000001.1/1231543-1231470/5-65 [subseq from] Candidatus Altiarchaeales archaeon IMC4 isolate IMC4_SM1 MSIBFv1_B, whole genome shotgun sequence.
+ccu-------UAGCUCAGCUCGGGAGAGCACUCGGCUGAAGACCGAGGUGUCCAGGGUUCAAAUCCC-------------u
+>087|LIGX01000017.1/10103-10031/4-70 [subseq from] Akkermansia sp. Pyt scaffold-66, whole genome shotgun sequence.
+u----CGGUAGCUCAGU-UGGUAGAGCAGCGGAUUGAAAAUCCGCGUGUCGGCGGUUCGAACCCGUCCCG--------ag
+>088|JWKU01000042.1/7531-7460/4-70 [subseq from] Archaeon GW2011_AR13 QT05_C0042, whole genome shotgun sequence.
+aau------GUAGCUCAGC--GGGAGAGCACUUGACUGAAGAUCAAGGUGUCCGGAGUUCAACUCUCCGC----------auucc
+>089|NHLA01000053.1/100901-100974/2-72 [subseq from] Euryarchaeota archaeon TMED255 43346, whole genome shotgun sequence.
+gg---CCUGUAGCUUAGCCAGGUAGAGCGACGGACUUUUAAUCCGUUGGCCGGGGGUUCAAAUCCCCUCAG--------gcc
+>090|MERU01000007.1/121001-120929/4-69 [subseq from] Burkholderiales bacterium RIFCSPHIGHO2_01_FULL_63_240 rifcsphigho2_01_scaffold_6, whole genome shotgun sequence.
+---GCGGUAGCUCAGU-UGGUAGAGCGCCGGCCUGAAGAGCCGGGCGUCGAGAGUUCGAAUCCCUCCUG--------c
+>091|MKUU01000049.1/16071-15999/6-67 [subseq from] Caedibacter sp. 38-128 SCNpilot_expt_500_p_scaffold_675, whole genome shotgun sequence.
+-----GGUAGCUCAGUC-GGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCGAUUCCCUCC----------c
+>092|LMGJ01000023.1/104415-104342/6-69 [subseq from] Mesorhizobium sp. Root157 contig_3, whole genome shotgun sequence.
+a------GUAGCUCAGUUGGUUAGAGCACGGGAAUCAUAAUCCUGGGGUCGGGGGUUCAAAUCCCUCC----------uc
+>093|LIDN01000013.1/7474-7547/7-67 [subseq from] Verrucomicrobia subdivision 6 bacterium BACL9 MAG-120924-bin69 contig00191_1_120924-bin69, whole genome shotgun sequence.
+------GUAGCUCAGCCCGGUAGAGCAAGGGACUCAUAAGCCUUGGGUCGGGGGUUCAAAUCCCUC-----------c
+>094|AYZS02044996.1/140-213/7-67 [subseq from] Beta vulgaris subsp. vulgaris contig123650.1, whole genome shotgun sequence.
+a-------UAGCUCAGUCGGGUAGAGCAUCGGACAGUAAAUCCGAGUGUCGCGGGUUCGAUUCCC-------------gcu
+>095|MEUI01000019.1/39406-39334/3-69 [subseq from] Candidate division WOR-1 bacterium RIFOXYC2_FULL_41_25 rifoxyc2_full_scaffold_231, whole genome shotgun sequence.
+c---GCGGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGCCGGUUCAAUCCCGGCC----------ugc
+>096|FR894224.1/13073-13145/6-67 [subseq from] Collinsella sp. CAG:398 genomic scaffold, scf113
+ga-------UAGCUCAGU-UGGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGGGGUUCGAAUCCCUC-----------uc
+>097|MCBE01000231.1/4862-4789/5-67 [subseq from] Candidatus Altiarchaeales archaeon WOR_SM1_SCG NODE_37_length_18338_cov_6765.22_ID_61, whole genome shotgun sequence.
+cc------GUAGCUCAGCAUGGGAGAGCACUCGGCUGAAGACCGAGGUGUCACGCGUUCAAAUCUC-------------guc
+>098|CP003198.1/697888-697961/7-67 [subseq from] Acetomicrobium mobile DSM 13181 chromosome, complete genome.
+------GUAGCUCAACUGGUAAGAGCACUGGACUGUGGAUCCAGGGGUUGGGGGUUCAAGUCCCCU-----------c
+>099|CP012986.1/15676-15603/7-63 [subseq from] Nanohaloarchaea archaeon SG9, complete genome.
+a-------UAGCUCAGCCUGGGAGAGCGCUUGACUGAAGAUCAAGUUGUCCCCGGUUCAAAUCC--------------
+>100|MGJT01000001.1/8103-8030/7-67 [subseq from] Candidatus Yanofskybacteria bacterium RIFCSPHIGHO2_02_FULL_43_15c rifcsphigho2_02_scaffold_11755, whole genome shotgun sequence.
+------GUAGCUCAGCCUGGUAGAGCACCUGCCUUUUAAGCAGUGUGUCGGAGGUUCAAAUCCUCC-----------c
+>101|MHAY01000028.1/78909-78836/6-67 [subseq from] Ignavibacteria bacterium RIFOXYC2_FULL_35_21 rifoxyc2_full_scaffold_193, whole genome shotgun sequence.
+a------GUAGCUCAGUUGGUUAGAGCAUCGGAAUCAUAAUCCGUGUGUCGGGGGUUCAACUCCCUC-----------c
+>102|LSSB01000104.1/13722-13795/7-67 [subseq from] Thermoplasmatales archaeon DG-70 WOR1_52_54_4727, whole genome shotgun sequence.
+------GUAGUUCAACUUGGUAGAACGACGGACUGUAGAUCCGUAUGUUGGUGGUUCAAAUCCGCC-----------c
+>103|JH594448.1/629190-629262/5-67 [subseq from] Eubacterium sp. 3_1_31 genomic scaffold supercont1.1, whole genome shotgun sequence.
+cc------GUAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGUUGGUUCAAUUCCG-------------accg
+>104|MGUS01000066.1/4900-4972/6-67 [subseq from] Elusimicrobia bacterium RIFCSPLOWO2_01_FULL_60_11 rifcsplowo2_01_scaffold_32586, whole genome shotgun sequence.
+-----GGUAGCUCAGU-UGGUAGAGCAACGGUCUGAAAAACCGUGUGUCGGCGGUUCAAUUCCGUCC----------c
+>105|KE557281.1/167578-167652/2-67 [subseq from] Salipiger mucosus DSM 16094 genomic scaffold scaffold9, whole genome shotgun sequence.
+gu---GCGGUAGCUCAGUCAGGUAGAGCAUCGGGCUCAUAACCCGAGGGUCGCUGGUUCAAAUCCA-------------gcc
+>106|JNSG01000104.1/10076-10004/2-71 [subseq from] Actinobacterium acAcidi AMD-COM-C4103, whole genome shotgun sequence.
+-GGGCAGUAGCUCAGU-UGGUAGAGCGCCGGUCUCCAAAACCGAUGGUCGGGGGUUCAAAUCCCUCCUGCC------c
+>107|CP012986.1/909475-909402/6-66 [subseq from] Nanohaloarchaea archaeon SG9, complete genome.
+c------GUAGCUCAGCCUGGCAGAGCACCGGCCUUUUAAGCCGGUCGUCGCGGGUUCAAAUCCC-------------gu
+>108|JALZ01000021.1/16359-16287/4-70 [subseq from] Roseivivax halodurans JCM 10272 contig21, whole genome shotgun sequence.
+u----CGGUAGCUCAGC-UGGUAGAGCACCUGGUUGAAGCCCAGGGUGUCGGUGGUUCAAUCCCAUCCCG--------uc
+>109|LFEI01000136.1/317891-317964/6-64 [subseq from] Lingula anatina scaffold136, whole genome shotgun sequence.
+a------GUAGCUCAGCCUGGUAGAGCACUUGACUGAAGCUCAAGGUGUCAACAGUUCAAAUC---------------ug
+>110|CP003947.1/188153-188226/6-67 [subseq from] Cyanobacterium aponinum PCC 10605, complete genome.
+c------GUAGCUCAGUUGGAUAGAGCACCAGAUUCCGGUUCUGGGUGUCGGGGGUUCAAAUCCCUC-----------c
+>111|LIZQ01000139.1/5800-5873/4-70 [subseq from] Dehalococcoidia bacterium DG_22 WOR1_52_54_72078, whole genome shotgun sequence.
+ggu------GUAGCUCAGGCUGGGAGAGCAGCGGUCUCCAAAACCGCAGGUCGGGGGUUCGAAUCCCUCC----------acc
+>112|CP003532.1/560822-560750/4-68 [subseq from] Mesotoga prima MesG1.Ag.4.2, complete genome.
+g----AGGUAGCUCAGC-AGGUAGAGCAGCGGACUGAAAAUCCGUGUGUCGACGGUUCGAUUCCGUCC----------cu
+>113|DP000238.1/1696052-1696125/2-73 [subseq from] Cenarchaeum symbiosum A, complete genome.
+gg---UCUGUGGCGCAGCCAGGUAGCGCACCGGACUUUUAAUCCGGCUGUCGUGGGUUCGAAUCCCACUAGAC------cc
+>114|LNGC01000006.1/20558-20484/6-68 [subseq from] Arc I group archaeon U1lsi0528_Bin055 AMQ22_contig000006, whole genome shotgun sequence.
+c------GUAGCUCAGUCUGGcUAGAGCACCGGCCUUUUAAGCCGGGAGUCGGGGGUUCAAAUCCCCU-----------c
+>115|HF582854.1/1774611-1774538/2-72 [subseq from] Natronomonas moolapensis 8.8.11 complete genome
+g--GCCGAUAGCUCAGUCAGGGAGAGCAUCUGGCUCUUAACCAGACGGUCGGGGGUUCAAAUCCCCCUCGGC------c
+>116|MKSB01000249.1/22118-22191/4-69 [subseq from] Rhizobiales bacterium 63-7 SCNpilot_expt_1000_bf_scaffold_716, whole genome shotgun sequence.
+gg-----GGUAGCUCAGGUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCAAGUCCCUC-----------ucc
+>117|AE017285.1/3422970-3422898/5-68 [subseq from] Desulfovibrio vulgaris subsp. vulgaris str. Hildenborough, complete genome.
+a-----GGUAGCUCAGU-UGGUAGAGCAGGGGACUGAAAAUCCCCGUGUCGGGAGUUCAAUUCUCUCC----------cu
+>118|MEPC01000023.1/212192-212119/6-70 [subseq from] Bacteroidetes bacterium RIFCSPLOWO2_12_FULL_37_12 rifcsplowo2_12_scaffold_40, whole genome shotgun sequence.
+u------GUAGCUCAGCCGGUUAGAGCAUCAGAUUGUGGAUCUGAGGGUCGUGGGUUCAAAUCCCAU-----------cagu
+>119|MGTJ01000058.1/15983-15910/3-71 [subseq from] Desulfobacterales bacterium RIFOXYA12_FULL_46_15 rifixya3_full_scaffold_2111, whole genome shotgun sequence.
+gu----CAGUAGCUCCAAUUGGCAGAGCUCCGGACUCCAAAUCCGGGAGUUGGGGGUUCGACUCCCUCCUG--------ac
+>120|MNER01000095.1/1150-1078/3-70 [subseq from] Chloroflexi bacterium 13_1_40CM_66_19 13_1_40cm_scaffold_6093, whole genome shotgun sequence.
+g---GCUAUAGCUCAGU-UGGCAGAGCACCAGAUUGUGGAUCUGGGUGUCGCGGGUUCAAGUCCCGCUAG--------cc
+>121|CP011232.1/2112968-2113040/3-70 [subseq from] Kosmotoga pacifica strain SLHLJ1, complete genome.
+--GGCUGUAGCUCAGC-UGGCAGAGCGCCUGACUGUGGAUCAGGUGGUCGCGGGUUCAAAUCCCGCCAGC-------c
+>122|MFXT01000026.1/681-754/2-73 [subseq from] Candidatus Peribacteria bacterium RIFCSPHIGHO2_02_FULL_49_16 rifcsphigho2_02_scaffold_99, whole genome shotgun sequence.
+g--GUCAGUAGCUCAGUUGGUUAGAGCCCCGGACUUAUAAACCGGAGGUCGGUGGUUCAAGUCCACCCUGGCC-----c
+>123|MFGX01000014.1/42304-42376/6-66 [subseq from] Candidatus Fraserbacteria bacterium RBG_16_55_9 RBG_16_scaffold_1360, whole genome shotgun sequence.
+-----GGUAGCUCAGC-UGGUAGAGCACAGGACUGAAAAUCCUGGUGUCGACGGUUCGAGUCCG-------------ucc
+>124|CP001825.1/1815601-1815673/5-68 [subseq from] Thermobaculum terrenum ATCC BAA-798 chromosome 1, complete sequence.
+a-----GGUAGCUCAGUC-GGUAGAGCACGUGACUGAAAAUCACGGUGUCGGCGGUUCGAAUCCGCCCC---------u
+>125|AE006641.1/595458-595385/5-66 [subseq from] Sulfolobus solfataricus P2, complete genome.
+cc------GUAGCUCAGCCCGGGAGAGCGCCCGGCUGAAGACCGGGUUGUCCGGGGUUCAAGUCCCC------------g
+>126|MEHG01000124.1/1562-1489/4-70 [subseq from] Candidatus Thorarchaeota archaeon AB_25 ThorAB25_contig000124, whole genome shotgun sequence.
+---GCGGUAGAUCAGCCAGGGAGAUCGCACGGCUGAAGACCGUGUUGUCGUGUGUUCAAAUCACACCCG--------c
+>127|NHIE01000038.1/812-739/4-70 [subseq from] Bacterium TMED181 isolate TMED181 MHASMcontig_374302, whole genome shotgun sequence.
+c----CGGUAGCUCAACUGGAUAGAGCACCUGACUACGGAUCAGGAGGUUGGGGGUUCGAAUCCUCCCCG--------g
+>128|CP009415.1/269228-269156/5-69 [subseq from] Candidatus Izimaplasma sp. HR1 chromosome, complete genome.
+u-----GGUAGCUCAGU-UGGUAGAGCAACGGAUUGAAAAUCCGUGUGUCGGCAGUUCAAUUCUGUCCC---------gg
+>129|MGYJ01000056.1/12557-12484/3-70 [subseq from] Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_63_22 rifcsphigho2_12_scaffold_3767, whole genome shotgun sequence.
+g---GCAUUAGCUCAGUCUGGGAGAGCACCGGCAUACGAAGCCGGAGGUCGCGGGUUCAAAUCCCGCA----------ugc
+>130|LWFF01000274.1/137903-137975/5-68 [subseq from] Erythrobacter sp. HI0063 HI0063_c5, whole genome shotgun sequence.
+----CGGUAGCUCAGU-UGGUAGAGCACACGAUUGAAAAUCGUGGUGUCGGUGGUUCGAAUCCGCCCC---------g
+>131|JNSI01000008.1/19893-19820/1-74 [subseq from] Actinobacterium acIB-AMD-7 AMD-COM-C1511, whole genome shotgun sequence.
+GGGGCGGUAGCUCAGUUGGUUAGAGCCCCGGACUCAUAAUCCGGUCGUCGUAGGUUCGAGCCCUACCCGCCCCA---
+>132|CP015249.1/2451528-2451455/6-67 [subseq from] Dokdonella koreensis DS-123, complete genome.
+c------GUAGCUCAGCUGGUUAGAGUACCGGAUUGUGAUUCCGGUUGUCGGGGGUUCGAAUCCCCU-----------c
+>133|KI535318.1/741333-741260/7-67 [subseq from] Firmicutes bacterium ASF500 genomic scaffold adhIg-supercont1.1, whole genome shotgun sequence.
+a-------UAGCUCAGUUGGUUAGAGCACCGGAUUGUGGUUCCGGGUGUCGAGGGUUCGAAUCCC-------------uuu
+>134|DF238763.1/68068-67995/6-68 [subseq from] Klebsormidium nitens mitochondrial DNA, scaffold: kfl01814, whole genome shotgun sequence.
+-----GGUAGCUCAGUUGGUUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGUGGUUCAAGUCCACUC----------c
+>135|CP002543.1/705266-705194/2-72 [subseq from] Desulfurobacterium thermolithotrophum DSM 11699, complete genome.
+g--GCCGGUAGCUCAGU-UGGUAGAGCAACGGACUUUUAAUCCGUAGGUCGGAGGUUCGAAUCCUCCCCGGC------uc
+>136|MHFA01000074.1/5170-5096/7-68 [subseq from] Omnitrophica bacterium GWA2_50_21 gwa2_scaffold_8197, whole genome shotgun sequence.
+------GUAGCUCAACCUGGuUAGAGCCCCAGAUUGUGGAUCUGGUUGUUGGGGGUUCAAAUCCCCU-----------c
+>137|FQWV01000005.1/240570-240497/5-68 [subseq from] Halobaculum gomorrense strain DSM 9297 genome assembly, contig: Ga0131215_105
+uu------GUAGCUCAGUCAGGGAGAGCGACGGACUCUUAAUCCGUCGGUCGGGGGUUCAACUCCCUC-----------ca
+>138|LJHE01000073.1/14683-14610/8-65 [subseq from] Epulopiscium sp. SCG-C07WGA-EpuloA2 SCGC07WGA_75, whole genome shotgun sequence.
+-------UAGCUCAGCUGGAUAGAGCACCUGACUUCGGAUCAGGGUGUCGUGGGUUCAAAUCC--------------ua
+>139|MGQF01000059.1/263-336/4-71 [subseq from] Deltaproteobacteria bacterium RBG_13_52_11 RBG_13_scaffold_382, whole genome shotgun sequence.
+cc-----AGUAGCUCGAACGGCUAGAGCACCGGACUCCAAAUCCGGGGGGUGGGGGUUCAAAUCCCUCCUG--------gc
+>140|KN214179.1/432546-432620/1-74 [subseq from] Actinopolyspora erythraea strain YIM90600 genomic scaffold Scaffold6, whole genome shotgun sequence.
+GGGGCGGUAGCUCAGCAGGUCAGAGCAGCGAACUCAUAAUUCGUcUUGUCGUGGGUUCAAGUCCCACCCGUCC-----c
+>141|CP000159.1/993196-993270/3-70 [subseq from] Salinibacter ruber DSM 13855, complete genome.
+gc----CUGUAGCUCAGCCUGGAuAGAGCAUCGGCCUUCGGAGCCGAGUGUCGGGGGUUCGAAUCCUCCC----------gg
+>142|CP022571.1/512819-512891/6-68 [subseq from] Prosthecochloris sp. GSB1, complete genome.
+ga-------UAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCGAUUCCCUC-----------ucu
+>143|MFRS01000019.1/53890-53963/3-73 [subseq from] Candidatus Micrarchaeota archaeon RBG_16_49_10 RBG_16_scaffold_337, whole genome shotgun sequence.
+gccu------AUAGCUCAGCAUGGUAGAGCAGCGGACUUUUAAUCCGUUGGUCGAGGGUUCGAAUCCCUCUGGGC------cc
+>144|CP017259.1/1857859-1857786/3-71 [subseq from] Formosa sp. Hel3_A1_48, complete genome.
+cg----UGGUAGCUCAGUUGGUUAGAGCGUCGGAUUCAUAACCCGGAGGUCGGGAGUUCAAAUCUCCCCCA--------cg
+>145|MFIX01000192.1/33130-33202/6-67 [subseq from] Candidatus Glassbacteria bacterium RIFCSPLOWO2_12_FULL_58_11 rifcsplowo2_12_scaffold_5035, whole genome shotgun sequence.
+a------GUAGCUCAGU-UGGCAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCGAAUCCCUCC----------u
+>146|CP006059.1/97621-97548/7-67 [subseq from] Candidatus Nasuia deltocephalinicola str. NAS-ALF, complete genome.
+------GUAGCUCAGAUGGUUAGAGCGCCGGACUGAAAAUCCGUUUGUCGACGGUUCAAAUCCGU------------cc
+>147|CP001034.1/3143502-3143430/4-69 [subseq from] Natranaerobius thermophilus JW/NM-WN-LF, complete genome.
+ga-----GAUAGCUCAGUC-GGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCGAUUCCGUC-----------ucuc
+>148|CP002009.1/689848-689774/5-70 [subseq from] Methanocaldococcus infernus ME, complete genome.
+----CGGUAGUUUAGUCUGGAcAAAACGCCGGACUGCGGAUCCGGAGAUCGGGGGUUCAAAUCCCCCCCG--------
+>149|MGRX01000029.1/7253-7325/6-68 [subseq from] Deltaproteobacteria bacterium RIFCSPLOWO2_02_44_9 rifcsplowo2_02_sub10_scaffold_1937, whole genome shotgun sequence.
+c------GUAGCUCAGC-GGUUAGAGCAUCGGACUGUGGCUCCGAGGGUCGGGGGUUCAAAUCCCCU-----------cgu
+>150|MVDA01000292.1/2492-2419/2-73 [subseq from] Desulfobacteraceae bacterium 4484_190.1 ex4484_190.1_scaffold_21599, whole genome shotgun sequence.
+g--GCCGUUAGCUCAGCUAGGUAGAGCACCGGACUUUUAAUCCGUUGGUCGUGAGUUCAAUUCUCGCACGGCC-----c
+>151|AUYT01000001.1/1036477-1036549/4-67 [subseq from] Candidate division Zixibacteria bacterium RBG-1 RBG1_1C00001, whole genome shotgun sequence.
+---GCGGUAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGCCAGUUCAAUUCU--------------ggccu
+>152|MFRO01000040.1/54692-54764/4-69 [subseq from] Candidatus Melainabacteria bacterium RIFCSPLOWO2_12_FULL_35_11 rifcsplowo2_12_scaffold_400, whole genome shotgun sequence.
+g----CGAUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGCAGUUCAAAUCUGCCUCG--------c
+>153|NHEI01000035.1/26029-26102/4-70 [subseq from] Flavobacteriaceae bacterium TMED81 12357, whole genome shotgun sequence.
+g----AGGUAGCUCAGCCGGUUAGAGCGUCGGAUUCAUAACCCGGAGGUCGGGAGUUCAAGUCUCCCCC---------uc
+>154|MKTY01000020.1/1053446-1053374/2-70 [subseq from] Sphingobacteriales bacterium 46-32 scnpilot_p_inoc_scaffold_6, whole genome shotgun sequence.
+gu---GCGGUAGCUCAGUC-GGUAGAGCAAAGGACUGAAAAUCCUUGAGUCGGCGGUUCGAUCCCGCCCC---------aca
+>155|JOKQ01000003.1/70945-71016/8-62 [subseq from] Ordospora colligata OC4 contig_03, whole genome shotgun sequence.
+u--------AGCUCAG--UGGGAGAGCACCAGACUGAAGAUCUGGGUGUCCUGGGUUCGAUCC---------------cc
+>156|HF986319.1/61230-61302/2-72 [subseq from] Bacteroides sp. CAG:1060 genomic scaffold, scf88
+gu---GCUGUAGCUCAGG-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGCCGGUUCAACUCCUGCCAGCA------cc
+>157|CP011272.1/4564285-4564358/3-69 [subseq from] Pirellula sp. SH-Sr6A, complete genome.
+g---GUAGUAGCUCAGCUGGUUAGAGCGUCGGAUUGUGGCUCCGAAGGUCGGGGGUUCAAAUCCCCUC----------ua
+>158|CM001376.1/900017-899945/3-71 [subseq from] Jonquetella anthropi DSM 22815 chromosome, whole genome shotgun sequence.
+gu----CGUUAGCUCAGUC-GGUAGAGCACCGGACUUUUAAUCCGGGUGUCGCGAGUUCAAGUCUCGCACG--------acu
+>159|MNYC01000019.1/27305-27232/6-68 [subseq from] Bacterium CG2_30_37_16 isolate CG2_30_37_16 cg2_3.0_scaffold_753_c, whole genome shotgun sequence.
+-----GGUAGCUCAGCUGGUCAGAGCACAGGACUCAUAAGCCUGGGGUCGCGGGUUCAAAUCCCGCC----------c
+>160|LSKU01000001.1/2671663-2671591/4-72 [subseq from] Tepidibacillus sp. Z9 scaffold00001, whole genome shotgun sequence.
+u----CGGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGCGGUUCGAUUCCGUCCCGA-------acc
+>161|LBPE01000001.1/186413-186341/6-67 [subseq from] Candidate division TM6 bacterium GW2011_GWF2_33_332 UR43_C0001, whole genome shotgun sequence.
+a------GUAGCUCAGG-UGGUAGAGCAACAGACUGAAAAUCUGUGUGUCGGCGGUUCAACUCCGCCC----------u
+>163|LGTG01000643.1/31617-31544/7-67 [subseq from] Candidatus Burkholderia crenata strain UZHbot9 plasmid pBCRE02, whole genome shotgun sequence.
+------GUAGCGCAGCCUGGUAGCGCACCUGAUUUGGGAUCAGGGGGCCGGGGGUUCAAAUCCCUC-----------c
+>164|LIZR01000015.1/2879-2806/6-69 [subseq from] Planctomycetes bacterium DG_23 WOR1_52_54_1679, whole genome shotgun sequence.
+ga-------UAGCUCAGU-AGGUAGAGCACCGGACUGAAAAUCCGGGuUGUCGGCGGUUCGAUUCCGCC-----------ucc
+>165|MGSU01000297.1/22837-22765/4-68 [subseq from] Deltaproteobacteria bacterium RIFOXYA12_FULL_61_11 rifixya3_full_scaffold_729, whole genome shotgun sequence.
+g----AGGUAGCUCAGCC-GGUAGAGCAGUGGACUGAAAAUCCGCGUGUCGUCGGUUCGAUUCCGACC----------cu
+>166|CP000770.2/46628-46701/8-63 [subseq from] Candidatus Sulcia muelleri GWSS, complete genome.
+-------UAGCUCAGUCUGGUAGAGCAACGGACUGAAAAUCCGUGAGUCCCCGGUUCAAUUC---------------c
+>167|MHYH01000240.1/13793-13720/3-71 [subseq from] Planctomycetes bacterium RBG_13_63_9 RBG_13_scaffold_3556, whole genome shotgun sequence.
+--GGCUGUAGCUCAGCUGGUUAGAGCGCUGGAUUGUGGAUCCAGAAGUCGUGGGUUCGAAUCCCAUCAGC-------c
+>168|CP021112.1/2623396-2623469/4-70 [subseq from] Pseudorhodoplanes sinuspersici strain RIPI110, complete genome.
+g----CUGUAGCUCAGUUGGUUAGAGCGCCUGACUGUGGAUCAGGAGGUCGGAGGUUCAAGUCCCCCCAG--------c
+>169|LSSB01000101.1/13082-13009/3-67 [subseq from] Thermoplasmatales archaeon DG-70 WOR1_52_54_4563, whole genome shotgun sequence.
+gc----CUGUAGCUCAGUCUGGGAGAGCAUCGGCCUUUUAAGCCGAGGGUCGCGGGUUCAAUUCCC-------------guc
+>170|MNWU01000058.1/1080-1153/2-73 [subseq from] Candidatus Woesearchaeota archaeon CG1_02_33_12 cg1_0.2_scaffold_17564_c, whole genome shotgun sequence.
+g--GCCGGUAGCUCAGCCUGGUAGAGCAUCUGACUUUUAAUCAGGUGGUCGCGAGUCCGAAUCUCGUCCGGCC-----c
+>171|CP001230.1/1124091-1124164/2-73 [subseq from] Persephonella marina EX-H1, complete genome.
+g--GGCAAUAGCUCAAUUUGGCAGAGCAGCGGACUCCAAAUCCGCAGGUUGGGGGUUCGAGUCCUCCUUGCCC-----c
+>172|CP011125.1/599621-599548/3-72 [subseq from] Sandaracinus amylolyticus strain DSM 53668, complete genome.
+agcc------AUAGCUCAGCUGGAUAGAGCACCGGUCUACGGAACCGGGGGUCGGAGGUUCGAAUCCUCCUGGC-------uc
+>173|LMSO01000009.1/121492-121419/2-72 [subseq from] Arthrobacter sp. Soil782 contig_4, whole genome shotgun sequence.
+-GGGCUGUAGCUCAGCUGGUUAGAGCAGCGGACUCAUAAUCCGUUUGUCCUGGGUUCAAGCCCCAGCAGCC------c
+>174|MIDR01000113.1/42284-42356/6-68 [subseq from] Verrucomicrobia bacterium RIFCSPHIGHO2_12_FULL_41_10 rifcsphigho2_12_scaffold_422, whole genome shotgun sequence.
+-----GGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGUGGGUUCGAUUCCCACCC---------u
+>175|FR879709.1/143022-142950/5-67 [subseq from] Clostridium sp. CAG:138 genomic scaffold, scf78
+----CGGUAGCUCAGC-UGGUAGAGCAAGGGACUGAAAAUCCCUGUGUCGGUGGUUCGACUCCAC------------ucu
+>176|JWKZ01000009.1/6170-6243/5-69 [subseq from] Archaeon GW2011_AR21 QT12_C0009, whole genome shotgun sequence.
+uc------GUAGCUUAGCCUGGUGGAGCAUCCGACUGAUAAUCGGACGGUCGGGCGUUCAAAUCGCCCC----------ga
+>177|CP002772.1/1103642-1103569/2-72 [subseq from] Methanobacterium sp. SWAN-1, complete genome.
+g--GCCGGUAGCACAGUCUGGCAGUGCGCAGGACUCUUAAUCCUGUCAUCGAGGGUUCAAAUCCCUCUCGGC------c
+>178|JFAW01000038.1/30505-30577/7-64 [subseq from] Candidatus Accumulibacter sp. SK-11 contig000038, whole genome shotgun sequence.
+------GUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCCGUGGUUCAAUUCC--------------gc
+>179|MGQS01000013.1/22824-22753/7-65 [subseq from] Deltaproteobacteria bacterium RBG_16_54_11 RBG_16_scaffold_1279, whole genome shotgun sequence.
+------GUAGCUCAGC--GGUAGAGCACUGGACUGUGGCUCCAGGUGCCGAGGGUUCAAAUCCCU------------uc
+>180|CP006745.1/173009-173082/6-69 [subseq from] Candidatus Endolissoclinum faulkneri L5, complete genome.
+a------GUAGCUCAGUUGGUCAGAGCAGCGGAAUCAUAAUUCGCGUGGCGGGGGUUCAAAUCCCUCC----------uc
+>181|FUZM01000004.1/46307-46235/2-72 [subseq from] Bacteroidales bacterium WCE2008 genome assembly, contig: Ga0070252_14
+gu---GCUGUAGCUCAGA-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGCAGUUCGAUUCUUCCCAGCA------cc
+>182|CP003130.1/3387222-3387149/4-69 [subseq from] Granulicella mallensis MP5ACTX8, complete genome.
+cc-----AGUAGCUCAGUUGGAUAGAGCAUCGGACUGCUAAUCUGGGGGUCGGCGGUUCGAAUCCGCCC----------ug
+>183|LUCA01000050.1/570-497/4-64 [subseq from] Candidatus Bathyarchaeota archaeon B23 scaffold7462, whole genome shotgun sequence.
+---GCGGUAGCUCAGCCUGGGAGAGCGUCCGGCUGAAGACCGGAAUGUCCCCGGUUCAAAUCC--------------g
+>184|FR687359.1/2724591-2724518/5-68 [subseq from] Burkholderia rhizoxinica HKI 454, complete genome
+----CGGUAGCUCAGUUGGUAGAAGCAGCGGAUUGAAAAUCCGCGUGUCGGUGGUUCGAUUCCGCCC----------c
+>185|CP002278.1/1219404-1219331/8-63 [subseq from] Methanothermus fervidus DSM 2088, complete genome.
+-------UAGCUCAGUCUGGUAGAGCGGCGGACUGUAGAUCCGCGGGUCGCCGGUUCAAAUCC--------------
+>186|AMYT01000016.1/293-365/3-72 [subseq from] Catellicoccus marimammalium M35/04/3 contig00101, whole genome shotgun sequence.
+c---GCGGUAGCUCAGU-UGGUAGAGCAACGGAUUGAAGCUCCGUGUGUCGGCAGUUCGACUCUGUCUCGCG------cc
+>187|X00916.1/1018-1091/4-69 [subseq from] Methanococcus vannielii tRNA/5S rRNA gene cluster
+g----CGAUAGUUCAGAUUGGUAGAACGGCGGACUGUAGAUCCGCAUGUCGCUGGUUCAAAUCCGGC-----------ucg
+>188|KQ965513.1/138352-138425/7-69 [subseq from] Christensenella minuta strain DSM 22607 genomic scaffold Scaffold129, whole genome shotgun sequence.
+g-------UGGCUCAGCUUGGUAGAGUACCUGAAUGGGGUUCAGGGGGUCGGAGGUUCAAAUCCUCU-----------cac
+>189|MEWM01000072.1/21880-21952/5-68 [subseq from] Candidate division Zixibacteria bacterium RBG_16_43_9 RBG_16_scaffold_2641, whole genome shotgun sequence.
+a-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGACAGUUCGAUUCUGCCC----------cu
+>190|LMMZ01000041.1/36132-36205/4-70 [subseq from] Methylobacterium sp. Leaf104 contig_9, whole genome shotgun sequence.
+gg-----GGUAGCUCAGCUGGUUAGAGCAGAGGAAUCAUAAUCCUUGUGUCGGCGGUUCAAAUCCGUCCC---------uc
+>191|JRAR01000001.1/98381-98308/4-70 [subseq from] Porphyromonas sp. COT-290_OH860 contig_1, whole genome shotgun sequence.
+ga-----GAUAGCUCAGCUGGUUAGAGCGUCGGAUUCAUAAUCCGAAGGUCGGGGGUUCAAGUCCCCCUC---------uc
+>192|MHBK01000006.1/92185-92113/3-70 [subseq from] Lentisphaerae bacterium GWF2_57_35 gwf2_scaffold_123, whole genome shotgun sequence.
+gcc-----AGUAGCUCAA-UUGGCAGAGCACCGGUCUCCAAAACCGGUUGUUGGGGGUUCAAUUCCCUCCUG--------gc
+>193|MKVN01000007.1/5636-5563/1-74 [subseq from] Micrococcales bacterium 73-13 scnpilot_expt_750_p_scaffold_1595, whole genome shotgun sequence.
+GGGGCAGUAGCUCAGCUGGUCAGAGCUCCGAACUCAUAAUUCGGUCGUCGUCGGUUCAAGUCCGUCCUGCCCC----a
+>194|CP012850.1/339164-339074/2-88 [subseq from] Candidatus Nitrocosmicus oleophilus strain MY3, complete genome.
+gg---CCCGUAGCUCAGCCAGGUAGAGUACCGGACUuuuaacuauuaauagaaAGAAAUCCGGCUGUCUGGGGUUCGAAUCCCCAC----------gggc
+>195|MNVJ01000031.1/15044-14971/4-70 [subseq from] Candidatus Micrarchaeota archaeon CG1_02_60_51 cg1_0.2_scaffold_2040_c, whole genome shotgun sequence.
+g----CAGUAGCUUAGCCUGGGAGAGCGAUCGGCUGAAGACCGAUAGAUCGGGAGUUCAAAUCUCCCCUG--------c
+>196|CP003789.1/105462-105534/7-64 [subseq from] Liberibacter crescens BT-1, complete genome.
+a-------UAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGCUGGUUCAAUUCC--------------ug
+>197|LWDV01000008.1/413004-412932/3-68 [subseq from] Orenia sp. Z6 2524618311, whole genome shotgun sequence.
+ggg-----AGUAGCUCAA-UUGGUAGAGCACCGGACUCCAAAUCCGGGUGCUGUGGGUUCAAGUCCU-------------aucuc
+>198|FRBI01000002.1/479193-479266/2-73 [subseq from] Streptomyces paucisporeus strain CGMCC 4.2025 genome assembly, contig: Ga0079900_102
+-GGGCGGUAGCUCAGCCGGUUAGAGCAGCGGACUCAUAAUCCGCCGGUCCUGGGUUCGAGUCCCAGCCGCCC-----c
+>199|MHXQ01000110.1/290-364/4-73 [subseq from] Planctomycetes bacterium GWA2_40_7 gwa2_scaffold_7352, whole genome shotgun sequence.
+ucu------GUAGCUCUAAUUGGcUAGAGCACUGGAUUCCAAAUCCGGGUGUUGGGGGUUCGAAUCCCUCCAGA-------cc
+>200|JUEO01000006.1/45803-45876/2-73 [subseq from] Marine actinobacterium MedAcidi-G2B MedDCM-JULCOM-C118, whole genome shotgun sequence.
+g--GCCGUUAGCUCAGUUGGCUAGAGCACCUGCAUGACGCGCAGGGGGUCGGGGGUUCAAAUCCCUCACGGCC-----c
+>201|NBMJ01000269.1/1266-1193/2-73 [subseq from] Desulfobacteraceae bacterium 4572_87 ex4572_87_scaffold_34088, whole genome shotgun sequence.
+g--GCCGUUAGCUCAGUUUGGUAGAGCAGCGGACUUUUAAUCCGUUGGUCGGGAGUUCGAUUCUCCCACGGCC-----c
+>202|MELV01000039.1/2677-2604/2-73 [subseq from] Actinobacteria bacterium RBG_19FT_COMBO_70_19 rbg_19ft_combo_scaffold_18809, whole genome shotgun sequence.
+-GGGCGGUAGCUCAGUCGGUCAGAGCAGCGGACUCAUAAUCCGCAGGACGCUGGUUCAAGUCCAGCCCGCCC-----c
+>203|AOIU01000033.1/162087-162160/2-72 [subseq from] Halosimplex carlsbadense 2-9-1 contig_33, whole genome shotgun sequence.
+g--GCCGGUAGCUCAGUCCGGCAGAGCGUCUGACUCUUAAUCAGACGGUCAGGGGUUCAAAUCCCUUCCGGC------c
+>204|MGPS01000066.1/1459-1386/7-67 [subseq from] Deltaproteobacteria bacterium GWC2_42_11 gwc2_scaffold_7367, whole genome shotgun sequence.
+a-------UAGCUCAGUUGGACAGAGCACCUGACUACGAAUCAGGGUGUCGGGGGUUCGAAUCCCU------------cu
+>205|JH597768.1/365487-365401/5-80 [subseq from] Metallosphaera yellowstonensis MK1 genomic scaffold MetMK1scaffold_17, whole genome shotgun sequence.
+cc------GUAGCUCAGCCCGGGAGAGCACCCGGCUGAAGACuaggcucagguacCGGGUUGUCCGGGGUUCAAAUCCCC------------gc
+>206|CP005385.1/640144-640217/2-71 [subseq from] Meiothermus ruber DSM 1279 genome.
+g--GCCGUUAGCUCAGCCCGGUAGAGCACUCGUCUCCAAAACGAGGUGUCGGAGGUUCGAAUCCUUCACG--------gc
+>207|LIDN01000404.1/80-7/7-67 [subseq from] Verrucomicrobia subdivision 6 bacterium BACL9 MAG-120924-bin69 contig09214_1_120924-bin69, whole genome shotgun sequence.
+------GUAGCUCAGCUUGGUAGAGUACCAGCUUUGGGAGCUGGCUGUCGUGGGUUCAAAUCCCAC-----------c
+>208|MDGQ01000003.1/849955-849883/3-71 [subseq from] Fabibacter misakiensis strain SK-8 scaffold3_cov71_read188, whole genome shotgun sequence.
+ugc-----UAUAGCUCAGU-UGGUAGAGCAUCGGACUGAAAAUCCGUGAGUCGGUGGUUCGAGCCCACU-----------uagcac
+>209|MNDG01000068.1/7917-7989/4-67 [subseq from] Acidobacteriales bacterium 13_2_20CM_55_8 13_2_20cm_scaffold_1076, whole genome shotgun sequence.
+gga------GUAGCUCAA-CUGGCAGAGCACCGGACUGUGGCUCCGGACGUUGUGGGUUCAAUUCCCA------------ucu
+>210|CP011371.1/679218-679146/4-69 [subseq from] [Polyangium] brachysporum strain DSM 7029, complete genome.
+---GCGGUAGCUCAAU-GGGUAGAGCGCCGGCCUGAAGAGCCGGGCGUAGGUGGUUCGAAUCCUCCCCGC-------
+>211|CP002829.1/977965-977892/6-65 [subseq from] Thermodesulfobacterium geofontis OPF15, complete genome.
+c------GUAGCUCAGUCUGGUAGAGCUCCGGCUUCGGGAGCCGGGUGUCGCAGGUUCAAAUCC--------------ug
+>212|CP010424.1/985493-985566/4-68 [subseq from] Archaeon GW2011_AR10 chromosome, complete genome.
+ccc------GUAGCUCAGCCUGGUAGAGCAGCGGCCUUUUAAGCCGCGUGCCGAGGGUUCGAAUCCCUCC----------g
+>213|NHCV01000028.1/65707-65780/4-70 [subseq from] Flavobacteriaceae bacterium TMED42 16321, whole genome shotgun sequence.
+g----AGGUAGCUCAGCCGGUUAGAGCGUCGGAUUCAUAACCCGGAGGUCGGGAGUUCAAGUCUCCCUC---------uc
+>219|AHJH02004429.1/423-350/4-70 [subseq from] Hammondia hammondi strain H.H.34 contig06177, whole genome shotgun sequence.
+g----AGGUAGCUCAGCUGGUUAGAGCACGGGAAUCAUAAUCCUGGGGUCGGGGGUUCGAGUCCCUCU----------cuc
+>220|MFIX01000247.1/5718-5790/5-68 [subseq from] Candidatus Glassbacteria bacterium RIFCSPLOWO2_12_FULL_58_11 rifcsplowo2_12_scaffold_87625, whole genome shotgun sequence.
+a-----GGUAGCUCAGUC-GGUAGAGCAGGGGACUGAAAAUCCCCGUGUCGGCGGUUCAAUUCCGUCC----------cu
+>221|AZEE01000028.1/679009-678929/5-80 [subseq from] Lactobacillus odoratitofui DSM 19909 = JCM 15043 strain DSM 19909 NODE_139, whole genome shotgun sequence.
+----CGGUAGCUCAGUCNNnnnnnnnNUAGAGCAACGGAUUGAAGCUCCGUGUGUCGGCGGUUCGAUUCCGUCCCGCGC-----c
+>222|LQAA01000005.1/6711-6783/5-68 [subseq from] Candidatus Adiutrix intracellularis contig2556801681, whole genome shotgun sequence.
+a-----GGUAGCUCAGU-UGGUAGAGCACUAGACUGAAAAUCUGGGUGUGGGCGGUUCGAUUCCGUCC----------cu
+>223|MGFI01000008.1/6238-6309/2-66 [subseq from] Candidatus Woesearchaeota archaeon RBG_13_36_6 RBG_13_scaffold_13465, whole genome shotgun sequence.
+g--GCCGGUAGCUUAGCCAGGAAGAGCACCUGACUUUUAAUCAGGUGGUCGCGGGUUCGAAACCA-------------cc
+>224|LMJN01000001.1/1451047-1450975/6-67 [subseq from] Lysobacter sp. Root96 contig_1, whole genome shotgun sequence.
+-----GGUAGCUCAGU-UGGUAGAGCAGGGGAUUGAAAAUCCCCGUGUCGGGGGUUCGAUUCCCUCC----------c
+>225|AP013035.1/1505442-1505369/6-68 [subseq from] Thermosulfidibacter takaii ABI70S6 DNA, complete genome.
+c------GUAGCUCAACUGGUUAGAGCACCGGACUGUGGCUCCGGGGGUUGGGGGUUCGACUCCCCU-----------cg
+>226|MKVH01000013.1/196388-196461/6-67 [subseq from] Candidatus Kapabacteria sp. 59-99 SCNpilot_expt_1000_bf_scaffold_34, whole genome shotgun sequence.
+a------GUAGCUCAGCUGGUUAGAGCAACGGAAUCAUAAUCCGUAGGUCGGGGGUUCAAGUCCCUC-----------c
+>227|MEOP01000070.1/47452-47380/4-66 [subseq from] Bacteroidetes bacterium GWF2_43_11 gwf2_scaffold_498, whole genome shotgun sequence.
+guu------GUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCACUGGUUCAAUUCC--------------aguc
+>228|MGST01000090.1/1528-1455/6-67 [subseq from] Deltaproteobacteria bacterium RIFOXYA12_FULL_58_15 rifixya3_full_scaffold_2106, whole genome shotgun sequence.
+gu-------UAGCUCAGUCAGGCAGAGCAUCGGACUUUUAAUCCGGUGGCCCGGGGUUCGAAUCCCC------------ga
+>229|MFAF01000035.1/7589-7661/5-66 [subseq from] Candidatus Coatesbacteria bacterium RBG_13_66_14 RBG_13_scaffold_15461, whole genome shotgun sequence.
+g-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCCGCGGUUCGACUCCG-------------cgc
+>230|CP011211.1/419379-419306/2-72 [subseq from] Candidatus Saccharibacteria bacterium GW2011_GWC2_44_17, complete genome.
+gg---CCAGUAGCUCAGCUGGUUAGAGCACCUGCCUCUUAAGCAGGGUGUCGAGGGUUCAAGUCCCUCCUGG-------cc
+>231|MDVT01000007.1/436587-436689/4-99 [subseq from] Archaeon Odin LCB_4 OdinLCB4_contig000007, whole genome shotgun sequence.
+---GCGGUAGCUUAGACCGGGAGAGCGCUGGACUGAAGAUCCaguugagcuagccagauguccugguaaccGGGAAUCGGGUGUUCAAAUCACCCCCGC-------
+>232|FQVZ01000003.1/138866-138794/3-66 [subseq from] Fibrobacter sp. UWB8 genome assembly, contig: Ga0136280_103
+c---GCUGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGUCAGUUCAAUUCU--------------gacc
+>233|CP013015.1/1654793-1654865/5-68 [subseq from] Candidatus Desulfofervidus auxilii strain HS1 genome.
+gu------GUAGCUCAGC-GGUUAGAGCACUGGGCUGUGGCCCCAGGUGUCGGGGGUUCAAAUCCCCU-----------cac
+>234|MFNE01000020.1/35466-35394/3-70 [subseq from] Candidatus Lambdaproteobacteria bacterium RIFOXYD2_FULL_50_16 rifoxyd2_full_scaffold_202, whole genome shotgun sequence.
+gc----CAGUAGCUCAGU-UGGUAGAGCAUCGGUCUCCAAAACCGAGUGUCGGGGGUUCGAUUCCCUCCUG--------gc
+>235|AP014633.1/3081988-3082060/6-67 [subseq from] Thioploca ingrica DNA, complete genome.
+ga-------UAGCUCAGG-UGGUAGAGCAGUGGACUGAAAAUCCUCGUGUCGGUGGUUCAACUCCACC-----------uc
+>236|NBLV01000055.1/3190-3263/5-62 [subseq from] Anaerolineaceae bacterium 4572_32.1 ex4572_32.1_scaffold_6121, whole genome shotgun sequence.
+a-----GGUAGCUCAGCCUGGUAGAGCACUUGACUGAAAAUCAAGGUGUCCCCAGUUCGA------------------uuc
+>237|LADP01000016.1/80287-80214/5-69 [subseq from] Peptococcaceae bacterium BRH_c8a BRHa_1000703, whole genome shotgun sequence.
+----CGGUAGCUCAGCUGGAUAGAGCAACGGACUUCUAAUCCGUAGGUCGCGGGUUCGAAUCCCUCCCG--------
+>238|CP005934.1/329880-329953/5-69 [subseq from] Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1, complete genome.
+a-----GGUGGCUCAGCCUGGUAGAGCGAUGGACUCAUAAUCCAUAGGUCGUGGGUUCAAAGCCCACCC---------u
+>239|KP280063.1/38648-38576/4-67 [subseq from] Vibrio phage phi 3, complete genome.
+g----UGGUAGCUCAGU-AGGUAGAGCACGGGAUUGAAGAUCCUGGUGUCACUGGUUCAACUCC--------------agucc
+>240|AP013035.1/1181888-1181961/3-71 [subseq from] Thermosulfidibacter takaii ABI70S6 DNA, complete genome.
+--GGCAGUAGCUCAGCUGGAUAGAGCAGCGGACUUCUAAUCCGCAGGUCGGGGGUUCGAGUCCUCCCUGC-------c
+>241|FAOU01000006.1/61430-61358/6-65 [subseq from] Armatimonadetes bacterium DC isolate DC genome assembly, contig: DCOP10_106
+-----GGUAGCUCAGG-UGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGCCGGUUCGACUCC--------------ggc
+>242|JZEJ01000001.1/5229373-5229445/4-71 [subseq from] Paenibacillus sp. D9 Scaffold1, whole genome shotgun sequence.
+u----CGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGUCGGUUCGAUUCCGUCCCG--------agc
+>243|CP000481.1/921140-921213/2-74 [subseq from] Acidothermus cellulolyticus 11B, complete genome.
+-GGGCGGUAGCUCAGCCGGUUAGAGCUGCGGACUCAUAAUCCGCUGGUCGCAGGUUCGAGUCCUGCCCGCCCCA---
+>244|CP007514.1/1019985-1019913/6-69 [subseq from] Rubrobacter radiotolerans strain RSPS-4, complete genome.
+ga-------UAGCUCAGU-UGGUAGAGCACGCGACUGAAAAUCGCGGUGUCGGCGGUUCGAAUCCGCCU----------ccc
+>245|CAFB01000047.1/1617-1545/5-69 [subseq from] Candidatus Glomeribacter gigasporarum BEG34, WGS project CAFB01000000 data, contig: Contig19-1692
+----CGGUAGCUCAGUC-GGUAGAGCAGCGGCCUGAAGAGCCGUGUGUCGAUGGUUCGAUUCCUUCCCG--------a
+>247|LMMS01000012.1/379514-379587/4-70 [subseq from] Methylobacterium sp. Leaf93 contig_2, whole genome shotgun sequence.
+gg-----GGUAGCUCAGUUGGUUAGAGCAGAGGAAUCAUAAUCCUUGUGUCGGGAGUUCAAAUCUCUCCC---------uc
+>248|JYNY01000232.1/77728-77800/6-67 [subseq from] Candidatus Omnitrophus sp. SKK-01 SAG1352, whole genome shotgun sequence.
+-----GGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUUGUGUGGGGGGUUCGAUUCCCUCC----------c
+>249|MHFL01000058.1/19122-19196/3-71 [subseq from] Omnitrophica bacterium RIFCSPLOWO2_01_FULL_45_10 rifcsplowo2_01_scaffold_8235, whole genome shotgun sequence.
+gg----AUGUAGCUCAGCCUGGcCAGAGCGCUUGACUGUGGCUCAAGACGUCGGGGGUUCAAAUCCCCUC----------auc
+>250|MGAY01000004.1/15866-15793/6-66 [subseq from] Candidatus Roizmanbacteria bacterium RIFCSPLOWO2_02_FULL_38_10 rifcsplowo2_02_scaffold_1208, whole genome shotgun sequence.
+c------GUAGCUCAGCCCGGUAGAGCCCCUGCCUGUGGAGCAGGUUGUCGCGGGUUCAAAUCCC-------------gu
+>251|LWSA01000143.1/6019-5947/4-68 [subseq from] Acidithiobacillus thiooxidans strain A02 contig143, whole genome shotgun sequence.
+g----CGAUAGCUCAGU-UGGUAGAGCACCGGUCUGAAGAGCCGGGUGUCGCAAGUUCGAUUCUU-------------gcucg
+>252|CBTY010000009.1/73630-73703/8-66 [subseq from] Thaumarchaeota archaeon N4, WGS project CBTY01000000 data, contig: APF_1883_Contig_4
+-------UAGCUCAGCCUGGCAGAGCAUCUGACUUGUAAUCAGAGGGUCGAGGGUCCAAAUCCCU------------c
+>253|MGVV01000066.1/81-9/4-69 [subseq from] Euryarchaeota archaeon RBG_13_31_8 RBG_13_scaffold_26749, whole genome shotgun sequence.
+---GCGGUAACUCAGUC-GGGAGAGUGCACGGCUGAAGACCGUGAUGUCGGGGGUUCAAUUCCCUCCCGC-------
+>254|FTMS01000023.1/10550-10622/7-67 [subseq from] Spirochaeta americana strain ASpG1 genome assembly, contig: Ga0071122_123
+a-------UAGCUCAGC-UGGGAGAGCGCCUGCCUUACAAGCAGGAUGUCGGGGGUUCAAAUCCCUC-----------uu
+>255|MFXP01000009.1/6590-6516/2-74 [subseq from] Candidatus Peribacteria bacterium RIFCSPHIGHO2_01_FULL_51_35 rifcsphigho2_01_scaffold_3422, whole genome shotgun sequence.
+gg---CCAGUAGCUCAGCCUGGuUAGAGCUCCGGACUUAUAAACCGGCGGUCGAUGGUUCAACUCCAUCCUGGCC-----c
+>256|MFYG01000021.1/53864-53791/4-72 [subseq from] Candidatus Peribacteria bacterium RIFCSPLOWO2_12_FULL_55_15 rifcsplowo2_12_scaffold_583, whole genome shotgun sequence.
+cg-----GGUAGCUCAGUUGGUUAGAGCACAGGACUUAUAAACCUGCGGUCGGUGGUUCAAGUCCACCCC---------cgcc
+>257|FR885440.1/153-80/4-70 [subseq from] Azospirillum sp. CAG:239 genomic scaffold, scf36
+gg-----GGUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGACGGUUCGAAUCCGCCCC---------uc
+>258|MEMO01000027.1/25790-25862/6-67 [subseq from] Alphaproteobacteria bacterium RIFCSPLOWO2_01_FULL_40_26 rifcsplowo2_01_scaffold_3957, whole genome shotgun sequence.
+a------GUAGCUCAGU-UGGUAGAGCAACGGGAUCAUAAUCCGUGUGUCGGGGGUUCAAUCCCCUC-----------cu
+>259|JXAL01000001.1/764329-764257/5-69 [subseq from] Cohnella sp. VKM B-2846 B2846_01, whole genome shotgun sequence.
+c-----GAUAGCUCAGC-UGGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGCGGUUCGAUUCCGUCUC---------ga
+>260|MNVX01000023.1/9256-9330/6-69 [subseq from] Candidatus Pacearchaeota archaeon CG1_02_32_21 cg1_0.2_scaffold_1504_c, whole genome shotgun sequence.
+ca-------UAGCUCAGUCUGGuUAGAGCACUGGCCUUUUAAGCCAGGUGUCGGGGGUUCAAAUCCCUC-----------ug
+>261|NATI01000022.1/12904-12830/4-71 [subseq from] Candidatus Omnitrophica bacterium 4484_49 ex4484_49_scaffold_4467, whole genome shotgun sequence.
+ccu------GUAGCUCUAACUGGaUAGAGCACCGGACUCCAAAUCCGGGGGUUGGGGGUUCGAGUCCCUCC----------agg
+>262|LCPB01000008.1/50566-50639/6-67 [subseq from] Parcubacteria (Wolfebacteria) bacterium GW2011_GWA2_47_9b UY19_C0008, whole genome shotgun sequence.
+u------GUAGCUCAGCCUGGUAGAGCACCUGCCUUUUAAGCAGUGUGUCGAUGGUUCAAAUCCAU------------cc
+>263|CP019609.1/1294420-1294348/3-72 [subseq from] Vagococcus penaei strain CD276, complete genome.
+c---GCAGUAGCUCAGU-UGGUAGAGCAACGGAUUGAAGCUCCGUGUGUCGGCAGUUCGAUUCUGUCCUGCG------cc
+>264|JXLP01000006.1/3730-3658/5-69 [subseq from] Bacillus badius strain MTCC 1458 Contig6, whole genome shotgun sequence.
+ca------GUAGCUCAGUC-GGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGCGGUUCGAUUCCGUCC----------uga
+>265|MHZC01000940.1/25-99/5-70 [subseq from] Planctomycetes bacterium RIFOXYB12_FULL_42_10 rifoxyb3_full_scaffold_5591_curated, whole genome shotgun sequence.
+ca------GUAGCUCAGCUUGGaUAGAGCAUCGGAUUUCUAAUCCGGCGGUCGAGGGUUCAAAUCCUUCC----------ug
+>266|HG425166.1/1184576-1184649/5-69 [subseq from] Methanobacterium sp. MB1 complete sequence
+----CGGUGGCUCAGUCUGGUAGAGCGCGUGACUCGUAAUCUCGUGGUCGGGGGUUCAAAUCCCCCCCG--------
+>267|CP003350.1/1980648-1980575/6-68 [subseq from] Frateuria aurantia DSM 6220, complete genome.
+c------GUAGCUCAGCUGGUUAGAGUACCGGAUUGUGAUUCCGGAUGUCGUGGGUUCAAGUCCCA------------ucg
+>268|CP001130.1/626939-627011/7-69 [subseq from] Hydrogenobaculum sp. Y04AAS1, complete genome.
+c-------UAGCUCAGC-AGGUAGAGCAACGGACUUUUAAUCCGUGGGUCGGGGGUUCAAGUCCCCCG----------ugg
+>269|MEGN01000001.1/538975-539048/4-72 [subseq from] Thiobacillus sp. SCN 65-179 ABT21_C0001, whole genome shotgun sequence.
+gau------GUAGCUCAGUCGGUUAGAGCAUCGGAUUCAUAAUCCGGGGGUCGGCAGUUCAAGUCUGCCC----------aucac
+>270|MHEO01000058.1/2247-2320/7-67 [subseq from] Nitrospirae bacterium RIFCSPHIGHO2_01_FULL_66_17 rifcsphigho2_01_scaffold_41025, whole genome shotgun sequence.
+a-------UAGCUCAGCUGGAUAGAGCGCCGGACUACGAAUCCGUAGGUCGGGGGUUCAAAUCCCU------------cu
+>271|MNUA01000021.1/45-117/9-66 [subseq from] Mycoplasma sp. CAG:611_25_7 Ley3_66761_scaffold_6999, whole genome shotgun sequence.
+agcuccg----------------UUGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGCUGGUUCGAAUCCCG------------cu
+>272|LJUF01000143.1/5318-5391/2-72 [subseq from] Phycisphaerae bacterium SM23_33 WORSMTZ_27479, whole genome shotgun sequence.
+-GGGCCGUAGCUCAAUUGGCUAGAGUACCGGACUGUCGAUCCGGUGGUUGCGGGUUCGAAUCCCGUCGGCC------c
+>273|CP001843.1/537827-537900/3-73 [subseq from] Treponema primitia ZAS-2, complete genome.
+g---GUUGUAGCUCAGCUGGAUAGAGCAUCAGAUUGCGGAUCUGAAGGUCGGAGGUUCGAAUCCUCUCAGCC------uc
+>274|MFFQ01000041.1/6807-6735/3-66 [subseq from] Candidatus Eisenbacteria bacterium RBG_16_71_46 RBG_16_scaffold_17236, whole genome shotgun sequence.
+gg----AUGUAGCUCAGCC-GGUAGAGCACUGGACUGUGGCUCCAGGUGUCGCGGGUUCGAACCCC-------------guc
+>275|CP000159.1/2877352-2877425/7-67 [subseq from] Salinibacter ruber DSM 13855, complete genome.
+------GUAGCUCAGCUUGGCAGAGCAACGGACUUUUAAUCCGUGAGUCGCAGGUUCGAAUCCU-------------gcc
+>276|MEHG01000086.1/4744-4671/3-68 [subseq from] Candidatus Thorarchaeota archaeon AB_25 ThorAB25_contig000086, whole genome shotgun sequence.
+gga-----CGUAGCUCAAUCUGGCAGAGCAAUGGACUGUAGAUCCAUCGGUUGCCGGUUCAAAUCCG-------------gccg
+>277|JQBR01000004.1/214954-214882/3-72 [subseq from] Pediococcus cellicola strain DSM 17757 Scaffold4, whole genome shotgun sequence.
+c---GCAGUAGCUCAGUC-GGUAGAGCAACGGAUUGAAGCUCCGUGUGUCGGCAGUUCGAUUCUGUCCUGCG------cc
+>278|CP001688.1/2294251-2294178/2-72 [subseq from] Halomicrobium mukohataei DSM 12286, complete genome.
+g--GCCGGUAGCUCAGUCUGGCAGAGCGACGGCCUCUUAAGCCGUCGGUCGAGGGUUCAAAUCCCUUCCGGC------c
+>279|CP001098.1/1683371-1683299/8-65 [subseq from] Halothermothrix orenii H 168, complete genome.
+u--------AGCUCAA-CUGGUAGAGCACUGGACUCCAAAUCCAGGUGCUGGGGGUUCAAGUCCUC------------c
+>280|LYOR01000003.1/9117-9191/7-68 [subseq from] Candidatus Syntrophoarchaeum butanivorans isolate BOX1 BOX1_11reassembly_contig03, whole genome shotgun sequence.
+au--------GGCUCAGCCUGGaUAGAGCACCGGCCUUCUAAGCCGGGGGUCGGGGGUUCAAAUCCCCC-----------u
+>281|CP002057.1/172641-172568/4-68 [subseq from] Methanococcus voltae A3, complete genome.
+cu-----GAUAGCUCAGCCUGGGAGAGUGCCGCAUUGGCUAUGCGGAUGCCGCGGGUUCGAAUCCCGC-----------uc
+>282|MEYB01000008.1/35679-35752/7-68 [subseq from] Candidatus Aminicenantes bacterium RBG_16_63_16 RBG_16_scaffold_1176, whole genome shotgun sequence.
+------GUAGCUCAACUGGUUAGAGCAGCGGACUGUGGAUCCGCAGGUUGGGGGUUCAAGUCCCCU-----------ca
+>283|LGER01000039.1/12163-12091/2-72 [subseq from] Desulfonauticus sp. 38_4375 PW_scaffold_161, whole genome shotgun sequence.
+-GGGCUGUAGCUCAGU-UGGGAGAGCACUUGAAUGGCAUUCAAGGGGUCAGGGGUUCAAGUCCCCUCAGCUC-----c
+>284|FQYM01000005.1/75993-75921/5-67 [subseq from] Fibrobacter sp. UWP2 genome assembly, contig: Ga0136289_105
+cu------GUAGCUCAGU-UGGUAGAGCAGUGGACUGAAAAUCCGCGUGUCGUUGGUUCAAUUCC--------------aaucg
+>285|NHLW01000021.1/11477-11550/4-70 [subseq from] Bacterium TMED277 isolate TMED277 MHASMcontig_262685, whole genome shotgun sequence.
+g----AGGUAGCUCAGUUGGUUAGAGCACAGGACUCAUAAGCCUGGGGUCGGCGGUUCGAAUCCGCCCC---------uc
+>286|MGQM01000095.1/4501-4428/7-68 [subseq from] Deltaproteobacteria bacterium RBG_16_42_7 RBG_16_scaffold_45757_curated, whole genome shotgun sequence.
+------GUAGCUCAGCUGGUUAGAGCAUCUGACUGUGGCUCAGAGGGUCGGGGGUUCGAAUCCCCU-----------ca
+>287|LBCO01000006.1/171608-171536/6-69 [subseq from] Janthinobacterium sp. KBS0711 VM94_contig000007, whole genome shotgun sequence.
+-----GGUAGCUCAGUC-GGUAGAGCAGAGGAUUGAAAAUCCUUGUGUCGGUGGUUCGAUUCCGCCCCG--------g
+>288|LTXH01000196.1/19062-19133/2-70 [subseq from] Porphyromonas sp. HMSC065F10 Porphyromonas_spHMPREF2890-1.0_Cont934.3, whole genome shotgun sequence.
+gc---GCGGUAGCUCAG--UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCCUUGGUUCAAUUCCAAGU----------cgcgc
+>289|CP003117.1/282010-281937/6-63 [subseq from] Methanosaeta harundinacea 6Ac, complete genome.
+-----GGUAGCUCAGUCCGGGAGAGCGUCAGACUGAAGAUCUGAAUGUCCCCGGUUCGAAUC---------------c
+>290|CP002829.1/1608100-1608173/2-73 [subseq from] Thermodesulfobacterium geofontis OPF15, complete genome.
+g--GCCGGUAACUCAGCCAGGCAGAGUACCAGCCUUUUAAGCUGGGAGUCGUAGGUUCGAAUCCUACCCGGCC-----c
+>URS00001EF261/3-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCUGGGAGAGCACCGGACUGAAGAUCCGGGUGUCGGGGGUUCAAAUCCCCCCCGCCCCAC--
+>URS0000E1BA12/2-73 [subseq from] tRNA from 1 species
+g--AGCGGUAGCUCAGCCUGGGAGAGCGCCUGACUGAAGAUCAGGUUGUCGGGGGUUCAAAUCCCCCCCGCUC-----c
+>URS0001F5C1A3/3-76 [subseq from] tRNA from 1 species
+g---GAGGUAGCUCAGCCUGGGAGAGCGUCGGACUGAAGAUCCGAAUGUCGGGGGUUCAAAUCCCCCCCUCCGCAC--c
+>URS00022E32E3/2-73 [subseq from] tRNA from 1 species
+-GGGAGGUAGCUCAGCCUGGGAGAGCACUAGACUGAAGAUCUAGGGGUCGGGGGUUCAAAUCCCCCUCUCCC-----c
+>URS00022485EB/2-73 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGCCUGGGAGAGCACUAGACUGAAGAUCUAGGUGUCGGGUGUUCAAAUCCCCCCAGUCC-----c
+>URS00022DF8D7/1-74 [subseq from] tRNA from 1 species
+GGGGCGGUAGCUCAGUCUGGGAGAGCACUAGACUGAAGAUCUAGGUGUCGAGUGUUCAAAUCACUCUCGCCCCA---
+>URS00022E26D5/2-74 [subseq from] tRNA from 1 species
+g--GACGGUAGCUCAGUCUGGGAGAGCGCUAGACUGAAGAUCUAGAUGUCGGGGGUUCAAAUCCCCCUCGUCCC----a
+>URS0000E10143/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCCGGGAGAGCACCAGGCUGAAGACCUGGGUGUCGUGGGUUCAAAUCCCACCCGUCC-----c
+>URS00022BEB3F/2-77 [subseq from] tRNA from 1 species
+g--GACGGUAGCUCAGACUGGGAGAGCACAUGACUGAAGAUCAUGGGGUCGAGGGUUCAAAUCCCUCUCGUCCCACCA
+>URS0000CA70BD/2-74 [subseq from] tRNA from 4 species
+-GGGCGGUAGCUCAGCCUGGGAGAGCACAUGACUGAAGAUCAUGGUGUCCGGGAUUCAAAUUCCCGUCGCCCCA---
+>URS00022604D1/4-76 [subseq from] tRNA from 1 species
+---GCGGUAGCUUAGCCUGGGAGAGCGCAGGACUGAAGAUCCUGUUGUCGGGAGUUCGAAUCCCCCCCGCGACAC--c
+>URS000257E9B1/2-77 [subseq from] tRNA from 1 species
+-GGGCGGUAGUUCAGCCUGGGAGAGCGCACGACUGAAGAUCGUGUUGUCGAGGGUCCAAAUCCCUCCCGUCCCACCA
+>URS00021D909C/2-73 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGCCUGGGAGAGCAUCAGACUGAAGAUCUGGGUGUCGCUGGUUCAAAUCCGGCCAGUCC-----c
+>URS000254B435/2-73 [subseq from] tRNA from 1 species
+gg---AAGGUAGCUCAGCCCGGGAGAGCACUCGACUGAAGAUCGAGCUGUCGGGGGUUCAAAUCCCUCCCUUCC-----c
+>URS0000EE2324/4-74 [subseq from] tRNA from 1 species
+gau------GUAGCUCAGCCUGGUAGAGCAUCGGACUGAAAAUCCGUGUGUCGGAGGUUCAAAUCCUCUCAUC-------acca
+>URS0001D92335/3-72 [subseq from] tRNA from 2 species
+ug----AGGUAGCUCAACUUGGUAGAGCACUGGACUGAAAAUCCGGGUGUUGAGGGUUCAAAUCCCUCCC---------uuac
+>URS0000E12718/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGACUGGGAGAGCACCACGCUGAAGACGUGGGUGUCGUGGGUUCAAAUCCCACUCGCCCCA---
+>URS00021CD56C/2-73 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCCUGGGAGAGCACCCGGCUGAAGACCGGGGUGUCGUGGGUUCAAAUCCCACCGGCCC-----c
+>URS00021E6F05/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCGUGAGUUCAAAUCUCACCCGCCCCA---
+>URS0000542046/4-75 [subseq from] tRNA from 1 species
+---GCGGUAGUUCAGCCCGGGAGAACGCUGGACUGAAGAUCCAGUUGUCGGGUGUUCAAAUCACCCCCGCGGC----ac
+>URS0002225A6B/5-72 [subseq from] tRNA from 1 species
+ac------GUAGCUCAACCUGGGAGAGCACUAGACUGAAGCUCUAGGUGUUGGGGGUUCAAAUCCCCCCG---------uucc
+>URS00021FC534/2-73 [subseq from] tRNA from 1 species
+g--GACGGUAGCUUAGCCUGGGAAAGCACACGACUGAAGAUCGUGUUACCGGGGGUUCAAAUCCCCCUCGUCC-----c
+>URS0000DEE028/2-74 [subseq from] tRNA from 2 species
+-GGGCGGUAGCUCAGCCCGGGAGAGCAUCCGGCUGAAGACCGGAGGGUCGGGGGUUCAAAUCCCCCCCGCCCCA---
+>URS00021ABA39/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCCGGGAGAGCAACCGGCUGAAGACCGGUGUGUCGUGGGUUCAAAUCCCACUCGCCCCA---
+>URS0000E2F0DC/4-76 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGCCUGGGAGAGCACCCGACUGAGAACCGGGUUGUCGGGUGUUCAAAUCACCCCCGCGGCAC--c
+>URS00021E7CCE/5-69 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCCUGGGAGAGCACCCGGCUGAAGACCGGGGUGUCGGGGGUUCAAAUCCCCCC----------gg
+>URS0002251629/5-72 [subseq from] tRNA from 1 species
+ac------GUAGCUCAGCCUGGGAGAGCACACGACUGAAGCUCGUGGUGUCGGGGGUUCAAAUCCCUCC----------guucc
+>URS0000709905/4-70 [subseq from] tRNA from 1 species
+---GCGGUAGUUCAGCCUGGGAGAACGCGGGACUGAAGAUCCCGUUGUCGGGUGUUCAAAUCACCCCCGC-------
+>URS0000D0AC60/2-75 [subseq from] tRNA from 2 species
+ga---GUGGUAGCUCAGAUUGGGAGAGCGCUCGACUGAAGAUCGAGCGGUCGGGGGUUCAAAUCCCCCCCACUCCA---c
+>URS00021AC6C8/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCUGGGAGAGCACUACGCUGAAGACGUAGGUGUCCGGGGUUCAAAUCCCCGCCGUCC-----c
+>URS00021AD63B/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCCGGGAGAGCGCCCGGCUGAAGACCGGGUUGUCGUGGGUUCAAAUCCCACCCGCCCCA---
+>URS0000E366B6/4-70 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGCCUGGGAGAGCGUCAGACUGAAGAUCUGAGUGCCGAGGGUUCGAAUCCCUCCCGC-------
+>URS00021C5194/2-73 [subseq from] tRNA from 1 species
+g--GUCGGUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGUGGUCGGGGGUUCAAAUCCCCCCCGGCC-----c
+>URS00021FE1E7/2-73 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGCCUGGGAGAGCACCACGCUGAAGACGUGGCUGUCGGGGGUUCAAAUCCCCCCGGUC------uc
+>URS0001E471FE/3-75 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGUC-GGUAGAGCACAGGACUGAAAAUCCUGGUGUCGGGGGUUCAAUUCCCUCCCUGCCCAC--c
+>URS0001EB95FB/3-75 [subseq from] tRNA from 2 species
+gca-----GGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGCCCCUGCCCAC--c
+>URS0000B015F6/2-74 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCGCACCA---c
+>URS0000B4B6DE/2-76 [subseq from] tRNA from 3 species
+g--GUCGGUAGCUCAGUC-GGUAGAGCACCGGACUGAAAAUCCGGGUGUCGGCAGUUCAAUUCUGCCCUGACCCACCA
+>URS00021BD7AA/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCAUCGGACUUUUAAUCCGGUGGUCGCGGGUUCAAAUCCCGUCCGCCCCA---
+>URS0000E39B2D/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCCGGGAGAGCACUCGGCUGAAGACCGAGGCGUCGUGGGUUCAAAUCCCACCCGUCC-----c
+>URS0000E53FB9/2-75 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCACACCAC--c
+>URS00021A69EB/5-73 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGCCUGGUAGAGCACCUGACUGAAAAUCAGGGAGUCGGCGGUCCAAAUCCGCCCCU--------cggc
+>URS000220FEC0/2-72 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGGGGUUCAAAUCCCUCCCACA------cc
+>URS000230BD7D/3-73 [subseq from] tRNA from 1 species
+gacc------UUAGCUCAGCCUGGGAGAGCACUAGACUGAAGAUCUAGGUGUCGCGGAUUCAAAUUCCGCAGGUC------cc
+>URS0000E1C033/2-73 [subseq from] tRNA from 1 species
+-GGGUGGUAGCUCAGACCGGGAGAGCACCAGGCUGAAGACCUGGGUGUCGCUGGUUCAAAUCCGGCCCACCC-----c
+>URS0001C5BBCD/3-73 [subseq from] tRNA from 1 species
+g---GUGGUAGCUCAGCCUGGGAGAGCACAUGGCUGAAGACCAUGGUGUCGCGAGUUCAAAUCUCGCCCACC------uc
+>URS0000EE1316/4-73 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGGGGUUCAAUUCCCUCCCGAACC----a
+>URS00022E6FD6/2-73 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCCUGGGAGAGCGCUAGACUGAAGAUCUAGGUGUCACGUGUUCAAAUCACGUCGGCCC-----c
+>URS00022BB290/4-70 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGCCCGGUAGAGCACUCGGCUGAAGACCGAGGUGUCGGGGGUUCAAAUCCCUCCCGC-------
+>URS0000E333F7/4-70 [subseq from] tRNA from 2 species
+---GCGGUAGCUCAGUUUGGGAGAGCGCCAGACUGAAGAUCUGGAAGCCGAGGGUUCAAGUCCCCCCCGC-------
+>URS00022E0ADE/2-73 [subseq from] tRNA from 1 species
+g--GAUGGUAGCUCAGCCUGGGAGAGCGCACGGCUGAAGACCGUGGUGUCGUGGGUUCAAAUCCCACCCAUCC-----c
+>URS0000C9191F/2-73 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCCUGGGAGAGCACAUGGCUGAAGACCAUGGUGUCCGGAGUUCAAAUCUCCGCGGCCC-----c
+>URS00022C356A/3-71 [subseq from] tRNA from 1 species
+gg----AUGUAGCUCAGCUGGUUAGAGCACUGGACUGUGGAUCCAGGUGUCGGGGGUUCAAAUCCCCUC----------aucc
+>URS00025378C2/2-73 [subseq from] tRNA from 1 species
+-GGGCAGUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCGCGGGUCCAAAUCCCGCCUGCCC-----c
+>URS0000E0BD17/2-73 [subseq from] tRNA from 1 species
+g--GGGAGUAGCUCAGCCCGGUAGAGCACGGGAUUGAAAAUCUCGGUGUCGGCGGUUCAAAUCCGCCCUCCCC-----c
+>URS0000E2738D/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCCCGGGUUCAAAUCCCGGCCGCCC-----c
+>URS0000E0DEFD/4-75 [subseq from] tRNA from 2 species
+---GCGGUAGCUCAGC-UGGGAGAGCGCCGGACUGAAGAUCCGGGUGUCGCCGGUUCAAAUCCGGCCCGCGGCAC--c
+>URS0002238E47/2-73 [subseq from] tRNA from 1 species
+g--GGACGUAGCUCAGCCUGGGAGAGCGCUAGACUGAAGAUCUAGAUGUCGUGGAUUCAAAUUCCGCCGUCC------cc
+>URS0000CA48FB/2-73 [subseq from] tRNA from 1 species
+g--GGUCGUAGCUCAGUCUGGGAGAGCACGGGGCUGAAGACCUCGGUGUCGCGGGUUCAAAUCCCGCCGACCC-----c
+>URS00022EE5A0/2-72 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUUAGCUUGGUAGAGCGCCUGACUGAAGAUCAGGCGGUCGAGGGUUCAAAUCCCUUCCGGC------c
+>URS0002263607/3-73 [subseq from] tRNA from 1 species
+--GGCGGUAGUUCAGACUGGGAGAACACACGAUUGAAGACCGUGAUGUCGAGGGUUCAAAUCCCUCUCGCCU-----c
+>URS000224D310/2-73 [subseq from] tRNA from 1 species
+g--GACGUUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCAGGGAUUCAAAUUCCCUACGUCC-----c
+>URS0000B17017/4-75 [subseq from] tRNA from 2 species
+g----AGGUAGCUCAGC-UGGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCCCCCUUGCCAC--c
+>URS000146AA98/2-72 [subseq from] tRNA from 1 species
+-GGGCUGUAGCUCAGC-UGGUAGAGCAUCGGACUGAAAAUCCGAGUGUCGGGGGUUCGAUCCCCCCUGGCCC-----c
+>URS0001C51EF5/3-71 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGCCCCU--------gcc
+>URS000255EEC1/2-75 [subseq from] tRNA from 1 species
+g--GUCGGUAGCUCAGC--GGUAGAGCACCGGACUUUUAAUCCGGGUGUCGAGGGUUCGAAUCCCUCCCGACUCACC-a
+>URS000221FD30/2-74 [subseq from] tRNA from 1 species
+g--GAUGGUAACUCAGCUCGGGAGAGUGCACGACUGAAGCUCGUGAUGUCGGGGGUUCAAAUCCCCCCCGUCCC----a
+>URS00022DDA3F/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGGAGAGCGCACGGCUGAAGACCGUGAUGUCGUGGGUUCAAACCCCACCCGCCCCA---
+>URS00021ACE4E/2-73 [subseq from] tRNA from 1 species
+gg---AAGGUAGCUCAGCUUGGGAGAGCGCUAGACUGAAGAUCUAGUUGUCGUGUGUUCAAAUCACACCCUUC------cc
+>URS0000E5650B/4-70 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGUUUGGGAGAGCGCCAGACUGAAGAUCUGGAAGUCGAGGGUUCAAGCCCCUCCCG--------c
+>URS0000AF6D22/3-77 [subseq from] tRNA from 1 species
+ug----AGGUAGCUCAGGUUGGUAGAGCAGUGGACUGAAAAUCCUCGUGUCGGCGGUUCGAAUCCGCCCCUCACCACC-a
+>URS0000E1F666/4-73 [subseq from] tRNA from 1 species
+c----CGGUAGCUCAGC-UGGUAGAGCACCUGCCUGAAGAGCAGGGUGUCGGGGGUUCAAAUCCCUCUCGGAC-----ca
+>URS0000800394/2-72 [subseq from] tRNA from 4 species
+g--GCCGGUAGCUUAGCCAGGCAGAGCACGGGACUCUUAAUCCCGGUGUCGGGGGUUCAAAUCCCCUCCGGC------c
+>URS0000A2F16C/2-73 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCACACC----a
+>URS0002250D37/5-70 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCUUGGCAGAGCACUGGACUCUUAAUCCAGGUGUCGGGGGUUCAAAUCCCCUC----------ggg
+>URS00019B49F6/4-76 [subseq from] tRNA from 2 species
+g----AGGUAGCUCAGCUUGGUAGAGCACUUGACUGAAAAUCAAGGUGUCGUGAGUUCAAAUCUCACCCUCGGCA---cc
+>URS000219F2F2/3-72 [subseq from] tRNA from 1 species
+gauc------GUAGCUCAGUCUGGGAGAGCACGCGACUGAAGAUCGCGGAGUCGUGGGUUCAAAUCCCACC----------gaucc
+>URS0002266F04/4-76 [subseq from] tRNA from 1 species
+---GCGAUAGCUCAGCCUGGGAGAGCGCCCGGCUGAAGACCGGGGUGUCGAGUGUUCAAAUCACUCUCGCGGCAC--c
+>URS00022E76D4/5-68 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCUUGGUAGAGCACUGGACUCUUAAUCCAGGUGUCGGGGGUUCAAAUCCCCU-----------cg
+>URS0000CB15CC/2-76 [subseq from] tRNA from 1 species
+g--GUCGGUAGCUCAGU-UGGUAGAGCACUGGAUUGAAAAUCCGGGUGUCAGCGGUUCAAGUCCGCUCCUUCCCACC-a
+>URS0000E5B55F/4-72 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGCCCCUC-------acc
+>URS00025814D0/3-72 [subseq from] tRNA from 1 species
+agcc------AUAGCUCAGC-UGGGAGAGCACUAGACUGAAGAUCUAGGUGUCGUGGGUUCAAAUCCCACUGGCU------cc
+>URS0001A07B8D/2-74 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGU-AGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGCCCGGUCCCA---c
+>URS00022C5126/2-71 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCACAGGACUGAAAAUCCUGGUGUCGGCGGUUCAAACCCGCCCCA--------cac
+>URS0000B6F878/2-76 [subseq from] tRNA from 4 species
+g--GUCGGUAGCUCAGC-AGGUAGAGCAUCGGACUGAAAAUCCGAGUGUCGGCGGUUCGACUCCGCCCUGACCCACCA
+>URS0002533528/3-77 [subseq from] tRNA from 1 species
+g---GUGGUAGAUCAGCCUGGGAGAUCGCAGCGCUGAAGACGCUGUUGCCGGGGGUUCAAAUCCCCCUCACCUCACC-a
+>URS0000EE7A5D/2-74 [subseq from] tRNA from 1 species
+gu---GUGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCACACCA---c
+>URS00007D0C66/4-71 [subseq from] tRNA from 1 species
+ac-----AGUAGCUCAGCCUGGGAGAGCACUCGGCUGAAGACCGAGGUGUCGGGUGUUCAAACCACCCCUG--------uc
+>URS00021FE64F/2-73 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCCUGGGAGAGCACACGACUGAAGCUCGUGGUGUCGCUGGUUCAAAUCCGGCUGGCCC-----c
+>URS000225E621/2-73 [subseq from] tRNA from 1 species
+-GGGCUGUAGCUCAGCCUGGGAGAGCAAUCGGCUGAAGACCGGUGUGUCGCGUGUUCAAAUCACGCCAGCCC-----c
+>URS0001E9D311/2-69 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGCCUGGGAGAGCACCACGCUGAAGACGUGGGUGUCCGGGAUUCAAAUUCCCGCCGACC-----c
+>URS0000B31E2C/5-67 [subseq from] tRNA from 1 species
+cu------GUAGCUCAGCCUGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGCUGGUUCAAAUCCG-------------gcc
+>URS0000C1F615/2-72 [subseq from] tRNA from 3 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCAC-------acc
+>URS00021DACF1/2-73 [subseq from] tRNA from 1 species
+gg---AAGGUAGCUCAGCCUGGGAGAGCGCACGGCUGAAGACCGUGAUGUCGUGGGUUCAAAUCCCACCCUUCC-----c
+>URS0000E5E065/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCCUGGUAGAGCUUCCGGCUGUAGACCGGAGUGUCGCAGGUUCAAAUCCUGCCCGCCCGAC--c
+>URS00025354A0/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCUUCCGGCUGUAGACCGGAGUGUCGCAGGUUCAAAUCCCGCCCGCCCGAC--c
+>URS000222B347/2-76 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGC-UGGUAGAGCAAAGGACUGAAAAUCCGUGUGUCGGCGGUUCAACUCCGCCUUGGCCCACC-a
+>URS00022BDF30/2-77 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGCCCGGUAGAGCAGCGGACUUUUAAUCCGCGUGUCCGGGGUUCGAAUCCCCGCCGGCCCACCA
+>URS0000E1B985/2-74 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGCCCGGUCCCA---c
+>URS0000D28280/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGUCCGGAAGAGCAACAGGCUGAAGACCUGUGUGUCGCGGGUCCAAAUCCCGCUCACCC-----c
+>URS0000D343AD/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGUUUGGCAGAGCGCGGGACUCCAAAUCCCGUGGUCGGGGGUUCAAAUCCUCCCCGCCCC----
+>URS0000CA6069/2-73 [subseq from] tRNA from 1 species
+gg---CUGGUAGCUUAACCUGGGAAAGCACACGACUGAAGCUCGUGGUAUUAGGGGUUCAAAUCCCCUCCGGCC-----c
+>URS00019A3075/3-72 [subseq from] tRNA from 3 species
+gca-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGUGGUUCAAAUCCACUCCUG-------ccc
+>URS0000ACDEA1/6-71 [subseq from] tRNA from 1 species
+ga-------UAGCUCAGU-UGGUAGAGCACAGGACUGAAAAUCCUGGUGUCGGGGGUUCGAAUCCCCCUC---------cgcc
+>URS00021BC939/1-86 [subseq from] tRNA from 1 species
+GGGGCGGUAGCUCAGCCCGGGAGAGCACACGGCUGAAGACCGUGGUGUCGUGAGUUCAAAUuuuugaaaacCUCACCCGCCCCAC--c
+>URS00022500DC/2-73 [subseq from] tRNA from 1 species
+g--GACAGUAGCUCAAUCUGGGAGAGCACUACGCUGAAGACGUAGUUGUCGGGGGUUCAAAUCCCUCCUGUCC-----c
+>URS00021C0D5B/2-72 [subseq from] tRNA from 1 species
+a------GUAGCUCAGCCUGGUAGAGCACCUGUUUGAAGAGCAGGGUGUCGGUGGUUCGAAUCCAUCCUGUUGCAC--c
+>URS0000E16361/2-73 [subseq from] tRNA from 1 species
+-GGGAGGUAGCUCAGCCCGGGAGAGCAAUCGGCUGAAGACCGAUGUGUCGCGGGUUCAAAUCCCGCCCUCCC-----c
+>URS00022F039D/6-69 [subseq from] tRNA from 1 species
+-----GGUAGCUUAGCCUGGUAGAGCACCCGACUGAUAAUCGGGAGGUCGGAGGUUCAAAUCCUCCCCG--------
+>URS0000DC0C7C/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCACGGGACUGAAAAUCCCGGUGUCGGGAGUUCAAUUCUCCCCCUGUCCAC--c
+>URS0002256315/2-75 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUaCAGCCUGGGAGAGCACUCGGCUGAAGACCGAGUUGUCAUGGGUUCAAAUCCCAUCCGCCCCA---
+>URS0000E144A3/4-71 [subseq from] tRNA from 1 species
+gau------GUAGCUCAGUC-GGUAGAGCAUCGGACUGAAAAUCCGUGUGUCGGAGGUUCAAAUCCUCCCA---------ucac
+>URS0000E25496/2-73 [subseq from] tRNA from 2 species
+-GGGCCGUAGCUCAGCCUGGGAGAGCGUCCGACUAAAGACCGGAAAGUCGUGGGUUCAAAUCCCACCGGCCC-----c
+>URS0000E5AF09/6-68 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGCCUGGGAGAGCAUCCGGCUGAAGACCGGACUGUCGUGGGUUCAAAUCCCACC----------c
+>URS0000CB8513/2-93 [subseq from] tRNA from 1 species
+g--GACGGUAGCUCAGUCUGGGAGAGCAUUGuuucagcaaucuuaggcuaGACUGAAGAUCUAGAUGGCGGGGGUUCAAAUCCCCCUCGUCCC----a
+>URS000253B141/2-73 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCCCGGGAGAGCACUCGGCUGAAGACCGGGGUGUCGCGAGUUCAAAUCUCGCCGGCCC-----c
+>URS00021E20DF/2-75 [subseq from] tRNA from 1 species
+gg---UAGGUAGCUCAGG-UGGUAGAGCACCGCACUGAAAAUGCGGGUGUCGUGGGUUCAACUCCCACCCUGCCCAC--c
+>URS00019ECCCF/3-71 [subseq from] tRNA from 1 species
+g---GCUAUAGCUCAGCAUGGCAGAGCACCAGAUUGUGGAUCUGGCUGUCGAGGGUUCAAAUCCCUCUAGC-------c
+>URS0000DA4F68/4-69 [subseq from] tRNA from 1 species
+g----AGGUAGCUCAGC-UGGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCCCCC---------uu
+>URS0000E104F2/2-76 [subseq from] tRNA from 1 species
+gg---AAGGUAGCUCAGU-AGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGUCCCUUCCCACC-a
+>URS00022EB631/3-73 [subseq from] tRNA from 1 species
+gaa-----GAUAGCUCAGCCUGGGAGAGCACACCGCUGAAGACGGUGGUGUCGGGGGUUCAAAUCCCUCUCUUC------cc
+>URS0000C8D70A/5-75 [subseq from] tRNA from 2 species
+cc------GUAGCUCAGCCCGGGAGAGCGCCCGGCUGAAGACCGGGUUGUCGGGGGUUCAAAUCCCCCCGGCGGC----ac
+>URS00026159F5/6-67 [subseq from] tRNA from 1 species
+ga-------UAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGGGGUUCAAAUCCCUC-----------uc
+>URS0000AE7A8A/4-75 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGUCCCGAGCCAC--c
+>URS0000E570EE/4-75 [subseq from] tRNA from 1 species
+ga-----GAUAGCUCAGU-UGGUAGAGCGCAGGACUGAAAAUCCUGGCGUCGGGGGUUCAAAUCCCUCUCUCGCCAC--c
+>URS0000A32CCE/4-76 [subseq from] tRNA from 1 species
+gau------GUAGCUCAGUUGGUCAGAGCACCGGACUCAUAAUCCGGGGGUCGAGGGUUCAAAUCCCUCCAUCACCAC--c
+>URS00009F1EAD/6-75 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGUCCCUGACCAC--c
+>URS0000E2ECA3/3-74 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGUC-GGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCUGCCCA---c
+>URS00021939E2/4-68 [subseq from] tRNA from 1 species
+g----CUGUAGCUCAGAUUGGGAGAGCACCAGGCUGAAGACCUGGGUGUCGCGAGUUCAAAUCUCGC-----------cg
+>URS0000E2A9A8/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAACCCGGGAGAGCGCGCGGCUGAAGACCGCGGUGUUGUGGGUUCAAAUCCCACCCGCCCCA---
+>URS0000E2211C/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCUUCCGGCUGUAGACCGGAGUGUCGCAGGUUCAAAUCCUGCCCGCCCGAC--c
+>URS000203FC63/4-71 [subseq from] tRNA from 2 species
+ac-----UGUAGCUCAGCUGGUUAGAGCACCAGACUGUGGAUCUGGGUGUCGGGGGUUCGAAUCCCCUCAG--------uc
+>URS0000AD6A6A/2-76 [subseq from] tRNA from 3 species
+g--GCCGGUAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCAGUUCAAUUCUGCCCUGGCCCACCA
+>URS0000AE3D61/2-76 [subseq from] tRNA from 1 species
+ggc----CAUUAGCUCAGCCUGGCAGAGCACCUGACUUUUAAUCAGGUUGUCGGAGGUUCAAAUCCUCCAUGGCUCAC--c
+>URS00020C5501/4-70 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGCCCGGAAGAGCACUCGGCUGAAGACCGAGGGGUCGGGGGUUCAAAUCCCCCCUG--------c
+>URS00013B210A/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAAUCCGCCCC---------u
+>URS0001A14869/3-74 [subseq from] tRNA from 1 species
+ug----AGGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGGGGUUCAAUUCCCUCUCUCACCA---c
+>URS000218A787/2-75 [subseq from] tRNA from 1 species
+g--GUCGGUAGCUCAG--UGGUAGAGCACCGGACUUUUAAUCCGGGUGUCGAGGGUUCGAGUCCCUCCCGACUCACC-a
+>URS00022E2E67/2-72 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCGACUCCCUCCCGCAC-----c
+>URS0000DE4F8C/5-70 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCCCGGGAGAGCACCCGGCUGAAGACCGGGGUGUCCGGGGUUCAAAUCCCCGCG---------gc
+>URS00022529A8/3-71 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAACUCCGCCCC---------ugcc
+>URS0000E5EA30/2-72 [subseq from] tRNA from 1 species
+g--GGACGUAGCUCAGCCUGGGAGAGCACCACGCUGAAGACGUGGGAGUCCGGGGUUCAAAUCCCCGCG---------uccc
+>URS0002309BC4/2-73 [subseq from] tRNA from 1 species
+g--GACCGUAGCUCAGUCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCGCGGGUUCAAAUCUCGCCGGUCC-----c
+>URS0000B65C8F/2-76 [subseq from] tRNA from 6 species
+g--GGUAGUAGCUCAGCCUGGuUAGAGCACCGGUCUCCAAAACCGGGUGUCGGGGGUUCGAAUCCCUCCUACCC-----ugc
+>URS0001E72BEC/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUUAGCCUGGCAGAGCAUCCGGCUGUAGACCGGAAUGUCGCAGGUUCAAAUCCUGCCCGCCCGAC--c
+>URS00022E7086/5-70 [subseq from] tRNA from 1 species
+cu------GUAGCUCAGCCUGGuUAGAGCACCGGACUCUUAAUCCGGGUGUCGGGAGUUCAAAUCUCCCC----------ag
+>URS0002243462/2-72 [subseq from] tRNA from 2 species
+gu---GUGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCAC-------acc
+>URS0000C908A7/2-72 [subseq from] tRNA from 1 species
+g--GACGGUAGCUCAGC-UGGGAGAGCGCUGGACUGAAGAUCCAGGUGUCGCGCGUUCAAGUCGCGCCCGUCC-----c
+>URS0001D49A3C/5-74 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGC-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAGUCCGCCCCGA-------ggcac
+>URS00021982D3/5-72 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCCUGGuUAGAGCACCGGACUCUUAAUCCGGUUGUCGGGGGUUCAAAUCCCCUC----------ggaa
+>URS0002515BAE/2-77 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCUUCCGGCUGUAGACCGGGUUGUCGCAGGUUCAAAUCCUGCCCGCCCGACC-a
+>URS00022E14C3/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGGGGUUCAAAUCCCUCCCUGACCAC--c
+>URS00021AAF28/2-74 [subseq from] tRNA from 1 species
+g--GCCGUUAGCUCAGU-UGGUAGAGCACCGGACUUUUAAUCCGGGUGUCGAGGGUUCGAAUCCCCCACGGCUCA---c
+>URS0000E14F85/4-70 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGCUCGGUAGAGCACUCGGCUGAAGACCGAGGUGUCGGUGGUUCAAAUCCGCCCCGC-------
+>URS0000D2EF99/2-77 [subseq from] tRNA from 2 species
+g--GCCGUUAGCUCAGUUUGGCAGAGCACCGGACUUUUAAUCCGGGUGUCGUGGGUUCGAGCCCCACACGGCCCACCA
+>URS00009CBB22/5-74 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGU-UGGUAGAGCACCGGACUGAAAAUCCGGGUGUCGCUGGUUCGAAUCCAGCCCGA-------ggcac
+>URS00022E2EF0/2-72 [subseq from] tRNA from 1 species
+gg---UAGGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAGUCCGCCCCUAC------cc
+>URS0000CB6059/4-76 [subseq from] tRNA from 2 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCAAAUCCCUCCCUCGCUAC--c
+>URS00005DE577/6-68 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGU-UGGUAGAGCAUCGGACUGAAAAUCCGAGUGUCGGGAGUUCAACUCUCCCCC---------u
+>URS00019D80AD/3-76 [subseq from] tRNA from 1 species
+c---GCGGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCGAUUCCGCCCUGCGCCACC-a
+>URS000223B963/7-65 [subseq from] tRNA from 1 species
+------GUAGCUCAGCCUGGUAGAGCACCGGACUCUUAAUCCGGGUGUCGUGGGUUCAAGUCCC-------------a
+>URS00022DC809/2-71 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAA--UGGGAGAGCACACGACUGAAGAUCGUGGUGUUGGGGGUUCGAUUCCCUCUCGCCC-----c
+>URS00019A3E24/2-73 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGUCUGGGAGAGCGCCCGACUGAAGAUCGGAAGGUCGCUGGUUCAAAUCCUGCCAGUCC-----c
+>URS0000CB0A3E/2-71 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGC--GGGAGAGCGCCAGACUGAAGAUCUGGAUGUCAAGGGUUCAAAUCCCUUCAGUCC-----c
+>URS00025C2FC5/2-73 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGACUGGGAGAGCACCACGCUGAAGACGUGGGUGUCCUGGGUUCAAAUCCCAGCAGUCC-----c
+>URS0000D18284/1-77 [subseq from] tRNA from 1 species
+GGGGCGUUAGCUCAAUCUGGCAGAGCACCGGACUCUUAAUCCGGGGGUUGCAGGUUCAACUCCUGCACGCCCCACCA
+>URS000223CDEC/2-71 [subseq from] tRNA from 1 species
+gg---UAGGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGCGGGUUCAACUCCCGCCC---------ugcc
+>URS000224AF8E/2-63 [subseq from] tRNA from 1 species
+g--GGACGUAGCUCAACCCGGGAGAGCACUAGACUGAAGCUCUAGGUGUCGGGGGUUCAAAU----------------au
+>URS0000CADEF9/2-73 [subseq from] tRNA from 1 species
+ga---GUGGUAGCUCAGUUUGGGAGAGCGCUAGACUGAAGAUCUAGAUGUCGCGAGUUCGAAUCUCGCCCACU------cc
+>URS0000DCB4D7/2-77 [subseq from] tRNA from 2 species
+-GGGCAGUAGCGCAGCCUGGUAGCGUACCUGAAUGGGGUUCAGGUGGUCGGGGGUUCAAAUCCCCCCUGCCCGACC-a
+>URS0001FB6EC2/5-68 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCCCGGGAGAGCGCCCGGCUGAAGACCGGGAUGUCGGGGGUUCAAAUCCCCCC----------g
+>URS0000E4A3B4/2-77 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCCUGGAGGAGCGCCGGCCUUAUAAGCCGGAGGUCGUGGGUUCAAAUCCCACCGGCCCCACCA
+>URS0002248C82/5-74 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGCCUGGGAGAGCACCCGGCUGAAGACCGGGUUGUCGCGCGUUCAAAUCGCGCCCU--------cggca
+>URS000059D6D6/6-75 [subseq from] tRNA from 2 species
+ga-------UAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGAGGGUUCGAAUCCCCCUCCGACCA---cc
+>URS0002309361/5-67 [subseq from] tRNA from 1 species
+cua-------UAGCUCAGUCUGGGAGAGCACUCGGCUGAAGACCGAGGUGUCGUGGGUUCAAAUCCCA------------cu
+>URS0000A271B7/4-74 [subseq from] tRNA from 1 species
+guu------GUAGCUCAGU-UGGUAGAGCAUCGGACUGAAAAUCCGUGUGUCGGCGGUUCGAAUCCGCCCAACACCA---c
+>URS0000B80E5D/6-76 [subseq from] tRNA from 2 species
+a------GUAGCUCAGCUGGUUAGAGCAUCGGAAUCAUAAUCCGGGUGUCGGGGGUUCAAGUCCCUCCUCCGCU----acc
+>URS000226B902/5-69 [subseq from] tRNA from 1 species
+gu------GUAGCUCAACCUGGGAGAGCACAUGGCUGAAGACCAUGUUGUCCGGGGUUCAAAUCCCCG-----------cac
+>URS0002256C6A/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGC-UGGGAGAGCACACGGCUGAAGACCGUGGUGUCGGGGGUUCGAGUCCCUCCCGCCCCA---
+>URS0000B7F567/4-76 [subseq from] tRNA from 2 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCAAAUCCCUCCCCCGCUA---cc
+>URS00022E56A8/3-68 [subseq from] tRNA from 1 species
+gcc-----CGUAGCUCAGUCUGGUAGAGCACCGGGCUCUUAACCCGGGUGUCGAGGGUUCAAAUCCCUCC----------g
+>URS0000C8CBAC/4-74 [subseq from] tRNA from 3 species
+---GCGGCAGCUCAGCCUGGGAGAGCGCCGGACUGAAGAUCCGGUGGGCCCGGGUUCAAAUCCCGGCCGC-------ggca
+>URS0002204A84/2-73 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUUAGCCUGGUAGAGCACCUGACUUUUAAUCAGGGGGUCGCGAGUUCAAAUCCCGUCCGGCC-----c
+>URS0000C8EA13/6-75 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAUUCCACCCCUGGCCAC--c
+>URS000218E1DE/5-75 [subseq from] tRNA from 2 species
+a-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAGUCCGCCCCUCGGCA---cc
+>URS00022EF4C3/2-75 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGCGGUUCGAUUCCGCCCCACACCAC--c
+>URS000224C33D/2-73 [subseq from] tRNA from 1 species
+gg---UCCGUAGCUCAGCCUGGGAGAGCAUACGGCUGAAGACCGUAGUAUCGGGAGUUCAAAUCUCCCCGGGCC-----c
+>URS0001250EF0/4-72 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGU-UGGUAGAGCACAGGACUGAAAAUCCUGGUGUCGUGGGUUCGAUUCCCACCCGA-------acc
+>URS0000DC8AE3/2-76 [subseq from] tRNA from 1 species
+ga---GCGAUAGCUCAGACUGGUAGAGCACUGGAUCUGGAAUCCAGGUGUCGAAGGUUCAACUCCUUCUCGCCCCACC-
+>URS0002206B10/5-67 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCUUGGUAGAGCACUGGACUCUUAAUCCAGGUGUCGAGGGUUCAAAUCCCU------------uc
+>URS00022CDD52/5-74 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGGGGUUCAAUUCCCUCCCUGUCC----ac
+>URS00025B7969/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCUUCCGGCUGUAGACCGGAGUGUCGCAGGUUCAAAUCCUGCUCGCCCGAC--c
+>URS0000E20807/3-72 [subseq from] tRNA from 1 species
+gc----CGGUAGCUCAGCCUGGUAGAGCACCUGACUUUUAAUCAGGGGGUCGCGGGUUCAAACCCCGUCCGG-------cc
+>URS00022502D9/4-75 [subseq from] tRNA from 16 species
+u----CGGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGUCUCGAGCCAC--c
+>URS00019AD11B/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGUGGUUCAACUCCGCCCC---------u
+>URS00021B5172/2-72 [subseq from] tRNA from 2 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCGAAACCCUCCCAC-------acc
+>URS0000D2B439/6-66 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCACCGGACUGAAAAUCCGGGUGUCGGUGGUUCGAACCCGCC-----------c
+>URS0000A02044/2-74 [subseq from] tRNA from 2 species
+-GGGCGGUAGCUCAGACCGGGAGAGCGUCCGGCUGAAGACCGGAAGGUCGUGGGUUCAAAUCCCACCCGCCCCA---
+>URS000206C8F1/6-67 [subseq from] tRNA from 1 species
+u------GUAGCUCAGCCUGGUAGAGCACGGCAUUGAAAAUGCCGGUGUCGGCGGUUCAAAUCCGCC-----------c
+>URS0000B664AA/6-68 [subseq from] tRNA from 13 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAAUCCGCCCC---------u
+>URS0000B4C17D/2-72 [subseq from] tRNA from 3 species
+-GGGCAGUAGCUCAGUUUGGCAGAGCACCGGUCUCCAAAACCGGUGGUCGGGGGUUCGAAUCCCUCCUGCC------c
+>URS0001EA7E2B/3-72 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAGUCCGCCCCUGC------cc
+>URS0000CBCAEC/2-77 [subseq from] tRNA from 1 species
+gg---CUGGUAGCUCAGCUCGGUAGAGCACCUGACUUUUAAUCAGGGUGUCCAGGGUUCGAAUCCCUGCCGGCCCACCA
+>URS0002596134/7-68 [subseq from] tRNA from 1 species
+------GUAGCUCAAUCUGGCAGAGCGCCGGACUGUGGAUCCGGUUGUUGGGGGUUCAAUUCCCCU-----------cg
+>URS00004A4094/2-72 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGCCAGGAAGAGCAGCGGACUCUUAAUCCGCCGGUCGGGGGUUCAAAUCCCUCCCGGC------c
+>URS00022DFD1B/5-69 [subseq from] tRNA from 1 species
+au------GUAGCUCAGU-UGGUAGAGCAUCGGACUGAAAAUCCGUGUGUCGGAGGUUCAAAUCCUCU-----------cauc
+>URS0000E1938F/4-70 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGCCUGGGAGAGCGUCCGGCUGAAGACCGGAUUGUCGGGAGUUCAAGUCUCCCCCGC-------
+>URS00022EFB7B/5-70 [subseq from] tRNA from 1 species
+cu------GUAGCUCAGCCUGGuUAGAGCGCCGGACUCUUAAUCCGGGUGUCGGGGGUUCAAAUCCCUCC----------ag
+>URS00022F75AF/6-75 [subseq from] tRNA from 1 species
+ga-------UAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAACUCCGCCUCUGCCCAC--c
+>URS0000BAAEB3/4-71 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGU-UGGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCG--------agc
+>URS0000CA703F/2-69 [subseq from] tRNA from 1 species
+ggc----CUAUAGCUCAACCUGGGAGAGCACUAGACUGAAGAUCUAGUUGUUCAGGGUUCAAAUCCC-------------ugugg
+>URS00021B5E58/3-76 [subseq from] tRNA from 1 species
+--GGCGGUAGUUCAGUCUGGUAGAACGGCGGACUGUAGAUCCGCAUGUCGCUGGUUCAAAUCCGGCCCGCCGGA---cc
+>URS00021BEFC7/5-67 [subseq from] tRNA from 1 species
+cu------GUAGCUCAACCUGGCAGAGCACCUGACUGUAGAUCAGGGUGUUGCCGGUUCAAAUCCG-------------gcc
+>URS00022EDF14/5-75 [subseq from] tRNA from 1 species
+u-----GGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCAAGCCAC--c
+>URS00021C721E/3-69 [subseq from] tRNA from 1 species
+gcc-----CGUAGCUCAGCUUGGUAGAGCACCGGACUUUUAAUCCGAUGGUCGAGGGUUCAAAUCCCUCC----------gg
+>URS0000CEAAF1/5-68 [subseq from] tRNA from 3 species
+cc------GUAGCUCAGCCUGGuUAGAGCACCGGACUUUUAAUCCGGGUGUCGAGGGUUCAAAUCCCU------------uc
+>URS0000AE1E2C/3-72 [subseq from] tRNA from 2 species
+gca-----GGUAGCUCAGUC-GGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCUGC------cc
+>URS00023056E4/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCAAAUCCGCCCC---------c
+>URS00021CAB66/2-69 [subseq from] tRNA from 1 species
+gg---CCCGUAGCUCAGCUUGGUAGAGCACCAGACUCUUAAUCUGGCUGUCGAGGGUUCAAAUCCCUCC----------gg
+>URS0000B7A045/6-65 [subseq from] tRNA from 1 species
+ca------GUAGCUCAGCCUGGGAGAGCGCCAGACUGAAGAUCUGGUUGUCGCCUGUUCAAAUC---------------ag
+>URS0000E18CDA/6-67 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGUGGUUCAACUCCACU-----------cc
+>URS00020AC1A7/6-68 [subseq from] tRNA from 1 species
+g------GUGGCGUAGCCCGGGAACGCACCAGACUGAAGAUCUGGGUAUCGGGAGUUCAAAUCUCCCC----------c
+>URS00021DD219/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGGGGUUCGAUUCCCUCCC---------u
+>URS00025D2F6E/2-73 [subseq from] tRNA from 1 species
+g--GACAGUAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGCUGUCGUGCGUUCAAAUCGCACCUGUCC-----c
+>URS0000779910/5-68 [subseq from] tRNA from 3 species
+a-----GGUAGCUCAGCCUGGGAGAGCACCGCGCUGAAGACGCGGCUGUCGCGCGUUCAAAUCUCGCC----------c
+>URS00022CF7E3/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGGGGUUCGAUCCCCCCC----------cu
+>URS0000AD6FD2/5-74 [subseq from] tRNA from 1 species
+u-----GGUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCAAACC----ac
+>URS00021A7012/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCUUCCGGCUGUAGACCGGAUUGUCGCAGGUUCAAAUCCUGCCCGCCCGAC--c
+>URS0000B1E1B2/2-76 [subseq from] tRNA from 1 species
+g--GACGGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGCGGUUCGAUUCCGCCCCGUCCCACCA
+>URS0000E5C92D/2-75 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGCGGUUCGAUUCCGUCCCGCACCAC--c
+>URS0001F461F2/4-75 [subseq from] tRNA from 1 species
+gac------GUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCGAUUCCCUCCCACACCAC--c
+>URS000220C7AA/5-75 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGCCUGGGAGAGCGCCCGGCUGAAGACCGGGUUGUCGUGCGUUCAAAUCGCACCCUC-------ggcac
+>URS0001C37DE8/6-73 [subseq from] tRNA from 2 species
+c------GUAGCUCAGCUAGGUAGAGCAUCGGACUGUGGCUCCGAUGGUCGGGGGUUCAAAUCCCCUCGU--------ccac
+>URS0002307103/6-68 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGUCC----------cu
+>URS00021B54C8/5-74 [subseq from] tRNA from 2 species
+a-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCAAUUCCGCCCCUCG------gcac
+>URS0002308078/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGGGGUUCAAUUCCCUCCCCAGCCA---cc
+>URS00021FBFA2/2-73 [subseq from] tRNA from 1 species
+-GGGCGAUAGCUCAGCCUGGGAGAGCACUACGCUGAAGACGUAGGUGUCCUGGAUUCAAAUUCCAGUCGCCC-----c
+>URS0000CBA436/4-76 [subseq from] tRNA from 1 species
+c----CGGUAGCUCAGU-UGGUAGAGCACGGGAUUGAAAAUCCUGGUGUCGGCAGUUCAAAUCUGCCUCGGUCCACC-a
+>URS0001C817DE/4-70 [subseq from] tRNA from 1 species
+cc-----UGUAGCUCUAACUGGCAGAGCACCGGACUCCAAAUUCGGGUGUUGGGGGUUCGAAUCCCUCC----------agg
+>URS00021BC9FB/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUGGCUCAGUCUGGAAGAGCACACGGCUGAAGACCGUGGUGUCGCUGGUUCAAAUCCGGCUCGCCCC----a
+>URS00019B8E52/2-77 [subseq from] tRNA from 1 species
+g--GGAUGUAGCUCAGCCUGGGAGAGCGCCGGAAUCGCACUCCGGAGGUCGGGGGUUCGAAUCCCCUCAUCUCCACC-a
+>URS0002558A75/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAACCUGGUAGAGCAUCGGACUUUUAAUCCGAUGGUUGCGGGUUCGAAUCCCGUCCGCCC-----c
+>URS0000E1099A/2-70 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAG--UGGUAGAGCACCGGACUUUUAAUCCGGGUGUCGUGGGUUCGAAUCCCACCCGG-------cu
+>URS0002299E60/5-75 [subseq from] tRNA from 1 species
+u-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAUUCCACCCUAGGCCA---cc
+>URS00000465D8/5-75 [subseq from] tRNA from 3 species
+cu------GUAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGCCCGGAGCCAC--c
+>URS0000CA2BB1/2-73 [subseq from] tRNA from 1 species
+g--GACGGUAGCUUAAUCCGGGAAAGCACUAGACUGAAGAUCUAGUGAUUGAGGGUUCAAAUCCCUCUCGUCC-----c
+>URS00002B11CE/2-72 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGUUAGGGAGAGCAUCUGACUCUUAAUCAGACAGUCGGGGGUUCAAAUCCCUCCCGGC------c
+>URS0002272B73/6-67 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGGGGUUCGAUUCCCUCC----------c
+>URS0001CA930B/5-68 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGCCCGGUAGAGCACCUGACUGAAAAUCAGGGAGUCCUGGGUCCAAAUCCCA------------gcc
+>URS00001453B5/5-66 [subseq from] tRNA from 2 species
+cc------GUAGCUCAGCCUGGGAGAGCGCCCGGCUGAAGACCGGGUUGUCCGGGGUUCAAAUCCCC------------g
+>URS00020C027E/5-66 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCCUGGGAGAGCGCCCGGCUGAAGACCGGGAUGUCCGGGGUUCAAAUCCCC------------g
+>URS0000AE4FC8/4-71 [subseq from] tRNA from 8 species
+aau------GUAGCUCAGC--GGGAGAGCACAUGACUGAAGAUCAUGGUGUCGGGGGUUCGACUCCCCCCAU--------uccc
+>URS00021C4ACE/3-72 [subseq from] tRNA from 1 species
+gcu-----GGUAGCUUAGUCAGGCAGAGCAUCGGACUCUUAAUCCGAGGGUCGGGGGUUCAAAUCCCUUCC---------agcc
+>URS00022DDAC6/4-72 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGU-UGGUAGAGCAACGGAUUGAAAAUCCGUGUGUCGGCGGUUCAAGUCCGCCCCUC-------acc
+>URS0002248274/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUUAGCCUGGGAAAGCAUACGGCUGAAGACCGUAGGACCGGGAGUUCAAAUCUCCCUCGCCCCA---
+>URS0000E3C9C0/4-71 [subseq from] tRNA from 1 species
+ca-----GGUAGCUCAGG-UGGUAGAGCACCGGACUGAAAAUCCGGGUGUCGGCGGUUCGAGUCCGCCCC---------ugcc
+>URS00022605B3/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCUUCCGGCUGUAGACCGGAGCGUCGCAGGUUCAAAUCCUGCCCGCCCGAC--c
+>URS0000CB7DAE/3-67 [subseq from] tRNA from 2 species
+ggucc-------UAGCUCAGCCCGGGAGAGCACACGGCUGAAGACCGUGGUGUCGAGGGUUCAAAUCCCU------------cg
+>URS0000677DD2/6-67 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAAUCCGCCC----------c
+>URS0000CB756E/2-73 [subseq from] tRNA from 1 species
+gg---AAGGUAGCUCAGCCUGGGAGAGCGCUACGCUGAAGACGUAGAUGUCGUGGGUUCAAAUCCCACUCUUC------cc
+>URS00021E3CA2/4-71 [subseq from] tRNA from 1 species
+ggc------GUAGCUCAGCCUGGGAGAGCGUCCGGCUGAAGACCGGUGCGUCGUGGGUUCAAAUCCCACC-G--------ccc
+>URS00022316D2/2-72 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUCCCGCCCGGUC------cc
+>URS000030D71D/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCAAUUCCGUCCCUGGCCA---cc
+>URS00019FCE5A/4-71 [subseq from] tRNA from 1 species
+gg-----GGUAACUCAGCCUGGGAGAGUGUCCGGCUGAAGACCGGAAUGUCGUGGGUUCAAAUCCCACCCC--------cc
+>URS0000B104F5/3-74 [subseq from] tRNA from 9 species
+gca-----GAUAGCUCAGUC-GGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGGGGUUCAAUUCCCUCUCUGCCCA---c
+>URS0000E12FDB/4-73 [subseq from] tRNA from 1 species
+cc-----AGUAGCUCAACCUGGCAGAGCACCGGUCUCCAAAACCGGGUGUUGGGGGUUCGAGUCCCUCCUGGC------cu
+>URS00020993A6/2-72 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUUGGUAGAGCUUCCGGCUGUAGACCGGAGUGUCGCAGGUUCAAAUCCUGCCCGCC------c
+>URS00022EEA81/2-75 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAG--GGGUAGAGCACCGGACUUUUAAUCCGGGUGUCGAGGGUUCGAAACCCUCCCGGCUCACC-a
+>URS00022432DB/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGCUGGUUAGAGCAGCGGACUCAUAAUCCGUCGGUCGUGGGUUCAAGUCCCACCCGCCC-----u
+>URS000218B32A/3-76 [subseq from] tRNA from 1 species
+g---GGGGUAACUCAACCUGGGAGAGUGUCGGACCCAUCAUCCGAAUGUUGAGGGUUCAAAUCCCUCCCCCCGCAC--c
+>URS0000AE5FA5/4-74 [subseq from] tRNA from 2 species
+cc-----UGUAGCUCAGUCCGGuUAGAGCACCGGUCUCCAAAACCGGGUGUCGGGGGUUCAAAUCCCUCCAGGC------cu
+>URS0000D78EDC/4-71 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGUCCCG--------agc
+>URS00022FE530/5-75 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGGGGUUCAAUUCCCUCCCUCGGCA---cc
+>URS0000A649D4/2-75 [subseq from] tRNA from 1 species
+-GGGCAGUAGCUCAACUUGGCAGAGCAUCGGACUCCAAAUCCGAAGGCUGGGGGUUCAAGUCCCUCCUGCCC-----ugc
+>URS0000DD28C2/4-76 [subseq from] tRNA from 1 species
+c----CGGUAGCUCAGCUGGAUAGAGCACCAGACUUCGAAUCUGGGGGUCAGGGGUUCAAAUCCUCUCCGGCGCAC--c
+>URS00021DB631/6-76 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGUCUGGUAGAGCAGGGGACUGAAAAUCCCCGUGUCGGCGGUUCAAGUCCGUCCCUGGCCA---cc
+>URS0000E2A4C2/3-75 [subseq from] tRNA from 2 species
+gc----CGGUAGCUCAGCCGGGAAGAGCACCGGGCUUUUAACCCGGGGGUCGCGGGUUCAAAUCCCGCCCGGCCC----gc
+>URS00019DA5A6/5-75 [subseq from] tRNA from 1 species
+gc------GUAGCUCAGCCUGGUAGAGCACUGGUUUUGGGAGCCAGGUGUCGGUGGUUCAAAUCCACUC-GCCC-----cgac
+>URS000221F09F/5-68 [subseq from] tRNA from 1 species
+cu------GUAGCUCAGCCUGGCAGAGCACUGGGCUUUUAACCCAGGUGUCAGGGGUUCAAAUCCCCU-----------cg
+>URS0001DD292D/5-73 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGUCCGGGAGAGCGACCGGCUGAAGACCGGUGCGUCGUGGGUUCAAAUCCCACCCGUCC-----c
+>URS0000E342D9/5-73 [subseq from] tRNA from 1 species
+g-----GGUAGCUCAGU-UGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGCCGGUUCAAAUCCGGCUCC--------gccca
+>URS00019E37EF/5-102 [subseq from] tRNA from 1 species
+cgguagcuuagccuggaaaacuucuuucagaaguuuagg-----------------UAAGAGAGCGCAGGACUGAAGAUCCUGUUGUCGGGAGUUCGAAUCCCCCCCGCGACAC--c
+>URS0000CB8BDB/5-71 [subseq from] tRNA from 1 species
+au------GUAGCUCAG--GGGGAGAGCACAUGACUGAAGAUCAUGGUGUCGAGGGUUCAAAUCCCUCCAU--------uccc
+>URS00022DBD59/5-68 [subseq from] tRNA from 1 species
+u-----GGUAGCUCAGCCUGGCAGAGCACUAGACUUUUAAUCUAGGUGUCGCGGGUUCAAAUCCCGU-----------cc
+>URS0002208D5E/5-74 [subseq from] tRNA from 2 species
+uc------GUAGCUCAGCCAGGUAGAGUACCGGACUUUUAAUCCGGCUGUCGGGGGUCCGAUUCCCCCCGGACC-----cg
+>URS0000BBF908/6-68 [subseq from] tRNA from 4 species
+-----GGUAGCUCAGU-UGGUAGAGCAUCGCACUGAAAAUGCGGGUGUCGGUGGUUCAAAUCCGCCCC---------u
+>URS0000CBA924/5-75 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCCUGGGAGAGCGCCCGGCUGAAGACCGGGGUGCCGAGUGUUCAAAUCACUCCGGCGG-----cac
+>URS000225EEA6/6-69 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGGGGUUCAAUUCCCUCCC---------ua
+>URS0000AE494D/1-75 [subseq from] tRNA from 1 species
+GGGGCGGUAGCUCAGCUGGUCAGAGCAUCGGACUCAUAAUCCGCCGGUCACGGGUUCAAAUCCCGUCCGCCCUA---c
+>URS000072A3C6/4-70 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCAAAUCCCUCCC---------cc
+>URS00021BA6F6/6-63 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGUCUGGGAGAGCGUCGGACUGAAGAUCCGAUUGUCCCCGGUUCAAAUCC--------------
+>URS00022EB733/2-72 [subseq from] tRNA from 1 species
+g--GUUGGUAGCUCAGACCGGUAGAGCAACGGACUUUUAAUCCGUGGGUCGGGGGUUCGAUUCCCCCCC---------aacu
+>URS0002238EC5/3-73 [subseq from] tRNA from 1 species
+gcc-----CGUAACUUAGCCUGGUAGAGUACCGGUCUUAUAAGCCGGUGGUCGGGGGUUCAAAUCCCCUCGGGCC-----c
+>URS00022543AB/4-76 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGC-UGGUAGAGCGCUGGAUUGAAGAUCCAGGCGUCGGGAGUUCGAACCUCUCCUGGUCCACC-a
+>URS00020EF760/4-74 [subseq from] tRNA from 1 species
+cc-----UGUAGCUCAGCCUGGcUAGAGCACCGGUCUCCAAAACCGGGUGUCGGGGGUUCGAAUCCCUCCAGGC------cu
+>URS00021E7567/4-69 [subseq from] tRNA from 1 species
+ggu------GUAGCUCAACCUGGuUAGAGCAUCGGACUGUGGAUCCGAAUGUUGGGGGUUCAAAUCCCCU-----------ca
+>URS00021BCC6A/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCACCUGACUGAAAAUCAGGGUGUCGGCGGUUCAACUCCGUCCCUGGCCA---cc
+>URS00022CDB8C/3-75 [subseq from] tRNA from 1 species
+g---GCUGUAGCUCAGU-UGGUAGAGCACCUGAUUGAAGCUCAGGGUGUCGGGGGUUCGAACCCCUCUGGUCGCAC--c
+>URS000219BC72/4-67 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGCCUGGUAGAGCGCCGGACUCAUGAUCCGGAGAUCGCGAGUUCAAAUCUCG------------cc
+>URS00022582B7/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGGUUGGUAGAGCACCGCGCUGAAAACGCGGGUGUCGGCGGUUCAAAUCCGCCC----------c
+>URS0000E464C9/3-76 [subseq from] tRNA from 3 species
+gucua-------UGGCUCAGCCAGGUAGAGCACCGGACUCUUAAUCCGGCUGUCGAGGGUUCGAAUCCCUCUAGACCCG---cc
+>URS000001539E/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGAUUGAAGUUCCGCGUGUCGGUGGUUCAAAUCCUCCCC---------u
+>URS0001A0F4A5/4-76 [subseq from] tRNA from 2 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGGAGGUCGGGGGUUCAAAUCCCUCCCCCGCUA---cc
+>URS00021C33A1/7-75 [subseq from] tRNA from 1 species
+------GUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGUGUGUCGGUGGUUCAAUUCCACCCUUGGCCA---cc
+>URS0000DB520B/2-72 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCAGUUCAAUUCUGCCCUGGCC-----c
+>URS0000E1FFBF/1-71 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGCCUGGUAGAGCUUCCGGCUGUAGACCGGAGUGUCGCAGGUUCAAAUCCUGCCCGCCCGAC--c
+>URS000256C36B/2-77 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGUUUGGUAGAGCUUCCGGCUGUAGACCGGAGUGUCGCUGGUUCAAAUCCGGCCCGCCCGACC-a
+>URS00021990AF/5-74 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGG-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCGAAUCCGCCCCGA-------ggcac
+>URS0002068945/2-76 [subseq from] tRNA from 1 species
+g--GGAUGUAGCUCAGCUGGUUAGAGCAUCGGAAUCAUAAUCCGAGUGUCAGGGGUUCAAGUCCCUUCAUCCCUAC--c
+>URS00021BC98F/5-67 [subseq from] tRNA from 1 species
+gca-------UAGCUCAGCCUGGGAGAGCACACGGCUGAAGACCGUGGUGUCCGGGAUUCAAAUUCCC------------gu
+>URS00025E009D/4-76 [subseq from] tRNA from 1 species
+ga-----GAUAGCUCAGUUUGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGACGGUUCGAUCCCGUCUCUCGCCAC--c
+>URS0000E222E0/2-76 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGCCCGGUAGAGCAACGGACUUUUAAUCCGUGGGCCGCGGGUUCGAAUCCCGCCCGGCUCAC--c
+>URS000138E871/6-67 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAGUCCGCCC----------c
+>URS0002511D0A/2-73 [subseq from] tRNA from 1 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGCGGUUCGAUUCCGCCCCACACC----a
+>URS00007DCC61/4-76 [subseq from] tRNA from 1 species
+gaa------GUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCAAAUCCCUCCUUCGCUA---cc
+>URS00025E196A/4-74 [subseq from] tRNA from 1 species
+gau------GUAGCUCAGCUGGUUAGAGCACCGGAUUGUGGUUCCGGGGGUCGUGGGUUCAAAUCCCAUCA---------uccacc
+>URS00007CB3A3/2-72 [subseq from] tRNA from 3 species
+gu---GCGGUAGCUCAGG-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGCGGUUCGAAUCCGCCCCAC-------acc
+>URS0000E39895/4-76 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGUCUGGGAGAGCGCCCGGCUGAAGACCGGGUUGUCGCCGGUUCAAAUCCGGCCCGCGGCAC--c
+>URS00022DB96C/5-69 [subseq from] tRNA from 1 species
+uu------GUAGCUCAGCUUGGcUAGAGCACCGGACUCUUAAUCCGGGUGUCGGGGGUUCGAAUCCCCU-----------ca
+>URS0000E08D30/2-73 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGCCUGGUAGAGCAGCGGACUUUUAAUCCGAAGGUCGCGAGUUCAAAUCUCGUCCGGCC-----c
+>URS00019B71CC/5-72 [subseq from] tRNA from 1 species
+ac------GUAGCUCAGCCUGGGAGAGCACUACGCUGAAGACGUAGGUGUCGAGGAUUCAAAUUCCUCC----------guucc
+>URS000200647C/2-72 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGUCCGGUAGAGCGGUGGACUCCAAAUCCAUUGGUCGGGGGUUCAAAUCCUCUCCGCC------c
+>URS0000217F64/6-76 [subseq from] tRNA from 3 species
+c------GUAGCUCAACCUGGUAGAGCAACGGACUCUUAAUCCGUGAGCUGGGGGUUCGAAUCCCCCCGGGCCUAC--c
+>URS0000CB8B51/7-68 [subseq from] tRNA from 3 species
+a-------UAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGCCU----------cu
+>URS0000E50F3D/5-74 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGC-UGGUAGAGCAGUGGACUGAAAAUCCACGUGUCGGUGGUUCAACUCCGCCCCGA-------ggcac
+>URS00005D60AD/6-74 [subseq from] tRNA from 24 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGCCGAGGGUUCAAGUCCCCCUCCG-------accac
+>URS00015B2446/2-76 [subseq from] tRNA from 1 species
+g--GACGAUAGCUCAGUC-GGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGCGGUUCGAUUCCGCCUCGUCCCACCA
+>URS0000CB8EC6/2-71 [subseq from] tRNA from 1 species
+g--GGAUGUAGCUCAG--UGGGAGAGCACAUGACUGAAGAUCAUGGUGUCGGGUGUUCGAUUCACCCCAUCCC-----c
+>URS0000DCFFBA/4-76 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGUUAGGUAGAGCAGAGGAAUCAUAAUCCUUGUGUCGGGGGUUCAAAUCCCUCCUCCGCU----acc
+>URS000082EB81/7-68 [subseq from] tRNA from 2 species
+a-------UAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAAUCCACCU----------cu
+>URS0000E50693/5-76 [subseq from] tRNA from 1 species
+ca------GUAGCUCAGCUGGAUAGAGCACCAGACUUCGGAUCUGGGUGUCAGGGGUUCGAAUCCUCUCUGGCGCAC--c
+>URS00022CD5C4/2-73 [subseq from] tRNA from 1 species
+g--GGUUGUAGCUCAGCCUGGGAGAGCACAUCGCUGAAGACGAUGGUGUCGCGUGUUCAAAUCACGCCAACCC-----c
+>URS00022D09B7/2-61 [subseq from] tRNA from 1 species
+-GGGCAGUAGCUCAAUCUGGGAGAGCACUAGACUGAAGAUCUAGGUGUUCCGGGUUCAAAU----------------
+>URS0002208A2C/6-67 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGU-UGGUAGAGCAACGGAUUGAAAAUCCGUGUGUCGGCGGUUCAAAUCCGUCC----------c
+>URS00021B360A/2-71 [subseq from] tRNA from 1 species
+gg---UAGGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGCCGGUUCAAUUCCGGCCC---------uacc
+>URS0000E4E313/2-71 [subseq from] tRNA from 1 species
+-GGGUGGUAGCUCAG--GGGGAGAGCAACCGGCUGAAGACCGGUGUGUCGUGGGUUCAAAUCCCACCCACCC-----c
+>URS0000234FC9/4-76 [subseq from] tRNA from 20 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCAAGUCCCUCCCUCGCUAC--c
+>URS00022E15F6/6-67 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-AGGUAGAGCAGCGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGCCC----------c
+>URS0000C8B673/4-71 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUUGAUUCCCUCCCG--------agc
+>URS0002223BC8/3-73 [subseq from] tRNA from 1 species
+gg----AUGUAGCUCAGGCUGGUAGAGCGCCGGACUGUGGCUCCGGAAGUCGCGGGUUCAAAUCCCGUC----------auccac
+>URS00021B0868/2-73 [subseq from] tRNA from 1 species
+g--GACUGUAGCUCAGCCCGGGAGAGCGCCAGGCUGAAGACCUGGGUGUCGCCAGUUCAAAUCUGGCCAGUCC-----c
+>URS00021EB52B/2-75 [subseq from] tRNA from 1 species
+-GGGCUGUAGCUCCAAUCGGUAGAGCACCGGUCUCCAAAACCGGGUGUUGGGGGUUCGAAUCCCUCCAGCCC-----ugc
+>URS00009DD754/4-71 [subseq from] tRNA from 1 species
+cag------AUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGCCUC---------ugcc
+>URS00019D4A9B/6-75 [subseq from] tRNA from 4 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCAGGGGUUCGACUCCCUUCCCCGCCAC--c
+>URS0002549C52/2-73 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGC-UGGGAGAGCGUCCGGCUGAAGACCGGAAGGUCGUGGGUUCAAAUCCCACCCGCCCCA---
+>URS0001ECEAC9/5-73 [subseq from] tRNA from 1 species
+g-----GGUAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGACGGUUCAAUUCCGCCCCC--------cggca
+>URS00021D6F4B/1-74 [subseq from] tRNA from 1 species
+GGGGCGGUAGCUCAGCUGGUUAGAGCAGCAGACUCAUAAUCUGUAGGUCGUGGGUUCAAGUCCCACCCGCCCCA---
+>URS0000CD57D7/2-73 [subseq from] tRNA from 4 species
+gg---CCUGUAGCUCAGCAUGGUAGAGCAGCGGACUUUUAAUCCGUUUGUCGAGGGUUCGAAUCCCUCCGGGCC-----c
+>URS0001E5F2B2/7-68 [subseq from] tRNA from 1 species
+------GUAGCUUAGGUUGGGAGAGCGCUGGACUGAAGAUCCAGUUGUCGUGAGUUCAAAUCUCGC-----------cg
+>URS0000CB7DED/3-76 [subseq from] tRNA from 2 species
+gca-----GGUAGCUCAGU-UGGUAGAGCAAAGGAUUGAAGCUCCUUGUGUCGGGGGUUCGAUUCCCUCCCUGCCCACC-a
+>URS0002589D81/2-74 [subseq from] tRNA from 1 species
+-GGGUGGUAGCUCAGAUGGUAAGAGCCACGGACUCAUAAUCCGGGAGUCGCGGGUUCAAGUCCCGCCCACCCC----a
+>URS0000E27B7D/5-69 [subseq from] tRNA from 1 species
+----CGGUUGCUUAGCCUGGUAGAGCACCGGACUUGUAAUCCGGCGGUCGCGGGUUCAAAUCCCGCCC---------g
+>URS0000C95FE7/5-75 [subseq from] tRNA from 1 species
+u-----GGUAGCUCAGU-AGGUAGAGCAGCGGACUGAAAAUCCGUGUGUCGGCGGUUCAAUUCCGUCCCAAGCCAC--c
+>URS00022536A4/3-74 [subseq from] tRNA from 1 species
+g---GCCGUAGCUCAGCUGGUUAGAGCGCCGGACUGUGGCUCCGGAGGUCGGGGGUUCAAAUCCCCUCGGUC------acc
+>URS0000CA29C0/3-72 [subseq from] tRNA from 1 species
+--GGCUGUAGCUCAGUUGGUUAGAGCAUCGGAUUGUGGUUCCGAGGGUCGGGGGUUCAAAUCCCCUCAGCC------a
+>URS0000D167F1/5-74 [subseq from] tRNA from 2 species
+----CGGUAGCUCAG--UGGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGUGGUUCAAUUCCUCCCCGUGGCAC--c
+>URS0001CFC9BA/6-69 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGCCUGGCAGAGCUUCCGGCUGUAGACCGGAGUGUCGGGUGUUCAAAUCACCCCC---------c
+>URS00008116B5/7-74 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCACUGGACUGAAAAUCCAGGUGUCGGCGGUUCGAUUCCGCCCC---------uggccc
+>URS0000DD6AAE/4-69 [subseq from] tRNA from 2 species
+ccc------GUAGCUCAGCUUGGUAGAGCAUCGGGCUCUUAACCCGAGGGUCGGGGGUUCAAAUCCCCCC----------gg
+>URS00020FCEB9/3-74 [subseq from] tRNA from 5 species
+g---GCUGUAGCUCAGU-UGGCAGAGCACCGGGUUGUGGUCCCGGGUGUCGGGGGUUCAAAUCCCCUCAGUC------accc
+>URS0001E4990B/1-63 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGGGGUUCAAUUCCCUU-----------cc
+>URS0000A3A014/6-75 [subseq from] tRNA from 5 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCAAUUCCGUCCCUGGCCA---cc
+>URS0001F506F6/2-73 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCCUGGGAGAGCGCGCGGCUGAAGACCGCGUUGUCCGGGGUUCAAAUCCCCGCGGCCC-----c
+>URS0001C84628/3-75 [subseq from] tRNA from 1 species
+--GGCUGUAGCUCAGUUGGUAAGAGCACCCGACUGUGGAUCGGGAGGUCGGGGGUUCAAGUCCCCUCAGCCA-----ccc
+>URS0000C91F14/2-78 [subseq from] tRNA from 1 species
+g--GCCGUUAGCUCAGUCUGGuUAGAGCACCGGACUUUUAAUCCGGGUGUCCAGGGUUCGAAUCCCUGACGGCCCACC-a
+>URS0002274EC6/2-73 [subseq from] tRNA from 1 species
+gg---UCCGUAGCUUAGCCUGGUUGAGCACCGGUCUUAUAAGCCGGAAGUCGUGGGUUCAAAUCCCAUCGGAC------cc
+>URS00018287D3/2-76 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAACCGGGUAGAGCAGCGGACUCAUAAUCCGUUUGGUGGGGGUUCGAGUCCUCCCCGGCCCA---uc
+>URS00021EAB79/6-73 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCACCGCACUGAAAAUGCGGGUGUCGGCGGUUCAAGUCCGCCCCC--------gacca
+>URS0000A4522D/4-76 [subseq from] tRNA from 1 species
+gg-----GAUAACUCAACCUGGGAGAGUGUCGGUCGUUCGAUCCGAAUGUUGGGGGUUCAAAUCCCCCUCCCCGCAC--c
+>URS00021AAF42/4-76 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCGAAUCCCUCCCCCGCUA---cc
+>URS000082B453/5-74 [subseq from] tRNA from 1 species
+u----CGGUAGCUCAGUC-GGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCGAUUCCGUCCCGAGC-----ca
+>URS00000F30FD/4-76 [subseq from] tRNA from 12 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAACGGAAUCAUAAUCCGUGUGUCGCGGGUUCAAAUCCCUCUCCCGCU----acc
+>URS00022DCFF1/5-76 [subseq from] tRNA from 1 species
+ccu-------UAGCUCAGGCUGGCAGAGCACCGGACUUUUAAUCCGGGUGUCCAGGGUUCGAAUCCCUGAGGGCCCAC--c
+>URS00019F0CB5/2-73 [subseq from] tRNA from 2 species
+ga---GAGGUAGCUCAGUCGGUUAGAGCACUAGCCUGAAAAACUAGGUGUCGGUGGUUCAAUUCCACCCCUCU------cc
+>URS0000A2C1D9/2-76 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGUCGGUCAGAGCAGCGGACUCAUAAUCCGUCGGUCGUGGGUUCGAGUCCCACCCGCCCCACC-
+>URS000230A4AB/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGUC-GGUAGAGCACAGGACUGAAAAUCCUGGUGUCGGCGGUUCAAGUCCGCCCC---------u
+>URS00021E3F90/3-75 [subseq from] tRNA from 1 species
+c---GCGGUAGCUCAGC-UGGUAGAGCAACGGACUGAAAAUCCGUGGGUCGCCGGUUCAACUCCGGCCUGCGCCAC--c
+>URS0001A0E5A0/7-68 [subseq from] tRNA from 1 species
+------GUAGCUCAGCUGGUUAGAGCACUGGACUGUGGCUCCAGGGGUCGGGGGUUCAAAUCCCCU-----------cg
+>URS0000E3F2D6/6-69 [subseq from] tRNA from 1 species
+u------GUAGCUCAGUUGGUUAGAGCACCGGAUUGUGGUUCCGGGGGUCGGGGGUUCAAAUCCCCU-----------cau
+>URS00021AD8C3/2-71 [subseq from] tRNA from 1 species
+gg---CCUGUAGCUCAGCCAGGUAGAGCAUCGGACUUUUAAUCCGAGGGUCGAGGGUCCGAAUCCCCCCAG--------gc
+>URS0002307AD5/5-75 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGU-UGGUAGAGCACAGGACUGAAAAUCCUGGUGUCGGCGGUUCGAGUCCGCCCCUCGGCA---cc
+>URS0000CA15FC/3-72 [subseq from] tRNA from 8 species
+--GGCGGUAACUCAGC-UGGGAGAGUGCUAGACUGAAGAUCUAGAAGUCGUGGGUUCAACUCCCACCUGCC------uc
+>URS0001D20086/2-73 [subseq from] tRNA from 1 species
+g--GCCGGUAGCUCAGCCCGGUAGAGCACGGGACUCUUAAUCCUGGGGUCGCAGGUUCAAAUCCUGCCCGGCC-----c
+>URS00021A64F7/5-68 [subseq from] tRNA from 1 species
+cc------GUAGCUCAGCCUGGGAGAGCGCCCGGCUGAAGACCGGGGUGCCGAGUGUUCAAAUCACUC-----------cg
+>URS00020C20F8/5-68 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGUCUGGGAGAGCGCCCGGCUGAAGACCGGGUUGUCGCAGGUUCAAAUCCUGCC----------c
+>URS0002196914/2-65 [subseq from] tRNA from 1 species
+u--------AGCUCA-UCUGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCGAAUCCGCCCCU--------gcc
+>URS0000E48F9E/6-66 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAGUCCGCC-----------c
+>URS0001EE2F82/6-68 [subseq from] tRNA from 1 species
+u------GUAGCUCAGUCUGGCAGAGCAGGGGAAUCAUAAUCCUCGUGUCGGGGGUUCAAAUCCCUCC----------g
+>URS0001CB4550/5-68 [subseq from] tRNA from 1 species
+cu------GUAGCUCAGCCUGGAuAGAGCACCAGACUUCGGAUCUGGGUGUCGGGGGUUCGAAUCCCUC-----------c
+>URS0000E199C4/2-71 [subseq from] tRNA from 1 species
+-GGGAGGUAGCUCAA--UGGGAGAGCACCAGCCUGAAGAGCUGGGUGUUGAGGGUUCGAUUCCCUCCCUUCC-----c
+>URS0000E11D30/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGCCUGGGAGAGCGUCCGGCUGAAGACCGGAUUGUCGAGGGUUCAAGUCCCUCC----------c
+>URS0001D0E30C/6-73 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCACCUGACUGAAAAUCAGGUUGUCGGUGGUUCAAUUCCGCCCC---------aaggca
+>URS00006F3449/6-67 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGC-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCAAUUCCGUCC----------c
+>URS00009808AE/2-72 [subseq from] tRNA from 10 species
+gu---GCGGUAGCUCAGU-UGGUAGAGCAAUGGACUGAAAAUCCAUGUGUCGGCGGUUCGAUUCCGCCCCAC-------acc
+>URS0000D3B73D/4-74 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAG--GGGUAGAGCAGAGGACUGAAAAUCCUUGUGUCGGUGGUUCAAAUCCGCCUCGCGGCAC--c
+>URS00022E692A/4-68 [subseq from] tRNA from 2 species
+g----CUGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGUGGUUCAACUCCACU-----------cgg
+>URS0000EC8AAC/2-75 [subseq from] tRNA from 3 species
+g--GUCGGUAGCUCAGUC-GGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGCGGUUCGAUUCCGCCCCAACCCAC--c
+>URS0001A0A01E/2-72 [subseq from] tRNA from 1 species
+gu---GCGAUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGCGGUUCAAUUCCGCCUCGCAC-----c
+>URS0000E26EFC/5-74 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGCAGGUUAGAGCAGCGGAAUCAUAAUCCGCGUGUCGGGGGUUCGAAUCCCUCCCUC-------ggca
+>URS0002070CC3/4-76 [subseq from] tRNA from 1 species
+ccc------GUAGCUCAGCUAGGUAGAGCGGCGGACUAUGGACCCGUAGGUCGGGGGUUCAAAUCCCCCCGGGCCCAC--c
+>URS000221CF53/2-71 [subseq from] tRNA from 1 species
+ga---GCAGUAGCUCAG--UGGGAGAGCACAUGACUGAAGAUCAUGUUGUCGGGUGUUCGAUUCACCCCUGCUC-----c
+>URS0000DF57B7/4-71 [subseq from] tRNA from 1 species
+ac-----UGUAGCUCAACCGGUUAGAGCACCGGACUGUGGCUCCGGGGGUUGGGGGUUCAAGUCCCCUCAG--------uc
+>URS0000C908A5/2-71 [subseq from] tRNA from 2 species
+g--GGAAGUAGCUCAG--UGGGAGAGCACAUGACUGAAGAUCAUGGUGUCGGGAGUCCGAUUCUCCCCUUCCC-----c
+>URS000060B8EF/7-77 [subseq from] tRNA from 1 species
+------GUAGCUCAGUCUGGaUAGAGCACCGGAUUACGGAUCCGGGUGUCGGAGGUUCGAAUCCUUCCGGGACCAC--c
+>URS00021FD6B5/2-72 [subseq from] tRNA from 1 species
+g--GACGGUAGCUCAG--UGGGAGAGCACACGACUGAAGCUCGUGGUGUCGAGGGUUCGAUUCCCUCUCGUCCC----a
+>URS00000332EF/4-73 [subseq from] tRNA from 1 species
+gac------GUAGCUCAGCAGGUUAGAGUCCCGGAUUGUGGAUCCGGUUGUCGUGGGUUCAAAUCCCACCGU--------ccac
+>URS00022DB9D4/4-66 [subseq from] tRNA from 1 species
+cuu------GUAGCUCAGACUGGGAGAGCACACGGCUGAAGACCGUGGUGUCCAGGGUUCAAAUCCC-------------ug
+>URS0000E5D9A9/3-73 [subseq from] tRNA from 1 species
+gcca------UUAGCUCAGCUUGGUAGAGCACCUGACUCUUAAUCAGGGUGUCGGGGGUUCGAGUCCCUCAUGGC------cc
+>URS00022DC51F/3-75 [subseq from] tRNA from 1 species
+gc----CGGUAGCUCAGCCUGGUAGAGCACCUGACUUUUAAUCAGGUGGUCGCGAGUUCAAAUCUCGUCCGGCU-----cgc
+>URS00025BC7CF/3-72 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCGGUUCGAUUCCACUCCUG-------ccc
+>URS00021EC9B8/3-73 [subseq from] tRNA from 1 species
+g---GCCGUAGCUCAGCCUGGUAGAGCUCCAGAUUGUGGAUCUGGCUGUCGCGGGUUCGAAUCCCGUCGG--------ucac
+>URS00021D2EF3/4-70 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGUUGGUUAGAGCAACGGAAUCAUAAUCCGUGUGUCGAGGGUUCAAUUCCCCCCC---------cc
+>URS0000CFD0EF/4-71 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGCUGGUGAGAGCGUCGGAUUCAUAACCCGGAGGUCGGGGGUUCGAAUCCCCCCCGC-------g
+>URS0000CB6E8D/2-73 [subseq from] tRNA from 1 species
+gg---CCUGUAGCUCAGCAAGGCAGAGCAUCGGACUUUUAAUCCGGUGGUCAGGGGUUCAAUUCCCCUCAGGCC-----c
+>URS00004FDDBD/2-76 [subseq from] tRNA from 2 species
+g--GCCGGUAGCUCAGC-UGGUAGAGCAACGGACUUUUAAUCCGUAGGUCGGAGGUUCGAAUCCUCCCCGGCUCACC-a
+>URS00022C7406/6-70 [subseq from] tRNA from 1 species
+c------GUAGCUCAGCUUGGAcAGAGCAACGGACUACGAAUCCGUGUGUCGGGGGUUCAAAUCCCUCC----------gg
+>URS000202E717/2-74 [subseq from] tRNA from 3 species
+g--GCCGGUAGCUCAGC--GGAAGAGCUCCGGACUUUUAAUCCGGGAGUCGUGGGUUCGAAUCCCACCCGGCCCUC--c
+>URS00004F79D4/4-75 [subseq from] tRNA from 1 species
+---GCGGUAGCUCAGU-UGGUAGAGCAGAGGACUGAAAAUCCUCGUGUCGGCGGUUCAAUUCCGUCCCGCGGCAC--c
+>URS0000E537CC/2-73 [subseq from] tRNA from 2 species
+gg---CCUGUAGCUCAGUCUGGUAGAGCAGCGGCCUUUUAAGCCGAAGGUCGGGGGUUCAAAUCCCCCCAGGCC-----c
+>URS0000C9C031/4-69 [subseq from] tRNA from 3 species
+g----UGGUAGCUCAGC-UGGGAGAGCGUCUGACUGAAGAUCAGAAGGUCGGGUGUUCAAAUCACCCCC---------ac
+>URS0000CB829A/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGCCUGGGAGAGCACUCGGCUGAAGACCGGGCUGUCACGAGUUCAAAUCUCG------------ucc
+>URS0000DF36C5/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGA-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCAAUUCCGUCCCUGGCCA---cc
+>URS0000C6C78F/6-67 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGC-UGGUAGAGCAGCGGAUUGAAAAUCCGCGUGUCGCGGGUUCAAGUCCCGCC----------c
+>URS0000CB3FC0/5-75 [subseq from] tRNA from 1 species
+a-----GGUAGCUCAGU-UGGUAGAGCAACGGACUGAAAAUCCGUGUGUCGGCAGUUCAAGUCUGCCCCUCGGCA---cc
+>URS0000CB29FC/4-75 [subseq from] tRNA from 3 species
+uc-----GAUAGCUCAGU-UGGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGUGGUUCAAUUCCACCUCGAGCCAC--c
+>URS000222637D/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-AGGUAGAGCAUCGGACUGAAAAUCCGAGUGUCGGCGGUUCAAUCCCGCCUCUGUCCA---cc
+>URS0000E1F047/6-68 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGCCUGGUAGAGCGCCGGGCUGUUAACCCGGUGGUCGUGGGUUCAAAUCCCACC----------c
+>URS0002232C1B/2-73 [subseq from] tRNA from 1 species
+-GGGCCGUAGCUCAGCUGGAUAGAGCACCUGACUUUUAAUCAGGGUGUCGUGGGUUCGAAUCCCAUCGGCC------uc
+>URS0001FAF694/3-72 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGUC-GGUAGAGCAAAGGACUGAAAAUCCUUGUGUCGGGGGUUCGAUUCCCUCCCUGC------cc
+>URS0000ACFFAE/5-67 [subseq from] tRNA from 10 species
+uc------GUAGCUCAGCCUGGUAGAGCAGCGGACUCUUAAUCCGUUUGUCGCGGGUUCAAAUCCC-------------guc
+>URS0000D4755F/4-70 [subseq from] tRNA from 1 species
+gg-----GGUAGCUCAGCUGGUUAGAGCAGAGGAAUCAUAAUCCUUGUGUCGGGGGUUCAAAUCCCUCCC---------cu
+>URS00019ADD3E/4-74 [subseq from] tRNA from 1 species
+g----AGGUAGCUCAGU-UGGUAGAGCACACGACUGAAAAUCGUGGUGUCGCGGGUUCGAAUCCCGCCCUCGCCA---c
+>URS000210676B/2-74 [subseq from] tRNA from 1 species
+-GGGCGGUAGCUCAGUUGGUUAGAGCUCCGGACUCAUAAUCCGGUCGUCGUGGGUUCGAGCCCCACCCGCCCCA---
+>URS00025133B6/3-75 [subseq from] tRNA from 1 species
+gca-----GGUAGCUCAGU-UGGUAGAGCCCAGGACUGAAAAUCCUGGUGUCGGCGGUUCAAUCCCGUCCCUGCCCAC--c
+>URS0000E1291B/6-67 [subseq from] tRNA from 2 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGUGGUUCAAGUCCGCCC----------c
+>URS00022ED50F/6-75 [subseq from] tRNA from 1 species
+-----GGUAGCUCAGU-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCAGGGGUUCGACUCCCUUCCUAGCCA---cc
+>URS0002024596/3-75 [subseq from] tRNA from 1 species
+gug-----GGUAGCUCAGC-UGGUAGAGCACAGGACUGAAAAUCCUGGUGUCAGCGGUUCGACUCCGCUUCCACCCAC--c
+>URS0000DD0C52/5-75 [subseq from] tRNA from 1 species
+----CGGUAGCUCAGC-UGGUAGAGCAGCGGACUGAAAAUCCGCGUGUCGGCGGUUCGAGUCCGCCCUGGGCCAC--c
+>4V4N_B1/2-77 [subseq from] Chain B1, E-tRNA
+-GGGCGGUAGCUCAGCCUGGGAGAGCACCGGACUGAAGAUCCGGGUGUCGGGGGUUCAAAUCCCCCCCGCCCCACCA
+>HG985650.1/4-76 [subseq from] TPA: Methanocaldococcus fervens AG86 tRNA-Phe-GAA-1-1 gene
+---GCGGUAGUUCAGCCUGGGAGAACGCUGGACUGAAGAUCCAGUUGUCGGGUGUUCAAAUCACCCCCGCGGCAC--c
+>LK018386.1/2-76 [subseq from] TPA: Syntrophus aciditrophicus SB tRNA-Phe-GAA-1-1 gene
+g--GUCGGUAGCUCAGUC-GGUAGAGCAUCGGACUGAAAAUCCGAGUGUCGGCGGUUCAAUUCCGCCCUGACCCACCA
+>HG985660.1/3-76 [subseq from] TPA: Methanocaldococcus fervens AG86 tRNA-Tyr-GTA-1-1 gene
+--GGCGGUAGUUCAGCCUGGUAGAACGGCGGACUGUAGAUCCGCAUGUCGCUGGUUCAAAUCCGGCCCGCCGGA---cc
+>LK014980.1/4-76 [subseq from] TPA: Rickettsia rickettsii str. Iowa tRNA-Met-CAT-2-1 gene
+gg-----GGUAGCUCAGCUGGUUAGAGCGACGGAAUCAUAAUCCGUGUGUCGGGGGUUCAAAUCCCUCCCUCGCUAC--c

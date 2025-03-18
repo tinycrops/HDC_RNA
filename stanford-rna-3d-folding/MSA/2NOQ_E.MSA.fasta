@@ -1,0 +1,16 @@
+>query
+GGGAUGCGUAGGAUAGGUGGGAGCGCAAGCGCCGGUGAAAUACCACCCUUCCC
+>URS000080E33E_4932/12-2999/2252-2303 [subseq from] 5.8S/25S ribosomal RNA from Saccharomyces cerevisiae (PDB 4V4B, chain B3)
+-GGAUGCGUAGGAUAGGUGGGAGCGCAAGCGCCGGUGAAAUACCACCCUUCCC
+>DS267914.1/13380-17677/3045-3087 [subseq from] Sclerotinia sclerotiorum 1980 scaffold_35 genomic scaffold, whole genome shotgun sequence.
+g------UGUAGAAUAGGUGGGAGCGCAAGCGCCGGUGAAAUACCAC-------ua
+>JH993052.1/6559-5577/69-112 [subseq from] Guillardia theta CCMP2712 unplaced genomic scaffold GUITHscaffold_88, whole genome shotgun sequence.
+g-----GUGUAGAAUAAGUGGGAGCGCAAGCGCCGGUGAAAUACCAC-------ua
+>CAUH01010491.1/1424-1/1358-1399 [subseq from] Blumeria graminis f. sp. hordei DH14, WGS project CAUH01000000 data, contig: 010492
+g------UGUAGGAUAGGUGGGAGCGUAAGCGCCAGUGAAAUACCAC-------u
+>FWEW01000614.1/4563-7862/2423-2465 [subseq from] Lasallia pustulata genome assembly, contig: scaffold1920_size9001
+g------UGUAGAAUAGGUGGGAGCUCCAGCGCCGGUGAAAUACCAC-------ua
+>JHTR01000383.1/1-1897/858-907 [subseq from] Villosiclava virens strain UV-8b Sca_383, whole genome shotgun sequence.
+g---AGGUGUAGAAUAGGUGGGAGCUUCGGCGCCGGUGAAAUACCACUCCUC--c
+>FWEW01002403.1/345-1/44-86 [subseq from] Lasallia pustulata genome assembly, contig: scaffold42318_size536
+g------UGUAGAAUAGGUGGGAGAGCAAUCGCCGGUGAAAUACCAC-------ua
