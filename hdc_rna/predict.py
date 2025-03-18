@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from tqdm import tqdm
 
-from data_loader import RNADataLoader
-from rna_hdc_model import RNAHDC3DPredictor
+from .data_loader import RNADataLoader
+from .rna_hdc_model import RNAHDC3DPredictor
 
 def parse_args():
     """Parse command line arguments."""

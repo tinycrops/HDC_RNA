@@ -10,8 +10,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-from data_loader import RNADataLoader
-from rna_hdc_model import RNAHDC3DPredictor
+from .data_loader import RNADataLoader
+from .rna_hdc_model import RNAHDC3DPredictor
 
 def create_directories():
     """Create necessary directories."""

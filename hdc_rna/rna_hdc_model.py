@@ -7,7 +7,7 @@ from torch.utils.data import DataLoader, TensorDataset
 from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 
-from hdc_utils import HDC
+from .hdc_utils import HDC
 
 class RNAHDC3DPredictor:
     """

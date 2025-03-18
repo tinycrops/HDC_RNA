@@ -1,1 +1,3 @@
 stanford-rna-3d-folding.zip
+venv/
+__pycache__/

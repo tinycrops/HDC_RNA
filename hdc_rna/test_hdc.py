@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 
-from hdc_utils import HDC
+from .hdc_utils import HDC
 
 def test_basic_operations():
     """Test basic HDC operations."""
