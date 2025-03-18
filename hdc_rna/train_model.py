@@ -19,16 +19,26 @@ def parse_args():
                         help='Maximum number of sequences to use for training')
     parser.add_argument('--sample', action='store_true',
                         help='Use a small sample of data for quick testing')
-    parser.add_argument('--hdc_dimensions', type=int, default=10000,
+    parser.add_argument('--hdc_dimensions', type=int, default=5000,
                         help='Dimensionality of hypervectors')
-    parser.add_argument('--batch_size', type=int, default=32,
+    parser.add_argument('--batch_size', type=int, default=16,
                         help='Batch size for training')
     parser.add_argument('--epochs', type=int, default=10,
                         help='Number of training epochs')
-    parser.add_argument('--device', type=str, default='cuda' if torch.cuda.is_available() else 'cpu',
-                        help='Device to use for training (cuda or cpu)')
+    parser.add_argument('--use_cpu', action='store_true',
+                        help='Force using CPU instead of GPU')
+    parser.add_argument('--accumulate_grad', type=int, default=1,
+                        help='Gradient accumulation steps to reduce memory usage')
     
-    return parser.parse_args()
+    args = parser.parse_args()
+    
+    # Set device based on arguments
+    if args.use_cpu:
+        args.device = 'cpu'
+    else:
+        args.device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    
+    return args
 
 def main():
     """Main training function."""
@@ -39,6 +49,10 @@ def main():
     
     print(f"Using device: {args.device}")
     print(f"HDC dimensions: {args.hdc_dimensions}")
+    print(f"Batch size: {args.batch_size}")
+    if args.accumulate_grad > 1:
+        print(f"Gradient accumulation steps: {args.accumulate_grad}")
+        print(f"Effective batch size: {args.batch_size * args.accumulate_grad}")
     
     # Load data
     data_loader = RNADataLoader(args.data_dir)
@@ -61,7 +75,7 @@ def main():
     
     # Train model
     print(f"Training model for {args.epochs} epochs")
-    losses = model.train(train_loader, epochs=args.epochs)
+    losses = model.train(train_loader, epochs=args.epochs, accumulate_grad=args.accumulate_grad)
     
     # Save model
     model_path = os.path.join(args.output_dir, 'rna_hdc_model.pt')

@@ -23,6 +23,9 @@ Examples:
   # Train with limited sequences for faster execution
   python run_hdc_rna.py train --data_dir stanford-rna-3d-folding --max_sequences 10
   
+  # Train with smaller hypervector dimensions and batch size for lower memory usage
+  python run_hdc_rna.py train --data_dir stanford-rna-3d-folding --hdc_dimensions 5000 --batch_size 16
+  
   # Predict structure for a specific RNA sequence
   python run_hdc_rna.py predict --model_path models/rna_hdc_model.pt --sequence GGGUGCUCAGUACGAGAGGAACCGCACCC --visualize
   
@@ -49,12 +52,16 @@ Examples:
                         help='Maximum number of sequences to use for training')
     train_parser.add_argument('--sample', action='store_true',
                         help='Use a small sample of data for quick testing')
-    train_parser.add_argument('--hdc_dimensions', type=int, default=10000,
+    train_parser.add_argument('--hdc_dimensions', type=int, default=5000,
                         help='Dimensionality of hypervectors')
-    train_parser.add_argument('--batch_size', type=int, default=32,
+    train_parser.add_argument('--batch_size', type=int, default=16,
                         help='Batch size for training')
     train_parser.add_argument('--epochs', type=int, default=10,
                         help='Number of training epochs')
+    train_parser.add_argument('--use_cpu', action='store_true',
+                        help='Force using CPU instead of GPU')
+    train_parser.add_argument('--accumulate_grad', type=int, default=1,
+                        help='Gradient accumulation steps to reduce memory usage')
     
     # Predict command
     predict_parser = subparsers.add_parser('predict', help='Predict RNA 3D structure')
@@ -68,10 +75,12 @@ Examples:
                         help='Target ID for prediction (if None, use validation sequences)')
     predict_parser.add_argument('--sequence', type=str, default=None,
                         help='RNA sequence for prediction (if provided, overrides target_id)')
-    predict_parser.add_argument('--hdc_dimensions', type=int, default=10000,
+    predict_parser.add_argument('--hdc_dimensions', type=int, default=5000,
                         help='Dimensionality of hypervectors (must match trained model)')
     predict_parser.add_argument('--visualize', action='store_true',
                         help='Generate 3D visualization of predicted structure')
+    predict_parser.add_argument('--use_cpu', action='store_true',
+                        help='Force using CPU instead of GPU')
     
     # Test command
     test_parser = subparsers.add_parser('test', help='Test HDC implementation')
@@ -102,7 +111,8 @@ def main():
             f'--output_dir={args.output_dir}',
             f'--hdc_dimensions={args.hdc_dimensions}',
             f'--batch_size={args.batch_size}',
-            f'--epochs={args.epochs}'
+            f'--epochs={args.epochs}',
+            f'--accumulate_grad={args.accumulate_grad}'
         ]
         
         if args.max_sequences:
@@ -110,6 +120,9 @@ def main():
             
         if args.sample:
             sys.argv.append('--sample')
+            
+        if args.use_cpu:
+            sys.argv.append('--use_cpu')
             
         train_main()
         
@@ -135,6 +148,9 @@ def main():
             
         if args.visualize:
             sys.argv.append('--visualize')
+            
+        if args.use_cpu:
+            sys.argv.append('--use_cpu')
             
         predict_main()
         

@@ -100,7 +100,7 @@ class RNADataLoader:
     
     def normalize_coordinates(self, coordinates_df):
         """
-        Normalize 3D coordinates to zero mean and unit variance.
+        Normalize 3D coordinates using robust scaling methods.
         
         Args:
             coordinates_df (pd.DataFrame): DataFrame with 3D coordinates
@@ -108,16 +108,52 @@ class RNADataLoader:
         Returns:
             pd.DataFrame: Normalized coordinates
         """
-        # Calculate mean and std for each coordinate
+        # Calculate robust normalization parameters
         coords = ['x_1', 'y_1', 'z_1']
         
+        # Create a copy to avoid changing the original
+        normalized_df = coordinates_df.copy()
+        
+        # Get statistics for each coordinate
+        stats = {}
         for coord in coords:
-            mean = coordinates_df[coord].mean()
-            std = coordinates_df[coord].std()
+            # Use percentiles for more robust scaling
+            q1 = coordinates_df[coord].quantile(0.05)
+            q3 = coordinates_df[coord].quantile(0.95)
+            iqr = q3 - q1
             
-            coordinates_df[coord] = (coordinates_df[coord] - mean) / std
+            # Handle extreme outliers
+            lower_bound = q1 - 1.5 * iqr
+            upper_bound = q3 + 1.5 * iqr
             
-        return coordinates_df
+            # Clip values to remove extreme outliers
+            normalized_df[coord] = normalized_df[coord].clip(lower_bound, upper_bound)
+            
+            # Calculate mean and standard deviation after clipping
+            mean = normalized_df[coord].mean()
+            std = normalized_df[coord].std()
+            
+            # Ensure non-zero std to prevent division by zero
+            if std < 1e-6:
+                std = 1.0
+                
+            # Store stats for logging
+            stats[coord] = {
+                'mean': mean,
+                'std': std,
+                'min': normalized_df[coord].min(),
+                'max': normalized_df[coord].max()
+            }
+            
+            # Apply z-score normalization
+            normalized_df[coord] = (normalized_df[coord] - mean) / std
+            
+        # Log statistics
+        print("Coordinate normalization statistics:")
+        for coord, stat in stats.items():
+            print(f"  {coord}: mean={stat['mean']:.3f}, std={stat['std']:.3f}, range=[{stat['min']:.3f}, {stat['max']:.3f}]")
+            
+        return normalized_df
     
     def prepare_training_data(self, max_sequences=None, normalize=True):
         """
